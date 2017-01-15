@@ -101,6 +101,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Link</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>Hiperligação</term></tig></langSet>
+                <descrip>យោងតាម ក្រុមប្រឹក្សាជាតិភាសាខ្មែរ (គ.ជ.ភ.ខ.)</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Browse</term></tig></langSet>
@@ -237,6 +238,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>submissão</term></tig></langSet>
+                <descrip>git-commit</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>filemask</term></tig></langSet>
@@ -593,6 +595,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tmserver</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term/></tig></langSet>
+                <descrip>Translate Toolkit</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gravatar</term></tig></langSet>
