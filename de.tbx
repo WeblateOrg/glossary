@@ -765,6 +765,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Your Weblate</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Ihre Weblate-Installation</term></tig></langSet>
+                <descrip>This is not universally usable instead of *your Weblate installation* or *your Weblate server*. It can be used e.g. in Weblate.org `user portal` to list all user’s Weblate sevices.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>priority email support</term></tig></langSet>
@@ -865,6 +866,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Commit</term></tig></langSet>
+                <descrip>git-commit</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private data</term></tig></langSet>
@@ -1213,6 +1215,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>plan</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Angebot</term></tig></langSet>
+                <descrip>Gunakan "paket" bila kalimat itu membahas tentang jenis langganan atau hosting</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>trail</term></tig></langSet>
@@ -1817,6 +1820,7 @@
             <termEntry id="2">
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>committen</term></tig></langSet>
+                <descrip>git commit</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>merge request</term></tig></langSet>
@@ -1825,6 +1829,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>merge</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Merge</term></tig></langSet>
+                <descrip>Git merge</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Machine translation service</term></tig></langSet>
@@ -1917,6 +1922,7 @@
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>image</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Image</term></tig></langSet>
+                <descrip>Fachbegriff, im Sinne von: Speicherabbild</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>workflow</term></tig></langSet>
@@ -1965,6 +1971,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term/></tig></langSet>
+                <descrip>sentry.io</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>machine translation</term></tig></langSet>
