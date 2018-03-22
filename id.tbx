@@ -57,6 +57,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>merge</term></tig></langSet>
                 <langSet xml:lang="id"><tig><term>gabung, merege</term></tig></langSet>
+                <descrip>Git merge</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>reset</term></tig></langSet>
@@ -225,6 +226,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Font</term></tig></langSet>
                 <langSet xml:lang="id"><tig><term>Fon</term></tig></langSet>
+                <descrip>https://kbbi.kemdikbud.go.id/entri/fon</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>e-mail</term></tig></langSet>
@@ -345,10 +347,12 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>plan</term></tig></langSet>
                 <langSet xml:lang="id"><tig><term>paket, rencana</term></tig></langSet>
+                <descrip>Gunakan "paket" bila kalimat itu membahas tentang jenis langganan atau hosting</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Rate</term></tig></langSet>
                 <langSet xml:lang="id"><tig><term>Akses, Tarif</term></tig></langSet>
+                <descrip>Gunakan "akses" bila kalimat itu berkaitan dengan: https://docs.weblate.org/en/latest/admin/optionals.html#rate-limiting</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>French</term></tig></langSet>
@@ -361,22 +365,27 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Scheme</term></tig></langSet>
                 <langSet xml:lang="id"><tig><term>Scheme</term></tig></langSet>
+                <descrip>Scheme di sini adalah nama bahasa pemrograman</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>signed out</term></tig></langSet>
                 <langSet xml:lang="id"><tig><term>log keluar</term></tig></langSet>
+                <descrip>https://kbbi.kemdikbud.go.id/entri/log%20keluar</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>logout.</term></tig></langSet>
                 <langSet xml:lang="id"><tig><term>log keluar.</term></tig></langSet>
+                <descrip>https://kbbi.kemdikbud.go.id/entri/log%20keluar</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Sign out</term></tig></langSet>
                 <langSet xml:lang="id"><tig><term>Log keluar</term></tig></langSet>
+                <descrip>https://kbbi.kemdikbud.go.id/entri/log%20keluar</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>sign in</term></tig></langSet>
                 <langSet xml:lang="id"><tig><term>log masuk</term></tig></langSet>
+                <descrip>https://kbbi.kemdikbud.go.id/entri/log%20masuk</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pseudolocale</term></tig></langSet>
@@ -449,6 +458,7 @@
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>wrap</term></tig></langSet>
                 <langSet xml:lang="id"><tig><term>bungkus (skrip)</term></tig></langSet>
+                <descrip>konteks: wrapping script</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>colon</term></tig></langSet>
@@ -497,10 +507,12 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>header</term></tig></langSet>
                 <langSet xml:lang="id"><tig><term>kepala</term></tig></langSet>
+                <descrip>bagian pengodean yang mendahului tubuh dokumen dan digunakan untuk menggambarkan dokumen itu sendiri</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>headers</term></tig></langSet>
                 <langSet xml:lang="id"><tig><term>kepala</term></tig></langSet>
+                <descrip>bagian pengodean yang mendahului tubuh dokumen dan digunakan untuk menggambarkan dokumen itu sendiri</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>syntax</term></tig></langSet>
