@@ -25,6 +25,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>merge</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>объединить</term></tig></langSet>
+                <descrip>Git merge</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
@@ -377,6 +378,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Insights</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Аналитика</term></tig></langSet>
+                <descrip>作者使用佛教術語內觀，來指稱返照觀察自身狀態的意思。</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bilingual</term></tig></langSet>
@@ -957,6 +959,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Google OAuth 2</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <descrip>登入認證協定</descrip>
             </termEntry>
             <termEntry id="Past tense">
                 <langSet xml:lang="en"><tig><term>translated</term></tig></langSet>
@@ -1017,6 +1020,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation progress</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>переведение</term></tig></langSet>
+                <descrip>translation — перевод, как и в русском, но действие по значению глагола «перевести» будет «переведением». У англичан такого способа для уточнения нет, поэтому пишут словосочетанием.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
