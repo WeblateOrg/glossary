@@ -29,6 +29,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>merge</term></tig></langSet>
                 <langSet xml:lang="is"><tig><term>steypa saman við</term></tig></langSet>
+                <descrip>Git merge</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>web based</term></tig></langSet>
@@ -189,6 +190,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>URL</term></tig></langSet>
                 <langSet xml:lang="is"><tig><term>vefslóð</term></tig></langSet>
+                <descrip>យោងតាម ក្រុមប្រឹក្សាជាតិភាសាខ្មែរ (គ.ជ.ភ.ខ.)</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>activation token</term></tig></langSet>
@@ -405,6 +407,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>optimize</term></tig></langSet>
                 <langSet xml:lang="is"><tig><term>kjörsníða</term></tig></langSet>
+                <descrip>að meta og sníða vöru samkvæmt hagkvæmustu notkun</descrip>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>workflow</term></tig></langSet>
@@ -413,10 +416,12 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>custom</term></tig></langSet>
                 <langSet xml:lang="is"><tig><term>sérsniðinn</term></tig></langSet>
+                <descrip>sérstaklega búinn til fyrir ákveðinn tilgang eða notanda</descrip>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>backup</term></tig></langSet>
                 <langSet xml:lang="is"><tig><term>varaafrit</term></tig></langSet>
+                <descrip>afrit af gögnum sem geymt er til varnar því að tapa gögnum ef eitthvað kemur fyrir hin upprunalegu</descrip>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>documentation</term></tig></langSet>
@@ -425,6 +430,7 @@
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>portal</term></tig></langSet>
                 <langSet xml:lang="is"><tig><term>vefgátt</term></tig></langSet>
+                <descrip>eða gátt</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
@@ -633,6 +639,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
                 <langSet xml:lang="is"><tig><term/></tig></langSet>
+                <descrip>e-mail address that will be used as committer</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>history</term></tig></langSet>
@@ -649,26 +656,32 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
                 <langSet xml:lang="is"><tig><term/></tig></langSet>
+                <descrip>sentry.io</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Rollbar</term></tig></langSet>
                 <langSet xml:lang="is"><tig><term/></tig></langSet>
+                <descrip>rollbar.com</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ModernMT</term></tig></langSet>
                 <langSet xml:lang="is"><tig><term/></tig></langSet>
+                <descrip>modernmt.com</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>MyMemory</term></tig></langSet>
                 <langSet xml:lang="is"><tig><term/></tig></langSet>
+                <descrip>mymemory.translated.net</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tmserver</term></tig></langSet>
                 <langSet xml:lang="is"><tig><term/></tig></langSet>
+                <descrip>Translate Toolkit</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gravatar</term></tig></langSet>
                 <langSet xml:lang="is"><tig><term/></tig></langSet>
+                <descrip>gravatar.com</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Qt Linguist</term></tig></langSet>
@@ -701,6 +714,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Google OAuth 2</term></tig></langSet>
                 <langSet xml:lang="is"><tig><term/></tig></langSet>
+                <descrip>登入認證協定</descrip>
             </termEntry>
             <termEntry id="Past tense">
                 <langSet xml:lang="en"><tig><term>translated</term></tig></langSet>
@@ -744,7 +758,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
-                <langSet xml:lang="is"><tig><term></term></tig></langSet>
+                <langSet xml:lang="is"><tig><term/></tig></langSet>
+                <descrip>Glossary terms that should not be changed from the source language</descrip>
             </termEntry>
         </body>
     </text>
