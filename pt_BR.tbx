@@ -25,6 +25,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>merge</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>mesclar</term></tig></langSet>
+                <descrip>Git merge</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>source code</term></tig></langSet>
@@ -257,6 +258,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Font</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>Fonte</term></tig></langSet>
+                <descrip>https://kbbi.kemdikbud.go.id/entri/fon</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>delete</term></tig></langSet>
@@ -293,6 +295,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>commit</term></tig></langSet>
+                <descrip>git-commit</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>VAT reverse charge</term></tig></langSet>
@@ -509,6 +512,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>Sentry</term></tig></langSet>
+                <descrip>sentry.io</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>merge request</term></tig></langSet>
@@ -945,6 +949,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>e-mail de commit</term></tig></langSet>
+                <descrip>e-mail address that will be used as committer</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>history</term></tig></langSet>
@@ -1052,7 +1057,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term></term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term/></tig></langSet>
+                <descrip>Glossary terms that should not be changed from the source language</descrip>
             </termEntry>
         </body>
     </text>
