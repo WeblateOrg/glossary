@@ -53,6 +53,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>header</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>标头</term></tig></langSet>
+                <descrip>bagian pengodean yang mendahului tubuh dokumen dan digunakan untuk menggambarkan dokumen itu sendiri</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>field</term></tig></langSet>
@@ -337,6 +338,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>提交</term></tig></langSet>
+                <descrip>git-commit</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>VCS</term></tig></langSet>
