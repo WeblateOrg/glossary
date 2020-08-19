@@ -145,6 +145,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>header</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>en-tête</term></tig></langSet>
+                <descrip>bagian pengodean yang mendahului tubuh dokumen dan digunakan untuk menggambarkan dokumen itu sendiri</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>monolingual</term></tig></langSet>
@@ -409,6 +410,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Manage</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Gérer</term></tig></langSet>
+                <descrip>選單選項</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Access repository</term></tig></langSet>
@@ -665,10 +667,12 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gerrit</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term/></tig></langSet>
+                <note from="translator">Nom de logiciel</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Subversion</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term/></tig></langSet>
+                <note from="translator">Nom d'un logiciel</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>component list</term></tig></langSet>
