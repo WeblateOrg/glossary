@@ -52,7 +52,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>monolingual</term></tig></langSet>
-                <langSet xml:lang="ja"><tig><term>モノリンガル</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>単一言語</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bilingual</term></tig></langSet>
@@ -72,7 +72,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
-                <langSet xml:lang="ja"><tig><term>解析する</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>解析</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>user</term></tig></langSet>
@@ -84,7 +84,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>permission</term></tig></langSet>
-                <langSet xml:lang="ja"><tig><term>権限</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>アクセス権</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>group</term></tig></langSet>
