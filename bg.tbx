@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE martif PUBLIC "ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN" "TBXcdv04.dtd">
+<martif type="TBX" xml:lang="en">
+    <martifHeader>
+        <fileDesc>
+            <sourceDesc>
+                <p>Translate Toolkit</p>
+            </sourceDesc>
+        </fileDesc>
+    </martifHeader>
+    <text>
+        <body>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>ACL</term></tig></langSet>
+                <langSet xml:lang="bg"><tig><term>контролен списък за достъп</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>review</term></tig></langSet>
+                <langSet xml:lang="bg"><tig><term>одобряване</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>privileges</term></tig></langSet>
+                <langSet xml:lang="bg"><tig><term>права</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>privilege</term></tig></langSet>
+                <langSet xml:lang="bg"><tig><term>право</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>data</term></tig></langSet>
+                <langSet xml:lang="bg"><tig><term>данни</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>upload</term></tig></langSet>
+                <langSet xml:lang="bg"><tig><term>качване</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>download</term></tig></langSet>
+                <langSet xml:lang="bg"><tig><term>сваляне</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>remove</term></tig></langSet>
+                <langSet xml:lang="bg"><tig><term>премахване</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>add</term></tig></langSet>
+                <langSet xml:lang="bg"><tig><term>добавяне</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>email</term></tig></langSet>
+                <langSet xml:lang="bg"><tig><term>е-поща, е-писмо</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>e-mail</term></tig></langSet>
+                <langSet xml:lang="bg"><tig><term>е-поща, е-писмо</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>notification</term></tig></langSet>
+                <langSet xml:lang="bg"><tig><term>известие</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>owner</term></tig></langSet>
+                <langSet xml:lang="bg"><tig><term>собственик</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>request</term></tig></langSet>
+                <langSet xml:lang="bg"><tig><term>заявка</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>maintainer</term></tig></langSet>
+                <langSet xml:lang="bg"><tig><term>ръководител</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>project</term></tig></langSet>
+                <langSet xml:lang="bg"><tig><term>проект</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
+                <langSet xml:lang="bg"><tig><term>подаване</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>component</term></tig></langSet>
+                <langSet xml:lang="bg"><tig><term>компонент</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>FAQ</term></tig></langSet>
+                <langSet xml:lang="bg"><tig><term>ЧЗВ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>source code</term></tig></langSet>
+                <langSet xml:lang="bg"><tig><term>изходен код</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
+                <langSet xml:lang="bg"><tig><term>хранилище</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>zen</term></tig></langSet>
+                <langSet xml:lang="bg"><tig><term>дзен</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>watch</term></tig></langSet>
+                <langSet xml:lang="bg"><tig><term>следене</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>widget</term></tig></langSet>
+                <langSet xml:lang="bg"><tig><term>джаджа</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>language</term></tig></langSet>
+                <langSet xml:lang="bg"><tig><term>език</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>export</term></tig></langSet>
+                <langSet xml:lang="bg"><tig><term>изнасяне</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>import</term></tig></langSet>
+                <langSet xml:lang="bg"><tig><term>внасяне</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>translation</term></tig></langSet>
+                <langSet xml:lang="bg"><tig><term>превод</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>source string</term></tig></langSet>
+                <langSet xml:lang="bg"><tig><term>оригинален текст</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>string</term></tig></langSet>
+                <langSet xml:lang="bg"><tig><term>текст</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>log out</term></tig></langSet>
+                <langSet xml:lang="bg"><tig><term>изход, излизане</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>log in</term></tig></langSet>
+                <langSet xml:lang="bg"><tig><term>вход, влизане</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>account</term></tig></langSet>
+                <langSet xml:lang="bg"><tig><term>акаунт</term></tig></langSet>
+            </termEntry>
+        </body>
+    </text>
+</martif>

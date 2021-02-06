@@ -1,0 +1,991 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE martif PUBLIC "ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN" "TBXcdv04.dtd">
+<martif type="TBX" xml:lang="en">
+    <martifHeader>
+        <fileDesc>
+            <sourceDesc>
+                <p>Translate Toolkit</p>
+            </sourceDesc>
+        </fileDesc>
+    </martifHeader>
+    <text>
+        <body>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>“%s” has been added to your favorites.</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>«&amp;nbsp;%s&amp;nbsp;» a estat botat dens los vòstres favorits.</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>“%s”</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>«%s»</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>±%s year±%s years</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>±%s an±%s ans</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>younger sister</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>sòr mai joena</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>yes</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>oc</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>years</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>annadas</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>xenea</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>xenea</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>wife</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>femna</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>west</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>oèst</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>webtrees wiki</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>wiki webtrees</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>webtrees message</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>messatge de webtrees</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>webtrees</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>webtrees</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>unknown</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>desconegut</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>tls</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>hilh de </term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>south</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>sud</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>son of</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>hilh de</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>son</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>hilh</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>sister</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>sòr</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>show</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>afichar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>previous</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>precedent</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>parent</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>parent</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>north</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>nòrd</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>noon</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>miègjorn</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>no</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>non</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>next</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>seguent</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>mother</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>mair</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>month</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>mes</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>last</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>darrièr</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>first</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>primièr</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Zoom out</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Zoom arrièr</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Zoom in</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Zoom avant</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Year:</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Annada :</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>World</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Mond</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Welcome %s</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Benvingut %s</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Washington, DC</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Washington, DC</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>View notes</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Afichar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>View individual</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Afichar la persona</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>View</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Afichar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Ventôse</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Ventôse</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Venezuela</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Venezuela</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Vendémiaire</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Vendémiaire</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Vanuatu</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Vanuatu</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Unknown</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Desconegut</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>URL</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>URL</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Tridi</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Tridi</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Tishrei</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Tishrei</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Tir</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Tir</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Timeline</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Cronologia</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Thermidor</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Thermidor</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Theme</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Tèma</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Tevet</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Tevet</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Tamuz</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Tamuz</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Tab</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Onglet</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>South America</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>America del sud</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Sources</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Fonts</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Sivan</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Sivan</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Sidebar</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Barra laterala</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Show notes?</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Afichar las notas ?</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Show details</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Afichar los detalhs</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Show</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Afichar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Shevat</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Shevat</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Sha’aban</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Sha’aban</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Shawwal</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Shawwal</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Shahrivar</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Shahrivar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Shah</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Shah</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Sep</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Sep</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Search</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Recercar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Sao Paulo, Brazil</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Sao Paulo, Brasil</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>San Marino</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>San Marino</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>San Jose, Costa Rica</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>San Jose, Costa Rica</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>San Diego, California</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>San Diego, California</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>San Antonio, Texas</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>San Antonio, Texas</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Salt Lake City, Utah</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Salt Lake City, Utah</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Safar</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Safar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Repositories</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Depauses</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Report</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Rapòrt</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Remove</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Levar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Religion</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Religion</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Record</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Enregistrament</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Ramadan</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Ramadan</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Rajab</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Rajab</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Rabi’ al-thani</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Rabi’ al-thani</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Rabi’ al-awwal</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Rabi’ al-awwal</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>RE: </term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>RE: </term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Primidi</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Primidi</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Prairial</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Prairial</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Pluviôse</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Pluviôse</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Places</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Emplaçaments</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Place</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Luòc</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>PHP information</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>PHPInfo</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Ordibehesht</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Ordibehesht</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Ord</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Ord</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Notes</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Nòtas</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>No results found.</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Cap de resultat pas trobat.</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>No</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Non</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Nivôse</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Nivôse</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Nissan</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Nissan</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Naturalization</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Naturalisacion</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Nationality</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Nationalitat</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Nashville, Tennessee</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Nashville, Tennessee</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Names</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Noms</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Myanmar</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Cambòtja</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>My pages</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Mas paginas</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>My page</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Ma pagina</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>My account</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Mon compte</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Muharram</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Muharram</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Move up</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Desplaçar cap amont</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Move right</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Desplaçar cap a drecha</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Move left</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Desplaçar cap a esquèrra</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Move down</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Desplaçar cap aval</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Mordad</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Mordad</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Mor</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Mor</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Month:</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Mes :</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Middle East</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Orient Mejan</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Messidor</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Messidor</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Menu</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Menut</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Mehr</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Mehr</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Media</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Mèdia</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Male</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Òme</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Luxembourg</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Luxemborg</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Lubbock, Texas</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Lubbock, Texas</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Louisville, Kentucky</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Louisville, Kentucky</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Loading…</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Cargament...</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Kislev</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Kislev</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Khordad</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Khordad</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Khor</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Khor</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Jumada al-thani</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Jumada al-thani</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Jumada al-awwal</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Jumada al-awwal</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Iyar</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Iyar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Hijri</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Hijri</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Heshvan</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Heshvan</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Helvetica</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Helvetica</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>HTML</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>HTML</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Google Street View™</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Google Street View™</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Google Maps™</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Google Maps™</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Germinal</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Germinal</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Generations</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Generacions</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Fructidor</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Fructidor</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Frimaire</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Frimaire</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>French</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>francès</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>France</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>França</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Floréal</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Floréal</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Filter</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Filtrar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Female</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Femna</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Farvardin</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Farvardin</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Far</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Far</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Family of %s</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Familha de %s</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Family</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Familha</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Export</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Exportar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Events</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Eveniments</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Europe</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Euròpa</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Esfand</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Esfand</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Esf</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Esf</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>England</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Anglatèra</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>End year</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Anada finala</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>End IP address</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Darrèra adressa IP</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Enabled</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Activat</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Empty the clippings cart</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Vuidar lo panièr</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Employer</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Patron</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Employee</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Emplegat</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Emigration</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Emigracion</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Elul</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Elul</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Duodi</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Duodi</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Display %s</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Afichar %s</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Dhu al-Qi’dah</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Dhu al-Qi’dah</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Dhu al-Hijjah</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Dhu al-Hijjah</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Dey</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Dey</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Description</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Descripcion</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>DejaVu</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>DejaVu</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Decidi</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Decidi</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Day:</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Jorn :</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Day</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Jorn</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Data</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Datà</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Configure</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Configurar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Child</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Hilh</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Chart</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Diagrama</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Cancel</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Anullar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>CKEditor™</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>CKEditor™</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Brumaire</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Brumaire</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Brit milah</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Brit milah</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Block</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Blòt</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Bat mitzvah</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Bat mitzvah</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Bar mitzvah</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Bar mitzvah</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Bahman</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Bahman</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Bah</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Bah</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Azar</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Azar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Av</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Av</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Ash</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Ash</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Arial</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Arial</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Aqua Marine</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Aqua Marine</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>All</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Totes</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Age</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Edat</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Africa</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Africa</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Add</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Apondre</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Adar II</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Adar II</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Adar I</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Adar I</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Adar</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Adar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Accept</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Acceptar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Aban</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Aban</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>A4</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>A4</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>A3</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>A3</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>%s&amp;nbsp;CE</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>%s&amp;nbsp;AC</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>%s&amp;nbsp;BCE</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>%s&amp;nbsp;BC</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>%s × cousin</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>cousine au (%s+1)&lt;sup&gt;aue&lt;/sup&gt; degrà</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>%s year anniversary</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>%s aniversari</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>%s year ago%s years ago</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>%s an abans%s ans abans</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>%s year%s years</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>%s an%s ans</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>%s week%s weeks</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>%s setmana%s setmanas</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>%s second ago%s seconds ago</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>%s segond abans%s segonds abans</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>%s month ago%s months ago</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>%s mes abans%s mes abans</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>%s month%s months</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>%s mes%s mes</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>%s minute ago%s minutes ago</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>%s minuta abans%s minutas abans</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>%s message%s messages</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>%s messatge%s messatges</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>%s individual is private.%s individuals are private.</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>%s persona es privada.%s persona son privadas.</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>%s individual has been updated.%s individuals have been updated.</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Una persona a estat actulisada.%s personas an estat actulisadas.</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>%s individual%s individuals</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>%s persona%s personas</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>%s day ago%s days ago</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>%s dia abans%s dias abans</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>%s day%s days</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>%s dia%s dias</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>%s and their children</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>%s e los son hilhs</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>%s and his ancestors</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>%s e los siens</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>%s and her ancestors</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>%s e los siens</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>%s KB</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>%s KB</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>%s BCE</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>%s BC</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>%j %F %Y</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>%j %F %Y</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>%H:%i:%s</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>%H:%i:%s</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>%1$s’s %2$s</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>%1$s es %2$s</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>%1$s–%2$s</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>%1$s–%2$s</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>%1$s × %2$s pixels</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>%1$s × %2$s pixèls</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>%1$s × %2$s</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>%1$s × %2$s</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>%1$s individual displayed, out of the normal total of %2$s, from %3$s generations.%1$s individuals displayed, out of the normal total of %2$s, from %3$s generations.</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>%1$s persona, sur un totau normal de %2$s, per %3$s generacions.%1$s personas, sur un totau normal de %2$s, per %3$s generacions.</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>%1$s file was extracted in %2$s seconds.%1$s files were extracted in %2$s seconds.</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Lo fichièr a estat extrach en %2$s segondes.%1$s an estat extrachs en %2$s segondes.</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>%1$s does not have a link back to %2$s.</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>%1$s a pas de ligam damb %2$s.</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>%1$s does not exist. Did you mean %2$s?</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>%1$s exista pas. Voletz disèr %2$s?</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>%1$s does not exist.</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>%1$s exista pas.</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>%1$s KB were downloaded in %2$s seconds.</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>%1$sKB cargats en %2$s segonds.</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>%1$s (%2$s)</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>%1$s (%2$s)</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>%1$s %2$s times removed descending</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>%1$s nebot au %2$s&lt;sup&gt;au&lt;/sup&gt; degrà</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>%1$s %2$s times removed ascending</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>%1$s oncle au %2$s&lt;sup&gt;au&lt;/sup&gt; degrà</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>%1$s %2$s has a %3$s link to %4$s.</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>%1$s %2$s es ligat %3$s damb %4$s.</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>#%s</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>#%s</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term> per time period</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term> per períòde de temps</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term> per gender</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term> per sèxe</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term> in </term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term> a </term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>supporter</term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>sosteneire</term></tig></langSet>
+            </termEntry>
+        </body>
+    </text>
+</martif>

@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE martif PUBLIC "ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN" "TBXcdv04.dtd">
+<martif type="TBX" xml:lang="en">
+    <martifHeader>
+        <fileDesc>
+            <sourceDesc>
+                <p>Translate Toolkit</p>
+            </sourceDesc>
+        </fileDesc>
+    </martifHeader>
+    <text>
+        <body>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>appliance</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>принадлежность</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>code</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>код</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>secondary</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>дополнительный</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>merge</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>объединить</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>коммит</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>push</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>отправить</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>rebase</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>смена базы</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hook</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>обработчик</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>whiteboard</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>совместная доска</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>string</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>строка</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Terms of Service</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Условия обслуживания</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Personal Data</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Персональные данные</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Provider</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Поставщик</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>supporter</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>поддерживающий</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>addon</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>надстройка</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>username</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>имя пользователя</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>notification</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>уведомление</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>assignment</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>прикрепление</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>assign</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>прикрепить</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>listing</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>перечисление</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>listed</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>перечисленное</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>account</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>учётная запись</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>expired</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>истёкший</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>translation project</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>проект перевода</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>merged</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>объединён</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>contributor</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>участник</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>invoice</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>инвойс</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>means</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>&lt;не переводить&gt; или означает</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Milestone</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Этап</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Milestones</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Этапы</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>passphrase</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>парольная фраза</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hooks</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>обработчики</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>placeholder</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>заполнитель</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>translation component</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>компонент перевода</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>upload</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>загрузить</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>glossary</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>глоссарий</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>download</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>скачать</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>on</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>вкл</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>off</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>выкл</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>панель управления</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>attribution</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>авторство</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>alert</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>предупреждение</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>check</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>проверка</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Wrap lines</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>переносить строки</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>within the meaning</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>... в том смысле, в каком это трактует.../ в соответствии с ...</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Zen mode</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Дзен-режим</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>upstream</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>вышестоящий [репозиторий]</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>shapings</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>фасон</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>label</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>метка</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>branch</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>ветка</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>announcement</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>объявление</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Workflow</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Рабочий процесс</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Repository</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Репозиторий</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>directory</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>каталог</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>failing checks</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>неудачные проверки</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>locations</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>расположение</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>identity</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>удостоверение</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>e-mail</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>адрес электронной почты</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>e-mail</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>электронная почта</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>squash</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>склейка</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>avatar</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>аватар</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>screenshot</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>снимок экрана</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>approved</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>одобренный</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>source language</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>исходный язык</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>permission</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>разрешение</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>ACL</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>список контроля доступа</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>approve</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>одобрить</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>monolingual</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>одноязычный</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>translation memory</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>память переводов</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Version Control System</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>система контроля версий</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>reviewed</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>отрецензирован</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>source string</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>исходная строка</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>option</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>параметр</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>announcement</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>объявление</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>unit</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>единица перевода</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>release</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>выпуск</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>плашка</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>permissions</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>разрешения</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>VCS</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>система контроля версий</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>VCS</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>СКВ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>summary</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>сводка</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>токен</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>authentication</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>аутентификация</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>optional</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>необязательный</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>componentlist</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>список компонентов</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>translation unit</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>единица перевода</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>checklist</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>контрольный список</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>announcements</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>объявления</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>placeholders</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>заполнитель</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Michal Čihař</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Михал Чигарж</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>autofixer</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>автоматический исправляльщик</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pull</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>извлечь</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>webhook</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>веб-обработчик</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Insights</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Аналитика</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>bilingual</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>двуязычный</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>fetch</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>извлечь</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>propagation</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>распространение</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>review</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>рецензирование</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>corner case</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>граничный случай</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>bootstrap</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>начальный [перевод]</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>trailers</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>завершители</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>backup repository</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>репозиторий резервных копий</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>backup storage</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>хранилище резервных копий</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>task</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>задача</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>production</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>рабочий</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pull request</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>запрос на извлечение</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>merge request</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>запрос на слияние</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>review request</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>запрос на рецензирование</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>backend</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>серверная часть</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>keyring</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>связка ключей</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>management command</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>команда управления</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>setting</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>параметр</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>cookie</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>кука</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>CA bundle</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>цепочка сертификатов</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>CA</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>центр сертификации</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>migration</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>перенос</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>tag</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>метка</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>autofix</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>автоматическое исправление</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>vendor</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>поставщик</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>credentials</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>учётные данные</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>lazy commits</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>отложенные коммиты</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>сhart</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>чарт</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>scope</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>область действия</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>virtualenv</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>виртуальное окружение</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>approval</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>одобрение</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>[billing] plan</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>тариф/тарифный план</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>разобрать</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Keyboard shortcuts</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Горячие клавиши</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>placeables</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>заполнители</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>script</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>скрипт</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>[file] permissions</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>права доступа [к файлу]</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>облачный хостинг Weblate [на hosted.weblate.org]</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>explanation</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>пояснение</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>fuzzy (search)</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>нечёткий (поиск)</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Production setup</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Полноценная рабочая система</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>[ssh] host keys</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>[ssh-]ключ сервера</term></tig></langSet>
+            </termEntry>
+        </body>
+    </text>
+</martif>

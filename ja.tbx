@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE martif PUBLIC "ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN" "TBXcdv04.dtd">
+<martif type="TBX" xml:lang="en">
+    <martifHeader>
+        <fileDesc>
+            <sourceDesc>
+                <p>Translate Toolkit</p>
+            </sourceDesc>
+        </fileDesc>
+    </martifHeader>
+    <text>
+        <body>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>subscribe</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>加入</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>source string</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>原文</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>third party</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>サードパーティ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>audit</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>監査</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>association</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>関連付け</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>suspicious</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>疑わしい</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>review</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>査読</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>protect</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>保護</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>contributor</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>貢献者</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>contributor agreement</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>貢献者同意条項</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>monolingual</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>モノリンガル</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>bilingual</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>バイリンガル</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>base file</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>基本ファイル</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>translation</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>翻訳</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>localization</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>現地語化</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>解析する</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>user</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>ユーザー</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>role</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>役割</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>permission</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>権限</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>group</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>グループ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Target strings</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>翻訳文</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Formatted string</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>書式指定文字列</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>double space</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>連続したスペース or 連続スペース (提案)</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>placeholder</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>プレースホルダー</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>リポジトリ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>interface</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>インターフェイス</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>project</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>プロジェクト</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>component</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>コンポーネント</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Post announcement</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>お知らせの投稿</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>admin interface</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>管理画面</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>authentication</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>認証</term></tig></langSet>
+            </termEntry>
+        </body>
+    </text>
+</martif>

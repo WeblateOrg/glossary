@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE martif PUBLIC "ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN" "TBXcdv04.dtd">
+<martif type="TBX" xml:lang="en">
+    <martifHeader>
+        <fileDesc>
+            <sourceDesc>
+                <p>Translate Toolkit</p>
+            </sourceDesc>
+        </fileDesc>
+    </martifHeader>
+    <text>
+        <body>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>monolingual</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>单语言</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>build</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>编译</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>dump</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>转储</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>schedule</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>定时</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>isolation level</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>隔离级别</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>indice</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>标记体</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>permission</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>权限</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>fully-qualified</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>完全合规</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>plain text</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>纯文本</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>invoke</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>调用</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>header</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>标头</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>field</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>字段</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>bug</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>缺陷</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>parser</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>解析</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>locale</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>区域设置</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hook</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>钩子</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>whitespace</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>空白字符</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>map</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>投射</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hosting</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>托管</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>标识串</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Shapings</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>变形</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>alert</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>提醒</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>libre projects</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>开源项目</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>appreciation</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>赞赏</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>donations</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>捐赠</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>alerts</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>警告</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>limits</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>限额</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>billing</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>账单</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>mask</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>掩码</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>billing plan</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>付费套餐</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>define</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>指定</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>review</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>复查</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>remove</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>移除</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>approve</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>批准</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>flags</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>标记</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>browse</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>浏览</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>customize</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>自定义</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>assigned</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>指派</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>payment</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>付款</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>exceed</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>超出</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>recurring</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>定期</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>组件</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>chosen</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>指定</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>billed</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>付费</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>group</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>群组</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>permission</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>许可</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>change</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>更改</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>push</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>推送</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>access</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>访问</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>spam</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>垃圾</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>wipe</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>擦除</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>wiping</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>擦除</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>translation memory</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>翻译记忆库</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>active</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>激活</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>billl</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>计费</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>email</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>电子邮箱</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>e-mail</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>电子邮箱</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>translate</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>翻译</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>translator</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>翻译者</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>source code</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>源代码</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>status</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>状态</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Needs editing</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>需要编辑</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>merged</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>已合并</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>agreement</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>协议</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>choose</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>选择</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>delete</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>删除</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>remove</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>删除</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>role</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>角色</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>upstream</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>上游</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>addon</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>插件</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>named group</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>命名组</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>suggestion</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>建议</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>tab</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>选项卡</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>focus</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>聚焦</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>authenticate</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>身份验证</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>account</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>账户</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>name</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>名称</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>translation</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>翻译</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>source string</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>源字符串</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>控制面板</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>base file</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>译文模版文件</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>path</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>路径</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>component</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>组件</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>filename</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>文件名</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>regular expression</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>正则表达式</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>repositories</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>仓库</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>提交</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>VCS</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>版本控制系统</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>update</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>更新</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>contributor</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>贡献者</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>contributors</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>贡献者</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>comment</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>注释</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pull</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>拉取</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>仓库</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>filter</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>筛选</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>glossary</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>词汇表</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>reset</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>重设</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>corresponding</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>相应的</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>comments</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>注释</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>overview</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>概览</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>context</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>上下文</term></tig></langSet>
+            </termEntry>
+        </body>
+    </text>
+</martif>

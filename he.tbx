@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE martif PUBLIC "ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN" "TBXcdv04.dtd">
+<martif type="TBX" xml:lang="en">
+    <martifHeader>
+        <fileDesc>
+            <sourceDesc>
+                <p>Translate Toolkit</p>
+            </sourceDesc>
+        </fileDesc>
+    </martifHeader>
+    <text>
+        <body>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>alert</term></tig></langSet>
+                <langSet xml:lang="he"><tig><term>התראה</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>digest</term></tig></langSet>
+                <langSet xml:lang="he"><tig><term>מקבץ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>reward</term></tig></langSet>
+                <langSet xml:lang="he"><tig><term>פרס</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Addon</term></tig></langSet>
+                <langSet xml:lang="he"><tig><term>תוסף</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>regex</term></tig></langSet>
+                <langSet xml:lang="he"><tig><term>ביטוי רגולרי</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Regular Expression</term></tig></langSet>
+                <langSet xml:lang="he"><tig><term>ביטוי רגולרי</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
+                <langSet xml:lang="he"><tig><term>שם מופשט</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>whiteboard</term></tig></langSet>
+                <langSet xml:lang="he"><tig><term>לוח מודעות</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>notifications</term></tig></langSet>
+                <langSet xml:lang="he"><tig><term>הודעות</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>notification</term></tig></langSet>
+                <langSet xml:lang="he"><tig><term>הודעה</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>watch</term></tig></langSet>
+                <langSet xml:lang="he"><tig><term>במעקב</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>default</term></tig></langSet>
+                <langSet xml:lang="he"><tig><term>בררת מחדל</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Dashboard</term></tig></langSet>
+                <langSet xml:lang="he"><tig><term>לוח ראשי</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Audit</term></tig></langSet>
+                <langSet xml:lang="he"><tig><term>פיקוח</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Appliance</term></tig></langSet>
+                <langSet xml:lang="he"><tig><term>יישום ארוז</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Appliance</term></tig></langSet>
+                <langSet xml:lang="he"><tig><term>יישום ארוז</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Appliances</term></tig></langSet>
+                <langSet xml:lang="he"><tig><term>יישומים ארוזים</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>extension</term></tig></langSet>
+                <langSet xml:lang="he"><tig><term>הרחבה</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>request</term></tig></langSet>
+                <langSet xml:lang="he"><tig><term>בקשה</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>maintainer</term></tig></langSet>
+                <langSet xml:lang="he"><tig><term>מתחזק</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>project</term></tig></langSet>
+                <langSet xml:lang="he"><tig><term>מיזם</term></tig></langSet>
+            </termEntry>
+        </body>
+    </text>
+</martif>

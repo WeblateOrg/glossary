@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE martif PUBLIC "ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN" "TBXcdv04.dtd">
+<martif type="TBX" xml:lang="en">
+    <martifHeader>
+        <fileDesc>
+            <sourceDesc>
+                <p>Translate Toolkit</p>
+            </sourceDesc>
+        </fileDesc>
+    </martifHeader>
+    <text>
+        <body>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>translation</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>çeviri</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>translations</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>çeviriler</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>glossary</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>terimler sözlüğü, sözlük</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>glossaries</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>terim sözlükleri</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>project</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>proje</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>projects</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>projeler</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>repositories</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>depolar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>kaynak</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>sources</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>kaynaklar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>email</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>eposta</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>host</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>anamakine</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>check</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>denetle, işaretle</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>control</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>denetim</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>checks</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>denetimler</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>flag</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>bayrak, işaret</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>flags</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>bayraklar, işaretler</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>rebase</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>yeniden konumla</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>upstream</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>yukarı akım</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>report</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>bildirim, bildirmek</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>party</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>taraf</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>version control</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>sürüm denetimi</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>push</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>yolla</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pull</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>çek</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>password</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>parola</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>component</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>bileşen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>panel</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>filter</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>süzgeç, süzmek</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Privacy Policy</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>Gizlilik İlkesi</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>authenticate</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>kimlik doğrulamak</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>authentication</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>kimlik doğrulama</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>policy</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>ilke</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Terms of Service</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>Hizmet Şartları</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>memory</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>bellek</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>translation memory</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>çeviri belleği</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>entry</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>girdi</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>add</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>ekle</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>default</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>varsayılan</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Submit</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>Gönder</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>cookie</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>tanımlama bilgisi</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Cookies</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>Tanımlama bilgileri</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>işle</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>log in</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>oturum aç</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>branches</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>dallar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>depo</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>string</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>dizgi</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>shaping</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>şekillendirme</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>addon</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>eklenti</term></tig></langSet>
+            </termEntry>
+        </body>
+    </text>
+</martif>

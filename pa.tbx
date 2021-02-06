@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE martif PUBLIC "ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN" "TBXcdv04.dtd">
+<martif type="TBX" xml:lang="en">
+    <martifHeader>
+        <fileDesc>
+            <sourceDesc>
+                <p>Translate Toolkit</p>
+            </sourceDesc>
+        </fileDesc>
+    </martifHeader>
+    <text>
+        <body>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>uploaded</term></tig></langSet>
+                <langSet xml:lang="pa"><tig><term>ਅੱਪਲੋਡ ਕੀਤੇ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Screenshots</term></tig></langSet>
+                <langSet xml:lang="pa"><tig><term>ਸਕਰੀਨਸ਼ਾਟ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Suggestions</term></tig></langSet>
+                <langSet xml:lang="pa"><tig><term>ਸੁਝਾਅ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Translations</term></tig></langSet>
+                <langSet xml:lang="pa"><tig><term>ਅਨੁਵਾਦ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Date</term></tig></langSet>
+                <langSet xml:lang="pa"><tig><term>ਮਿਤੀ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Project</term></tig></langSet>
+                <langSet xml:lang="pa"><tig><term>ਪ੍ਰੋਜੈਕਟ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Managed</term></tig></langSet>
+                <langSet xml:lang="pa"><tig><term>ਸੰਚਾਲਨ ਕੀਤੇ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>projects</term></tig></langSet>
+                <langSet xml:lang="pa"><tig><term>ਪ੍ਰੋਜੈਕਟ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>setting</term></tig></langSet>
+                <langSet xml:lang="pa"><tig><term>ਸੈਟਿੰਗ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>default</term></tig></langSet>
+                <langSet xml:lang="pa"><tig><term>ਮੂਲ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Use</term></tig></langSet>
+                <langSet xml:lang="pa"><tig><term>ਵਰਤੋ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>notifications</term></tig></langSet>
+                <langSet xml:lang="pa"><tig><term>ਸੂਚਨਾਵਾਂ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Translation</term></tig></langSet>
+                <langSet xml:lang="pa"><tig><term>ਅਨੁਵਾਦ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>message</term></tig></langSet>
+                <langSet xml:lang="pa"><tig><term>ਸੁਨੇਹਾ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>location</term></tig></langSet>
+                <langSet xml:lang="pa"><tig><term>ਟਿਕਾਣਾ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>attempts</term></tig></langSet>
+                <langSet xml:lang="pa"><tig><term>ਕੋਸ਼ਿਸ਼ਾਂ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>authentication</term></tig></langSet>
+                <langSet xml:lang="pa"><tig><term>ਪ੍ਰਮਾਣੀਕਰਨ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>account</term></tig></langSet>
+                <langSet xml:lang="pa"><tig><term>ਖਾਤਾ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>enter</term></tig></langSet>
+                <langSet xml:lang="pa"><tig><term>ਭਰੋ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>password</term></tig></langSet>
+                <langSet xml:lang="pa"><tig><term>ਪਾਸਵਰਡ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>username</term></tig></langSet>
+                <langSet xml:lang="pa"><tig><term>ਵਰਤੋਂਕਾਰ-ਨਾਂ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>correct</term></tig></langSet>
+                <langSet xml:lang="pa"><tig><term>ਸਹੀ</term></tig></langSet>
+            </termEntry>
+        </body>
+    </text>
+</martif>

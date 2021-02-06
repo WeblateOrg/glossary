@@ -1,0 +1,911 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE martif PUBLIC "ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN" "TBXcdv04.dtd">
+<martif type="TBX" xml:lang="en">
+    <martifHeader>
+        <fileDesc>
+            <sourceDesc>
+                <p>Translate Toolkit</p>
+            </sourceDesc>
+        </fileDesc>
+    </martifHeader>
+    <text>
+        <body>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>&amp;About</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>O &amp;aplikaci</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>action</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>činnost</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>addon</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>doplněk</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>address bar</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>adresní řádek</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>administrate</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>spravovat</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>administrator </term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>správce </term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>always on top</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>vždy navrchu</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>applet </term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>applet</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>application</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>aplikace</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>apply</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>použít</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>archive</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>archiv</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>argument</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>argument</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>back</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>zpět</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>backend</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>podpůrná vrstva</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>binary </term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>binární soubor</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>bitrate </term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>datový tok (pro multimédia, např. údaj u MP3) </term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>bold </term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>tučné</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>bookmark</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>záložka</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>branch</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>větev</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>browser</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>prohlížeč</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>buffer</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>vyrovnávací paměť </term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>bug report</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>oznámení o chybě</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>bug tracker</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>bugtracker</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>burn</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>vypálit</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>by default</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>standardně</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>byte</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>bajt</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>cache</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>mezipaměť</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>cancel</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>zrušit</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>channel</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>kanál</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>check</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>kontrola</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>checks</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>kontroly</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>clear</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>vymazat</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>close</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>zavřít</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>component</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>součást</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>concept</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>pojetí</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>configuration</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>konfigurace</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>console</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>konzole</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>context menu</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>kontextová nabídka</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>copy</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>kopírovat</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>create</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>vytvořit</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>cut</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>vyjmout</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>debug</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>ladit</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>default</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>výchozí</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>delete</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>vymazat (soubor, záložku...)</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>demuxer</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>demultiplexer</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>derivative </term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>odvozenina</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>desktop</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>pracovní plocha, plocha (plocha s ikonami)</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>device</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>zařízení</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>disable</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>zakázat (zdroje softwaru)</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>display</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>displej (přesná terminologie v souvislosti s X serverem) </term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>download</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>stáhnout</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>dump</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>výpis</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Edit</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Upravit</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>email</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>e-mail</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>empty</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>vyprázdnit</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>enable</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>povolit</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>exit code</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>návratový kód</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>favorites</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>oblíbené</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>feature</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>funkce</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>file a bug report</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>podat oznámení o chybě</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>find (next)</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>najít (další)</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>font</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>písmo</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>forward</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>vpřed (prohlížeč, opak "zpět")</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>free software </term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>svobodný software</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>getting started </term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>začínáme</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>go</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>přejít</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hardware </term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>hardware [pozor na správné skloňování, 2. pád: hardwaru - nikoliv hardware]</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>help</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>nápověda</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hibernate</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>uspat na disk</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hide</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>skrýt</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>HOWTO</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Jak (na)</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hyperlink</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>hypertextový odkaz</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>icon</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>ikona</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>input</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>vstup</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>insert</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>vložit</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>install</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>nainstalovat</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>interface</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>rozhraní</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>italic</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>kurzíva</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>keyboard shortcut</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>klávesová zkratka</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>launcher </term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>spouštěč</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>live cd</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>spustitelné CD</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Loading, please wait...</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Načítá se, prosím čekejte</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>locale</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>lokalizace</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>log</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>protokol</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>log off</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>odhlásit (se)</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>login photo</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>přihlašovací fotografie</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>mailing list</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>poštovní konference</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>mark</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>označit</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>maximize</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>maximalizovat</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>menu</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>nabídka </term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>minimize</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>minimalizovat</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>modified</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>změněno</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>monitor</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>monitor</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>most easy </term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>nejsnazší</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>mount</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>připojit</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>move</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>přesunout</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>muxer</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>multiplexer</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>name</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>název (souboru, počítače...) </term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>new</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>nový</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>next</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>další</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>non-free</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>nesvobodný</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>open</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>otevřít</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>open source software </term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>software s otevřeným zdrojovým kódem</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>option</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>možnost</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>package</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>balíček</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>panel</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>panel</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>parameter</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>parametr</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>analyzovat </term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>parser</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>syntaktický analyzátor</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>partition</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>oddíl</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>partitioning menu</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>nabídka pro rozdělení</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>password</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>heslo</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>paste</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>vložit</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pause</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>pozastavit</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>permission</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>oprávnění </term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>plain text</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>prostý text</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>play (multimedia)</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>přehrát</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>plugin</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>plug-in</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>preferences</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>předvolby</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>program</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>program</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>prompt</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>příkazový řádek</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>properties</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>vlastnosti</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>quit</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>ukončit</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>really</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>opravdu</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>region</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>oblast</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>reload</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>obnovit</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>removable media</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>výměnná média</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>remove</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>odstranit (soubor, aplikace)</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>report</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>oznámit</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>restricted formats</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>vyhrazené formáty</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>screen</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>obrazovka</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>screensaver</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>šetřič obrazovky</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>server</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>server</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>session</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>relace</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>settings</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>nastavení</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>setup</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>nastavení</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>sheet</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>list</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>shell</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>shell</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>skip</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>přeskočit</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>software</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>software (pozor na správné skloňování, 2. pád: softwaru - nikoliv software)</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>software source</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>zdroj softwaru</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>zdroj</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>splash screen</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>spouštěcí obrazovka</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>stack</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>zásobník</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>summary</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>shrnutí</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>superuser</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>superuživatel</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>suspend (to RAM)</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>uspat do paměti</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>switch</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>přepínač</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>tab</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>karta</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>terminal</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>terminál</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>theme</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>motiv</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>thumbnail</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>náhled </term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>time zone</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>časové pásmo</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>toolbar </term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>panel nástrojů</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>translation</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>překlad</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>translations</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>překlady</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>unmark </term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>zrušit označení</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>unmount</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>odpojit</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>update</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>aktualizovat</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>upload </term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>odeslat</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>user interface</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>uživatelské rozhraní</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>volume (audio)</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>hlasitost</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>volume (hardware)</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>svazek</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>website</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>webové stránky</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>when getting started</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>zpočátku</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>wizard</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>průvodce</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>workbook</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>sešit</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>worksheet</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>list</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hosting</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>hostování</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>account</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>účet</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>repozitář</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>screenshot</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>obrázek</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>widget</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>tlačítko</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Component list</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Seznam součástí</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>audit log</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>kontrolní záznam</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Terms of Service</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Všeobecné smluvní podmínky</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>context</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>kontext</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>reset</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>obnovení</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>review</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>kontrola</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>reviewew</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>kontrolor</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>approve</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>schválit</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>approved</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>schváleno</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Provider</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Provozovatel</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Privacy policy</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Zásady ochrany osobních údajů</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>subscription</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>předplatné</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>flag</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>příznak</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>billing</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>předplatné</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>plan</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>balíček</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>VAT</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>DPH</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>VAT ID</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>DIČ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>billing plan</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>předplatné</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>donate</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>dar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>alert</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>upozornění</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>string</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>řetězec</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>digest</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>souhrn</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>glossary</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>glosář</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>nástěnka</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>override</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>výjimka</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>override</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>výjimka</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Language overrides</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Jazykové výjimky</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pull request</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>požadavek na začlenění</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>reward</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>odměna</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>donation</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>dary</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>tranlation memory</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>překladová paměť</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>issue</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>požadavek</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>issues</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>požadavky</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>continuous</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>průběžný</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>contribute</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>přispět</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>donation</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>dar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>badge</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>odznak</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>private data</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>osobní údaje</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>failed</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>selhavší</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>message</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>oznámení</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>markup</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>značky</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>shaping</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>tvarování</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>bulk edit</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>hromadné úpravy</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>label</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>štítek</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>linked component</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>propojená součást</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>filemask</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>maska souborů</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>notification</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>upozornění</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>announcement</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>oznámení</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>announcements</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>oznámení</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>trailer</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>přílepek</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>dedicated</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>vyhrazená</term></tig></langSet>
+            </termEntry>
+        </body>
+    </text>
+</martif>

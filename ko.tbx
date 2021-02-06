@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE martif PUBLIC "ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN" "TBXcdv04.dtd">
+<martif type="TBX" xml:lang="en">
+    <martifHeader>
+        <fileDesc>
+            <sourceDesc>
+                <p>Translate Toolkit</p>
+            </sourceDesc>
+        </fileDesc>
+    </martifHeader>
+    <text>
+        <body>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>appliance</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>기기</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Bitcoins</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>비트코인</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Coinbase</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>코인베이스</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>commits</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>커밋</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>context</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>상황에 맞는 정보</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Flattr</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>플래터</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Gittip</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>깃팁</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Glossary</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>용어집</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>identities</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>아이디</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>inconsistent</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>일관성없음</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>local</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>로컬</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>micropayment</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>소액결제</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>notification</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>통보-&gt;알림</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>password</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>비밀번호</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>plural form</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>복수형</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>reset</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>재설정</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>review</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>검토</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>third party</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>다른 회사</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>translator instructions</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>번역자 지침</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>version control system</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>버전 관리 시스템</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hosting plan</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>호스팅 플랜</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Merge</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>합치기</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>message</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>메시지</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>workflow</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>작업흐름</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Filename</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>파일이름</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Push</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>올리기(Push)</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>style</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>차림새</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Option</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>선택사항</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>autoaccept</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>자동승인</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>You</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>여러분</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>help packages</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>도움 패키지</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Contributors</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>컨트리뷰터</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>License</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>라이선스</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>parameter</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>파라미터</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>comments</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>의견</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>comment</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>의견</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Curstomizable</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>사용자 정의 가능한</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>quality checks</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>품질 검사</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>improving</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>향상</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>translations</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>번역</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>email</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>이메일</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>username</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>사용자 이름</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>full name</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>성명</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>website</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>웹사이트</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>watch</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>관리</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>참여중, 참여중인 프로젝트</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>font</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>폰트</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>override</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>재설정</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>group</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>그룹</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>override</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>오버라이드</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>template</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>서식</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>translators</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>번역자</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>e-mail</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>전자우편</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>turned off</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>해제되다</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>authentication</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>인증</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>verification</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>확인</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>link</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>고리</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>branches</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>분기</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>branch</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>분기</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>milestones</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>이정표</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Michal</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>미카엘</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Czechia</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>체코</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Business ID</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>사업자 ID</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>VAT ID</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>납세자의 세금 식별 번호</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>community</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>공동체</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>notifications</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>알림</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>change</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>변경</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>changes</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>변경 사항</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>newlines</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>줄 바꿈</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>addons</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>부가 기능</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>main</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>기본</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>issues</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>문제점</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>bug</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>오류</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>issue</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>문제점</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Purchase</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>구입</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>donations</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>기부금</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>donation</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>기부금</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>donations</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>후원금</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>component</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>구성 요소</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>addon</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>부가기능</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>구성요소</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Update</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>갱신</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>on the entire platform</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>전체 플랫폼에</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>웨블레이트</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>screenshot</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>갈무리</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>upload</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>업로드</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>payment</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>결제</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>privilege</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>권한</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>profile</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>프로파일</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>localization</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>현지화</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>checklist</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>점검목록</term></tig></langSet>
+            </termEntry>
+        </body>
+    </text>
+</martif>

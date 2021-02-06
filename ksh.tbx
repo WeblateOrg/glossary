@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE martif PUBLIC "ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN" "TBXcdv04.dtd">
+<martif type="TBX" xml:lang="en">
+    <martifHeader>
+        <fileDesc>
+            <sourceDesc>
+                <p>Translate Toolkit</p>
+            </sourceDesc>
+        </fileDesc>
+    </martifHeader>
+    <text>
+        <body>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>type</term></tig></langSet>
+                <langSet xml:lang="ksh"><tig><term>Zoot</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>kind</term></tig></langSet>
+                <langSet xml:lang="ksh"><tig><term>Zoot</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>type</term></tig></langSet>
+                <langSet xml:lang="ksh"><tig><term>schrihv</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>column</term></tig></langSet>
+                <langSet xml:lang="ksh"><tig><term>Kolonn</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>database</term></tig></langSet>
+                <langSet xml:lang="ksh"><tig><term>Dahtebanngk</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>user</term></tig></langSet>
+                <langSet xml:lang="ksh"><tig><term>Metmaacher</term></tig></langSet>
+            </termEntry>
+        </body>
+    </text>
+</martif>

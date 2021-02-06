@@ -1,0 +1,963 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE martif PUBLIC "ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN" "TBXcdv04.dtd">
+<martif type="TBX" xml:lang="en">
+    <martifHeader>
+        <fileDesc>
+            <sourceDesc>
+                <p>Translate Toolkit</p>
+            </sourceDesc>
+        </fileDesc>
+    </martifHeader>
+    <text>
+        <body>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>basqarý taqtasy</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>special characters</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>arnaıy tańbalar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>editor</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>óńdegish</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>component</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>quramdas</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>watched</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>baqylanǵan</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>notification</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>habarlandyrý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>default</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>ádepki</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>billing</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>bılıń</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>guest</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>qonaq</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>user</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>paıdalanushy</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>password</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>paról</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>reset</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>ysyrý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>account</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>tirkelgi</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>registration</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>tirkelý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>addon</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>qondyrma</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>translation project</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>аударма жобасы</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>translations</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>аудармалар</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>invoice</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>ınvoıs</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>revert</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>qaıtarý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>settings</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>parametrler</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>setting</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>parametr</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>message</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>habar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>suggestion</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>usynys</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>repozıtorı</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>plural</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>kópshe</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>singular</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>jekeshe</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Provider</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>Jetkizýshi</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>komıt</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>memory</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>jad</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>assign</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>taǵaıyndaý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>privilege</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>ókilettilik</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>software</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>baǵdarlamalyq jasaqtama</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>libre</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>erkin</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>translator</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>tárjimeshi</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>public</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>jarıa</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>associate</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>baılanystyrý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>identity</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>sáıkestik kýáligi</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>substring</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>ishki jol</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>duplicated</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>qaıtalanǵan</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>lock</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>qultptaý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>unlock</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>qulypyty ashý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>system</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>júıe</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>on</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>boıynsha</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>by</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>arqyly</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>at</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>janynda</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>summary</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>qorytyndy</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>status</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>mártebe</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>bulk</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>jappaı</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>change</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>ózgertý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>completed</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>aıaqtaldy</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>in</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>ishinde</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>file</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>faıl</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>failing</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>aqaý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>check</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>tekserý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>failure</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>sátsizdik</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>site</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>saıt</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>post</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>jarıalaý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>association</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>baılanys</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>associated</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>baılanysty</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>screenshot</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>ekran sýreti</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>currently</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>aǵymda</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>subscription</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>jazylym</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>project</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>joba</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>choose</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>tańdaý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>select</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>bólekteý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>jump</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>ótip ketý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>glossary</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>glosarı</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hosting</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>hostıń</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hook</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>óńdeýish</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>push</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>ıterý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pull</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>tartý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>disabled</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>óshirilgen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>disable</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>óshirý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>enable</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>qosý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>enabled</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>qosylǵan</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>branch</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>tarmaq</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>for</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>úshin</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>plan</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>jospar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>view</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>qaraý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>fetch</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>shyǵaryp alý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>key</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>kilt</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>using</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>arqyly</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>third party</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>úshinshi jaq</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>delete</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>joıý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>qaınar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>invalid</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>jaramsyz</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>reference</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>rámizdik silteme</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>remove</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>ysyrý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>host</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>host</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>link</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>silteme</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>contain</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>qamtý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>already</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>áldeqashan</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>custom</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>teńsheýli</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>as</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>retinde</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>use</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>paıdalaný</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>usually</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>ádette</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>to</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>qaraı</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>listed</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>tizimdelgen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>occurrence</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>kezdesim</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>taldaý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>parsing</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>taldaý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>available</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>qoljetimdi</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>donate</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>demeý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>commercial</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>kásibı</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>format</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>pishim</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>terminate</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>aıaqtaý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>develop</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>ázirleý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>integration</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>yqpaldastyq</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>email</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>e-poshta</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>existing</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>qoldanysta bar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>browser</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>sholǵysh</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>avoid</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>aýlaqtaný</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>payment</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>tólem</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>single quote</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>jalǵyz tyrnaqsha</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>maintainer</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>súıemeldeýshi</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>process</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>óńdep shyǵarý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>track</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>qadaǵalaý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>template</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>úlgi</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>monolingual</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>birtildi</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>base</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>negiz</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>filename</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>faıl aty</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>markup</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>belgileý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>both</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>ekeýi de</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>tilimshe</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>regular expression</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>qalypty órnek</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>squash</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>qıystyrý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>permanently</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>birjolata</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>contribute</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>jarna qosý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>fingerprint</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>tańbadaq</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>search and replace</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>izdeý men aýystyrý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>identifier</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>uqsatqysh</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>voting</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>saılaý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>comment</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>ańǵartpa</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>comment</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>túsinikteme</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>overwrite</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>qaıta jazý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>form</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>pishin</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>translation string</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>tárjimelenetin jol</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>translation file</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>аударма файлы</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>translation memory</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>аударма жады</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>localization</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>jersindirý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>support</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>qoldaý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>priority</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>basymdylyq</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>feature</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>múmkindik</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>workflow</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>iskerı ereje</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>integrating</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>yqpaldastyrý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>address</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>mekenjaı</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>means</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>maǵynasy</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>recurring</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>qaıtalanatyn</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>renew</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>uzartý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>certain</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>aıqyndalǵan</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>contract</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>kelisimshart</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>conclude</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>jasasý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Service</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>Qyzmet</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>resource</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>qor kózi</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>configuration</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>konfigýrasıa</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>frame</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>jaqtaý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>across</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>boıynsha</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>adjust</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>naqtylaý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>allocate</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>bólip berý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>analyze</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>taldaý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>any</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>kezkelgen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>ask</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>suraý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>auth</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>ókilettik</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>authentication</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>túpnusqalyq rastama</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>authorization</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>ókilettik</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>bad</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>nashar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>bookmark</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>betbelgi</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>box</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>uıa</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>caption</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>taqyrypsha</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>checkpoint</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>baqylaý orny</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>clause</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>sóılem</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>click</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>basý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>coalesce</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>biriktirý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>collation</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>kolasıa</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>column</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>baǵan</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>compatibility</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>úılesimdilik</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>connection</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>qosylym</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>console</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>konsól</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>constraint</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>shekteý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>data</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>derekter</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>database</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>derekqor</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>debug</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>kúıin keltirý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>denied</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>bastartyldy</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>display</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>beıneleý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>edit</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>óńdeý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>expression</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>órnek</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>foreign key</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>syrtqy kilt</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>grid edit</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>tor óńdeý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>group</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>top</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>header</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>ústińgi derekteme</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>history</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>tarıh</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>information</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>aqparat</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>linestring</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>ırek syzyq</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>maintenance</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>qyzmet kórsetý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>master</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>jetekshi</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>method</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>ádis</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>missing</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>jetispeıdi</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>note</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>eskerim</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>on the fly</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>naqty ýaqytta</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>optimize</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>ońtaılandyrý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>option</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>opsıa</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>order</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>ret</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>persistent</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>turaqty</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>preview</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>qarap alý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>primary</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>alǵashqy</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>privilege</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>artyqshylyq</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>query</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>saýal</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>rate</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>araqatynas</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>relationship</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>qatynastyq</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>repair</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>jóndeý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>replication</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>replıkasıa</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>retain</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>saqtap qalý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>routine</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>rásim</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>schema</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>sulba</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>simulate</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>elikteý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>size</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>ólshem</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>slave</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>jetektegi</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>sort</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>suryptaý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>statement</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>nusqaý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>storage</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>saqtaýysh</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>structure</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>qurylym</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>tab</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>qoıyndy</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>table</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>keste</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>text</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>mátin</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>textarea</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>mátinaýmaq</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>thread</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>tizbek</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>threshold</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>shektik mán</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>timestamp</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>ýaqyt belgisi</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>trigger</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>trıger</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>truncate</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>bosatý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>type</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>túr</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>update</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>jańartý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>visit</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>kirip shyǵý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>warning</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>eskertý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>add</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>qosý</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>translation</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>аударма</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>translation component</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>аударма компоненті</term></tig></langSet>
+            </termEntry>
+        </body>
+    </text>
+</martif>

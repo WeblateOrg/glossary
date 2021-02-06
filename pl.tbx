@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE martif PUBLIC "ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN" "TBXcdv04.dtd">
+<martif type="TBX" xml:lang="en">
+    <martifHeader>
+        <fileDesc>
+            <sourceDesc>
+                <p>Translate Toolkit</p>
+            </sourceDesc>
+        </fileDesc>
+    </martifHeader>
+    <text>
+        <body>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>base file</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>plik szablonu</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>donate</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>złóż darowiznę</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>donation</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>darowizna</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>glossary</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>słownik</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>identity</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>tożsamość</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>license</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>licencja</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>subproject</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>projekt podrzędny</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>translator</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>tłumacz</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>overview</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>podsumowanie</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>review</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>kontrola</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>tab</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>karta</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>rebase</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>zmieniać bazę</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>suggestion</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>sugestia</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>component</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>komponent</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>authentication</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>uwierzytelnianie</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>unit</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>jednostka</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>audit log</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>dziennik aktywności</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>VCS</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>system kontroli wersji</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>template language</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>język/system szablonów</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>kokpit</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>notification</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>powiadomienie</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>merge</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>scalenie</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>zatwierdzenie zmian</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>commit message</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>komentarz (do) zatwierdzanych zmian</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>permission</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>uprawnienie</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pending</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>oczekujące</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>editor link</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>odsyłacz edytora</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>token</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>suggest</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>proponować</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>suggested</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>(za)sugerowane</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>preferences</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>preferencje</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>machine translation</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>tłumaczenie maszynowe</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>%(translation)s</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>projekt %(translation)s</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>at %(site_title)s</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>na stronie %(site_title)s</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>secondary</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>dodatkowy</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>secondary language</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>język dodatkowy</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>please</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>prosimy</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>host</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>host (rzeczownik: serwer), hostować</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>email</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>e-mail</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>appliance</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>obraz</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>appliances</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>obrazy</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>location</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>położenie</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>security issue</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>luka bezpieczeństwa</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>to (narzędzie) Weblate</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>reviewer</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>inspektor</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>komponenty</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>string</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>ciąg</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Source strings</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>Ciągi źródłowe</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>action</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>akcja</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Hook</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>Hak</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Lazy commits</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>Leniwe zatwierdzenia</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>branch</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>gałąź</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>target string</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>ciąg docelowy</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>timestamp</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>znacznik czasu</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Performance improvements.</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>Poprawa wydajności.</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>bugfixes.</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>poprawki błędów</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Regular expressions</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>Wyrażenia regularne</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>checks</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>kontrolę</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>translation memory</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>pamięć tłumaczeniowa</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>placeables</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>obiekty do umieszczenia</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>No push</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>Bez wypychania zmian</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>permissions</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>uprawnienia</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>parsing</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>analizowanie</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Webhooks</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>Webhooki</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Pseudolocale</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>Pseudo lokalizacja</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>forbidden translations</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>zakazane tłumaczenia</term></tig></langSet>
+            </termEntry>
+        </body>
+    </text>
+</martif>

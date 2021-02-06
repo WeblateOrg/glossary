@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE martif PUBLIC "ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN" "TBXcdv04.dtd">
+<martif type="TBX" xml:lang="en">
+    <martifHeader>
+        <fileDesc>
+            <sourceDesc>
+                <p>Translate Toolkit</p>
+            </sourceDesc>
+        </fileDesc>
+    </martifHeader>
+    <text>
+        <body>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Billing</term></tig></langSet>
+                <langSet xml:lang="km"><tig><term>វិក័យប័ត្រ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>optional</term></tig></langSet>
+                <langSet xml:lang="km"><tig><term>ស្រេចចិត្ត</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Quarterly</term></tig></langSet>
+                <langSet xml:lang="km"><tig><term>ត្រីមាស</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Biannual</term></tig></langSet>
+                <langSet xml:lang="km"><tig><term>ឆមាស</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>individual</term></tig></langSet>
+                <langSet xml:lang="km"><tig><term>ឯកត្ដជន</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>VAT ID</term></tig></langSet>
+                <langSet xml:lang="km"><tig><term>លេខសម្គាល់ពន្ធអាករលើតម្លៃបន្ថែម</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Reference</term></tig></langSet>
+                <langSet xml:lang="km"><tig><term>សេចក្ដីយោង</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>account holder</term></tig></langSet>
+                <langSet xml:lang="km"><tig><term>ម្ចាស់គណនី</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Clear</term></tig></langSet>
+                <langSet xml:lang="km"><tig><term>ជម្រះ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>feedback</term></tig></langSet>
+                <langSet xml:lang="km"><tig><term>មតិអ្នកប្រើ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Press</term></tig></langSet>
+                <langSet xml:lang="km"><tig><term>សង្កត់</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>clipboard</term></tig></langSet>
+                <langSet xml:lang="km"><tig><term>ក្ដារតម្រៀប</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Month</term></tig></langSet>
+                <langSet xml:lang="km"><tig><term>ខែ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>October</term></tig></langSet>
+                <langSet xml:lang="km"><tig><term>ខែតុលា</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Oct</term></tig></langSet>
+                <langSet xml:lang="km"><tig><term>តុលា</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Text</term></tig></langSet>
+                <langSet xml:lang="km"><tig><term>អត្ថបទ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Belarusian</term></tig></langSet>
+                <langSet xml:lang="km"><tig><term>បេឡារុស</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Aymará</term></tig></langSet>
+                <langSet xml:lang="km"><tig><term>អាម៉ារ៉ាំ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Yemen</term></tig></langSet>
+                <langSet xml:lang="km"><tig><term>យេម៉ែន</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Morocco</term></tig></langSet>
+                <langSet xml:lang="km"><tig><term>ម៉ារ៉ុក</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Kuwait</term></tig></langSet>
+                <langSet xml:lang="km"><tig><term>គុយវ៉ែត</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Egypt</term></tig></langSet>
+                <langSet xml:lang="km"><tig><term>អេហ្ស៊ីប</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Algeria</term></tig></langSet>
+                <langSet xml:lang="km"><tig><term>អាល់ហ្សេរី</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Arabic</term></tig></langSet>
+                <langSet xml:lang="km"><tig><term>អារ៉ាប់</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>frequently</term></tig></langSet>
+                <langSet xml:lang="km"><tig><term>ជាញឹកញាប់</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>glossary</term></tig></langSet>
+                <langSet xml:lang="km"><tig><term>សទ្ទានុក្រម</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>define</term></tig></langSet>
+                <langSet xml:lang="km"><tig><term>កំណត់</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Translators</term></tig></langSet>
+                <langSet xml:lang="km"><tig><term>អ្នកបកប្រែ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Authentication</term></tig></langSet>
+                <langSet xml:lang="km"><tig><term>ការផ្ទៀងផ្ទាត់</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>E-mail</term></tig></langSet>
+                <langSet xml:lang="km"><tig><term>អ៊ីម៉ែល</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>allowe</term></tig></langSet>
+                <langSet xml:lang="km"><tig><term>អនុញ្ញាត</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>allowed</term></tig></langSet>
+                <langSet xml:lang="km"><tig><term>បានអនុញ្ញាត</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>supply</term></tig></langSet>
+                <langSet xml:lang="km"><tig><term>ផ្គត់ផ្គង់</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>different</term></tig></langSet>
+                <langSet xml:lang="km"><tig><term>ខុសគ្នា</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>email</term></tig></langSet>
+                <langSet xml:lang="km"><tig><term>អ៊ីម៉ែល</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Promotion</term></tig></langSet>
+                <langSet xml:lang="km"><tig><term>ប្រូម៉ូសិន</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Project</term></tig></langSet>
+                <langSet xml:lang="km"><tig><term>គម្រោង</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>overview</term></tig></langSet>
+                <langSet xml:lang="km"><tig><term>ទិដ្ឋភាពទូទៅ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>context</term></tig></langSet>
+                <langSet xml:lang="km"><tig><term>បរិបទ​</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>source code</term></tig></langSet>
+                <langSet xml:lang="km"><tig><term>ប្រភព​កូដ​</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>corresponding</term></tig></langSet>
+                <langSet xml:lang="km"><tig><term>ដែល​ត្រូវ​គ្នា​</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Translator</term></tig></langSet>
+                <langSet xml:lang="km"><tig><term>អ្នកបកប្រែ​</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Own</term></tig></langSet>
+                <langSet xml:lang="km"><tig><term>ផ្ទាល់​ខ្លួន​</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>translations</term></tig></langSet>
+                <langSet xml:lang="km"><tig><term>ការបកប្រែ​</term></tig></langSet>
+            </termEntry>
+        </body>
+    </text>
+</martif>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE martif PUBLIC "ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN" "TBXcdv04.dtd">
+<martif type="TBX" xml:lang="en">
+    <martifHeader>
+        <fileDesc>
+            <sourceDesc>
+                <p>Translate Toolkit</p>
+            </sourceDesc>
+        </fileDesc>
+    </martifHeader>
+    <text>
+        <body>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>contact</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>kontakt</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>string</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>izraz, niz</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>translation component</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>prevodilačka komponenta</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>branch</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>grana</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>merge</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>sjediniti</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>repozitorij</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>language file</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>jezična datoteka</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>translation flag</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>prevodilačka oznaka</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>translation memory</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>prevodilačka memorija</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>contributor</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>doprinositelj</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>squash</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>združi</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>VCS</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>sustav za kontrolu verzija</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>preferences</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>postavke</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>translation project</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>prevodilački projekt</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hook</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>petlja</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>host</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>računalo</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>billing plan</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>tarifa</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>merge request</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>zahtjev za sjedinjavanje</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>glossary</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>glosar, pojmovnik</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>glossaries</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>glosari, pojmovnici</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>label</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>etiketa</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Machine translation</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>strojno prevođenje</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Billing</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>Naplata</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Localization</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>lokalizacija</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>continuous localization</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>kontinuirana lokalizacija</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>upstream repository</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>izvorni repozitorij</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>announcement</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>objava</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Announcements</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>Objave</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pull request</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>zahtjev za preuzimanje</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>trial</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>proba</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>markdown</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>markdown formatiranje</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>conflict</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>sporni slučaj</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>translation file</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>prevodilačka datoteka</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>term</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>pojam</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>placeables</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>zamjenska mjesta</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>identifikator</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>promjena</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>generate</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>stvori</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>generated</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>stvoreno</term></tig></langSet>
+            </termEntry>
+        </body>
+    </text>
+</martif>

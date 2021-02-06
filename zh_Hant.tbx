@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE martif PUBLIC "ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN" "TBXcdv04.dtd">
+<martif type="TBX" xml:lang="en">
+    <martifHeader>
+        <fileDesc>
+            <sourceDesc>
+                <p>Translate Toolkit</p>
+            </sourceDesc>
+        </fileDesc>
+    </martifHeader>
+    <text>
+        <body>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>source string</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>來源字串</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>review</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>檢閱</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>continuous</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>持續</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hosting</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>代管服務</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>cloud</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>雲端</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>deploy</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>部署</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>promote</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>推廣</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>fund</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>募資</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>appliance</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>實例</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>database</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>資料庫</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>backend</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>後端</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>儲存庫</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>tab</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>標籤頁</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>mailing list</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>郵遞清單</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>email</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>電子郵件</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>widget</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>小元件</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>privilege</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>權利</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>change</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>更動</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>repositories</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>儲存庫</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>review</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>檢閱</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>approve</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>核可</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>agreement</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>契約</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>conclusion</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>簽訂</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>license</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>授權</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>project</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>專案</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>message</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>訊息</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>donation</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>贊助</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>disable</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>停用</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>select</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>選取</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>base file</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>基底檔</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>filemask</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>檔案遮罩</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>instance</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>實例</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Matrix</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>對照表</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>comment</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>評註</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Authored</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>著作</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>alert</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>警告</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>metadata</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>中介資料</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>localize</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>在地化</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>line</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>列</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>list</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>列表</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>context</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>情境</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>隱私</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>component</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>組件</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>widget</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>小元件</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>addon</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>附加元件</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>operation</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>操作</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>template</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>模板</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>platform</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>平臺</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>parameter</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>參數</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>argument</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>引數</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>placeholder</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>佔位符</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>regular expression</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>常規表述式</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>check</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>查核</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>組件</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>clone</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>拓製</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>控制面板</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>localization</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>在地化</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>代符</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>invoice</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>發票</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>placeholders</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>佔位符</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>jump</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>跳轉</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>row</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>列</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>line</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>列</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>dismiss</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>略過</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>age</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>存在時間</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>failing check</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>未通過查核</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>dismissed check</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>略過的查核</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>translation memory</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>翻譯記憶</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>glossaries</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>詞彙表</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>slug</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>country code</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>地區碼</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>email</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>電子信箱</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>squash</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>壓縮</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>terms</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>字詞</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>entry</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>條目</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>key</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>金鑰</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>key</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>字串鍵</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>screenshot</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>螢幕擷圖</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>nearby</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>相鄰</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>nearby string</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>相鄰字串</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>site wide</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>全平臺</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>announcement</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>公告</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>announcements</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>公告</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>literal</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>字面值</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>checklist</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>查核列表</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>bar chart</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>長條圖</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>admin permission</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>管理權</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>permission</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>權</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>permission</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>權限 (操作功能的翻譯，非本義)</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>element</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>元素</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>trial period</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>試用期</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>automatic suggestions</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>自動建議</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>profile</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>個人檔案</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Contributor agreement</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>貢獻者協議書</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>subscription</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>約期訂購</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>subscriptions</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>訂購</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>configuration</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>設定/組態</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Afrihili</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>阿非利希利語</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Propagate</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>衍遞</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Aymara</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>艾馬拉語</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Balinese</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>峇里語</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Basa</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>巴薩語</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Cameroon</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>喀麥隆</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Bantu</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>班圖語</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Kaqchikel</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>喀克其奎語</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>RSS feed</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>RSS 消息來源</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pseudolocale</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>偽在地化</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>prefix</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>前綴</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>suffix</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>後綴</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>user</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>使用者</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>permissions</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>權限</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>groups</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>群組</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>group</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>群組</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>create</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>建立</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>access</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>存取</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>enable</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>啟用</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>given</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>指定</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>feauture</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>功能</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>creates</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>建立</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>turned on</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>啟用</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Info</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>資訊</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>info</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>資訊</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>infomation</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>資訊</term></tig></langSet>
+            </termEntry>
+        </body>
+    </text>
+</martif>

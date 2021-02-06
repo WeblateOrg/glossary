@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE martif PUBLIC "ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN" "TBXcdv04.dtd">
+<martif type="TBX" xml:lang="en">
+    <martifHeader>
+        <fileDesc>
+            <sourceDesc>
+                <p>Translate Toolkit</p>
+            </sourceDesc>
+        </fileDesc>
+    </martifHeader>
+    <text>
+        <body>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>source string</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>cadena d'origen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>machine translation</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>traducció automàtica</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>overview</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>visió general</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>check</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>comprovació</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>addon</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>complement</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>bootstrap</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>iniciar ràpidament</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>appliance</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>versió operativa</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>donation</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>donatiu</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>support</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>assistència</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Terms of Service</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>condicions del servei</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>purpose</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>finalitat</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>device</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>dispositiu</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>tauler principal</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>editor mode</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>mode d'edició</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>watched</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>en seguiment</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>default</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>per defecte</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>whiteboard</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>pissarra</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>needs editing</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>cal revisar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>publicar / publicació</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>contributor</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>col·laborador</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>push</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>envia / enviar / enviament</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>review</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>revisar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>reviewer</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>revisor</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>manager</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>gestor</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>manage</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>gestionar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>dipòsit</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>failing check</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>comprovació fallida</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>suggester</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>suggeridor</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>engage page</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>pàgina de participació</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>widget</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>giny</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hook</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>punt d'inserció</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>browse</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>explorar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>download</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>descarrega / descàrrega</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>string needing action</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>cadena pendent</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>string needing edit</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>cadena que cal revisar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>flag</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>marca</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>maintainer</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>responsable</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>upstream</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>font</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>waiting for review</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>en espera de revisió</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>maintainer</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>responsable</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>mapped</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>representat</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>automatic translation</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>traducció automatitzada</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>VCS</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>sistema de control de versions</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>translation component</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>component</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>reward</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>recompensa</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>recurring donation</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>donatiu periòdic</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>supporter</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>patrocinador</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pricing</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>tarifes</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>placeholder</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>marcador de substitució</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>seld-hosted</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>allotjament propi</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>target language</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>llengua de destinació</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>screenshot</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>captura de pantalla</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>workflow</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>flux de treball</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>bulk</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>massiu/iva</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>label</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>etiqueta</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>filemask</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>filtre de fitxers</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>placeholder</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>marcador de substitució</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>activation token</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>testimoni d'activació</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>verification token</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>testimoni de verificació</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>expired token</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>credencial caducada</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>token (marcador de substitució en una cadena)</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>marcador</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>URL amigable</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>base file</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>fitxer base</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>computer-aided translation</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>traducció assistida per ordinador</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>announcement</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>anunci</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>rate limit</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>límit de peticions</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>trial</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>període de prova</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>contributor agreement</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>acord de col·laboració</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>libre hosting</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>allotjament de projectes lliures</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hamburger menu</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>menú de navegació mòbil</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>commercial hosting</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>allotjament comercial</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>locale</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>localització</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pseudolocale</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>pseudolocalització</term></tig></langSet>
+            </termEntry>
+        </body>
+    </text>
+</martif>

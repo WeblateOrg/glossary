@@ -1,0 +1,1379 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE martif PUBLIC "ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN" "TBXcdv04.dtd">
+<martif type="TBX" xml:lang="en">
+    <martifHeader>
+        <fileDesc>
+            <sourceDesc>
+                <p>Translate Toolkit</p>
+            </sourceDesc>
+        </fileDesc>
+    </martifHeader>
+    <text>
+        <body>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>substring</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Unterzeichenkette</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hostname</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Rechnername</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>login</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>anmelden</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>version control system</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Versionsverwaltung</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>features</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Funktionen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>feature</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Funktion</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>engage</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>beteiligen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>authentication</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Legitimierung</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>tab</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Reiter</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>user</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Benutzer</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>identities</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Kennungen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>identity</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Kennung</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>translation memory</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Übersetzungsspeicher</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>email</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>E-Mail-Adresse</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>email</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>E-Mail</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>flag</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Markierung</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>fuzzy</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>fragwürdig</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>string</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Zeichenkette</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>project</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Projekt</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>component</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Komponente</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>session</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Sitzung</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>base file</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Basisdatei</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>screenshot</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Bildschirmfoto</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>API key</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>API-Schlüssel</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>notification</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Benachrichtigung</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>watched</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>beobachtet</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>event</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Ereignis</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>text direction</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Leserichtung</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>source string</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Ausgangszeichenkette</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>source strings</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Ausgangszeichenketten</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>regenerate</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>erstellen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>image</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Bild</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>appliance</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Appliance</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>appliances</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Appliances</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>you</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Sie</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Ausgangszeichenkette</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Trailing space</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Leerzeichen am Ende</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>bug report</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Fehlerbericht</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>glossary</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Glossar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>username</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Benutzername</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>free software</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Freie Software</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Technology</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Plattformen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>technologies</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Plattformen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>issue tracker</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Fehlerverwaltungssystem</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>source code</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Quellcode</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>continuous integration platform</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Continuous-Integration-Plattform</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>code coverage</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Code-Abdeckung</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>test suite</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Test-Suite</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Sauce Labs</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Sauce Labs</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Selenium tests</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Selenium-Tests</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>real browsers</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>reale Browser</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Hosted Weblate</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Rollbar</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Rollbar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>demo</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Demo</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Docs</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Dokumentation</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>documentation</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Dokumentation</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>translators</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Übersetzer</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Git</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Git</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Mercurial</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Mercurial</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Collaboration sites</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Kollaborationsplattformen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>software development sites</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Software-Entwicklungsplattformen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>GitHub</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>GitHub</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Gitlab</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Gitlab</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Mailing list</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Mailingliste</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>NNTP interface</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>NNTP-Schnittstelle</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Gmane</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Gmane</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>invoicing</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Rechnungsstellung</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>discount</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Rabatt</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Integration API</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Schnittstellen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>offline tranlation</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Offline-Übersetzung</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>root access</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Root-Zugriff</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>admins</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Administratoren</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>admin</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Administrator</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Bountysource</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Bountysource</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Translation components</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Übersetzungskomponenten</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>bugs</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Fehler</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Weblate sources</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Weblate-Quellcode</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>cloud</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Cloud</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>third party</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Drittanbieter</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hosting</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Hosting-Angebote</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>main page</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Hauptseite</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>crowdsourced translation</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Crowdsourcing-Übersetzungen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Linux distributions</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Linux-Distributionen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Coinbase</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Coinbase</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hosting plans</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Hosting-Angebote</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Tour</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Rundgang</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>contact form</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Kontaktformular</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Legal Terms Overview</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Übersicht der rechtlichen Grundbegriffe</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>PO extensions</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>PO-Erweiterungen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>XLIFF Translation File</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>XLIFF-Übersetzungsdatei</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Zen</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Zen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>web-based</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>web-basiert</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Target languages</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Zielsprachen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>free license</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Freie Lizenz</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>responsive UI</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>adaptive Benutzeroberfläche</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>tablet</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Tablet</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>desktop</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Rechner</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Translation status</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Übersetzungsstatus</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>trained monkeys</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>dressierte Affen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>administrator</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Administrator</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>out of the box</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>von Haus aus</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>premium support</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Premium-Support</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>to self host</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>selbst hosten</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>to fork</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>forken</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>translation format</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Übersetzungsformat</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Text unit</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Texteinheit</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>self hosted environments</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>selbst gehostete Umgebungen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Download</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Herunterladen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Custom domain name</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Eigener Domain-Name</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>SSL</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>SSL</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Feedback</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Rückmeldung</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Report issue</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Problem melden</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Translation workflow</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Ablauf der Übersetzung</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Features</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Funktionen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Continuous translation</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Kontinuierliche Übersetzungen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Cloud or virtualization images</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Cloud- und Virtualisierungs-Images</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>zip compressed</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>ZIP-komprimiert</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>virtualization environment</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Virtualisierungsumgebung</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>links</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Links</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>to control remotely</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>per Remote-Zugriff steuern</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Python PIP</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Python PIP</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>KiB</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>KiB</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Self hosted</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Selbst gehostet</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>project page</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Projektseite</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>View sources</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Quellcode anzeigen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>code hosting services</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Code-Hosting-Dienste</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>bzip2 compressed</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>bzip2-komprimiert</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>gzip compressed</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>gzip-komprimiert</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>xz compressed</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>xz-komprimiert</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Docker container</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Docker-Container</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Try</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Ausprobieren</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Stack Overflow</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Stack Overflow</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Phone support</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Telefon-Support</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Fund features</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Individuelle Finanzierung einzelner Funktionen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>PayPal balance</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Paypal-Konto</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>bank account</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Girokonto</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>credit card</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Kreditkarte</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>GiB</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>GiB</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>community</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Community</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Server error</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Serverfehler</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Liberapay</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Liberapay</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Bitcoins</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Bitcoins</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>peer-to-peer network</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Peer-to-Peer-Netzwerk</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Bitcoin</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Bitcoin</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>webchat</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Webchat</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>freenode network</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Freenode-Netzwerk</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Attribution</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Exakte Zuordnung von Übersetzungen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>translation management system</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Übersetzungsmanagementsystem</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>access rights</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Zugriffsrechte</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>environment</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Einsatzumgebung</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Weblate instances</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Weblate-Instanzen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Security issues</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Sicherheitslücken</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>code base</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Quellcode</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>sources</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Quellcode</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>website</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Webseite</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>logo placement</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>exklusive Platzierung Ihres Logos</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Project overview</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Projektübersicht</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>consulting services</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Beratungsdienstleistungen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Travis CI</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Travis CI</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>localization process</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Lokalisierungsprozess</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>internationalization</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Internationalisierung</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Basic</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Basis</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Medium</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Medium</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Advanced</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Erweitert</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Enterprise</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Enterprise</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>core developer</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Kern-Entwickler</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Minimal support</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Minimal-Support</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Basic support</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Basis-Support</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Extended support</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Erweiterter Support</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>https protocol</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>HTTPS-Protokoll</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>component information tab</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Komponenten-Informations-Reiter</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>SSH key</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>SSH-Schlüssel</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Bitbucket</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Bitbucket</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>push</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Push</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Weblate push user</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Weblate-Push-User</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Consulting</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Beratung</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Access control</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Zugriffssteuerung</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Codecov</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Codecov</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Secondary languages</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Zweitsprachen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>zen mode</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Zen-Modus</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Audit log</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Audit-Protokoll</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>IP address</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>IP-Adresse</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Account activity</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Kontoaktivität</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>User ID</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Benutzer-ID</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>user identities</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Benutzerkennungen</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>tab</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Reiterkarte</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Authentication tab</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Reiterkarte »Legitimierung«</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>API root URL</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>API-Root-Adresse</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>HTTP REST API</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>HTTP REST API</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Linux server</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Linux-Server</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>virtualenv</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>virtualenv</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>uwsgi</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>uwsgi</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>nginx</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>nginx</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>PostgreSQL</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>PostgreSQL</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>MySQL</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>MySQL</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>MariaDB</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>MariaDB</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>database backend</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Datenbank-Backend</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>code development</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Code-Entwicklung</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Your Weblate</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Ihre Weblate-Installation</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>priority email support</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>bevorzugter E-Mail-Support</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Custom features development</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Entwicklung kundenspezifischer Funktionen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>new language request</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>neue Sprachanforderung</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Source language</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Ausgangssprache</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>unit ID</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Eineitenkennung</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Support</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Support</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>account</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Benutzerkonto</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>privilege</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Berechtigung</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Commit message</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Commit-Nachricht</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>comment</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Kommentar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>domain</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Domain</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>branches</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Branches</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Trailing newline</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Zeilenumbruch am Ende</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>password</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Passwort</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Checks</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Qualitätsprüfungen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Home</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Startseite</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Site domain</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Seitendomain</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Avatar</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Profilbild</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>avatar</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Profilbild</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>public key</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>öffentlicher Schlüssel</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>host</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Host</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>API access</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>API-Zugang</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>VAT</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Umsatzsteuer</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Terms</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Nutzungsbedingungen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Commit</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>private data</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>private Daten</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Cookies Policy</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Cookie-Richtlinien</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Your</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Ihre</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>machine translation</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>automatische Übersetzung</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Gettext (PO)</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Gettext (PO)</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>promote</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>gezielt fördern</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>promoting</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>gezielt fördern</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>widgets</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Widgets</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Image widgets</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Bild-Widgets</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>security weaknesses</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Sicherheitslücken</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Terms of Service</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Nutzungsbedingungen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Trailing colon</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Doppelpunkt am Ende</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>site</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Plattform</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>branch</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Branch</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Interface</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Benutzeroberfläche</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Abkhazian</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Abchasisch</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Committer</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Committender</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Committer</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Committer</term></tig></langSet>
+            </termEntry>
+            <termEntry id="2">
+                <langSet xml:lang="en"><tig><term>Committer</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Committ-Verantwortlicher</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Password reset</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Zurücksetzen des Passworts</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>remote commit</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Remote-Commit</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Serbian (cyrillic)</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Serbisch (kyrillisch)</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Repository</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>CSV</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>CSV</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>spam folder</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Spam-Ordner</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>version control</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Versionsverwaltung</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>language code</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Sprachcode</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>search and replace</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Suchen und Ersetzen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>translation unit</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Übersetzungseinheit</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>revert request</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Zurücksetzen-Anfrage</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>RSS feeds</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>RSS-Feeds</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>suggesters</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Vorschlagende</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>rebase</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>umbasieren</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>logout</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Abmeldung</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>logout</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Abmelden</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>i18next</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>i18next</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>message</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Zeichenkette</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Whiteboard</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Whiteboard</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>check</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Qualitätsprüfung</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>image type</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Bildformat</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>merge failure</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Merge-Konflikt</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Repository status</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Repository-Status</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>FAQ</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>FAQ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>download</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>herunterladen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Insights</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Insights</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Locations</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Locations</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>remote branch</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Remote-Branch</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Powered by</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Betrieben mit</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>plural</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Plural</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Plural</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Plural</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>plurals</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Pluralformen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Python format</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Python-Format</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>PHP format</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>PHP-Format</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>C format</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>C-Format</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Perl format</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Perl-Format</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Python brace format</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Python-Brace-Format</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Translate Toolkit</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Translate Toolkit</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Report</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Bericht</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Message</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Nachricht</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>message</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Nachricht</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Cryptocurrencies</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Kryptowährungen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>link</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Link</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>confirmation link</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Bestätigungs-Link</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Sorani</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Sorani</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Project access control</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Projekt-Zugriffssteuerung</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Übersichtsseite</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Übersicht</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Total strings</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Gesamtanzahl</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Token</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>language code</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Sprachenkürzel</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Romansh</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Rätoromanisch</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>suggestion</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Übersetzungsvorschlag</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>spam</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Spam</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>suggestions</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Übersetzungsvorschläge</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Repository branch</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Repository-Branch</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>sequences</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Zeichenfolgen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>keyboard patterns</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Tastatur-Zeichenfolgen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>keyboard pattern</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Tastatur-Zeichenfolge</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>dates</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Datumsangaben</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>straight rows of keys</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>geradlinige Tastenfolgen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Priority email support</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Bevorzugter Support per E-Mail</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Quality checks</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Qualitätsprüfungen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Weblate command line client</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Weblate-Kommandozeilenprogramm</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>fork</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>forken</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Promotion</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>gezielt fördern</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>phone</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Smartphone</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>cloud providers</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Cloudbetreiber</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>cleanup</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Bereinigungsvorgang</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>VCS</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>VCS</term></tig></langSet>
+            </termEntry>
+            <termEntry id="2">
+                <langSet xml:lang="en"><tig><term>language code</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Sprachkürzel</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Bemba</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Bemba</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Crimean Tatar</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Krimtatarisch</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Hiligaynon</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Hiligaynon</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Mari</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Mari</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Meadow Mari</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Wiesenmari</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Shan</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Tai-Kadai-Sprachen (Shan)</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>user agent</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>User Agent</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Service status</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Service-Status</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Lower Sorbian</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Niedersorbisch</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Sorbian</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Sorbisch</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Tigre</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Tigre</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>report period</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Berichtszeitraum</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>plans</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Angebote</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>filemask</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Dateimaske</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>URL</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>URL</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Libre Software</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Freie Software</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>VAT</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>MwSt.</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>review</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>überprüfen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>plan</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Angebot</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>trail</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Testphase</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>subscription</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Abonnement</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>subscriptions</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Abonnements</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>subscription settings</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Abonnementeinstellungen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Libre plan</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Freies Hosting-Angebot</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>contributor agreement</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Mitwirkungsvereinbarung</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Lua format</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Lua-Format</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>term</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Begriff</term></tig></langSet>
+            </termEntry>
+        </body>
+    </text>
+</martif>

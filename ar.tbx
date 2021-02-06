@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE martif PUBLIC "ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN" "TBXcdv04.dtd">
+<martif type="TBX" xml:lang="en">
+    <martifHeader>
+        <fileDesc>
+            <sourceDesc>
+                <p>Translate Toolkit</p>
+            </sourceDesc>
+        </fileDesc>
+    </martifHeader>
+    <text>
+        <body>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>version control system</term></tig></langSet>
+                <langSet xml:lang="ar"><tig><term>نظام إدارة النسخ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Third party</term></tig></langSet>
+                <langSet xml:lang="ar"><tig><term>طرف ثالث</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Dashboard</term></tig></langSet>
+                <langSet xml:lang="ar"><tig><term>لوحة المراقبة</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Commit</term></tig></langSet>
+                <langSet xml:lang="ar"><tig><term>الدفعة</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Profile</term></tig></langSet>
+                <langSet xml:lang="ar"><tig><term>لاحة</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>documentation</term></tig></langSet>
+                <langSet xml:lang="ar"><tig><term>المستندات</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Localization</term></tig></langSet>
+                <langSet xml:lang="ar"><tig><term>الترجمة</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Localization</term></tig></langSet>
+                <langSet xml:lang="ar"><tig><term>التوطين</term></tig></langSet>
+            </termEntry>
+        </body>
+    </text>
+</martif>

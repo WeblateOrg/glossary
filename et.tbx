@@ -1,0 +1,951 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE martif PUBLIC "ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN" "TBXcdv04.dtd">
+<martif type="TBX" xml:lang="en">
+    <martifHeader>
+        <fileDesc>
+            <sourceDesc>
+                <p>Translate Toolkit</p>
+            </sourceDesc>
+        </fileDesc>
+    </martifHeader>
+    <text>
+        <body>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>addon</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>laiendus</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>string</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>lausend</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>widgets</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>vidinad</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>monolingual</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>ainukeelseid</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>base language</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>aluskeel</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>bilingual files</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>kakskeelsed failid</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>license</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>litsents</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>agreement</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>nõusolek</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>file</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>fail</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>software</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>tarkvara</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>projects</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>projektid</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>site</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>leht</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>checks</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>kontrollid</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>data</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>andmed</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>exports</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>väljastused</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>feed</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>voog</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>language code</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>keelekood</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>component</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>osis</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>websites</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>veebilehtedel</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>screenshot</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>kuvavõte</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>screenshot</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>kuvatõmmis</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>source strings</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>lähte-lausendid</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>matching</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>vastav</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>matching</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>sobilik</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>machine translation</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>masin-tõlkele</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>request</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>päring</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Estonian</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>Eesti</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Afar</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>Afari</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Afar</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>Danakili</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>scenario</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>stsenaariumi</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>password</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>salasõna</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>self-hosted</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>oma-majutus</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Page not found</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>Lehekülg puudub</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>trained monkeys</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>koolitatud pärdik</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>feature</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>iseärasus</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>libre software</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>prii-tarkvara</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>merge</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>ühitama</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Git branch</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>Git haru</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>integration with Git</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>Git-liidestus</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>web based</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>võrgupõhine</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>translation tool</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>tõlkevahend</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>attribution</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>kaastöö</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>attribution</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>panus</term></tig></langSet>
+            </termEntry>
+            <termEntry id="2">
+                <langSet xml:lang="en"><tig><term>attribution</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>annetus</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>handling</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>käitlemine</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>context</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>kaastekst</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>sane</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>mõistlik</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>sane</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>selge</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>consistency</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>terviklikkus</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>translation memory</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>tõlkemälu</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>workflow</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>töövoog</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>customize</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>kohanda</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>localization</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>lokaliseerimis</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>milestone</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>verstapost</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>milestones</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>verstapostid</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Acehnese</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>Atšehi</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Acholi</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>Atšoli</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>agreement</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>leping</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Akan</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>Akani</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Amharic</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>Amhari</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Aragonese</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>Aragoni</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Avestan</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>Avesta</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>announcement</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>kuulutus</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>built-in</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>sisse-ehitatud</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>business ID</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>äriregistri number</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>business ID</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>äri tunnuskood</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>panusta</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>töölaud</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>community</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>kogukond</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>conferences</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>kokkutulekud</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>consistency</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>järjepidevus</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>contributor</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>toetaja</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>context</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>sisu</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>copyleft</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>vabakasutus leping</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>development</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>arendus</term></tig></langSet>
+            </termEntry>
+            <termEntry id="2">
+                <langSet xml:lang="en"><tig><term>context</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>ümbrus</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>generate</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>loo</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Git integration</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>Git-liidestus</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>retrieve</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>lunastada</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>has failed</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>nurjus</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hosted</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>majutatud</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>horizon</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>silmapiir</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>instead</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>selmet</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>link</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>viit</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>unknown</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>tundmatu</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Mapudungun</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>Mapudunguni</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>machine readable format</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>masin-loetav vorming</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>release</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>väljalase</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>promotion</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>edutamine</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>translation</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>tõlge</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>cyrillic</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>kürillitsa</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Crimean</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>Krimmi</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Tatar</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>tatari</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Church Slavonic</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>kirikuslaavi</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Swiss</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>šveitsi</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>issue</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>vaie</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>documentation</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>dokumentatsioon</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>issue</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>teavitus</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>issues</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>teavitused</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>GitHub issues</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>GitHubi teavitused</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>GitHub pull request</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>GitHubi kaasamis taotlus</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>relevant issue number</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>vastav teavituse number</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>issue number</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>teavituse number</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>mailing list</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>e-kirja loend</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>virtualization</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>virtualiseerimis</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>GitHub repository</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>GitHubi varamu</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Docker container</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>Dockeri hoidla</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>fluent</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>sorav</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>control</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>haldus</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Discuss it with your associates</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>Sel teemal pea nõu kaaslastega</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>integrated</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>lõimunud</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>version control</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>versioonihaldus</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>version control system</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>versioonihaldus süsteem</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>translator</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>tõlkija</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>translators</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>tõlkijad</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>interpreter</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>tõlk</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>access</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>pääse</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Catalan</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>Katalaani</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>if applicable</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>võimalusel</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Crimean Tatar</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>Krimmitatari</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>cloud</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>pilv</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Dhivehi</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>Maldiivi</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>German</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>Saksa</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>image</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>tõmmis</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>interpretation</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>tõlkimine</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Latin</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>Ladina</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>interpretator</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>tõlk</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>patch submission</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>paiga väljastamine</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Meadow Mari</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>Niidumari</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>source code</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>lähtekood</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>selected option</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>tähistatud valik</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>URL-i saba</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>translation flag</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>tõlketunnus</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>varamu</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>billing plan</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>arve kava</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>suggestion</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>ettepanek</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>automatic suggestions</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>automaat-soovitused</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>question mark</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>küsimärk</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>mismatched</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>sobimatu</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>quality check</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>kvaliteedi kontroll</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>semicolon</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>semikoolon</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>full stop</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>punkt</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>exclamation mark</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>hüüumärk</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>ellipsis</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>mõttepunktid</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>colon</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>koolon</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>formatting</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>vorming</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>regular expression</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>regulaar-avaldis</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>to match</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>vastandamiseks</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>integration</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>liidestus</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>define</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>määra</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>author</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>autor</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>upload</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>üles-laetu</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>new language</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>uus keel</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>use</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>kasuta</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>component</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>komponent</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>preventing</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>vältimaks</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>being translated</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>tõlkimist</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>lock</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>lukusta</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>edit</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>toimeta</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>edit</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>muuda</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>settings</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>sätted</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>delete</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>kustuta</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>comment</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>kommentaar</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>comment</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>arvustus</term></tig></langSet>
+            </termEntry>
+            <termEntry id="2">
+                <langSet xml:lang="en"><tig><term>comment</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>selgitus</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>skip</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>jäta vahele</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>API key</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>API tunnus</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>machine translation</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>masintõlke</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>machine translation engine</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>masintõlke mootor</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>domain</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>domeen</term></tig></langSet>
+            </termEntry>
+            <termEntry id="2">
+                <langSet xml:lang="en"><tig><term>sane</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>selge</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>dedicated</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>pühendatud</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>support</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>tugi</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>respect</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>austus</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hosted service</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>majutusteenus</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hosting service</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>majutusteenus</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>privacy</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>privaatsus</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>configures</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>seadistab</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>user</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>kasutaja</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>authentication</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>tõendamine</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>access rights</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>pääsu load</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Adyghe</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>Adõgee</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Afrikaans</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>Afrikaani</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>built-in</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>lõimitud</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>e-mail</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>e-kiri</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>container</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>hoidla</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Docker</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>Docker</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>fluent</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>ladus</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>retrieve</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>vastu võtta</term></tig></langSet>
+            </termEntry>
+            <termEntry id="2">
+                <langSet xml:lang="en"><tig><term>retrieve</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>alla laadida</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>handling</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>käsitlus</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>image</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>kujutis</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>license</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>leping</term></tig></langSet>
+            </termEntry>
+            <termEntry id="2">
+                <langSet xml:lang="en"><tig><term>license</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>volitus</term></tig></langSet>
+            </termEntry>
+            <termEntry id="3">
+                <langSet xml:lang="en"><tig><term>sane</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>puhas</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>privacy</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>ise-olemine</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>provide</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>pakume</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>easy</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>hõlbus</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>cloud provider</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>pilve pakkuja</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>platform</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>platvorm</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>stack</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>pakk</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>cloud provider</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>(pilve) võõrustajatega</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>fine-tune</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>peen häälesta</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>fine-tune</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>täpsusta</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>comprehensive</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>mahukas</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>Weblate</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>upgrades</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>täiendused</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>upgrading</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>uutmine</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>shared</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>jagatud</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>shared</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>ühine</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>options</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>valikud</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>options</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>võimalused</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>payment</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>makse</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>payment</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>rahakanne</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>manage</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>korralda</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>manage</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>halda</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>expired</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>aegunud</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>expired</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>hilinenud</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pro forma invoice</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>ettemaksu arve</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>invoice</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>arve</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>download</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>laealla</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>reliable</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>usaldusväärne</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>native</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>iseseisev</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>native</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>kohalik</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>improved</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>täiustatud</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>improved</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>parendatud</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>apply now</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>rakenda kohe</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Apply now</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>Taotle kohta</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>apply</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>rakenda</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>tune up</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>häälesta</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>libraries</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>teegid</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>back-end</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>taustatöö</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>metadata</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>metaandmed</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>front-end</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>esipaan</term></tig></langSet>
+            </termEntry>
+        </body>
+    </text>
+</martif>
