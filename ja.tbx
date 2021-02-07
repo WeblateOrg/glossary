@@ -80,7 +80,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>role</term></tig></langSet>
-                <langSet xml:lang="ja"><tig><term>役割</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>ロール</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>permission</term></tig></langSet>
