@@ -134,10 +134,6 @@
                 <langSet xml:lang="en"><tig><term>authentication</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>認証</term></tig></langSet>
             </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>access control</term></tig></langSet>
-                <langSet xml:lang="ja"><tig><term>アクセス制御</term></tig></langSet>
-            </termEntry>
         </body>
     </text>
 </martif>
