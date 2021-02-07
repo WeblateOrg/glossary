@@ -554,6 +554,10 @@
                 <langSet xml:lang="en"><tig><term>[ssh] host keys</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>[ssh-]ключ сервера</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Forbidden translation</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Нежелательный перевод</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
