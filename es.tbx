@@ -50,6 +50,10 @@
                 <langSet xml:lang="en"><tig><term>rebase</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>cambiar base</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>watched</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>monitorizado</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
