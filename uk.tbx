@@ -30,6 +30,10 @@
                 <langSet xml:lang="en"><tig><term>component</term></tig></langSet>
                 <langSet xml:lang="uk"><tig><term>складник</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>component</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>складник</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
