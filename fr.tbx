@@ -552,7 +552,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>quality checks</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term>vérifications de qualité</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>vérifications de qualité (plutôt que "contrôle de la qualité")</term></tig></langSet>
             </termEntry>
         </body>
     </text>
