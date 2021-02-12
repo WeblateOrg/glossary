@@ -554,6 +554,10 @@
                 <langSet xml:lang="en"><tig><term>bulk edit</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>édition en masse</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>quality checks</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>vérifications de qualité</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
