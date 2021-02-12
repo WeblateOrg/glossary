@@ -287,10 +287,6 @@
                 <langSet xml:lang="fr"><tig><term>Annonces</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>quality check</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term>contrôle de la qualité</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>subscription</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>abonnement</term></tig></langSet>
             </termEntry>
