@@ -15,10 +15,6 @@
                 <langSet xml:lang="sv"><tig><term>mejl</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>watched</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term>bevakade</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>disable</term></tig></langSet>
                 <langSet xml:lang="sv"><tig><term>deaktivera</term></tig></langSet>
             </termEntry>
