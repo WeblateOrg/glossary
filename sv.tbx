@@ -70,6 +70,10 @@
                 <langSet xml:lang="en"><tig><term>Propagated</term></tig></langSet>
                 <langSet xml:lang="sv"><tig><term>Fortplantad</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>term</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>post</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
