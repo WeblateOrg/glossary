@@ -1378,6 +1378,10 @@
                 <langSet xml:lang="en"><tig><term>contribute</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>beitragen</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>contribution</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Beitrag</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
