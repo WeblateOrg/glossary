@@ -562,6 +562,10 @@
                 <langSet xml:lang="en"><tig><term>quality check</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>vérification de qualité</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>wrap line</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>retour à la ligne</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
