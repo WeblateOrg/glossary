@@ -1382,6 +1382,10 @@
                 <langSet xml:lang="en"><tig><term>contribution</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Beitrag</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>unmark</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>aufheben</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
