@@ -566,6 +566,10 @@
                 <langSet xml:lang="en"><tig><term>wrap line</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>retour à la ligne</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Not translatable</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Traduction interdite (justification : nom propre ou marque ne devant pas être traduit)</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
