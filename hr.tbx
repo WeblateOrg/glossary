@@ -166,6 +166,10 @@
                 <langSet xml:lang="en"><tig><term>generated</term></tig></langSet>
                 <langSet xml:lang="hr"><tig><term>stvoreno</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>monolingual base file</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>osnovna jednojezična datoteka</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
