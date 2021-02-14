@@ -310,6 +310,10 @@
                 <langSet xml:lang="en"><tig><term>follow (glossary)</term></tig></langSet>
                 <langSet xml:lang="ca"><tig><term>ajustar-se</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>enforced</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>obligatòria</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
