@@ -502,6 +502,10 @@
                 <langSet xml:lang="en"><tig><term>infomation</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>資訊</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Terminology</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>專有名詞</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
