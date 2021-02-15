@@ -34,6 +34,10 @@
                 <langSet xml:lang="en"><tig><term>Reports</term></tig></langSet>
                 <langSet xml:lang="ml"><tig><term>റിപ്പോർട്ടുകൾ</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Hosted service</term></tig></langSet>
+                <langSet xml:lang="ml"><tig><term>ഹോസ്റ്റുചെയ്‌ത സേവനം</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
