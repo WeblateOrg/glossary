@@ -38,6 +38,10 @@
                 <langSet xml:lang="en"><tig><term>Hosted service</term></tig></langSet>
                 <langSet xml:lang="ml"><tig><term>ഹോസ്റ്റുചെയ്‌ത സേവനം</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Backup failed</term></tig></langSet>
+                <langSet xml:lang="ml"><tig><term>ബാക്കപ്പ് പരാജയപ്പെട്ടു</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
