@@ -22,6 +22,10 @@
                 <langSet xml:lang="en"><tig><term>Subject</term></tig></langSet>
                 <langSet xml:lang="ml"><tig><term>വിഷയം</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Dismiss</term></tig></langSet>
+                <langSet xml:lang="ml"><tig><term>ഒഴിവാക്കൂ</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
