@@ -14,6 +14,10 @@
                 <langSet xml:lang="en"><tig><term>Message</term></tig></langSet>
                 <langSet xml:lang="ml"><tig><term>സന്ദേശം</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Password</term></tig></langSet>
+                <langSet xml:lang="ml"><tig><term>രഹസ്യവാക്ക്</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
