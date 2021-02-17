@@ -566,10 +566,6 @@
                 <langSet xml:lang="en"><tig><term>directory</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>папка</term></tig></langSet>
             </termEntry>
-            <termEntry id="directory">
-                <langSet xml:lang="en"><tig><term>directory</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>каталог</term></tig></langSet>
-            </termEntry>
         </body>
     </text>
 </martif>
