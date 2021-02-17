@@ -562,6 +562,10 @@
                 <langSet xml:lang="en"><tig><term>enforced check</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>принудительная проверка</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>directory</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>папка</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
