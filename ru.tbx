@@ -578,6 +578,10 @@
                 <langSet xml:lang="en"><tig><term>Review strings</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Рецензирование строк</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Edit source</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Правка источника</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
