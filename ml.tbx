@@ -46,6 +46,10 @@
                 <langSet xml:lang="en"><tig><term>Color</term></tig></langSet>
                 <langSet xml:lang="ml"><tig><term>നിറം</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Singular</term></tig></langSet>
+                <langSet xml:lang="ml"><tig><term>ഏകവചനം</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
