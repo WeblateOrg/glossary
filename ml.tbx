@@ -54,6 +54,10 @@
                 <langSet xml:lang="en"><tig><term>Plural</term></tig></langSet>
                 <langSet xml:lang="ml"><tig><term>ബഹുവചനം</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Other</term></tig></langSet>
+                <langSet xml:lang="ml"><tig><term>മറ്റുള്ളവ</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
