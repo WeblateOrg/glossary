@@ -62,6 +62,10 @@
                 <langSet xml:lang="en"><tig><term>Zero</term></tig></langSet>
                 <langSet xml:lang="ml"><tig><term>പൂജ്യം</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Users</term></tig></langSet>
+                <langSet xml:lang="ml"><tig><term>ഉപയോക്താക്കൾ</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
