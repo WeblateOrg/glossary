@@ -42,6 +42,10 @@
                 <langSet xml:lang="en"><tig><term>Backup failed</term></tig></langSet>
                 <langSet xml:lang="ml"><tig><term>ബാക്കപ്പ് പരാജയപ്പെട്ടു</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Color</term></tig></langSet>
+                <langSet xml:lang="ml"><tig><term>നിറം</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
