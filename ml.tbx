@@ -66,6 +66,10 @@
                 <langSet xml:lang="en"><tig><term>Users</term></tig></langSet>
                 <langSet xml:lang="ml"><tig><term>ഉപയോക്താക്കൾ</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Configure</term></tig></langSet>
+                <langSet xml:lang="ml"><tig><term>ക്രമീകരിക്കുക</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
