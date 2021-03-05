@@ -362,10 +362,6 @@
                 <langSet xml:lang="en"><tig><term>target</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>destino</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>language</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term>idioma</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>guidance</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>orientação</term></tig></langSet>
