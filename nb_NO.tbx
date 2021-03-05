@@ -24,7 +24,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
-                <langSet xml:lang="nb_NO"><tig><term>arkiv</term></tig></langSet>
+                <langSet xml:lang="nb_NO"><tig><term>kodelager</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>notifications</term></tig></langSet>
