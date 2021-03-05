@@ -606,6 +606,10 @@
                 <langSet xml:lang="en"><tig><term>checks</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>verificações</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>placeables</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>objetos colocáveis</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
