@@ -598,6 +598,10 @@
                 <langSet xml:lang="en"><tig><term>container</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>contêiner</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>containers</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>contêineres</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
