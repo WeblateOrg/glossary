@@ -614,6 +614,10 @@
                 <langSet xml:lang="en"><tig><term>ellipsis</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>reticência</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>ellipses</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>reticências</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
