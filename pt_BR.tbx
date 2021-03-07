@@ -622,6 +622,10 @@
                 <langSet xml:lang="en"><tig><term>placeholders</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>espaços reservados</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>full stop</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>ponto final</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
