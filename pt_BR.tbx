@@ -642,6 +642,10 @@
                 <langSet xml:lang="en"><tig><term>source string</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>texto fonte</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>source language</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>idioma fonte</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
