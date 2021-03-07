@@ -638,6 +638,10 @@
                 <langSet xml:lang="en"><tig><term>hostnames</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>nomes de host</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>source string</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>texto fonte</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
