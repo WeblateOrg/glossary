@@ -14,10 +14,6 @@
                 <langSet xml:lang="en"><tig><term>rebase</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>realocar</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term>original</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>string</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>texto</term></tig></langSet>
