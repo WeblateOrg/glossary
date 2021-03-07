@@ -642,6 +642,10 @@
                 <langSet xml:lang="en"><tig><term>hostname</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>nome de host</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hostnames</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>nomes de host</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
