@@ -634,6 +634,10 @@
                 <langSet xml:lang="en"><tig><term>dismissed</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>dispensada</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>branches</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>ramos</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
