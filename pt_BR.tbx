@@ -638,6 +638,10 @@
                 <langSet xml:lang="en"><tig><term>branches</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>ramos</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hostname</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>nome de host</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
