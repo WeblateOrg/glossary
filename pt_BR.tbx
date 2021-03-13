@@ -666,6 +666,10 @@
                 <langSet xml:lang="en"><tig><term>merge requests</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>merge requests</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>subscriptions</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>assinaturas</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
