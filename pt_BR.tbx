@@ -566,10 +566,6 @@
                 <langSet xml:lang="en"><tig><term>website</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>site</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>subscription</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term>assinatura</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pseudolocale</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>pseudolocalidade</term></tig></langSet>
