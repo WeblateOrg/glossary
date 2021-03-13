@@ -662,6 +662,10 @@
                 <langSet xml:lang="en"><tig><term>linked</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>vinculado</term></tig></langSet>
             </termEntry>
+            <termEntry id="GitHub">
+                <langSet xml:lang="en"><tig><term>pull requests</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>pull requests</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
