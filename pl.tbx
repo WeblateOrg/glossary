@@ -278,6 +278,10 @@
                 <langSet xml:lang="en"><tig><term>enforced checks</term></tig></langSet>
                 <langSet xml:lang="pl"><tig><term>wymuszone kontrole</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>discovery</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>odkrywanie</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
