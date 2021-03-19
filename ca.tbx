@@ -322,6 +322,14 @@
                 <langSet xml:lang="en"><tig><term>maintainer</term></tig></langSet>
                 <langSet xml:lang="ca"><tig><term>mantenidor</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>testimoni</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>String needing action</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>Cadena pendent</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
