@@ -282,6 +282,10 @@
                 <langSet xml:lang="en"><tig><term>discovery</term></tig></langSet>
                 <langSet xml:lang="pl"><tig><term>odkrywanie</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>suggestions</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>sugestie</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
