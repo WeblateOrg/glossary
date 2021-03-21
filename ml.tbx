@@ -70,6 +70,10 @@
                 <langSet xml:lang="en"><tig><term>Configure</term></tig></langSet>
                 <langSet xml:lang="ml"><tig><term>ക്രമീകരിക്കുക</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>variant</term></tig></langSet>
+                <langSet xml:lang="ml"><tig><term>Mark this string as a variant of string with matching source. See :ref:`variants`.</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
