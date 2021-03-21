@@ -82,10 +82,6 @@
                 <langSet xml:lang="en"><tig><term>Add new word</term></tig></langSet>
                 <langSet xml:lang="nl"><tig><term>Voeg nieuw woord toe</term></tig></langSet>
             </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>variant</term></tig></langSet>
-                <langSet xml:lang="nl"><tig><term>Mark this string as a variant of string with matching source. See :ref:`variants`.</term></tig></langSet>
-            </termEntry>
         </body>
     </text>
 </martif>
