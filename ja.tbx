@@ -142,6 +142,10 @@
                 <langSet xml:lang="en"><tig><term>plural formula</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>複数形判定式</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>variant</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>Mark this string as a variant of string with matching source. See :ref:`variants`.</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
