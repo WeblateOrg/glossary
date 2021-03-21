@@ -58,10 +58,6 @@
                 <langSet xml:lang="en"><tig><term>repositories</term></tig></langSet>
                 <langSet xml:lang="sr"><tig><term>складишта</term></tig></langSet>
             </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>variant</term></tig></langSet>
-                <langSet xml:lang="sr"><tig><term>Mark this string as a variant of string with matching source. See :ref:`variants`.</term></tig></langSet>
-            </termEntry>
         </body>
     </text>
 </martif>
