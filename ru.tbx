@@ -199,10 +199,6 @@
                 <langSet xml:lang="ru"><tig><term>вышестоящий [репозиторий]</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>shapings</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>фасон</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>label</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>метка</term></tig></langSet>
             </termEntry>
