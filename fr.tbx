@@ -247,10 +247,6 @@
                 <langSet xml:lang="fr"><tig><term>mode Zen</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>shapings</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term>variantes</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>submit</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>envoyer, proposer</term></tig></langSet>
             </termEntry>
