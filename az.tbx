@@ -14,10 +14,6 @@
                 <langSet xml:lang="en"><tig><term>/&gt;&lt;svg src=x onload=confirm(document.domain);&gt;</term></tig></langSet>
                 <langSet xml:lang="az"><tig><term>/&gt;&lt;svg src=x onload=confirm(document.domain);&gt;</term></tig></langSet>
             </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>variant</term></tig></langSet>
-                <langSet xml:lang="az"><tig><term>Mark this string as a variant of string with matching source. See :ref:`variants`.</term></tig></langSet>
-            </termEntry>
         </body>
     </text>
 </martif>
