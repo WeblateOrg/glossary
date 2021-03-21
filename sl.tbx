@@ -4462,6 +4462,10 @@
                 <langSet xml:lang="en"><tig><term>source string</term></tig></langSet>
                 <langSet xml:lang="sl"><tig><term>izvirni niz</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>variant</term></tig></langSet>
+                <langSet xml:lang="sl"><tig><term>Mark this string as a variant of string with matching source. See :ref:`variants`.</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
