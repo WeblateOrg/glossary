@@ -18,10 +18,6 @@
                 <langSet xml:lang="en"><tig><term>username</term></tig></langSet>
                 <langSet xml:lang="el"><tig><term>όνομα χρήστη</term></tig></langSet>
             </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>variant</term></tig></langSet>
-                <langSet xml:lang="el"><tig><term>Mark this string as a variant of string with matching source. See :ref:`variants`.</term></tig></langSet>
-            </termEntry>
         </body>
     </text>
 </martif>
