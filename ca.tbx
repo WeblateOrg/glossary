@@ -330,6 +330,10 @@
                 <langSet xml:lang="en"><tig><term>String needing action</term></tig></langSet>
                 <langSet xml:lang="ca"><tig><term>Cadena pendent</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>variant</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>Mark this string as a variant of string with matching source. See :ref:`variants`.</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
