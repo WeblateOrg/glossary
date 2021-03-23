@@ -20,7 +20,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>link</term></tig></langSet>
-                <langSet xml:lang="nl"><tig><term>koppeling</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>link</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>suggestion</term></tig></langSet>
@@ -56,7 +56,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>information</term></tig></langSet>
-                <langSet xml:lang="nl"><tig><term>informatie, info</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>informatie</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>source code</term></tig></langSet>
@@ -80,7 +80,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Add new word</term></tig></langSet>
-                <langSet xml:lang="nl"><tig><term>Voeg nieuw woord toe</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>Woord toevoegen</term></tig></langSet>
             </termEntry>
         </body>
     </text>
