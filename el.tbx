@@ -18,6 +18,10 @@
                 <langSet xml:lang="en"><tig><term>username</term></tig></langSet>
                 <langSet xml:lang="el"><tig><term>όνομα χρήστη</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Needs editing</term></tig></langSet>
+                <langSet xml:lang="el"><tig><term>Χρειάζεται επεξεργασία</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
