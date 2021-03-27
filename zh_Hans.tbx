@@ -414,6 +414,10 @@
                 <langSet xml:lang="en"><tig><term>context</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>上下文</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>:ref:`bimono`, :ref:`reviews`, :ref:`labels`, :ref:`user-comments`</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>:ref:`bimono`, :ref:`reviews`, :ref:`labels`, :ref:`user-comments`</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
