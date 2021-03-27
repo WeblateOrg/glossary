@@ -582,6 +582,10 @@
                 <langSet xml:lang="en"><tig><term>Access repository</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Доступ к репозиторию</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>:ref:`bimono`, :ref:`reviews`, :ref:`labels`, :ref:`user-comments`</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>:ref:`bimono`, :ref:`reviews`, :ref:`labels`, :ref:`user-comments`</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
