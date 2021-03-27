@@ -330,6 +330,10 @@
                 <langSet xml:lang="en"><tig><term>String needing action</term></tig></langSet>
                 <langSet xml:lang="ca"><tig><term>Cadena pendent</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>:ref:`bimono`, :ref:`reviews`, :ref:`labels`, :ref:`user-comments`</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>:ref:`bimono`, :ref:`reviews`, :ref:`labels`, :ref:`user-comments`</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
