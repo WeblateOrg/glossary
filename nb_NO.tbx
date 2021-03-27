@@ -34,6 +34,10 @@
                 <langSet xml:lang="en"><tig><term>URL scheme</term></tig></langSet>
                 <langSet xml:lang="nb_NO"><tig><term>nettadressesystem?</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>:ref:`bimono`, :ref:`reviews`, :ref:`labels`, :ref:`user-comments`</term></tig></langSet>
+                <langSet xml:lang="nb_NO"><tig><term>:ref:`bimono`, :ref:`reviews`, :ref:`labels`, :ref:`user-comments`</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
