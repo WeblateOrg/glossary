@@ -906,6 +906,10 @@
                 <langSet xml:lang="en"><tig><term>dedicated</term></tig></langSet>
                 <langSet xml:lang="cs"><tig><term>vyhrazená</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>:ref:`bimono`, :ref:`reviews`, :ref:`labels`, :ref:`user-comments`</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>:ref:`bimono`, :ref:`reviews`, :ref:`labels`, :ref:`user-comments`</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
