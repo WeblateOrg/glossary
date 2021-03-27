@@ -22,6 +22,10 @@
                 <langSet xml:lang="en"><tig><term>Needs editing</term></tig></langSet>
                 <langSet xml:lang="el"><tig><term>Χρειάζεται επεξεργασία</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>:ref:`bimono`, :ref:`reviews`, :ref:`labels`, :ref:`user-comments`</term></tig></langSet>
+                <langSet xml:lang="el"><tig><term>:ref:`bimono`, :ref:`reviews`, :ref:`labels`, :ref:`user-comments`</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
