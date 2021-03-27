@@ -14,6 +14,10 @@
                 <langSet xml:lang="en"><tig><term>/&gt;&lt;svg src=x onload=confirm(document.domain);&gt;</term></tig></langSet>
                 <langSet xml:lang="az"><tig><term>/&gt;&lt;svg src=x onload=confirm(document.domain);&gt;</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>:ref:`bimono`, :ref:`reviews`, :ref:`labels`, :ref:`user-comments`</term></tig></langSet>
+                <langSet xml:lang="az"><tig><term>:ref:`bimono`, :ref:`reviews`, :ref:`labels`, :ref:`user-comments`</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
