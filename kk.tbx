@@ -121,6 +121,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
                 <langSet xml:lang="kk"><tig><term>komit</term></tig></langSet>
+                <descrip>git-commit</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>memory</term></tig></langSet>
@@ -382,6 +383,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>custom</term></tig></langSet>
                 <langSet xml:lang="kk"><tig><term>teŋşeulı</term></tig></langSet>
+                <descrip>sérstaklega búinn til fyrir ákveðinn tilgang eða notanda</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>as</term></tig></langSet>
@@ -770,6 +772,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>header</term></tig></langSet>
                 <langSet xml:lang="kk"><tig><term>üstıŋgı derekteme</term></tig></langSet>
+                <descrip>bagian pengodean yang mendahului tubuh dokumen dan digunakan untuk menggambarkan dokumen itu sendiri</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>history</term></tig></langSet>
@@ -810,6 +813,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>optimize</term></tig></langSet>
                 <langSet xml:lang="kk"><tig><term>oŋtailandyru</term></tig></langSet>
+                <descrip>að meta og sníða vöru samkvæmt hagkvæmustu notkun</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>option</term></tig></langSet>
@@ -922,6 +926,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>timestamp</term></tig></langSet>
                 <langSet xml:lang="kk"><tig><term>uaqyt belgısı</term></tig></langSet>
+                <descrip>時間標記</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>trigger</term></tig></langSet>
