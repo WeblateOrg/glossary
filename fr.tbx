@@ -544,7 +544,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bulk edit</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term>édition en masse</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>modification en masse</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>quality checks</term></tig></langSet>
@@ -572,7 +572,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>edited</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term>édité</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>modifié</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>:ref:`bimono`, :ref:`reviews`, :ref:`labels`, :ref:`user-comments`</term></tig></langSet>
