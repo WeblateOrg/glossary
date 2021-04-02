@@ -28,7 +28,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>merge</term></tig></langSet>
-                <langSet xml:lang="hr"><tig><term>sjediniti</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>sjedini</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
@@ -180,7 +180,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>edit</term></tig></langSet>
-                <langSet xml:lang="hr"><tig><term></term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>uredi</term></tig></langSet>
             </termEntry>
         </body>
     </text>
