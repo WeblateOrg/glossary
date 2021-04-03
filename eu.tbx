@@ -35,12 +35,8 @@
                 <langSet xml:lang="eu"><tig><term>posta elektronikoa</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>:ref:`bimono`, :ref:`reviews`, :ref:`labels`, :ref:`user-comments`</term></tig></langSet>
-                <langSet xml:lang="eu"><tig><term>:ref:`bimono`, :ref:`reviews`, :ref:`labels`, :ref:`user-comments`</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>edit</term></tig></langSet>
-                <langSet xml:lang="eu"><tig><term></term></tig></langSet>
+                <langSet xml:lang="eu"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
