@@ -496,7 +496,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>support status</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term>statut de l'assistance</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>statut de l’assistance</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Celery queues</term></tig></langSet>
