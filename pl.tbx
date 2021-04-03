@@ -287,10 +287,6 @@
                 <langSet xml:lang="pl"><tig><term>sugestie</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>:ref:`bimono`, :ref:`reviews`, :ref:`labels`, :ref:`user-comments`</term></tig></langSet>
-                <langSet xml:lang="pl"><tig><term>:ref:`bimono`, :ref:`reviews`, :ref:`labels`, :ref:`user-comments`</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>edit</term></tig></langSet>
                 <langSet xml:lang="pl"><tig><term>edytuj</term></tig></langSet>
             </termEntry>
