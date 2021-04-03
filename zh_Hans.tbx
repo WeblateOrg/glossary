@@ -415,10 +415,6 @@
                 <langSet xml:lang="zh_Hans"><tig><term>上下文</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>:ref:`bimono`, :ref:`reviews`, :ref:`labels`, :ref:`user-comments`</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>:ref:`bimono`, :ref:`reviews`, :ref:`labels`, :ref:`user-comments`</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>edit</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>编辑</term></tig></langSet>
             </termEntry>
