@@ -146,6 +146,10 @@
                 <langSet xml:lang="en"><tig><term>edit</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>編集</term></tig></langSet>
             </termEntry>
+            <termEntry id="interpreter は三か所で使われており、ひとつは未翻訳で、インタープリター と インタプリター の揺れがありました。とりあえず Wikipwdia の用語を入れておきます。">
+                <langSet xml:lang="en"><tig><term>interpreter</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>インタプリタ</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
