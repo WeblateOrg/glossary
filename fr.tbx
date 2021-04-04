@@ -88,7 +88,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>flag</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term>marquer ou drapeau</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>marquer ou drapeau ou indicateur</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>reviewer reviewers</term></tig></langSet>
@@ -564,7 +564,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Not translatable</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term>Traduction interdite</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Ne doit pas être traduit</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Forbidden translation</term></tig></langSet>
