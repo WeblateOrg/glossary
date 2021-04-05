@@ -578,6 +578,10 @@
                 <langSet xml:lang="en"><tig><term>edit</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>modifier</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Hide</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Masquer</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
