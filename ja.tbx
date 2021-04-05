@@ -150,6 +150,10 @@
                 <langSet xml:lang="en"><tig><term>interpreter</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>インタプリタ</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>machine translation</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>機械翻訳</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
