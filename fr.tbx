@@ -160,11 +160,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>permission</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term>droit</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>droit ou autorisation</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>permissions</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term>droits</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>droits ou autorisations</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>privacy policy</term></tig></langSet>
@@ -348,7 +348,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Authentication</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term>Authentication</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Authentification</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Viewers</term></tig></langSet>
@@ -428,7 +428,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>privileges</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term>privilèges</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>privilèges ou droits</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Add suggestion</term></tig></langSet>
