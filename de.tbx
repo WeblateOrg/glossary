@@ -1060,7 +1060,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>check</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Qualitätsprüfung</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Prüfung</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>image type</term></tig></langSet>
