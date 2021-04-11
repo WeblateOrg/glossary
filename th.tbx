@@ -14,6 +14,10 @@
                 <langSet xml:lang="en"><tig><term>edit</term></tig></langSet>
                 <langSet xml:lang="th"><tig><term/></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>SSO</term></tig></langSet>
+                <langSet xml:lang="th"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
