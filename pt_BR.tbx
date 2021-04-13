@@ -688,6 +688,10 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SSO</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>search</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
