@@ -4468,11 +4468,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SSO</term></tig></langSet>
-                <langSet xml:lang="sl"><tig><term/></tig></langSet>
+                <langSet xml:lang="sl"><tig><term>enotna prijava</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
-                <langSet xml:lang="sl"><tig><term></term></tig></langSet>
+                <langSet xml:lang="sl"><tig><term>zaseben</term></tig></langSet>
             </termEntry>
         </body>
     </text>
