@@ -220,7 +220,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term></term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>özel</term></tig></langSet>
             </termEntry>
         </body>
     </text>
