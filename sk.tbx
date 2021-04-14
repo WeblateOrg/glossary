@@ -32,6 +32,14 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SSO</term></tig></langSet>
+                <langSet xml:lang="sk"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
+                <langSet xml:lang="sk"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>search</term></tig></langSet>
                 <langSet xml:lang="sk"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
