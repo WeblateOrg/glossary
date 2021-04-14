@@ -16,7 +16,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Automatic</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term>Самочинно</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>Автоматично</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
@@ -48,7 +48,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>приватно</term></tig></langSet>
             </termEntry>
         </body>
     </text>
