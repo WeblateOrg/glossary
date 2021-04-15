@@ -20,7 +20,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term>вихідний</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>початковий</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Regular expression</term></tig></langSet>
