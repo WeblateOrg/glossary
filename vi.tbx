@@ -20,11 +20,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term></term></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>riêng tư</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>search</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term></term></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>tìm kiếm</term></tig></langSet>
             </termEntry>
         </body>
     </text>
