@@ -160,11 +160,19 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
-                <langSet xml:lang="fi"><tig><term></term></tig></langSet>
+                <langSet xml:lang="fi"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>search</term></tig></langSet>
-                <langSet xml:lang="fi"><tig><term></term></tig></langSet>
+                <langSet xml:lang="fi"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>context</term></tig></langSet>
+                <langSet xml:lang="fi"><tig><term>asiayhteys</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>contributors</term></tig></langSet>
+                <langSet xml:lang="fi"><tig><term>osallistujat</term></tig></langSet>
             </termEntry>
         </body>
     </text>
