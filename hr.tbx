@@ -180,15 +180,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SSO</term></tig></langSet>
-                <langSet xml:lang="hr"><tig><term/></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>SSO prijava</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
-                <langSet xml:lang="hr"><tig><term/></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>privatno</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>search</term></tig></langSet>
-                <langSet xml:lang="hr"><tig><term/></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>traži</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
