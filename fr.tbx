@@ -594,6 +594,10 @@
                 <langSet xml:lang="en"><tig><term>Discover Weblate</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Découverte Weblate</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>greffon</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
