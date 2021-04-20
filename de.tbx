@@ -1416,7 +1416,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term></term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Erweiterung</term></tig></langSet>
             </termEntry>
         </body>
     </text>
