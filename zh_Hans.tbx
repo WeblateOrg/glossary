@@ -430,6 +430,10 @@
                 <langSet xml:lang="en"><tig><term>search</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>搜索</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
