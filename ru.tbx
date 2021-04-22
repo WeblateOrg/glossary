@@ -68,7 +68,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>addon</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>дополнение</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>надстройка</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>username</term></tig></langSet>
