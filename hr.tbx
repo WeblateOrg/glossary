@@ -192,7 +192,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
-                <langSet xml:lang="hr"><tig><term></term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>dodatak</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>deployment</term></tig></langSet>
