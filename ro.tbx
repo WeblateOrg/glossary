@@ -34,6 +34,10 @@
                 <langSet xml:lang="en"><tig><term>basic</term></tig></langSet>
                 <langSet xml:lang="ro"><tig><term>de fond</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
+                <langSet xml:lang="ro"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
