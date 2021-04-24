@@ -32,10 +32,14 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
-                <langSet xml:lang="el"><tig><term></term></tig></langSet>
+                <langSet xml:lang="el"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>search</term></tig></langSet>
+                <langSet xml:lang="el"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
                 <langSet xml:lang="el"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
