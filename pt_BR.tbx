@@ -698,6 +698,10 @@
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>privado</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>extensão</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
