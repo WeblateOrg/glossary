@@ -144,23 +144,23 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>edit</term></tig></langSet>
-                <langSet xml:lang="bg"><tig><term/></tig></langSet>
+                <langSet xml:lang="bg"><tig><term>редактиране</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SSO</term></tig></langSet>
-                <langSet xml:lang="bg"><tig><term/></tig></langSet>
+                <langSet xml:lang="bg"><tig><term>технология за единично влизане</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
-                <langSet xml:lang="bg"><tig><term/></tig></langSet>
+                <langSet xml:lang="bg"><tig><term>поверително</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>search</term></tig></langSet>
-                <langSet xml:lang="bg"><tig><term/></tig></langSet>
+                <langSet xml:lang="bg"><tig><term>търсене</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
-                <langSet xml:lang="bg"><tig><term></term></tig></langSet>
+                <langSet xml:lang="bg"><tig><term>добавка</term></tig></langSet>
             </termEntry>
         </body>
     </text>
