@@ -16,7 +16,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>upload</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term>caricamento</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>carica</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>failed</term></tig></langSet>
@@ -52,7 +52,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term></term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>addon</term></tig></langSet>
             </termEntry>
         </body>
     </text>
