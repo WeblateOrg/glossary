@@ -21,6 +21,8 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
                 <langSet xml:lang="is"><tig><term>innlegg</term></tig></langSet>
+                <note from="translator">eða leggja inn</note>
+                <descrip>git-commit</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
@@ -383,6 +385,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SSO</term></tig></langSet>
                 <langSet xml:lang="is"><tig><term>SSO</term></tig></langSet>
+                <note from="translator">'single sign on', eitt notendanafn/aðgangsorð fyrir margþætta þjónustu</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
