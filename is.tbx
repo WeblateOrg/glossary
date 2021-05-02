@@ -72,7 +72,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>addon</term></tig></langSet>
-                <langSet xml:lang="is"><tig><term>hugbúnaðarauki</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>hugbúnaðarviðbót</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>workflow</term></tig></langSet>
@@ -268,7 +268,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>archive</term></tig></langSet>
-                <langSet xml:lang="is"><tig><term>geymslusafn</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>safnskrá</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>moderated</term></tig></langSet>
@@ -380,19 +380,19 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SSO</term></tig></langSet>
-                <langSet xml:lang="is"><tig><term/></tig></langSet>
+                <langSet xml:lang="is"><tig><term>SSO</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
-                <langSet xml:lang="is"><tig><term/></tig></langSet>
+                <langSet xml:lang="is"><tig><term>einka-</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>search</term></tig></langSet>
-                <langSet xml:lang="is"><tig><term/></tig></langSet>
+                <langSet xml:lang="is"><tig><term>leita</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
-                <langSet xml:lang="is"><tig><term></term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>viðbót</term></tig></langSet>
             </termEntry>
         </body>
     </text>
