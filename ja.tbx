@@ -170,10 +170,6 @@
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>アドオン</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>interpolation</term></tig></langSet>
-                <langSet xml:lang="ja"><tig><term>補完</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>interpolation</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>補間</term></tig></langSet>
