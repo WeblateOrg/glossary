@@ -100,7 +100,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>double space</term></tig></langSet>
-                <langSet xml:lang="ja"><tig><term>連続したスペース or 連続スペース (提案)</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>連続したスペース or 連続スペース</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>placeholder</term></tig></langSet>
