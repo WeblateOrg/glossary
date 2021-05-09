@@ -10632,7 +10632,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fast forward</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term>vooruitspoelen</term></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>rapidpluigi</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>FAT</term></tig></langSet>
@@ -26928,7 +26928,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SSO</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term></term></tig></langSet>
+                <langSet xml:lang="eo"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
