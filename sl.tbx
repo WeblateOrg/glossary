@@ -4476,6 +4476,14 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
+                <langSet xml:lang="sl"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
+                <langSet xml:lang="sl"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>bug</term></tig></langSet>
                 <langSet xml:lang="sl"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
