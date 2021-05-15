@@ -6784,7 +6784,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Allow</term></tig></langSet>
-                <langSet xml:lang="cy"><tig><term>Caniatáu</term></tig></langSet>
+                <langSet xml:lang="cy"><tig><term>ganiatáu</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>deploy</term></tig></langSet>
@@ -22624,7 +22624,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>collect</term></tig></langSet>
-                <langSet xml:lang="cy"><tig><term>casglu</term></tig></langSet>
+                <langSet xml:lang="cy"><tig><term>gasglu</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>combination</term></tig></langSet>
@@ -27136,7 +27136,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
-                <langSet xml:lang="cy"><tig><term></term></tig></langSet>
+                <langSet xml:lang="cy"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
