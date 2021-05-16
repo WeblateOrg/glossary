@@ -12,11 +12,11 @@
         <body>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>edit</term></tig></langSet>
-                <langSet xml:lang="bn"><tig><term/></tig></langSet>
+                <langSet xml:lang="bn"><tig><term>সম্পাদনা</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SSO</term></tig></langSet>
-                <langSet xml:lang="bn"><tig><term/></tig></langSet>
+                <langSet xml:lang="bn"><tig><term>একক প্রবেশ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
@@ -28,15 +28,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
-                <langSet xml:lang="bn"><tig><term/></tig></langSet>
+                <langSet xml:lang="bn"><tig><term>অ্যাড-অন</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
-                <langSet xml:lang="bn"><tig><term></term></tig></langSet>
+                <langSet xml:lang="bn"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bug</term></tig></langSet>
-                <langSet xml:lang="bn"><tig><term></term></tig></langSet>
+                <langSet xml:lang="bn"><tig><term>সমস্যা</term></tig></langSet>
             </termEntry>
         </body>
     </text>
