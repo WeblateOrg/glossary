@@ -77,6 +77,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
                 <langSet xml:lang="da"><tig><term>NBD</term></tig></langSet>
+                <note from="translator">Network Block Device</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bug</term></tig></langSet>
@@ -392,7 +393,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term></term></tig></langSet>
+                <langSet xml:lang="da"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
