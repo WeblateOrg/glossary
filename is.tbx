@@ -406,6 +406,22 @@
                 <langSet xml:lang="en"><tig><term>bug</term></tig></langSet>
                 <langSet xml:lang="is"><tig><term>villa</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>optimize</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>kjörsníða</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>workflow</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>verkferill</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>custom</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>sérsniðinn</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>backup</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>varaafrit</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
