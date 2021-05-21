@@ -422,6 +422,14 @@
                 <langSet xml:lang="en"><tig><term>backup</term></tig></langSet>
                 <langSet xml:lang="is"><tig><term>varaafrit</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>documentation</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>fræðslugögn</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>portal</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>vefgátt</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
