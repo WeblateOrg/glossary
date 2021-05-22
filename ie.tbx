@@ -32,10 +32,14 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
-                <langSet xml:lang="ie"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ie"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bug</term></tig></langSet>
+                <langSet xml:lang="ie"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
                 <langSet xml:lang="ie"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
