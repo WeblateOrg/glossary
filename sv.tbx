@@ -106,6 +106,10 @@
                 <langSet xml:lang="en"><tig><term>bug</term></tig></langSet>
                 <langSet xml:lang="sv"><tig><term>bugg</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
