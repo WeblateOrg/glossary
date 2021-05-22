@@ -430,6 +430,10 @@
                 <langSet xml:lang="en"><tig><term>portal</term></tig></langSet>
                 <langSet xml:lang="is"><tig><term>vefgátt</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
