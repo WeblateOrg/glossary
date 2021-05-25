@@ -60,7 +60,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>subscription</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term>abonnemang</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>prenumeration</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Propagated</term></tig></langSet>
@@ -68,7 +68,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>term</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term>post</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>villkor</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>watch</term></tig></langSet>
@@ -108,7 +108,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term></term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
