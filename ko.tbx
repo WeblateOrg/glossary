@@ -376,7 +376,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>edit</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term/></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>편집</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SSO</term></tig></langSet>
@@ -388,7 +388,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>search</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term/></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>검색</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
@@ -396,7 +396,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term/></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>1영업일 후</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
