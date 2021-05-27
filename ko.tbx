@@ -400,7 +400,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>User</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>사용자</term></tig></langSet>
             </termEntry>
         </body>
     </text>
