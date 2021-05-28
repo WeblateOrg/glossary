@@ -300,7 +300,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>rate limit</term></tig></langSet>
-                <langSet xml:lang="is"><tig><term>stigstakmörk</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>aðgerðatakmörk</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>reset</term></tig></langSet>
@@ -432,7 +432,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
-                <langSet xml:lang="is"><tig><term></term></tig></langSet>
+                <langSet xml:lang="is"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
