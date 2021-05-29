@@ -86,10 +86,6 @@
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term/></tig></langSet>
             </termEntry>
-            <termEntry id="alt">
-                <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>addon</term></tig></langSet>
-            </termEntry>
         </body>
     </text>
 </martif>
