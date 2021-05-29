@@ -182,6 +182,10 @@
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
                 <langSet xml:lang="id"><tig><term>Celery</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Libre</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>Gratis</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
