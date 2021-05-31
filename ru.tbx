@@ -622,6 +622,62 @@
                 <langSet xml:lang="en"><tig><term>Managers</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Управляющие</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Django admin interface</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Интерфейс администратора Django</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>`Projects selection`</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>`Выбор проекта`</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>`Projects`</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>`Проекты`</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>`Components`</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>`Компоненты`</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>`Component list`</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>`Список компонентов`</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>`Viewers`</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>`Просматривающие`</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>`All public projects`</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>`Все публичные проекты`</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>`All projects`</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>`Все проекты`</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>`Project selection`</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>`Выбор проекта`</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>`Managers`</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>`Управляющие`</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>`Reviewers`</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>`Рецензенты`</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>`Users`</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>`Пользователи`</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>screenshot</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>снимок экрана</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>screenshots</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>снимки экрана</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
