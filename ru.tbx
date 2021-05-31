@@ -614,6 +614,14 @@
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term/></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Reviewers</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Рецензенты</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Managers</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Управляющие</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
