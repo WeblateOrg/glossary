@@ -678,6 +678,22 @@
                 <langSet xml:lang="en"><tig><term>screenshots</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>снимки экрана</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>workers</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>обработчики</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>worker</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>обработчик</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>надстройка</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>add-ons</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>надстройки</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
