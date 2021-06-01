@@ -188,7 +188,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>variant</term></tig></langSet>
-                <langSet xml:lang="ja"><tig><term>異なる表記</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>別表記</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>locale</term></tig></langSet>
