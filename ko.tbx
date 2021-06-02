@@ -288,7 +288,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>addons</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>부가 기능</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>부가기능</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>main</term></tig></langSet>
@@ -392,7 +392,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term/></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>애드온</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
