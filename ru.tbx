@@ -694,6 +694,26 @@
                 <langSet xml:lang="en"><tig><term>add-ons</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>надстройки</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>PR</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>запрос на извлечение</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>breadcrumb</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>навигационная цепочка</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>breadcrumbs</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>навигационные цепочки</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>trends</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>тенденции</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>trend</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>тендент</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
