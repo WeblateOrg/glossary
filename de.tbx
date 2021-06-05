@@ -1438,6 +1438,26 @@
                 <langSet xml:lang="en"><tig><term>landing page</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Einstiegsseite</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pseudolocale</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Pseudolokalen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>add-ons</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Erweiterungen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pull requests</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Pull-Anfragen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pull request</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Pull-Anfrage</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>addon</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Erweiterung</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
