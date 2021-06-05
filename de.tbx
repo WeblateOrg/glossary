@@ -1440,7 +1440,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pseudolocale</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Pseudolokalen</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Pseudolokale</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add-ons</term></tig></langSet>
