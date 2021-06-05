@@ -1434,6 +1434,10 @@
                 <langSet xml:lang="en"><tig><term>Released</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Veröffentlicht</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>landing page</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Einstiegsseite</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
