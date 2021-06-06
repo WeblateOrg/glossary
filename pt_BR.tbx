@@ -498,10 +498,6 @@
                 <langSet xml:lang="en"><tig><term>rate limiting</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>limitação de taxa</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>rate limiting</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term>limite de taxa</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Peer review</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>Revisão por pares</term></tig></langSet>
