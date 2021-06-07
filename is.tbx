@@ -434,6 +434,14 @@
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
                 <langSet xml:lang="is"><tig><term/></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>stjórnborð</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>component</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>íhlutur</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
