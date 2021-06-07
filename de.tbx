@@ -1458,6 +1458,22 @@
                 <langSet xml:lang="en"><tig><term>addon</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Erweiterung</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>suggestions</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Vorschläge</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Automatic suggestions</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Automatische Vorschläge</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Other languages</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Andere Sprachen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Other occurrences</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Andere Vorkommnisse</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
