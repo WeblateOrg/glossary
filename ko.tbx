@@ -377,6 +377,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SSO</term></tig></langSet>
                 <langSet xml:lang="ko"><tig><term>통합인증</term></tig></langSet>
+                <note from="translator">Single Sign-on 단일 인증 / 다른 용어라면 변경</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
@@ -393,6 +394,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
                 <langSet xml:lang="ko"><tig><term>별일아님</term></tig></langSet>
+                <note from="translator">No Big Deal 신조어 / 다른 용어라면 수정</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
