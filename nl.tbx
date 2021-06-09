@@ -112,7 +112,99 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
-                <langSet xml:lang="nl"><tig><term></term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>VAT ID</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>btw-id</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>opportunity</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>mogelijkheid</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>opportunities</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>mogelijkheden</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>backups</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>back-ups, reservekopieën</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>backup</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>back-up, reservekopie</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>description</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>omschrijving</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>service(s)</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>dienst(en)</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>services</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>diensten</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>service</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>dienst</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>image(s)</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>afbeelding(en)</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>images</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>afbeeldingen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>image</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>afbeelding</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>development</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>ontwikkeling</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>announcement(s)</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>aankondiging(en)</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>announcements</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>aankondigingen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>announcement</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>aankondiging</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>e-mail address</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>e-mailadres</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>payment(s)</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>betaling(en)</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>payments</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>betalingen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>payment</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>betaling</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>feature(s)</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>functie(s)</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>feature</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>functie</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>features</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>functies</term></tig></langSet>
             </termEntry>
         </body>
     </text>
