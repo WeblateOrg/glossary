@@ -42,10 +42,6 @@
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
                 <langSet xml:lang="bn"><tig><term/></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
-                <langSet xml:lang="bn"><tig><term>পরের ব্যবসা দিবস</term></tig></langSet>
-            </termEntry>
         </body>
     </text>
 </martif>
