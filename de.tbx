@@ -1474,6 +1474,26 @@
                 <langSet xml:lang="en"><tig><term>Other occurrences</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Andere Vorkommnisse</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Administration</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Verwaltung</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>screenshots</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Bildschirmfotos</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>screenshot</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Bildschirmfoto</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>format string</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Formatzeichenkette</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>format strings</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Formatzeichenketten</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
