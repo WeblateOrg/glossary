@@ -180,7 +180,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
-                <langSet xml:lang="fi"><tig><term/></tig></langSet>
+                <langSet xml:lang="fi"><tig><term>seur. arkipv.</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bug</term></tig></langSet>
