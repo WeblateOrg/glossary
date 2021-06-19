@@ -177,6 +177,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>翌営業日</term></tig></langSet>
+                <note from="translator">Next business day</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bug</term></tig></langSet>
@@ -297,10 +298,12 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>See</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>参照:</term></tig></langSet>
+                <note from="translator">リソースの参照を促す文脈において。 `See ${URL}`など。</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>activity</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>活動</term></tig></langSet>
+                <note from="translator">サインインなどの、監査ログに記録される操作</note>
             </termEntry>
             <termEntry id="components">
                 <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
