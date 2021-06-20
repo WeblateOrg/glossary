@@ -362,10 +362,6 @@
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
                 <langSet xml:lang="ca"><tig><term/></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>bug</term></tig></langSet>
-                <langSet xml:lang="ca"><tig><term>error</term></tig></langSet>
-            </termEntry>
         </body>
     </text>
 </martif>
