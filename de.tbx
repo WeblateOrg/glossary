@@ -1494,6 +1494,10 @@
                 <langSet xml:lang="en"><tig><term>access restriction</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Zugriffsbeschränkung</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>admin interface</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Adminoberfläche</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
