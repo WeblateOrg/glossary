@@ -96,11 +96,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>account</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>учётная запись</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>учетная запись</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>expired</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>истёкший</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>истекший</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation project</term></tig></langSet>
@@ -108,7 +108,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>merged</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>объединён</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>объединен</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>contributor</term></tig></langSet>
@@ -484,7 +484,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>credentials</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>учётные данные</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>учетные данные</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>lazy commits</term></tig></langSet>
@@ -540,7 +540,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fuzzy (search)</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>нечёткий (поиск)</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>нечеткий (поиск)</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Production setup</term></tig></langSet>
