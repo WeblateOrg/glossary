@@ -1498,6 +1498,26 @@
                 <langSet xml:lang="en"><tig><term>admin interface</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Adminoberfläche</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Billing state</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Abrechnungsstatus</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Billing owners</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Rechnungssteller</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Billing plan</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Abrechnungsmodell</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Billing overview</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Rechnungsübersicht</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Billing</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Abrechnung</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
