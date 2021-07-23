@@ -41,6 +41,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
                 <langSet xml:lang="be"><tig><term>унёсак</term></tig></langSet>
+                <descrip>git-commit</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>community</term></tig></langSet>
@@ -117,6 +118,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>merge</term></tig></langSet>
                 <langSet xml:lang="be"><tig><term>аб'яднаць</term></tig></langSet>
+                <descrip>Git merge</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>merging</term></tig></langSet>
@@ -544,7 +546,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
-                <langSet xml:lang="be"><tig><term></term></tig></langSet>
+                <langSet xml:lang="be"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
