@@ -75,10 +75,6 @@
                 <langSet xml:lang="es"><tig><term>complemento</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>NBD</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>bug</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>error</term></tig></langSet>
             </termEntry>
