@@ -28,7 +28,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>context</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>상황에 맞는 정보</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>문맥 (상황에 맞는 정보)</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Flattr</term></tig></langSet>
@@ -136,7 +136,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Contributors</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>컨트리뷰터</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>공헌자(컨트리뷰터)</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>License</term></tig></langSet>
