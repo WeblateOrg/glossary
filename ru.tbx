@@ -484,7 +484,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>credentials</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>учетные данные</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>учётные данные</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>lazy commits</term></tig></langSet>
@@ -540,7 +540,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fuzzy (search)</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>нечеткий (поиск)</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>нечёткий (поиск)</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Production setup</term></tig></langSet>
