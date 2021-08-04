@@ -184,7 +184,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
-                <langSet xml:lang="pl"><tig><term>to (narzędzie) Weblate</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>Weblate</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>reviewer</term></tig></langSet>
