@@ -36,15 +36,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>edit</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>editar</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SSO</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>SSO</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>privado</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>search</term></tig></langSet>
@@ -64,7 +64,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term></term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
