@@ -995,10 +995,6 @@
                 <langSet xml:lang="de"><tig><term>Serbisch (kyrillisch)</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Repository</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>CSV</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>CSV</term></tig></langSet>
             </termEntry>
