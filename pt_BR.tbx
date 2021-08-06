@@ -714,6 +714,10 @@
                 <langSet xml:lang="en"><tig><term>hook</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>gancho</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Backups</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>Backups</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
