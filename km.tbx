@@ -188,35 +188,35 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>edit</term></tig></langSet>
-                <langSet xml:lang="km"><tig><term/></tig></langSet>
+                <langSet xml:lang="km"><tig><term>កែ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SSO</term></tig></langSet>
-                <langSet xml:lang="km"><tig><term/></tig></langSet>
+                <langSet xml:lang="km"><tig><term>SSO</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
-                <langSet xml:lang="km"><tig><term/></tig></langSet>
+                <langSet xml:lang="km"><tig><term>ឯកជនភាព</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>search</term></tig></langSet>
-                <langSet xml:lang="km"><tig><term/></tig></langSet>
+                <langSet xml:lang="km"><tig><term>ស្វែងរក</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
-                <langSet xml:lang="km"><tig><term/></tig></langSet>
+                <langSet xml:lang="km"><tig><term>ផ្នែកបន្ថែម</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
-                <langSet xml:lang="km"><tig><term/></tig></langSet>
+                <langSet xml:lang="km"><tig><term>NBD</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bug</term></tig></langSet>
-                <langSet xml:lang="km"><tig><term/></tig></langSet>
+                <langSet xml:lang="km"><tig><term>កំហុស</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
-                <langSet xml:lang="km"><tig><term></term></tig></langSet>
+                <langSet xml:lang="km"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
