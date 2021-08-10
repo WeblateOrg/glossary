@@ -950,6 +950,10 @@
                 <langSet xml:lang="en"><tig><term>discovery</term></tig></langSet>
                 <langSet xml:lang="cs"><tig><term>objevování</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>CI</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
