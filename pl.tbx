@@ -80,7 +80,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>VCS</term></tig></langSet>
-                <langSet xml:lang="pl"><tig><term>system kontroli wersji</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>VCS</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>template language</term></tig></langSet>
@@ -100,11 +100,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
-                <langSet xml:lang="pl"><tig><term>zatwierdzenie zmian</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>commit</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit message</term></tig></langSet>
-                <langSet xml:lang="pl"><tig><term>komentarz (do) zatwierdzanych zmian</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>opis commita</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>permission</term></tig></langSet>
@@ -168,11 +168,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>appliance</term></tig></langSet>
-                <langSet xml:lang="pl"><tig><term>obraz</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>urządzenie</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>appliances</term></tig></langSet>
-                <langSet xml:lang="pl"><tig><term>obrazy</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>urządzenia</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>location</term></tig></langSet>
@@ -208,7 +208,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hook</term></tig></langSet>
-                <langSet xml:lang="pl"><tig><term>Hak</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>Hook</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Lazy commits</term></tig></langSet>
@@ -260,7 +260,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parsing</term></tig></langSet>
-                <langSet xml:lang="pl"><tig><term>analizowanie</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>parsowanie</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Webhooks</term></tig></langSet>
@@ -268,7 +268,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Pseudolocale</term></tig></langSet>
-                <langSet xml:lang="pl"><tig><term>Pseudo lokalizacja</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>Pseudolokalizacja</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>forbidden translations</term></tig></langSet>
@@ -320,7 +320,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CI</term></tig></langSet>
-                <langSet xml:lang="pl"><tig><term></term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>CI</term></tig></langSet>
             </termEntry>
         </body>
     </text>
