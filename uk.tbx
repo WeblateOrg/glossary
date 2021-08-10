@@ -72,7 +72,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CI</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>Безперервна інтеграція</term></tig></langSet>
             </termEntry>
         </body>
     </text>
