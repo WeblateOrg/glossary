@@ -718,6 +718,10 @@
                 <langSet xml:lang="en"><tig><term>Backups</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>Backups</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>CI</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
