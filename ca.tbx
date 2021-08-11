@@ -352,7 +352,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
-                <langSet xml:lang="ca"><tig><term/></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>següent dia feiner</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bug</term></tig></langSet>
@@ -364,7 +364,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CI</term></tig></langSet>
-                <langSet xml:lang="ca"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>integració contínua</term></tig></langSet>
             </termEntry>
         </body>
     </text>
