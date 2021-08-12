@@ -48,7 +48,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>search</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>pesquisar</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
@@ -56,7 +56,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>Próximo dia útil (PDU)</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bug</term></tig></langSet>
@@ -68,7 +68,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CI</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term></term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
