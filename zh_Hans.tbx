@@ -444,7 +444,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CI</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term></term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>命令行</term></tig></langSet>
             </termEntry>
         </body>
     </text>
