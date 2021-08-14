@@ -124,11 +124,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>suggest</term></tig></langSet>
-                <langSet xml:lang="pl"><tig><term>proponować</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>zaproponuj</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>suggested</term></tig></langSet>
-                <langSet xml:lang="pl"><tig><term>(za)sugerowane</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>proponowane</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>preferences</term></tig></langSet>
@@ -188,7 +188,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>reviewer</term></tig></langSet>
-                <langSet xml:lang="pl"><tig><term>inspektor</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>recenzent</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
@@ -204,7 +204,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>action</term></tig></langSet>
-                <langSet xml:lang="pl"><tig><term>akcja</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>działanie</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hook</term></tig></langSet>
