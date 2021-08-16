@@ -188,7 +188,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CI</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term></term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>CI</term></tig></langSet>
             </termEntry>
         </body>
     </text>
