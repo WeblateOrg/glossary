@@ -28,7 +28,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>edit</term></tig></langSet>
-                <langSet xml:lang="fa"><tig><term/></tig></langSet>
+                <langSet xml:lang="fa"><tig><term>ویرایش</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SSO</term></tig></langSet>
@@ -36,15 +36,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
-                <langSet xml:lang="fa"><tig><term/></tig></langSet>
+                <langSet xml:lang="fa"><tig><term>خصوصی</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>search</term></tig></langSet>
-                <langSet xml:lang="fa"><tig><term/></tig></langSet>
+                <langSet xml:lang="fa"><tig><term>جستجو</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
-                <langSet xml:lang="fa"><tig><term/></tig></langSet>
+                <langSet xml:lang="fa"><tig><term>افزونه</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
@@ -52,7 +52,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bug</term></tig></langSet>
-                <langSet xml:lang="fa"><tig><term/></tig></langSet>
+                <langSet xml:lang="fa"><tig><term>حفره</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
@@ -60,7 +60,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CI</term></tig></langSet>
-                <langSet xml:lang="fa"><tig><term></term></tig></langSet>
+                <langSet xml:lang="fa"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
