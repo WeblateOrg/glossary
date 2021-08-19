@@ -1538,6 +1538,18 @@
                 <langSet xml:lang="en"><tig><term>staging environment</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Staging-Umgebung</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>built-in</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>integriert</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Support</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Unterstützung</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>rolling updates</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Fortlaufende Updates</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
