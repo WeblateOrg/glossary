@@ -272,7 +272,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>forbidden translations</term></tig></langSet>
-                <langSet xml:lang="pl"><tig><term>zakazane tłumaczenia</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>zabronione tłumaczenia</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>enforced checks</term></tig></langSet>
