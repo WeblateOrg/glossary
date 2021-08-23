@@ -201,6 +201,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CI</term></tig></langSet>
                 <langSet xml:lang="fi"><tig><term>Jatkuva integraatio</term></tig></langSet>
+                <note from="translator">continuous integration</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Keyboard shortcuts</term></tig></langSet>
@@ -492,7 +493,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
-                <langSet xml:lang="fi"><tig><term></term></tig></langSet>
+                <langSet xml:lang="fi"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
