@@ -202,6 +202,10 @@
                 <langSet xml:lang="en"><tig><term>CI</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>CI</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>check</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>検査</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
