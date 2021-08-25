@@ -720,7 +720,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CI</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>CI</term></tig></langSet>
             </termEntry>
             <termEntry id="l10n">
                 <langSet xml:lang="en"><tig><term>locale</term></tig></langSet>
