@@ -720,7 +720,23 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CI</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term></term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry id="l10n">
+                <langSet xml:lang="en"><tig><term>locale</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>localidade</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>stringsdict</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>stringsdict</term></tig></langSet>
+            </termEntry>
+            <termEntry id="l10n">
+                <langSet xml:lang="en"><tig><term>localization</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>localization</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>reset</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>redefinir</term></tig></langSet>
             </termEntry>
         </body>
     </text>
