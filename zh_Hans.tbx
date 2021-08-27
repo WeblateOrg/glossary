@@ -392,11 +392,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>glossary</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>语汇表</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>术语表</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>reset</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>重设</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>重置</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>corresponding</term></tig></langSet>
