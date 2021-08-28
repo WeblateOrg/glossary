@@ -1550,6 +1550,82 @@
                 <langSet xml:lang="en"><tig><term>rolling updates</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Fortlaufende Updates</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Superuser</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Superuser</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Managers</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Manager</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Manager</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Manager</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Default groups</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Standardgruppen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Reviewers</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Prüfer</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Reviewer</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Prüfer</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Guests</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Gäste</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Guest</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Gast</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Viewers</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Betrachter</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Viewer</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Betrachter</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Membership</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Mitgliedschaft</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Power user</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Hauptbenutzer</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Permission</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Berechtigung</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Group</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Gruppe</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Role</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Rolle</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Roles</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Rollen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Groups</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Gruppen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Permissions</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Berechtigungen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Power users</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Hauptbenutzer</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
