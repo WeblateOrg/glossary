@@ -1626,6 +1626,22 @@
                 <langSet xml:lang="en"><tig><term>Power users</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Hauptbenutzer</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>privileges</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Rechte</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>privileges</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Berechtigungen</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>privilege</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Recht</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>site-wide</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>plattformweite</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
