@@ -1642,6 +1642,10 @@
                 <langSet xml:lang="en"><tig><term>site-wide</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>plattformweite</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>site wide</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>plattformweit</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
