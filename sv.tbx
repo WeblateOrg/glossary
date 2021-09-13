@@ -114,6 +114,18 @@
                 <langSet xml:lang="en"><tig><term>CI</term></tig></langSet>
                 <langSet xml:lang="sv"><tig><term>CI</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Keyboard shortcuts</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Regular expressions</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
