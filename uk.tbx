@@ -76,15 +76,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Keyboard shortcuts</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term/></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>Гарячі клавіші</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term/></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>Weblate</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Regular expressions</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term/></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>Регулярні вирази</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
