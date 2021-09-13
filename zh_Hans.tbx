@@ -446,6 +446,22 @@
                 <langSet xml:lang="en"><tig><term>CI</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>命令行</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Regular expressions</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>正则表达式</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Keyboard shortcuts</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>快捷键</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>Weblate</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Local files</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>本地文件</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
