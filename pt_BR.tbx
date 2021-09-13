@@ -738,6 +738,18 @@
                 <langSet xml:lang="en"><tig><term>reset</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>redefinir</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Keyboard shortcuts</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Regular expressions</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
