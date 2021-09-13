@@ -90,6 +90,18 @@
                 <langSet xml:lang="en"><tig><term>e-mail</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>correo electrónico</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Keyboard shortcuts</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Regular expressions</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
