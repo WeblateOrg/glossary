@@ -48,11 +48,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>email</term></tig></langSet>
-                <langSet xml:lang="bg"><tig><term>е-поща, е-писмо</term></tig></langSet>
+                <langSet xml:lang="bg"><tig><term>електронна поща</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>e-mail</term></tig></langSet>
-                <langSet xml:lang="bg"><tig><term>е-поща, е-писмо</term></tig></langSet>
+                <langSet xml:lang="bg"><tig><term>е-поща</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>notification</term></tig></langSet>
@@ -132,11 +132,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>log out</term></tig></langSet>
-                <langSet xml:lang="bg"><tig><term>изход, излизане</term></tig></langSet>
+                <langSet xml:lang="bg"><tig><term>излизане</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>log in</term></tig></langSet>
-                <langSet xml:lang="bg"><tig><term>вход, влизане</term></tig></langSet>
+                <langSet xml:lang="bg"><tig><term>влизане</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>account</term></tig></langSet>
@@ -164,11 +164,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
-                <langSet xml:lang="bg"><tig><term>Следващ работен ден</term></tig></langSet>
+                <langSet xml:lang="bg"><tig><term>следващ работен ден</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bug</term></tig></langSet>
-                <langSet xml:lang="bg"><tig><term/></tig></langSet>
+                <langSet xml:lang="bg"><tig><term>неизправност</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
@@ -176,19 +176,19 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CI</term></tig></langSet>
-                <langSet xml:lang="bg"><tig><term>Непрекъсната интеграция</term></tig></langSet>
+                <langSet xml:lang="bg"><tig><term>непрекъсната интеграция</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Keyboard shortcuts</term></tig></langSet>
-                <langSet xml:lang="bg"><tig><term></term></tig></langSet>
+                <langSet xml:lang="bg"><tig><term>клавишни комбинации</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
-                <langSet xml:lang="bg"><tig><term></term></tig></langSet>
+                <langSet xml:lang="bg"><tig><term>Weblate</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Regular expressions</term></tig></langSet>
-                <langSet xml:lang="bg"><tig><term></term></tig></langSet>
+                <langSet xml:lang="bg"><tig><term>регулярни изрази</term></tig></langSet>
             </termEntry>
         </body>
     </text>
