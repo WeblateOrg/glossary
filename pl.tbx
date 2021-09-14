@@ -324,7 +324,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Keyboard shortcuts</term></tig></langSet>
-                <langSet xml:lang="pl"><tig><term></term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>Skróty klawiaturowe</term></tig></langSet>
             </termEntry>
         </body>
     </text>
