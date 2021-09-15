@@ -12,7 +12,7 @@
         <body>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>edit</term></tig></langSet>
-                <langSet xml:lang="crh"><tig><term/></tig></langSet>
+                <langSet xml:lang="crh"><tig><term>tarir</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SSO</term></tig></langSet>
@@ -20,15 +20,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
-                <langSet xml:lang="crh"><tig><term/></tig></langSet>
+                <langSet xml:lang="crh"><tig><term>şahsiy</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>search</term></tig></langSet>
-                <langSet xml:lang="crh"><tig><term/></tig></langSet>
+                <langSet xml:lang="crh"><tig><term>qıdıruv</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
-                <langSet xml:lang="crh"><tig><term/></tig></langSet>
+                <langSet xml:lang="crh"><tig><term>ilâve</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
@@ -36,7 +36,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bug</term></tig></langSet>
-                <langSet xml:lang="crh"><tig><term/></tig></langSet>
+                <langSet xml:lang="crh"><tig><term>yañlış</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
@@ -48,15 +48,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Keyboard shortcuts</term></tig></langSet>
-                <langSet xml:lang="crh"><tig><term></term></tig></langSet>
+                <langSet xml:lang="crh"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
-                <langSet xml:lang="crh"><tig><term></term></tig></langSet>
+                <langSet xml:lang="crh"><tig><term>Weblate</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Regular expressions</term></tig></langSet>
-                <langSet xml:lang="crh"><tig><term></term></tig></langSet>
+                <langSet xml:lang="crh"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
