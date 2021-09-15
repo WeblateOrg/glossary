@@ -1660,15 +1660,43 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Keyboard shortcuts</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term></term></tig></langSet>
+                <langSet xml:lang="de"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term></term></tig></langSet>
+                <langSet xml:lang="de"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Regular expressions</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term></term></tig></langSet>
+                <langSet xml:lang="de"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>newlines</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Zeilenumbrüche</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>newlines</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Zeilenvorschübe</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>newline</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Zeilenumbruch</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>newline</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Zeilenvorschub</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>commits</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Commits</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Keyboard shortcut</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Tastaturkürzel</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>machine translations</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>automatische Übersetzungen</term></tig></langSet>
             </termEntry>
         </body>
     </text>
