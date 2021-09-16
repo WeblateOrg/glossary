@@ -16,7 +16,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>GDPR -General Data Protection Regulation</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term>RPPD - Regulamentul general privind protecția datelor</term></tig></langSet>
+                <langSet xml:lang="ro"><tig><term>GDPR - Regulamentul general privind protecția datelor</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SSO</term></tig></langSet>
@@ -56,15 +56,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Keyboard shortcuts</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ro"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ro"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Regular expressions</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ro"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
