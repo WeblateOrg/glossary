@@ -53,6 +53,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CI</term></tig></langSet>
                 <langSet xml:lang="ro"><tig><term>CI</term></tig></langSet>
+                <note from="translator">CI ( Continous Integration)</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Keyboard shortcuts</term></tig></langSet>
@@ -369,6 +370,8 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
                 <langSet xml:lang="ro"><tig><term>intraductibil</term></tig></langSet>
+                <note from="translator">ce nu se traduce</note>
+                <descrip>Glossary terms that should not be changed from the source language</descrip>
             </termEntry>
         </body>
     </text>
