@@ -462,6 +462,10 @@
                 <langSet xml:lang="en"><tig><term>Local files</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>本地文件</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Gitee</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
