@@ -1698,6 +1698,10 @@
                 <langSet xml:lang="en"><tig><term>machine translations</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>automatische Übersetzungen</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Gitee</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
