@@ -254,6 +254,10 @@
                 <langSet xml:lang="en"><tig><term>Regular expressions</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>Düzenli ifadeler</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Gitee</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
