@@ -754,6 +754,10 @@
                 <langSet xml:lang="en"><tig><term>location</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>local</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Gitee</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>Gitee</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
