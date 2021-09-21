@@ -372,15 +372,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
-                <langSet xml:lang="ca"><tig><term/></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>Weblate</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Regular expressions</term></tig></langSet>
-                <langSet xml:lang="ca"><tig><term/></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>Expressions regulars</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gitee</term></tig></langSet>
-                <langSet xml:lang="ca"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
