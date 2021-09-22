@@ -168,7 +168,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>monolingual base file</term></tig></langSet>
-                <langSet xml:lang="hr"><tig><term>osnovna jednojezična datoteka</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>jednojezična osnovna datoteka</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>listing</term></tig></langSet>
@@ -228,7 +228,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gitee</term></tig></langSet>
-                <langSet xml:lang="hr"><tig><term></term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
