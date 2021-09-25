@@ -60,7 +60,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gitee</term></tig></langSet>
-                <langSet xml:lang="sc"><tig><term></term></tig></langSet>
+                <langSet xml:lang="sc"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Message</term></tig></langSet>
+                <langSet xml:lang="sc"><tig><term>Messàgiu</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Subject</term></tig></langSet>
+                <langSet xml:lang="sc"><tig><term>Ogetu</term></tig></langSet>
             </termEntry>
         </body>
     </text>
