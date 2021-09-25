@@ -28,31 +28,31 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>edit</term></tig></langSet>
-                <langSet xml:lang="sk"><tig><term/></tig></langSet>
+                <langSet xml:lang="sk"><tig><term>editovať</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SSO</term></tig></langSet>
-                <langSet xml:lang="sk"><tig><term/></tig></langSet>
+                <langSet xml:lang="sk"><tig><term>SSO</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
-                <langSet xml:lang="sk"><tig><term/></tig></langSet>
+                <langSet xml:lang="sk"><tig><term>súkromné</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>search</term></tig></langSet>
-                <langSet xml:lang="sk"><tig><term/></tig></langSet>
+                <langSet xml:lang="sk"><tig><term>hľadať</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
-                <langSet xml:lang="sk"><tig><term/></tig></langSet>
+                <langSet xml:lang="sk"><tig><term>doplnok</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
-                <langSet xml:lang="sk"><tig><term/></tig></langSet>
+                <langSet xml:lang="sk"><tig><term>NBD</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bug</term></tig></langSet>
-                <langSet xml:lang="sk"><tig><term/></tig></langSet>
+                <langSet xml:lang="sk"><tig><term>chyba</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
@@ -64,15 +64,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Keyboard shortcuts</term></tig></langSet>
-                <langSet xml:lang="sk"><tig><term/></tig></langSet>
+                <langSet xml:lang="sk"><tig><term>Klávesové skratky</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
-                <langSet xml:lang="sk"><tig><term/></tig></langSet>
+                <langSet xml:lang="sk"><tig><term>Weblate</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Regular expressions</term></tig></langSet>
-                <langSet xml:lang="sk"><tig><term/></tig></langSet>
+                <langSet xml:lang="sk"><tig><term>Regulárne výrazy</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gitee</term></tig></langSet>
