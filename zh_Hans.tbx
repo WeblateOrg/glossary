@@ -468,7 +468,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Subject</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term></term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>主题</term></tig></langSet>
             </termEntry>
         </body>
     </text>
