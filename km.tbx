@@ -220,19 +220,19 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CI</term></tig></langSet>
-                <langSet xml:lang="km"><tig><term/></tig></langSet>
+                <langSet xml:lang="km"><tig><term>CI</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Keyboard shortcuts</term></tig></langSet>
-                <langSet xml:lang="km"><tig><term/></tig></langSet>
+                <langSet xml:lang="km"><tig><term>ផ្លូវកាត់ក្ដារចុច</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
-                <langSet xml:lang="km"><tig><term/></tig></langSet>
+                <langSet xml:lang="km"><tig><term>Weblate</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Regular expressions</term></tig></langSet>
-                <langSet xml:lang="km"><tig><term/></tig></langSet>
+                <langSet xml:lang="km"><tig><term>កន្សោមធម្មតា</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gitee</term></tig></langSet>
@@ -240,7 +240,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Subject</term></tig></langSet>
-                <langSet xml:lang="km"><tig><term></term></tig></langSet>
+                <langSet xml:lang="km"><tig><term>ប្រធានបទ</term></tig></langSet>
             </termEntry>
         </body>
     </text>
