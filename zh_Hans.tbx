@@ -100,7 +100,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>libre projects</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>开源项目</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>自由项目</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>appreciation</term></tig></langSet>
@@ -452,7 +452,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Keyboard shortcuts</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>快捷键</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>键盘快捷键</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
