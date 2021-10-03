@@ -32,7 +32,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SSO</term></tig></langSet>
-                <langSet xml:lang="fa"><tig><term/></tig></langSet>
+                <langSet xml:lang="fa"><tig><term>ورود یکپارچه</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
@@ -60,19 +60,19 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CI</term></tig></langSet>
-                <langSet xml:lang="fa"><tig><term/></tig></langSet>
+                <langSet xml:lang="fa"><tig><term>یکپارچگی پیوسته</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Keyboard shortcuts</term></tig></langSet>
-                <langSet xml:lang="fa"><tig><term/></tig></langSet>
+                <langSet xml:lang="fa"><tig><term>میان‌برهای صفحه‌کلید</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
-                <langSet xml:lang="fa"><tig><term/></tig></langSet>
+                <langSet xml:lang="fa"><tig><term>وب‌لیت</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Regular expressions</term></tig></langSet>
-                <langSet xml:lang="fa"><tig><term/></tig></langSet>
+                <langSet xml:lang="fa"><tig><term>عبارت‌های باقاعده</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gitee</term></tig></langSet>
@@ -80,7 +80,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Subject</term></tig></langSet>
-                <langSet xml:lang="fa"><tig><term></term></tig></langSet>
+                <langSet xml:lang="fa"><tig><term>سوژه</term></tig></langSet>
             </termEntry>
         </body>
     </text>
