@@ -1,10 +1,67 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE martif PUBLIC "ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN" "TBXcdv04.dtd">
-<martif type="TBX">
-<martifHeader>
-<fileDesc>
-<sourceDesc><p>Translate Toolkit</p></sourceDesc>
-</fileDesc>
-</martifHeader>
-<text><body></body></text>
+<martif type="TBX" xml:lang="en">
+    <martifHeader>
+        <fileDesc>
+            <sourceDesc>
+                <p>Translate Toolkit</p>
+            </sourceDesc>
+        </fileDesc>
+    </martifHeader>
+    <text>
+        <body>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Subject</term></tig></langSet>
+                <langSet xml:lang="dv"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Keyboard shortcuts</term></tig></langSet>
+                <langSet xml:lang="dv"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>bug</term></tig></langSet>
+                <langSet xml:lang="dv"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>search</term></tig></langSet>
+                <langSet xml:lang="dv"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>edit</term></tig></langSet>
+                <langSet xml:lang="dv"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
+                <langSet xml:lang="dv"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
+                <langSet xml:lang="dv"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>SSO</term></tig></langSet>
+                <langSet xml:lang="dv"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
+                <langSet xml:lang="dv"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>CI</term></tig></langSet>
+                <langSet xml:lang="dv"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Regular expressions</term></tig></langSet>
+                <langSet xml:lang="dv"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
+                <langSet xml:lang="dv"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Gitee</term></tig></langSet>
+                <langSet xml:lang="dv"><tig><term></term></tig></langSet>
+            </termEntry>
+        </body>
+    </text>
 </martif>
