@@ -222,10 +222,6 @@
                 <langSet xml:lang="en"><tig><term>Gitee</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term/></tig></langSet>
             </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Subject</term></tig></langSet>
-                <langSet xml:lang="ja"><tig><term></term></tig></langSet>
-            </termEntry>
         </body>
     </text>
 </martif>
