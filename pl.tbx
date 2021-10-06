@@ -180,7 +180,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>security issue</term></tig></langSet>
-                <langSet xml:lang="pl"><tig><term>luka bezpieczeństwa</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>kwestia bezpieczeństwa</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
