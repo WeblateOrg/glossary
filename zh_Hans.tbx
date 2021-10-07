@@ -96,7 +96,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>alert</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>提醒</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>警报</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>libre projects</term></tig></langSet>
@@ -112,7 +112,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>alerts</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>警告</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>警报</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>limits</term></tig></langSet>
