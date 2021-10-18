@@ -132,7 +132,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>appliance</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term>appliance</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>utilitário</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>deploy</term></tig></langSet>
@@ -704,7 +704,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bug</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term>erro</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>bug</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>trigger</term></tig></langSet>
@@ -764,11 +764,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Personal Data</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term></term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>Dados Pessoais</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Cookies</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term></term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>Cookies</term></tig></langSet>
             </termEntry>
         </body>
     </text>
