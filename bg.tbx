@@ -196,6 +196,14 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Subject</term></tig></langSet>
+                <langSet xml:lang="bg"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Personal Data</term></tig></langSet>
+                <langSet xml:lang="bg"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Cookies</term></tig></langSet>
                 <langSet xml:lang="bg"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
