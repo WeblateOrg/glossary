@@ -82,6 +82,14 @@
                 <langSet xml:lang="en"><tig><term>Subject</term></tig></langSet>
                 <langSet xml:lang="sk"><tig><term>Subjekt</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Personal Data</term></tig></langSet>
+                <langSet xml:lang="sk"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Cookies</term></tig></langSet>
+                <langSet xml:lang="sk"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
