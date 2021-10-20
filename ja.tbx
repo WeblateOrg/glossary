@@ -222,6 +222,18 @@
                 <langSet xml:lang="en"><tig><term>Gitee</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term/></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Personal Data</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>個人情報</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>web browser</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>Web ブラウザ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Cookies</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>Cookie</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
