@@ -234,6 +234,14 @@
                 <langSet xml:lang="en"><tig><term>Cookies</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>Cookie</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Access control</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>アクセス制御</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Access control</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>アクセス制御</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
