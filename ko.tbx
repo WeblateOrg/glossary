@@ -434,6 +434,10 @@
                 <langSet xml:lang="en"><tig><term>Cookies</term></tig></langSet>
                 <langSet xml:lang="ko"><tig><term>쿠키</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Pseudolocale</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>가짜 언어</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
