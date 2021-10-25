@@ -458,6 +458,14 @@
                 <langSet xml:lang="en"><tig><term>Source strings</term></tig></langSet>
                 <langSet xml:lang="ko"><tig><term>원본 문자열</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>drop-down menu</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>내려 펼침 차림표</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>locale code</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>지역 코드</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
