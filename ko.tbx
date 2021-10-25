@@ -438,6 +438,26 @@
                 <langSet xml:lang="en"><tig><term>Pseudolocale</term></tig></langSet>
                 <langSet xml:lang="ko"><tig><term>가짜 언어</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>member</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>회원</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Add-ons</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>추가 기능</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>저장소</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>number</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>숫자</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Source strings</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>원본 문자열</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
