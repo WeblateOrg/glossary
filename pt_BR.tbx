@@ -772,7 +772,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>format string</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term>texto se formato</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>texto de formato</term></tig></langSet>
             </termEntry>
         </body>
     </text>
