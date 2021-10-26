@@ -770,6 +770,10 @@
                 <langSet xml:lang="en"><tig><term>Cookies</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>Cookies</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>format string</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>texto se formato</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
