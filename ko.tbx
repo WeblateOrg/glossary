@@ -466,6 +466,10 @@
                 <langSet xml:lang="en"><tig><term>locale code</term></tig></langSet>
                 <langSet xml:lang="ko"><tig><term>지역 코드</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>upgrade</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>판올림</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
