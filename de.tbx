@@ -1714,6 +1714,22 @@
                 <langSet xml:lang="en"><tig><term>Cookies</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Cookies</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Backup</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Backup</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Backup</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Backup</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Backups</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Backups</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Backup service</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Backup-Dienst</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
