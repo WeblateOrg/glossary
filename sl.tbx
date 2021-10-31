@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE martif PUBLIC "ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN" "TBXcdv04.dtd">
 <martif type="TBX" xml:lang="en">
     <martifHeader>
@@ -4496,15 +4496,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Keyboard shortcuts</term></tig></langSet>
-                <langSet xml:lang="sl"><tig><term/></tig></langSet>
+                <langSet xml:lang="sl"><tig><term>Tipke za bližnjice</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
-                <langSet xml:lang="sl"><tig><term/></tig></langSet>
+                <langSet xml:lang="sl"><tig><term>Weblate</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Regular expressions</term></tig></langSet>
-                <langSet xml:lang="sl"><tig><term/></tig></langSet>
+                <langSet xml:lang="sl"><tig><term>Regularni izrazi</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gitee</term></tig></langSet>
@@ -4512,15 +4512,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Subject</term></tig></langSet>
-                <langSet xml:lang="sl"><tig><term/></tig></langSet>
+                <langSet xml:lang="sl"><tig><term>Zadeva</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Personal Data</term></tig></langSet>
-                <langSet xml:lang="sl"><tig><term></term></tig></langSet>
+                <langSet xml:lang="sl"><tig><term>Osebni podatki</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Cookies</term></tig></langSet>
-                <langSet xml:lang="sl"><tig><term></term></tig></langSet>
+                <langSet xml:lang="sl"><tig><term>Piškotki</term></tig></langSet>
             </termEntry>
         </body>
     </text>
