@@ -218,6 +218,10 @@
                 <langSet xml:lang="en"><tig><term>Cookies</term></tig></langSet>
                 <langSet xml:lang="id"><tig><term>Kuki</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>database</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>basis data</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
