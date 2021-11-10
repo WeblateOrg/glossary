@@ -12,7 +12,7 @@
         <body>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>edit</term></tig></langSet>
-                <langSet xml:lang="sq"><tig><term/></tig></langSet>
+                <langSet xml:lang="sq"><tig><term>përpunim</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SSO</term></tig></langSet>
@@ -20,11 +20,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
-                <langSet xml:lang="sq"><tig><term/></tig></langSet>
+                <langSet xml:lang="sq"><tig><term>private</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>search</term></tig></langSet>
-                <langSet xml:lang="sq"><tig><term/></tig></langSet>
+                <langSet xml:lang="sq"><tig><term>kërkim</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
@@ -48,15 +48,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Keyboard shortcuts</term></tig></langSet>
-                <langSet xml:lang="sq"><tig><term/></tig></langSet>
+                <langSet xml:lang="sq"><tig><term>Shkurtore tastiere</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
-                <langSet xml:lang="sq"><tig><term/></tig></langSet>
+                <langSet xml:lang="sq"><tig><term>Weblate</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Regular expressions</term></tig></langSet>
-                <langSet xml:lang="sq"><tig><term/></tig></langSet>
+                <langSet xml:lang="sq"><tig><term>Shprehje të rregullta</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gitee</term></tig></langSet>
@@ -64,11 +64,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Subject</term></tig></langSet>
-                <langSet xml:lang="sq"><tig><term/></tig></langSet>
+                <langSet xml:lang="sq"><tig><term>Subjekt</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Personal Data</term></tig></langSet>
-                <langSet xml:lang="sq"><tig><term/></tig></langSet>
+                <langSet xml:lang="sq"><tig><term>Të dhëna Personale</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Cookies</term></tig></langSet>
@@ -76,7 +76,7 @@
             </termEntry>
             <termEntry id="site_title">
                 <langSet xml:lang="en"><tig><term>Code string. Stands for Weblate</term></tig></langSet>
-                <langSet xml:lang="sq"><tig><term></term></tig></langSet>
+                <langSet xml:lang="sq"><tig><term>Varg kodi. Do të thotë Weblate</term></tig></langSet>
             </termEntry>
         </body>
     </text>
