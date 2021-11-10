@@ -348,7 +348,7 @@
             </termEntry>
             <termEntry id="XML Tag">
                 <langSet xml:lang="en"><tig><term>XML Tag</term></tig></langSet>
-                <langSet xml:lang="pl"><tig><term/></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>Tag XML</term></tig></langSet>
             </termEntry>
         </body>
     </text>
