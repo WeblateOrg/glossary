@@ -744,7 +744,7 @@
             </termEntry>
             <termEntry id="XML Tag">
                 <langSet xml:lang="en"><tig><term>XML Tag</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>XML метка</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>XML-тег</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>apkure</term></tig></langSet>
