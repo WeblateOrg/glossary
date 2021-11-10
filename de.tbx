@@ -1738,6 +1738,10 @@
                 <langSet xml:lang="en"><tig><term>XML Tag</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term/></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>apkure</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
