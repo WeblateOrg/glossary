@@ -748,7 +748,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>apkure</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>apkure</term></tig></langSet>
             </termEntry>
         </body>
     </text>
