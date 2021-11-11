@@ -82,10 +82,6 @@
                 <langSet xml:lang="en"><tig><term>XML Tag</term></tig></langSet>
                 <langSet xml:lang="sr_Latn"><tig><term/></tig></langSet>
             </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>apkure</term></tig></langSet>
-                <langSet xml:lang="sr_Latn"><tig><term></term></tig></langSet>
-            </termEntry>
         </body>
     </text>
 </martif>
