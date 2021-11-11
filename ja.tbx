@@ -252,7 +252,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>apkure</term></tig></langSet>
-                <langSet xml:lang="ja"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Read-only</term></tig></langSet>
