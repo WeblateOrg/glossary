@@ -782,10 +782,6 @@
                 <langSet xml:lang="en"><tig><term>Code string. Stands for Weblate</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term/></tig></langSet>
             </termEntry>
-            <termEntry id="XML Tag">
-                <langSet xml:lang="en"><tig><term>XML Tag</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term/></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>read-only</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>somente leitura</term></tig></langSet>
