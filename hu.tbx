@@ -140,31 +140,31 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>edit</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>szerkesztés</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SSO</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>SSO</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>privát</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>search</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>keresés</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>bővítmény</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>Következő munkanap</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bug</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>hiba</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
@@ -172,19 +172,19 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CI</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>CI</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Keyboard shortcuts</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>Gyorsbillentyűk</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>Weblate</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Regular expressions</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>Reguláris kifejezés</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gitee</term></tig></langSet>
@@ -192,15 +192,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Subject</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>Tárgy</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Personal Data</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>Személyes adat</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Cookies</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>Sütik</term></tig></langSet>
             </termEntry>
             <termEntry id="site_title">
                 <langSet xml:lang="en"><tig><term>Code string. Stands for Weblate</term></tig></langSet>
@@ -208,11 +208,11 @@
             </termEntry>
             <termEntry id="XML Tag">
                 <langSet xml:lang="en"><tig><term>XML Tag</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>XML címke</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>apkure</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term></term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>apkure</term></tig></langSet>
             </termEntry>
         </body>
     </text>
