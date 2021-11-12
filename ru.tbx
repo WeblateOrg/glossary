@@ -750,6 +750,14 @@
                 <langSet xml:lang="en"><tig><term>apkure</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>apkure</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>webhooks</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>веб-обработчики</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>digest</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>выдержка</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
