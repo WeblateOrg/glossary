@@ -30,6 +30,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>коммит (отправить изменение)</term></tig></langSet>
+                <descrip>git-commit</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>push</term></tig></langSet>
@@ -719,6 +720,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Weblate</term></tig></langSet>
+                <note from="translator">Название проекта для переводов</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Regular expressions</term></tig></langSet>
@@ -731,6 +733,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Subject</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Тема</term></tig></langSet>
+                <note from="translator">Пример: Тема сообщения</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Cookies</term></tig></langSet>
