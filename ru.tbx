@@ -28,7 +28,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>коммит</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>коммит (отправить изменение)</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>push</term></tig></langSet>
@@ -756,7 +756,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>digest</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>выдержка</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>выдержка, сводка</term></tig></langSet>
             </termEntry>
         </body>
     </text>
