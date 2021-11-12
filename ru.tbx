@@ -758,6 +758,14 @@
                 <langSet xml:lang="en"><tig><term>digest</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>выдержка, сводка</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Offloading</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Выделение</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Commiting</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Коммитинг (отправка изменений)</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
