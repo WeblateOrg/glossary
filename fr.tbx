@@ -202,6 +202,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>memory</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>mémoire de traduction</term></tig></langSet>
+                <note from="translator">Attention au genre du mot (forte probabilité qu’il s’agisse du masculin)</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Please</term></tig></langSet>
@@ -314,6 +315,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>placeholders</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>espaces réservés ou balises de remplacement ou chaines de remplacement ou champ dynamique</term></tig></langSet>
+                <note from="translator">"espace réservé" est 1. bien plus fluide, 2. bien plus rencontré, 3. bien plus générique</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Variants</term></tig></langSet>
@@ -406,6 +408,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>plan</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>offre (commerciale) ou abonnement</term></tig></langSet>
+                <descrip>Gunakan "paket" bila kalimat itu membahas tentang jenis langganan atau hosting</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Manage</term></tig></langSet>
@@ -565,6 +568,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Not translatable</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Ne doit pas être traduit</term></tig></langSet>
+                <note from="translator">Nom propre ou marque ne devant pas être traduit</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Forbidden translation</term></tig></langSet>
@@ -600,6 +604,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>extension</term></tig></langSet>
+                <note from="translator">À affiner en fonction de la nature réelle (et technique) de ce qu'est un "add-on" dans Weblate. La traduction pourrait être : greffon, extension ou pourquoi pas : module voir laisser "add-on" ?</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
@@ -861,6 +866,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>text direction</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>sens du texte</term></tig></langSet>
+                <note from="translator">orientation du texte</note>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>screenshot</term></tig></langSet>
