@@ -786,6 +786,10 @@
                 <langSet xml:lang="en"><tig><term>read-only</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>somente leitura</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>apkure</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
