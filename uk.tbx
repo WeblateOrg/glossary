@@ -120,7 +120,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>variants</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>варіанти</term></tig></langSet>
             </termEntry>
         </body>
     </text>
