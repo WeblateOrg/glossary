@@ -303,10 +303,6 @@
                 <langSet xml:lang="zh_Hans"><tig><term>选项卡</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>focus</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>聚焦</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>authenticate</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>身份验证</term></tig></langSet>
             </termEntry>
