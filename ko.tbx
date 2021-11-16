@@ -476,15 +476,15 @@
             </termEntry>
             <termEntry id="XML Tag">
                 <langSet xml:lang="en"><tig><term>XML Tag</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term/></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>XML 태그</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>apkure</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term/></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>apkure</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>variants</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>변종</term></tig></langSet>
             </termEntry>
         </body>
     </text>
