@@ -787,12 +787,8 @@
                 <langSet xml:lang="pt_BR"><tig><term>somente leitura</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>apkure</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>variants</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term></term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
