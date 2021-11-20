@@ -1746,6 +1746,30 @@
                 <langSet xml:lang="en"><tig><term>variants</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Varianten</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Project maintainer</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Projektbetreuer</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Project maintainers</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Projektbetreuer</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>History</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Verlauf</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>digest</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Zusammenfassung</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>notifications</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Benachrichtigungen</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>authentication</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Authentifizierung</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
