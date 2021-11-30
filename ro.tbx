@@ -88,7 +88,7 @@
             </termEntry>
             <termEntry id="XML Tag">
                 <langSet xml:lang="en"><tig><term>XML Tag</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term/></tig></langSet>
+                <langSet xml:lang="ro"><tig><term>Etichetă XML</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>apkure</term></tig></langSet>
@@ -96,7 +96,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>variants</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ro"><tig><term>variante</term></tig></langSet>
             </termEntry>
         </body>
     </text>
