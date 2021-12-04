@@ -151,16 +151,12 @@
                 <langSet xml:lang="sv"><tig><term>XML-tagg</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>apkure</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>alert</term></tig></langSet>
                 <langSet xml:lang="sv"><tig><term>varning</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>variants</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term></term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
