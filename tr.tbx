@@ -275,10 +275,6 @@
                 <langSet xml:lang="tr"><tig><term>XML Etiketi</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>apkure</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term>apkure</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>variants</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>türevler</term></tig></langSet>
             </termEntry>
