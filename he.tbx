@@ -170,6 +170,10 @@
                 <langSet xml:lang="en"><tig><term>variants</term></tig></langSet>
                 <langSet xml:lang="he"><tig><term>הגוונים</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>apkure</term></tig></langSet>
+                <langSet xml:lang="he"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
