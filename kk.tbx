@@ -1027,12 +1027,8 @@
                 <langSet xml:lang="kk"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>apkure</term></tig></langSet>
-                <langSet xml:lang="kk"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>variants</term></tig></langSet>
-                <langSet xml:lang="kk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
