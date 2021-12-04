@@ -411,10 +411,6 @@
                 <langSet xml:lang="pt"><tig><term>etiqueta XML</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>apkure</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>apkure</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>variants</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>variantes</term></tig></langSet>
             </termEntry>
