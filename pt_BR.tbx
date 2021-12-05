@@ -778,10 +778,6 @@
                 <langSet xml:lang="en"><tig><term>format strings</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>textos de formato</term></tig></langSet>
             </termEntry>
-            <termEntry id="site_title">
-                <langSet xml:lang="en"><tig><term>Code string. Stands for Weblate</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term/></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>read-only</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>somente leitura</term></tig></langSet>
@@ -792,7 +788,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>apkure</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term></term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
