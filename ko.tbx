@@ -470,10 +470,6 @@
                 <langSet xml:lang="en"><tig><term>upgrade</term></tig></langSet>
                 <langSet xml:lang="ko"><tig><term>판올림</term></tig></langSet>
             </termEntry>
-            <termEntry id="site_title">
-                <langSet xml:lang="en"><tig><term>Code string. Stands for Weblate</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term/></tig></langSet>
-            </termEntry>
             <termEntry id="XML Tag">
                 <langSet xml:lang="en"><tig><term>XML Tag</term></tig></langSet>
                 <langSet xml:lang="ko"><tig><term>XML 태그</term></tig></langSet>
@@ -484,7 +480,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>apkure</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
