@@ -242,10 +242,6 @@
                 <langSet xml:lang="en"><tig><term>Triggers</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>トリガー</term></tig></langSet>
             </termEntry>
-            <termEntry id="site_title">
-                <langSet xml:lang="en"><tig><term>Code string. Stands for Weblate</term></tig></langSet>
-                <langSet xml:lang="ja"><tig><term/></tig></langSet>
-            </termEntry>
             <termEntry id="XML Tag">
                 <langSet xml:lang="en"><tig><term>XML Tag</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>XML タグ</term></tig></langSet>
