@@ -316,7 +316,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>placeholders</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term>espaces réservés ou balises de remplacement</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>espaces réservés ou balises de remplacement ou chaines de remplacement ou champ dynamique</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Variants</term></tig></langSet>
