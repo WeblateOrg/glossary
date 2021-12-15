@@ -29,6 +29,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SSO</term></tig></langSet>
                 <langSet xml:lang="el"><tig><term>SSO</term></tig></langSet>
+                <note from="translator">Single sign-on (SSO) is an authentication scheme that allows a user to log in with a single ID and password to any of several related, yet independent, software systems.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
@@ -45,6 +46,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
                 <langSet xml:lang="el"><tig><term>Επόμενη εργάσιμη ημέρα</term></tig></langSet>
+                <note from="translator">Next Business Day or “NBD” shall mean Monday through Friday, excluding Gap holidays (i.e., New Years, Christmas, Thanksgiving, Memorial Day, Fourth of July, Labor Day), during local store business hours.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bug</term></tig></langSet>
@@ -57,6 +59,8 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CI</term></tig></langSet>
                 <langSet xml:lang="el"><tig><term>CI</term></tig></langSet>
+                <note from="translator">Continuous integration (CI) is the practice of automating the integration of code changes from multiple contributors into a single software project.&#13;
+Στη μηχανική λογισμικού, η συνεχής ενσωμάτωση είναι η πρακτική της συνεργασίας των προγραμματιστών ενσωματώνοντας την εργασίας τους σε ενα κοινόχρηστο έργο, αρκετές φορές την ημέρα.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Keyboard shortcuts</term></tig></langSet>
@@ -85,6 +89,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Cookies</term></tig></langSet>
                 <langSet xml:lang="el"><tig><term>Cookies</term></tig></langSet>
+                <note from="translator">Τα cookies είναι μικρά αρχεία κειμένου τα οποία αποθηκεύονται στον φυλλομετρητή μας κατά την πλοήγησή μας στο διαδίκτυο. Σκοπός τους είναι να ειδοποιούν τον ιστότοπο που επισκέπτεται ο χρήστης, για την προηγούμενη δραστηριότητά του.[1] Συνήθως περιγράφουν στοιχεία μας όπως όνομα χρήστη (user name) και συνθηματικό πρόσβασης (password) με σκοπό κατά την επίσκεψή μας στον ίδιο ιστότοπο αργότερα, να μας "θυμάται" και να μην χρειάζεται να κάνουμε login.  https://el.wikipedia.org/wiki/HTTP_cookies</note>
             </termEntry>
             <termEntry id="XML Tag">
                 <langSet xml:lang="en"><tig><term>XML Tag</term></tig></langSet>
