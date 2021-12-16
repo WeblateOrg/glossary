@@ -368,7 +368,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>comment</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>注释</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>评论</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pull</term></tig></langSet>
@@ -436,7 +436,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CI</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>命令行</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>持续集成</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Regular expressions</term></tig></langSet>
@@ -484,7 +484,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term></term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
