@@ -244,7 +244,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
-                <langSet xml:lang="nl"><tig><term/></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>sleutel</term></tig></langSet>
             </termEntry>
         </body>
     </text>
