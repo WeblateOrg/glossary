@@ -118,6 +118,10 @@
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
                 <langSet xml:lang="uk"><tig><term>жетон</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>жетон</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
