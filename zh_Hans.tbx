@@ -395,10 +395,6 @@
                 <langSet xml:lang="zh_Hans"><tig><term>相应的</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>comments</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>注释</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>overview</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>概览</term></tig></langSet>
             </termEntry>
