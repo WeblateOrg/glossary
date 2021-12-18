@@ -48,7 +48,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>review</term></tig></langSet>
-                <langSet xml:lang="pl"><tig><term>kontrola</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>przegląd</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tab</term></tig></langSet>
