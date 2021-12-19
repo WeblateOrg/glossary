@@ -480,7 +480,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term/></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>토큰</term></tig></langSet>
             </termEntry>
         </body>
     </text>
