@@ -482,10 +482,6 @@
                 <langSet xml:lang="en"><tig><term>squash</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>挤压</term></tig></langSet>
             </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>commit message</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>用户现在可以添加文本来提交消息。</term></tig></langSet>
-            </termEntry>
         </body>
     </text>
 </martif>
