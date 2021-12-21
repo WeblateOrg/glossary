@@ -204,15 +204,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Keyboard shortcuts</term></tig></langSet>
-                <langSet xml:lang="fi"><tig><term/></tig></langSet>
+                <langSet xml:lang="fi"><tig><term>Pikanäppäimet</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
-                <langSet xml:lang="fi"><tig><term/></tig></langSet>
+                <langSet xml:lang="fi"><tig><term>Weblate</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Regular expressions</term></tig></langSet>
-                <langSet xml:lang="fi"><tig><term/></tig></langSet>
+                <langSet xml:lang="fi"><tig><term>Säännölliset lausekkeet</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gitee</term></tig></langSet>
@@ -220,27 +220,27 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Subject</term></tig></langSet>
-                <langSet xml:lang="fi"><tig><term/></tig></langSet>
+                <langSet xml:lang="fi"><tig><term>Aihe</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Personal Data</term></tig></langSet>
-                <langSet xml:lang="fi"><tig><term/></tig></langSet>
+                <langSet xml:lang="fi"><tig><term>Henkilökohtaiset tiedot</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Cookies</term></tig></langSet>
-                <langSet xml:lang="fi"><tig><term/></tig></langSet>
+                <langSet xml:lang="fi"><tig><term>Evästeet</term></tig></langSet>
             </termEntry>
             <termEntry id="XML Tag">
                 <langSet xml:lang="en"><tig><term>XML Tag</term></tig></langSet>
-                <langSet xml:lang="fi"><tig><term/></tig></langSet>
+                <langSet xml:lang="fi"><tig><term>XML-tunnus</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>variants</term></tig></langSet>
-                <langSet xml:lang="fi"><tig><term/></tig></langSet>
+                <langSet xml:lang="fi"><tig><term>muunnelmat</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
-                <langSet xml:lang="fi"><tig><term/></tig></langSet>
+                <langSet xml:lang="fi"><tig><term>tunnus</term></tig></langSet>
             </termEntry>
         </body>
     </text>
