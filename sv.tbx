@@ -152,11 +152,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>variants</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>varianter</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>token</term></tig></langSet>
             </termEntry>
         </body>
     </text>
