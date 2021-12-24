@@ -486,6 +486,10 @@
                 <langSet xml:lang="en"><tig><term>commit message</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>提交说明</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>literal</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>字面量</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
