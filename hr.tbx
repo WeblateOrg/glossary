@@ -254,6 +254,10 @@
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
                 <langSet xml:lang="hr"><tig><term>token</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Propagated</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>Dijeljeno</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
