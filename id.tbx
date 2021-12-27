@@ -234,6 +234,14 @@
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
                 <langSet xml:lang="id"><tig><term/></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Regular expressions</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>Ekspresi reguler</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>simple</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>sederhana</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
