@@ -418,6 +418,14 @@
                 <langSet xml:lang="en"><tig><term>XML tags</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>etiquetas XML</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>container</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>contentor</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>extra</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>adicional</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
