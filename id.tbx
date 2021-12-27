@@ -24,7 +24,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>render</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term>render,</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>render</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>disable</term></tig></langSet>
@@ -200,7 +200,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Regular expressions</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term/></tig></langSet>
+                <langSet xml:lang="id"><tig><term>Ekspresi reguler</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gitee</term></tig></langSet>
