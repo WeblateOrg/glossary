@@ -204,7 +204,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Subject</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term/></tig></langSet>
+                <langSet xml:lang="id"><tig><term>Subjek</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Personal Data</term></tig></langSet>
@@ -220,15 +220,15 @@
             </termEntry>
             <termEntry id="XML Tag">
                 <langSet xml:lang="en"><tig><term>XML Tag</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term/></tig></langSet>
+                <langSet xml:lang="id"><tig><term>Tag XML</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>variants</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term/></tig></langSet>
+                <langSet xml:lang="id"><tig><term>varian</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term/></tig></langSet>
+                <langSet xml:lang="id"><tig><term>token</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Regular expressions</term></tig></langSet>
