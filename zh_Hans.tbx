@@ -420,7 +420,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>插件</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>附加组件</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
