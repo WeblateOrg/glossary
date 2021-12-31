@@ -522,6 +522,10 @@
                 <langSet xml:lang="en"><tig><term>trailers</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>尾注</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>component</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>组件</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
