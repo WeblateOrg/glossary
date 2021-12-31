@@ -494,10 +494,6 @@
                 <langSet xml:lang="en"><tig><term>alert</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>警告</term></tig></langSet>
             </termEntry>
-            <termEntry id="2">
-                <langSet xml:lang="en"><tig><term>widget</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>小组件</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>widget</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>小挂件</term></tig></langSet>
