@@ -80,7 +80,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Regular expressions</term></tig></langSet>
-                <langSet xml:lang="nb_NO"><tig><term>Regulæruttrykk</term></tig></langSet>
+                <langSet xml:lang="nb_NO"><tig><term>Regulære uttrykk</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gitee</term></tig></langSet>
