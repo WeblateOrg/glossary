@@ -81,6 +81,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Regular expressions</term></tig></langSet>
                 <langSet xml:lang="nb_NO"><tig><term>Regulære uttrykk</term></tig></langSet>
+                <note from="translator">https://ordbok.uib.no/perl/ordbok.cgi?OPP=regul%C3%A6rt+uttrykk&amp;ant_bokmaal=5&amp;ant_nynorsk=5&amp;begge=+&amp;ordbok=begge https://no.wikipedia.org/wiki/Regulært_uttrykk</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gitee</term></tig></langSet>
