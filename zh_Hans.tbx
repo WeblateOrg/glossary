@@ -503,10 +503,6 @@
                 <langSet xml:lang="zh_Hans"><tig><term>小挂件</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>addons</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>附加组件</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>trailer</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>尾注</term></tig></langSet>
             </termEntry>
