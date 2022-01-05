@@ -522,6 +522,10 @@
                 <langSet xml:lang="en"><tig><term>widget</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>小组件</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>file mask</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>文件掩码</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
