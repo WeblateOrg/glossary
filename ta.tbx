@@ -12,19 +12,19 @@
         <body>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>edit</term></tig></langSet>
-                <langSet xml:lang="ta"><tig><term/></tig></langSet>
+                <langSet xml:lang="ta"><tig><term>தொகு</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SSO</term></tig></langSet>
-                <langSet xml:lang="ta"><tig><term/></tig></langSet>
+                <langSet xml:lang="ta"><tig><term>எஸ் எஸ் ஓ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
-                <langSet xml:lang="ta"><tig><term/></tig></langSet>
+                <langSet xml:lang="ta"><tig><term>தனிப்பட்ட</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>search</term></tig></langSet>
-                <langSet xml:lang="ta"><tig><term/></tig></langSet>
+                <langSet xml:lang="ta"><tig><term>தேடல்</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
