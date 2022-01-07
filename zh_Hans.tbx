@@ -526,6 +526,14 @@
                 <langSet xml:lang="en"><tig><term>file mask</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>文件掩码</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>identifier</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>标识符</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>flag</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>标记</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
