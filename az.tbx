@@ -16,31 +16,31 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>edit</term></tig></langSet>
-                <langSet xml:lang="az"><tig><term/></tig></langSet>
+                <langSet xml:lang="az"><tig><term>düzəliş</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SSO</term></tig></langSet>
-                <langSet xml:lang="az"><tig><term/></tig></langSet>
+                <langSet xml:lang="az"><tig><term>Vahid giriş trexnologiyası (SSO)</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
-                <langSet xml:lang="az"><tig><term/></tig></langSet>
+                <langSet xml:lang="az"><tig><term>məxfi</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>search</term></tig></langSet>
-                <langSet xml:lang="az"><tig><term/></tig></langSet>
+                <langSet xml:lang="az"><tig><term>axtarış</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
-                <langSet xml:lang="az"><tig><term/></tig></langSet>
+                <langSet xml:lang="az"><tig><term>əlavə</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
-                <langSet xml:lang="az"><tig><term/></tig></langSet>
+                <langSet xml:lang="az"><tig><term>Növbəti İş Günü</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bug</term></tig></langSet>
-                <langSet xml:lang="az"><tig><term/></tig></langSet>
+                <langSet xml:lang="az"><tig><term>xəta</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
@@ -48,19 +48,19 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CI</term></tig></langSet>
-                <langSet xml:lang="az"><tig><term/></tig></langSet>
+                <langSet xml:lang="az"><tig><term>Daimi inteqrasiya</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Keyboard shortcuts</term></tig></langSet>
-                <langSet xml:lang="az"><tig><term/></tig></langSet>
+                <langSet xml:lang="az"><tig><term>Klaviatura qısayolları</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
-                <langSet xml:lang="az"><tig><term/></tig></langSet>
+                <langSet xml:lang="az"><tig><term>Weblate</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Regular expressions</term></tig></langSet>
-                <langSet xml:lang="az"><tig><term/></tig></langSet>
+                <langSet xml:lang="az"><tig><term>Müntəzəm ifadələr</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gitee</term></tig></langSet>
@@ -68,27 +68,27 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Subject</term></tig></langSet>
-                <langSet xml:lang="az"><tig><term/></tig></langSet>
+                <langSet xml:lang="az"><tig><term>Mövzu</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Personal Data</term></tig></langSet>
-                <langSet xml:lang="az"><tig><term/></tig></langSet>
+                <langSet xml:lang="az"><tig><term>Şəxsi verilənlər</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Cookies</term></tig></langSet>
-                <langSet xml:lang="az"><tig><term/></tig></langSet>
+                <langSet xml:lang="az"><tig><term>Kukilər</term></tig></langSet>
             </termEntry>
             <termEntry id="XML Tag">
                 <langSet xml:lang="en"><tig><term>XML Tag</term></tig></langSet>
-                <langSet xml:lang="az"><tig><term/></tig></langSet>
+                <langSet xml:lang="az"><tig><term>XML etiketi</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>variants</term></tig></langSet>
-                <langSet xml:lang="az"><tig><term/></tig></langSet>
+                <langSet xml:lang="az"><tig><term>variantlar</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
-                <langSet xml:lang="az"><tig><term/></tig></langSet>
+                <langSet xml:lang="az"><tig><term>token</term></tig></langSet>
             </termEntry>
         </body>
     </text>
