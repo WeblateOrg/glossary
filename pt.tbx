@@ -272,7 +272,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>addon</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>extra</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>extensão</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>backup</term></tig></langSet>
