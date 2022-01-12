@@ -320,7 +320,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>控制面板</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>操作面板</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>base file</term></tig></langSet>
