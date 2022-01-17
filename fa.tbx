@@ -48,7 +48,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
-                <langSet xml:lang="fa"><tig><term/></tig></langSet>
+                <langSet xml:lang="fa"><tig><term>NBD</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bug</term></tig></langSet>
@@ -84,23 +84,23 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Personal Data</term></tig></langSet>
-                <langSet xml:lang="fa"><tig><term/></tig></langSet>
+                <langSet xml:lang="fa"><tig><term>اطلاعات شخصی</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Cookies</term></tig></langSet>
-                <langSet xml:lang="fa"><tig><term/></tig></langSet>
+                <langSet xml:lang="fa"><tig><term>کوکی ها</term></tig></langSet>
             </termEntry>
             <termEntry id="XML Tag">
                 <langSet xml:lang="en"><tig><term>XML Tag</term></tig></langSet>
-                <langSet xml:lang="fa"><tig><term/></tig></langSet>
+                <langSet xml:lang="fa"><tig><term>تگ XML</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>variants</term></tig></langSet>
-                <langSet xml:lang="fa"><tig><term/></tig></langSet>
+                <langSet xml:lang="fa"><tig><term>انواع</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
-                <langSet xml:lang="fa"><tig><term/></tig></langSet>
+                <langSet xml:lang="fa"><tig><term>توکن</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>current</term></tig></langSet>
