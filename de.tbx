@@ -1768,7 +1768,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>current</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term></term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>aktuell</term></tig></langSet>
             </termEntry>
         </body>
     </text>
