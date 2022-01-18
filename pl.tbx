@@ -12,7 +12,7 @@
         <body>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>base file</term></tig></langSet>
-                <langSet xml:lang="pl"><tig><term>plik szablonu</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>plik bazowy</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>donate</term></tig></langSet>
@@ -56,7 +56,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>rebase</term></tig></langSet>
-                <langSet xml:lang="pl"><tig><term>zmieniać bazę</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>rebase</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>suggestion</term></tig></langSet>
@@ -96,7 +96,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>merge</term></tig></langSet>
-                <langSet xml:lang="pl"><tig><term>scalenie</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>scal</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
@@ -352,11 +352,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>current</term></tig></langSet>
-                <langSet xml:lang="pl"><tig><term></term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>aktualne</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>session</term></tig></langSet>
-                <langSet xml:lang="pl"><tig><term></term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>sesja</term></tig></langSet>
             </termEntry>
         </body>
     </text>
