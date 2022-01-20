@@ -86,6 +86,18 @@
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
                 <langSet xml:lang="tlh"><tig><term/></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>current</term></tig></langSet>
+                <langSet xml:lang="tlh"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>identity</term></tig></langSet>
+                <langSet xml:lang="tlh"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>session</term></tig></langSet>
+                <langSet xml:lang="tlh"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
