@@ -4530,6 +4530,10 @@
                 <langSet xml:lang="en"><tig><term>variants</term></tig></langSet>
                 <langSet xml:lang="sl"><tig><term>različice</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>current</term></tig></langSet>
+                <langSet xml:lang="sl"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
