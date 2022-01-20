@@ -486,6 +486,22 @@
                 <langSet xml:lang="en"><tig><term>variants</term></tig></langSet>
                 <langSet xml:lang="is"><tig><term/></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>current</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>virkur</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>session</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>seta</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>identity</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>auðkenni</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>squash</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>steypa saman</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
