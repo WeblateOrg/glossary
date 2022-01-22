@@ -258,6 +258,10 @@
                 <langSet xml:lang="en"><tig><term>session</term></tig></langSet>
                 <langSet xml:lang="nl"><tig><term>sessie</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>current</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>huidige</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
