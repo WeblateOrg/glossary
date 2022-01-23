@@ -100,7 +100,7 @@
             </termEntry>
             <termEntry id="XML Tag">
                 <langSet xml:lang="en"><tig><term>XML Tag</term></tig></langSet>
-                <langSet xml:lang="nb_NO"><tig><term/></tig></langSet>
+                <langSet xml:lang="nb_NO"><tig><term>XML-tagg</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>variants</term></tig></langSet>
@@ -112,19 +112,19 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
-                <langSet xml:lang="nb_NO"><tig><term/></tig></langSet>
+                <langSet xml:lang="nb_NO"><tig><term>symbol</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>current</term></tig></langSet>
-                <langSet xml:lang="nb_NO"><tig><term></term></tig></langSet>
+                <langSet xml:lang="nb_NO"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>identity</term></tig></langSet>
-                <langSet xml:lang="nb_NO"><tig><term></term></tig></langSet>
+                <langSet xml:lang="nb_NO"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>session</term></tig></langSet>
-                <langSet xml:lang="nb_NO"><tig><term></term></tig></langSet>
+                <langSet xml:lang="nb_NO"><tig><term>økt</term></tig></langSet>
             </termEntry>
         </body>
     </text>
