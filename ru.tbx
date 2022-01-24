@@ -764,11 +764,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>current</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>текущий</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>session</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>сеанс</term></tig></langSet>
             </termEntry>
         </body>
     </text>
