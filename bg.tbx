@@ -220,15 +220,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>current</term></tig></langSet>
-                <langSet xml:lang="bg"><tig><term></term></tig></langSet>
+                <langSet xml:lang="bg"><tig><term>текущ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>identity</term></tig></langSet>
-                <langSet xml:lang="bg"><tig><term></term></tig></langSet>
+                <langSet xml:lang="bg"><tig><term>самоличност, идентификационни данни, данни за удостоверяване</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>session</term></tig></langSet>
-                <langSet xml:lang="bg"><tig><term></term></tig></langSet>
+                <langSet xml:lang="bg"><tig><term>сесия</term></tig></langSet>
             </termEntry>
         </body>
     </text>
