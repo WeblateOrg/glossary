@@ -262,6 +262,10 @@
                 <langSet xml:lang="en"><tig><term>current</term></tig></langSet>
                 <langSet xml:lang="nl"><tig><term>huidige</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>screenshot</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>schermafdruk</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
