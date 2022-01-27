@@ -40,7 +40,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
-                <langSet xml:lang="el"><tig><term>επιπρόσθετο</term></tig></langSet>
+                <langSet xml:lang="el"><tig><term>πρόσθετο</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
@@ -100,15 +100,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>current</term></tig></langSet>
-                <langSet xml:lang="el"><tig><term></term></tig></langSet>
+                <langSet xml:lang="el"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>identity</term></tig></langSet>
-                <langSet xml:lang="el"><tig><term></term></tig></langSet>
+                <langSet xml:lang="el"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>session</term></tig></langSet>
-                <langSet xml:lang="el"><tig><term></term></tig></langSet>
+                <langSet xml:lang="el"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
