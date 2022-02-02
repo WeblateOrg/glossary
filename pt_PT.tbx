@@ -20,7 +20,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>contributor agreement</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term>acordo de contribuidor</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>acordo de colaborador</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>addon</term></tig></langSet>
@@ -32,7 +32,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Skip</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term>Pular</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>Ignorar</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>edit</term></tig></langSet>
@@ -100,7 +100,7 @@
             </termEntry>
             <termEntry id="XML Tag">
                 <langSet xml:lang="en"><tig><term>XML Tag</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term>etiqueta XML</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>Etiqueta XML</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>variants</term></tig></langSet>
@@ -108,7 +108,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term>token</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>código</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>current</term></tig></langSet>
