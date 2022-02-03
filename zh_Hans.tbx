@@ -554,6 +554,10 @@
                 <langSet xml:lang="en"><tig><term>rebase</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>变基</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>landing page</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>着陆页</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
