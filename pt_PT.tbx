@@ -122,6 +122,98 @@
                 <langSet xml:lang="en"><tig><term>session</term></tig></langSet>
                 <langSet xml:lang="pt_PT"><tig><term>sessão</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>invoice</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>fatura</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Blog</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>Blogue</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>About</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>Sobre</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Get help</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>Obter Ajuda</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pixels</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>píxeis</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Merchandise</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>Artigos para Venda</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Discover</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>Descobrir</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Projects</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>Projetos</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Note</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>Nota</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Docs</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>Documentação</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Languages</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>Idiomas</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>support</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>apoio</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Subscription</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>Subscrição</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>copylefted libre software</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>programa livre em "copyleft"</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>with us</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>connosco</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>cryptocurrencies</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>criptomoedas</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>This</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>Isto</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Share</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>Partilhe</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>merch</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>artigos para venda</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Cryptocurrency donations</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>Donativos em Criptomoeda</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>download</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>transferir</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Fluent communication</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>Comunicação fluente</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Self-hosted</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>Auto Alojadas</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
