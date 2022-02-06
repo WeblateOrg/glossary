@@ -558,6 +558,10 @@
                 <langSet xml:lang="en"><tig><term>landing page</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>着陆页</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>source file</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
