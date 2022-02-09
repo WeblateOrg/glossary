@@ -364,7 +364,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
-                <langSet xml:lang="pl"><tig><term></term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>przeanalizować</term></tig></langSet>
             </termEntry>
         </body>
     </text>
