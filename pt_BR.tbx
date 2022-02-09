@@ -806,6 +806,10 @@
                 <langSet xml:lang="en"><tig><term>session</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>sessão</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>untranslated</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
