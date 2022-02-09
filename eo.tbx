@@ -15600,7 +15600,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>mail</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term>(etmesaĝo</term></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>retmesaĝo</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>mail box</term></tig></langSet>
@@ -26980,7 +26980,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslated</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term></term></tig></langSet>
+                <langSet xml:lang="eo"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
