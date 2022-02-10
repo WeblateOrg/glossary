@@ -100,6 +100,10 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslated</term></tig></langSet>
+                <langSet xml:lang="en_GB"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
                 <langSet xml:lang="en_GB"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
