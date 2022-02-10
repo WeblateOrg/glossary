@@ -188,6 +188,10 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslated</term></tig></langSet>
+                <langSet xml:lang="pa"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
                 <langSet xml:lang="pa"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
