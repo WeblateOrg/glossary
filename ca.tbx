@@ -84,7 +84,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
-                <langSet xml:lang="ca"><tig><term>publicar / publicació</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>comissió</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>contributor</term></tig></langSet>
@@ -140,7 +140,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>download</term></tig></langSet>
-                <langSet xml:lang="ca"><tig><term>descarrega / descàrrega</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>baixa / baixada</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>string needing action</term></tig></langSet>
@@ -420,7 +420,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
-                <langSet xml:lang="ca"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>analitzar</term></tig></langSet>
             </termEntry>
         </body>
     </text>
