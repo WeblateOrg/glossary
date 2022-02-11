@@ -128,7 +128,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term></term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>analizzare</term></tig></langSet>
             </termEntry>
         </body>
     </text>
