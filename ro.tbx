@@ -112,7 +112,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ro"><tig><term>parsează</term></tig></langSet>
             </termEntry>
         </body>
     </text>
