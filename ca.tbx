@@ -166,10 +166,6 @@
                 <langSet xml:lang="en"><tig><term>waiting for review</term></tig></langSet>
                 <langSet xml:lang="ca"><tig><term>en espera de revisió</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>maintainer</term></tig></langSet>
-                <langSet xml:lang="ca"><tig><term>responsable</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>mapped</term></tig></langSet>
                 <langSet xml:lang="ca"><tig><term>representat</term></tig></langSet>
