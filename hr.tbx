@@ -280,7 +280,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
-                <langSet xml:lang="hr"><tig><term></term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>analiziraj</term></tig></langSet>
             </termEntry>
         </body>
     </text>
