@@ -272,7 +272,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
-                <langSet xml:lang="nl"><tig><term></term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Teams</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>Teams</term></tig></langSet>
             </termEntry>
         </body>
     </text>
