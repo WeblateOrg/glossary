@@ -92,7 +92,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>push</term></tig></langSet>
-                <langSet xml:lang="ca"><tig><term>envia / enviar / enviament</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>pujar</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>review</term></tig></langSet>
@@ -112,7 +112,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
-                <langSet xml:lang="ca"><tig><term>dipòsit</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>repositori</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>failing check</term></tig></langSet>
@@ -404,7 +404,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslated</term></tig></langSet>
-                <langSet xml:lang="ca"><tig><term/></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>sense traduir</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
