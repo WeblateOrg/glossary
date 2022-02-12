@@ -618,6 +618,10 @@
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>解析</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>plural</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>複數形</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
