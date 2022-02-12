@@ -318,10 +318,6 @@
                 <langSet xml:lang="en"><tig><term>listing (discover)</term></tig></langSet>
                 <langSet xml:lang="ca"><tig><term>visualització</term></tig></langSet>
             </termEntry>
-            <termEntry id="2">
-                <langSet xml:lang="en"><tig><term>maintainer</term></tig></langSet>
-                <langSet xml:lang="ca"><tig><term>mantenidor</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
                 <langSet xml:lang="ca"><tig><term>testimoni</term></tig></langSet>
