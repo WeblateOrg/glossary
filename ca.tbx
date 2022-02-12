@@ -230,10 +230,6 @@
                 <langSet xml:lang="en"><tig><term>filemask</term></tig></langSet>
                 <langSet xml:lang="ca"><tig><term>filtre de fitxers</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>placeholder</term></tig></langSet>
-                <langSet xml:lang="ca"><tig><term>marcador de substitució</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>activation token</term></tig></langSet>
                 <langSet xml:lang="ca"><tig><term>testimoni d'activació</term></tig></langSet>
