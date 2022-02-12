@@ -440,7 +440,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term></term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Power user</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Utilizador avançado</term></tig></langSet>
             </termEntry>
         </body>
     </text>
