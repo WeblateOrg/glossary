@@ -414,10 +414,6 @@
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
                 <langSet xml:lang="ca"><tig><term>analitzar</term></tig></langSet>
             </termEntry>
-            <termEntry id="2">
-                <langSet xml:lang="en"><tig><term>placeholder</term></tig></langSet>
-                <langSet xml:lang="ca"><tig><term>marcador de substitució</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>file mask</term></tig></langSet>
                 <langSet xml:lang="ca"><tig><term>filtre de fitxers</term></tig></langSet>
