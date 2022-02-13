@@ -414,6 +414,22 @@
                 <langSet xml:lang="en"><tig><term>file mask</term></tig></langSet>
                 <langSet xml:lang="ca"><tig><term>filtre de fitxers</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pull</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>baixa</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>squash</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>«squash»</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pull request</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>sol·licitud de baixada</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>rebase</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>«rebase»</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
