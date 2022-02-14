@@ -1776,7 +1776,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term></term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>analysieren</term></tig></langSet>
             </termEntry>
         </body>
     </text>
