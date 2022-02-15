@@ -4540,7 +4540,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
-                <langSet xml:lang="sl"><tig><term></term></tig></langSet>
+                <langSet xml:lang="sl"><tig><term>razčleni</term></tig></langSet>
             </termEntry>
         </body>
     </text>
