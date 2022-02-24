@@ -170,10 +170,6 @@
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term/></tig></langSet>
             </termEntry>
-            <termEntry id="test1">
-                <langSet xml:lang="en"><tig><term>test1</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>test1</term></tig></langSet>
-            </termEntry>
         </body>
     </text>
 </martif>
