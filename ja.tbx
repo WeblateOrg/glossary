@@ -61,6 +61,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>base file</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>基礎となる翻訳ファイル</term></tig></langSet>
+                <note from="translator">原文を定義する言語ファイル</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation</term></tig></langSet>
@@ -261,6 +262,10 @@ PRIORITY_CHOICES = (&#13;
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Read-only</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>翻訳禁止</term></tig></langSet>
+                <note from="translator">翻訳者が必要とし変更も可能な各翻訳文のステータスとしての 'Read-only' です。&#13;
+４つある（翻訳禁止、要編集、翻訳済、承認済）ステータスです。&#13;
+翻訳不可や編集不可、変更不可などとせずに、分かりやすく翻訳禁止に統一します。&#13;
+フラグとしての 'read-only' は、また別です。</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>variants</term></tig></langSet>
@@ -423,6 +428,7 @@ PRIORITY_CHOICES = (&#13;
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>コミット用メールアドレス</term></tig></langSet>
+                <descrip>e-mail address that will be used as committer</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>upstream</term></tig></langSet>
@@ -443,26 +449,32 @@ PRIORITY_CHOICES = (&#13;
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>Sentry</term></tig></langSet>
+                <descrip>sentry.io</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Rollbar</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>Rollbar</term></tig></langSet>
+                <descrip>rollbar.com</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ModernMT</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>ModernMT</term></tig></langSet>
+                <descrip>modernmt.com</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>MyMemory</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>MyMemory</term></tig></langSet>
+                <descrip>mymemory.translated.net</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tmserver</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>tmserver</term></tig></langSet>
+                <descrip>Translate Toolkit</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gravatar</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>Gravatar</term></tig></langSet>
+                <descrip>gravatar.com</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Qt Linguist</term></tig></langSet>
@@ -495,6 +507,7 @@ PRIORITY_CHOICES = (&#13;
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Google OAuth 2</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>Google OAuth 2</term></tig></langSet>
+                <descrip>登入認證協定</descrip>
             </termEntry>
             <termEntry id="Past tense">
                 <langSet xml:lang="en"><tig><term>translated</term></tig></langSet>
