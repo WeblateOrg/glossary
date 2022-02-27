@@ -574,6 +574,14 @@
                 <langSet xml:lang="en"><tig><term>reviewer</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>审校员</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>donate money</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>捐款</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>donate</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>捐赠</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
