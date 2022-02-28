@@ -16,7 +16,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>build</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>编译</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>构建</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dump</term></tig></langSet>
