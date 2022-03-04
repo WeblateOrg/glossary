@@ -368,7 +368,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>This is not used when a component list is selected.</term></tig></langSet>
-                <langSet xml:lang="pl"><tig><term></term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>Nie jest używane, gdy wybrana jest lista komponentów.</term></tig></langSet>
             </termEntry>
         </body>
     </text>
