@@ -147,10 +147,6 @@
                 <langSet xml:lang="id"><tig><term>cari</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term>pengaya</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
                 <langSet xml:lang="id"><tig><term>NBD</term></tig></langSet>
             </termEntry>
@@ -268,7 +264,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>current</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term></term></tig></langSet>
+                <langSet xml:lang="id"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
