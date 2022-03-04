@@ -254,6 +254,18 @@
                 <langSet xml:lang="en"><tig><term>file</term></tig></langSet>
                 <langSet xml:lang="id"><tig><term>berkas</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>default</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>bawaan</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>current</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
