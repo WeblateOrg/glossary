@@ -255,10 +255,6 @@
                 <langSet xml:lang="zh_Hans"><tig><term>需要编辑</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>merged</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>已合并</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>agreement</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>协议</term></tig></langSet>
             </termEntry>
@@ -588,7 +584,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>This is not used when a component list is selected.</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term></term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
