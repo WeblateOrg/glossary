@@ -12,23 +12,23 @@
         <body>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>edit</term></tig></langSet>
-                <langSet xml:lang="th"><tig><term>edit</term></tig></langSet>
+                <langSet xml:lang="th"><tig><term>แก้ไข</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SSO</term></tig></langSet>
-                <langSet xml:lang="th"><tig><term/></tig></langSet>
+                <langSet xml:lang="th"><tig><term>SSO</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
-                <langSet xml:lang="th"><tig><term/></tig></langSet>
+                <langSet xml:lang="th"><tig><term>ส่วนตัว</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>search</term></tig></langSet>
-                <langSet xml:lang="th"><tig><term/></tig></langSet>
+                <langSet xml:lang="th"><tig><term>ค้นหา</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
-                <langSet xml:lang="th"><tig><term/></tig></langSet>
+                <langSet xml:lang="th"><tig><term>เพิ่มเข้าไป</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
@@ -36,7 +36,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bug</term></tig></langSet>
-                <langSet xml:lang="th"><tig><term/></tig></langSet>
+                <langSet xml:lang="th"><tig><term>แมลง</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
@@ -104,7 +104,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
-                <langSet xml:lang="th"><tig><term></term></tig></langSet>
+                <langSet xml:lang="th"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
