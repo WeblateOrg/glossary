@@ -13,6 +13,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>edit</term></tig></langSet>
                 <langSet xml:lang="th"><tig><term>แก้ไข</term></tig></langSet>
+                <note from="translator">Glossary term</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SSO</term></tig></langSet>
