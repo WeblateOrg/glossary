@@ -154,10 +154,6 @@
                 <langSet xml:lang="en"><tig><term>bug</term></tig></langSet>
                 <langSet xml:lang="id"><tig><term>bug</term></tig></langSet>
             </termEntry>
-            <termEntry id="bila mahu 'speaking'">
-                <langSet xml:lang="en"><tig><term>keyboard</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term>keybod</term></tig></langSet>
-            </termEntry>
             <termEntry id="ejaan termasing">
                 <langSet xml:lang="en"><tig><term>code</term></tig></langSet>
                 <langSet xml:lang="id"><tig><term>kode</term></tig></langSet>
