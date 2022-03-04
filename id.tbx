@@ -235,10 +235,6 @@
                 <langSet xml:lang="id"><tig><term>sederhana</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>current</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>identity</term></tig></langSet>
                 <langSet xml:lang="id"><tig><term/></tig></langSet>
             </termEntry>
