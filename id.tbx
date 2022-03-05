@@ -266,6 +266,10 @@
                 <langSet xml:lang="en"><tig><term>current</term></tig></langSet>
                 <langSet xml:lang="id"><tig><term>saat ini</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>bilingual</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>bilingual</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
