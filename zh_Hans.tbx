@@ -555,10 +555,6 @@
                 <langSet xml:lang="zh_Hans"><tig><term>着陆页</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>untranslated</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>未翻译的</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>解析</term></tig></langSet>
             </termEntry>
