@@ -80,7 +80,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>needs editing</term></tig></langSet>
-                <langSet xml:lang="ca"><tig><term>cal revisar</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>cal editar</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
@@ -432,7 +432,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>This is not used when a component list is selected.</term></tig></langSet>
-                <langSet xml:lang="ca"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
