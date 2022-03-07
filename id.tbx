@@ -266,6 +266,22 @@
                 <langSet xml:lang="en"><tig><term>bilingual</term></tig></langSet>
                 <langSet xml:lang="id"><tig><term>bilingual</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>offline</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>luring</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>authentication</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>autentikasi</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>flags</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>tanda, penanda</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>flag</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>tanda, penanda</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
