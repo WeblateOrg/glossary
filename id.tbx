@@ -310,6 +310,14 @@
                 <langSet xml:lang="en"><tig><term>case-insensitive</term></tig></langSet>
                 <langSet xml:lang="id"><tig><term>tidak peka kapital</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>failing checks</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>pemeriksaan gagal</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>dismissed</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>dihilangkan</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
