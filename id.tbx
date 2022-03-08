@@ -68,7 +68,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>reset</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term>atur ulang</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>atur ulang, reset</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>password</term></tig></langSet>
@@ -252,7 +252,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>default</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term>bawaan</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>bawaan, asali</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
