@@ -282,6 +282,18 @@
                 <langSet xml:lang="en"><tig><term>flag</term></tig></langSet>
                 <langSet xml:lang="id"><tig><term>tanda, penanda</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>user</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>pengguna</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>reviewer</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>peninjau, pengulas</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>viewer</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>pemirsa</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
