@@ -294,6 +294,10 @@
                 <langSet xml:lang="en"><tig><term>viewer</term></tig></langSet>
                 <langSet xml:lang="id"><tig><term>pemirsa</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>property, properties</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>atribut</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
