@@ -294,6 +294,22 @@
                 <langSet xml:lang="en"><tig><term>viewer</term></tig></langSet>
                 <langSet xml:lang="id"><tig><term>pemirsa</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>properties</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>atribut</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>false positives</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>positif palsu</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>cache</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>tembolok</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>case-insensitive</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>tidak peka kapital</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
