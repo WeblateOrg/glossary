@@ -264,7 +264,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>screenshot</term></tig></langSet>
-                <langSet xml:lang="nl"><tig><term>schermafdruk</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>schermfoto</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslated</term></tig></langSet>
@@ -284,11 +284,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gerrit</term></tig></langSet>
-                <langSet xml:lang="nl"><tig><term></term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>Gerrit</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Subversion</term></tig></langSet>
-                <langSet xml:lang="nl"><tig><term></term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>Subversion</term></tig></langSet>
             </termEntry>
         </body>
     </text>
