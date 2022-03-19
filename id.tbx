@@ -152,7 +152,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bug</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term>bug</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>kesalahan</term></tig></langSet>
             </termEntry>
             <termEntry id="ejaan termasing">
                 <langSet xml:lang="en"><tig><term>code</term></tig></langSet>
