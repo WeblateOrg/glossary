@@ -346,10 +346,6 @@
                 <langSet xml:lang="en"><tig><term>trusted</term></tig></langSet>
                 <langSet xml:lang="id"><tig><term>tepercaya</term></tig></langSet>
             </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>localization</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term>pelokalan</term></tig></langSet>
-            </termEntry>
         </body>
     </text>
 </martif>
