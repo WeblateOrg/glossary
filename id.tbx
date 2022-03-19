@@ -344,7 +344,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>error</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term>eror</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>eror, kesalahan</term></tig></langSet>
             </termEntry>
         </body>
     </text>
