@@ -39,10 +39,6 @@
                 <langSet xml:lang="id"><tig><term>markup, markah</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>escaped</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term>diescape</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>converted</term></tig></langSet>
                 <langSet xml:lang="id"><tig><term>dikonversi</term></tig></langSet>
             </termEntry>
