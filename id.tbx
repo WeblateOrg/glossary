@@ -330,6 +330,10 @@
                 <langSet xml:lang="en"><tig><term>Reviewer</term></tig></langSet>
                 <langSet xml:lang="id"><tig><term>Peninjau</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Celery worker</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>Celery worker</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
