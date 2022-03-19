@@ -334,6 +334,18 @@
                 <langSet xml:lang="en"><tig><term>Celery worker</term></tig></langSet>
                 <langSet xml:lang="id"><tig><term>Celery worker</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>debugging</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>mengawakutu</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>debug</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>awakutu</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>error</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>eror</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
