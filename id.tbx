@@ -350,6 +350,18 @@
                 <langSet xml:lang="en"><tig><term>localization</term></tig></langSet>
                 <langSet xml:lang="id"><tig><term>pelokalan</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>plan</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>paket, rencana</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Rate</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>Akses, Tarif</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>French</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>Prancis</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
