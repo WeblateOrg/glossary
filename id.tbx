@@ -358,6 +358,10 @@
                 <langSet xml:lang="en"><tig><term>French</term></tig></langSet>
                 <langSet xml:lang="id"><tig><term>Prancis</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>tag</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>tag</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
