@@ -668,11 +668,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gerrit</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term></term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Subversion</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term></term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
