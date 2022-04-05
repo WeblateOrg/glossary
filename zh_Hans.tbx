@@ -586,6 +586,10 @@
                 <langSet xml:lang="en"><tig><term>Subversion</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>Subversion</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>reviews</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>审校</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
