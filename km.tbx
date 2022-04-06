@@ -288,11 +288,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gerrit</term></tig></langSet>
-                <langSet xml:lang="km"><tig><term></term></tig></langSet>
+                <langSet xml:lang="km"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Subversion</term></tig></langSet>
-                <langSet xml:lang="km"><tig><term></term></tig></langSet>
+                <langSet xml:lang="km"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Link</term></tig></langSet>
+                <langSet xml:lang="km"><tig><term>បញ្ជាប់</term></tig></langSet>
             </termEntry>
         </body>
     </text>
