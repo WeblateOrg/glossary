@@ -298,6 +298,18 @@
                 <langSet xml:lang="en"><tig><term>Link</term></tig></langSet>
                 <langSet xml:lang="km"><tig><term>បញ្ជាប់</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Server</term></tig></langSet>
+                <langSet xml:lang="km"><tig><term>សេវូបករណ៍</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>URL</term></tig></langSet>
+                <langSet xml:lang="km"><tig><term>យូអអិល</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Image</term></tig></langSet>
+                <langSet xml:lang="km"><tig><term>រូបភាព</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
