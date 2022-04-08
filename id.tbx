@@ -362,6 +362,10 @@
                 <langSet xml:lang="en"><tig><term>tag</term></tig></langSet>
                 <langSet xml:lang="id"><tig><term>tag</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Scheme</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>Scheme</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
