@@ -366,6 +366,22 @@
                 <langSet xml:lang="en"><tig><term>Scheme</term></tig></langSet>
                 <langSet xml:lang="id"><tig><term>Scheme</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>signed out</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>log keluar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>logout.</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>log keluar.</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Sign out</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>Log keluar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>sign in</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>log masuk</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
