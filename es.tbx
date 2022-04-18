@@ -176,11 +176,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gerrit</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term></term></tig></langSet>
+                <langSet xml:lang="es"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Subversion</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term></term></tig></langSet>
+                <langSet xml:lang="es"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry id="test">
+                <langSet xml:lang="en"><tig><term>test</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>test</term></tig></langSet>
             </termEntry>
         </body>
     </text>
