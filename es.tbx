@@ -182,10 +182,6 @@
                 <langSet xml:lang="en"><tig><term>Subversion</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term/></tig></langSet>
             </termEntry>
-            <termEntry id="test">
-                <langSet xml:lang="en"><tig><term>test</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>test</term></tig></langSet>
-            </termEntry>
         </body>
     </text>
 </martif>
