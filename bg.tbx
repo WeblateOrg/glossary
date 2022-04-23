@@ -124,7 +124,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>source string</term></tig></langSet>
-                <langSet xml:lang="bg"><tig><term>оригинален текст</term></tig></langSet>
+                <langSet xml:lang="bg"><tig><term>изходен низ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>string</term></tig></langSet>
@@ -148,7 +148,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SSO</term></tig></langSet>
-                <langSet xml:lang="bg"><tig><term>технология за единично влизане</term></tig></langSet>
+                <langSet xml:lang="bg"><tig><term>технология за еднократно удостоверяване</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
