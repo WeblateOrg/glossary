@@ -520,7 +520,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CSS selector</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>CSS 선택기</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>CSS 선택자</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
