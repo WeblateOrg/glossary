@@ -58,6 +58,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>edit</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>editar</term></tig></langSet>
+                <note from="translator">Modificación de un elemento</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SSO</term></tig></langSet>
@@ -86,6 +87,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CI</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>Integración continua</term></tig></langSet>
+                <note from="translator">https://es.wikipedia.org/wiki/Integraci%C3%B3n_continua</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>e-mail</term></tig></langSet>
@@ -118,6 +120,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Cookies</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>Cookies</term></tig></langSet>
+                <note from="translator">https://es.wikipedia.org/wiki/Cookie_(inform%C3%A1tica)</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Accept suggestion [`Administration`, `Edit source`, `Power user`, `Review strings`, `Translate`]</term></tig></langSet>
@@ -188,6 +191,7 @@
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>toquen</term></tig></langSet>
+                <note from="translator">https://www.fundeu.es/recomendacion/token-alternativas-en-espanol/</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pseudolocale</term></tig></langSet>
