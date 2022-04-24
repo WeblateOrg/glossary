@@ -514,6 +514,14 @@
                 <langSet xml:lang="en"><tig><term>Subversion</term></tig></langSet>
                 <langSet xml:lang="ko"><tig><term/></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>variable</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>변수</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>CSS selector</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>CSS 선택기</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
