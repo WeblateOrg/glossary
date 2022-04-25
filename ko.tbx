@@ -522,6 +522,26 @@
                 <langSet xml:lang="en"><tig><term>CSS selector</term></tig></langSet>
                 <langSet xml:lang="ko"><tig><term>CSS 선택기</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>원문</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>placeholders</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>자리 표시자</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Following</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>다음</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>tracker</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>추적기</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Needs editing</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>수정이 필요함</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
