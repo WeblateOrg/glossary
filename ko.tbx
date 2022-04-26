@@ -546,6 +546,10 @@
                 <langSet xml:lang="en"><tig><term>dropdown menu</term></tig></langSet>
                 <langSet xml:lang="ko"><tig><term>드롭다운 메뉴</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Fonts</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>글꼴</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
