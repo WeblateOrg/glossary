@@ -542,6 +542,10 @@
                 <langSet xml:lang="en"><tig><term>Needs editing</term></tig></langSet>
                 <langSet xml:lang="ko"><tig><term>수정이 필요함</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>dropdown menu</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>드롭다운 메뉴</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
