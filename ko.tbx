@@ -196,7 +196,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>font</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>폰트</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>글꼴</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>override</term></tig></langSet>
@@ -268,7 +268,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>community</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>공동체</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>커뮤니티</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>notifications</term></tig></langSet>
