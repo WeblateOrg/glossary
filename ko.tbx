@@ -560,7 +560,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>few</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>몇 개</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>소수</term></tig></langSet>
             </termEntry>
         </body>
     </text>
