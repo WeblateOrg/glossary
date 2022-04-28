@@ -558,6 +558,10 @@
                 <langSet xml:lang="en"><tig><term>reviewer</term></tig></langSet>
                 <langSet xml:lang="ko"><tig><term>검토자</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>few</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>몇 개</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
