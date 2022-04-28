@@ -550,6 +550,14 @@
                 <langSet xml:lang="en"><tig><term>Fonts</term></tig></langSet>
                 <langSet xml:lang="ko"><tig><term>글꼴</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pull-requests</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>풀 리퀘스트</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>reviewer</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>검토자</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
