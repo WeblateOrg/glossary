@@ -286,6 +286,10 @@
                 <langSet xml:lang="en"><tig><term>Subversion</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>Subversion</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pseudolocale</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>疑似ロケール</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
