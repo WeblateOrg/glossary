@@ -562,6 +562,18 @@
                 <langSet xml:lang="en"><tig><term>few</term></tig></langSet>
                 <langSet xml:lang="ko"><tig><term>소수</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>many</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>다수</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Zen mode</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>간략화 모드</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pseudolocale</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
