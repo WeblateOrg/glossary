@@ -302,6 +302,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>译文</term></tig></langSet>
+                <note from="translator">已翻译的文本</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>source string</term></tig></langSet>
@@ -399,6 +400,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SSO</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>单点登录（SSO）</term></tig></langSet>
+                <note from="translator">“Single Sign On”的缩写</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
@@ -435,6 +437,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>Weblate</term></tig></langSet>
+                <note from="translator">DO NOT TRANSLATE! This is a brand name.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Local files</term></tig></langSet>
@@ -627,6 +630,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>unresolved comment</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>未解决的评论</term></tig></langSet>
+                <note from="translator">评论状态，相反状态为“resolved comment（已解决的评论）”</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>examples</term></tig></langSet>
@@ -639,6 +643,7 @@
             <termEntry id="opposite">
                 <langSet xml:lang="en"><tig><term>resolved comment</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>已解决的评论</term></tig></langSet>
+                <note from="translator">评论状态，相反状态为“unresolved comment（未解决的评论）”</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>access restriction</term></tig></langSet>
@@ -667,10 +672,12 @@
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>translation</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>翻译</term></tig></langSet>
+                <note from="translator">强调翻译的动作或状态</note>
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>translations</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>译文</term></tig></langSet>
+                <note from="translator">translation 的复数格式</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>URL scheme</term></tig></langSet>
@@ -744,6 +751,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>Sentry</term></tig></langSet>
+                <descrip>sentry.io</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Rollbar</term></tig></langSet>
@@ -763,6 +771,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tmserver</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>tmserver</term></tig></langSet>
+                <descrip>Translate Toolkit</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gravatar</term></tig></langSet>
@@ -800,6 +809,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Google OAuth 2</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>Google OAuth 2</term></tig></langSet>
+                <descrip>登入認證協定</descrip>
             </termEntry>
             <termEntry id="Past tense">
                 <langSet xml:lang="en"><tig><term>translated</term></tig></langSet>
