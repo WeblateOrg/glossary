@@ -646,6 +646,10 @@
                 <langSet xml:lang="en"><tig><term>check</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>查核</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>component list</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
