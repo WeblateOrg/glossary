@@ -294,6 +294,10 @@
                 <langSet xml:lang="en"><tig><term>component list</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>コンポーネント リスト</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>See</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>参照:</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
