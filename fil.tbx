@@ -28,7 +28,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
-                <langSet xml:lang="fil"><tig><term/></tig></langSet>
+                <langSet xml:lang="fil"><tig><term>add-on</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
@@ -36,7 +36,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bug</term></tig></langSet>
-                <langSet xml:lang="fil"><tig><term/></tig></langSet>
+                <langSet xml:lang="fil"><tig><term>bug</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
@@ -44,7 +44,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CI</term></tig></langSet>
-                <langSet xml:lang="fil"><tig><term/></tig></langSet>
+                <langSet xml:lang="fil"><tig><term>CI</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Keyboard shortcuts</term></tig></langSet>
@@ -72,7 +72,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Cookies</term></tig></langSet>
-                <langSet xml:lang="fil"><tig><term/></tig></langSet>
+                <langSet xml:lang="fil"><tig><term>Mga Cookie</term></tig></langSet>
             </termEntry>
             <termEntry id="XML Tag">
                 <langSet xml:lang="en"><tig><term>XML Tag</term></tig></langSet>
@@ -88,7 +88,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>current</term></tig></langSet>
-                <langSet xml:lang="fil"><tig><term/></tig></langSet>
+                <langSet xml:lang="fil"><tig><term>kasalukuyan</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>identity</term></tig></langSet>
@@ -124,7 +124,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>component list</term></tig></langSet>
-                <langSet xml:lang="fil"><tig><term></term></tig></langSet>
+                <langSet xml:lang="fil"><tig><term>listahan ng component</term></tig></langSet>
             </termEntry>
         </body>
     </text>
