@@ -1148,7 +1148,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ActiveX component</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term>ActiveX-komponento</term></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>ActiveX-komponanto</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ActiveX control</term></tig></langSet>
@@ -26928,11 +26928,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SSO</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term/></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>ununura ensaluto (SSO)</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term/></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>Venonta komerca tago</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
@@ -26940,19 +26940,19 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CI</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term/></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>SI</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Keyboard shortcuts</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term/></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>Fulmoklavoj</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term/></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>Weblate</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Regular expressions</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term/></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>Regula esprimo</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gitee</term></tig></langSet>
@@ -26960,23 +26960,23 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Subject</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term/></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>Temo</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Personal Data</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term/></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>Personaj datumoj</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Cookies</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term/></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>Kuketoj</term></tig></langSet>
             </termEntry>
             <termEntry id="XML Tag">
                 <langSet xml:lang="en"><tig><term>XML Tag</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term/></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>XML-Etikedo</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>variants</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term/></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>variaĵoj</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslated</term></tig></langSet>
@@ -26996,11 +26996,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pseudolocale</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term/></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>pseŭda lokaĵaro</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>component list</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term></term></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>komponanto-listo</term></tig></langSet>
             </termEntry>
         </body>
     </text>
