@@ -824,10 +824,14 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gerrit</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term></term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Subversion</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry id="components">
+                <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
