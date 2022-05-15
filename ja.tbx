@@ -302,6 +302,10 @@
                 <langSet xml:lang="en"><tig><term>activity</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>活動</term></tig></langSet>
             </termEntry>
+            <termEntry id="components">
+                <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
