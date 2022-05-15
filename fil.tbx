@@ -126,6 +126,10 @@
                 <langSet xml:lang="en"><tig><term>component list</term></tig></langSet>
                 <langSet xml:lang="fil"><tig><term>listahan ng component</term></tig></langSet>
             </termEntry>
+            <termEntry id="components">
+                <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
+                <langSet xml:lang="fil"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
