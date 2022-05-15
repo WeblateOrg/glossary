@@ -1790,6 +1790,10 @@
                 <langSet xml:lang="en"><tig><term>component list</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Komponentenliste</term></tig></langSet>
             </termEntry>
+            <termEntry id="components">
+                <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
