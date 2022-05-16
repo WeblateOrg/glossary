@@ -144,15 +144,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pseudolocale</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term/></tig></langSet>
+                <langSet xml:lang="it"><tig><term>pseudo locale</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>component list</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term/></tig></langSet>
+                <langSet xml:lang="it"><tig><term>elenco componente</term></tig></langSet>
             </termEntry>
             <termEntry id="components">
                 <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term></term></tig></langSet>
+                <langSet xml:lang="it"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
