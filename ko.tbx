@@ -288,7 +288,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>addons</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>부가기능</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>추가 기능</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>main</term></tig></langSet>
@@ -328,7 +328,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>addon</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>부가기능</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>추가 기능</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
@@ -392,7 +392,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>애드온</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>추가 기능</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
@@ -576,7 +576,7 @@
             </termEntry>
             <termEntry id="components">
                 <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
