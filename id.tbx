@@ -394,6 +394,14 @@
                 <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
                 <langSet xml:lang="id"><tig><term/></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pseudo</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>semu</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pagination</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>paginasi</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
