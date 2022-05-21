@@ -128,7 +128,11 @@
             </termEntry>
             <termEntry id="components">
                 <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
-                <langSet xml:lang="fil"><tig><term></term></tig></langSet>
+                <langSet xml:lang="fil"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry id="addon">
+                <langSet xml:lang="en"><tig><term>addon</term></tig></langSet>
+                <langSet xml:lang="fil"><tig><term>addon</term></tig></langSet>
             </termEntry>
         </body>
     </text>
