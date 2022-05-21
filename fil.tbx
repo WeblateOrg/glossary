@@ -178,6 +178,26 @@
                 <langSet xml:lang="en"><tig><term>number</term></tig></langSet>
                 <langSet xml:lang="fil"><tig><term>bilang</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>IBAN</term></tig></langSet>
+                <langSet xml:lang="fil"><tig><term>IBAN</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>SWIFT code</term></tig></langSet>
+                <langSet xml:lang="fil"><tig><term>SWIFT code</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>fill in</term></tig></langSet>
+                <langSet xml:lang="fil"><tig><term>punan</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>payment</term></tig></langSet>
+                <langSet xml:lang="fil"><tig><term>bayad</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>libre</term></tig></langSet>
+                <langSet xml:lang="fil"><tig><term>libre</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
