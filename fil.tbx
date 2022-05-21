@@ -198,6 +198,26 @@
                 <langSet xml:lang="en"><tig><term>libre</term></tig></langSet>
                 <langSet xml:lang="fil"><tig><term>libre</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>release</term></tig></langSet>
+                <langSet xml:lang="fil"><tig><term>release</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>project</term></tig></langSet>
+                <langSet xml:lang="fil"><tig><term>proyekto</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>reward</term></tig></langSet>
+                <langSet xml:lang="fil"><tig><term>gantimpala</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>supporter</term></tig></langSet>
+                <langSet xml:lang="fil"><tig><term>tagasuporta</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>feature</term></tig></langSet>
+                <langSet xml:lang="fil"><tig><term>feature</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
