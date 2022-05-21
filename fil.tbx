@@ -130,6 +130,50 @@
                 <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
                 <langSet xml:lang="fil"><tig><term>mga component</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Terms of Service</term></tig></langSet>
+                <langSet xml:lang="fil"><tig><term>Kasunduan sa Serbisyo</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Privacy Policy</term></tig></langSet>
+                <langSet xml:lang="fil"><tig><term>Patakaran sa Pagkapribado</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>GitHub</term></tig></langSet>
+                <langSet xml:lang="fil"><tig><term>GitHub</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>donation platform</term></tig></langSet>
+                <langSet xml:lang="fil"><tig><term>donation platform</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>address</term></tig></langSet>
+                <langSet xml:lang="fil"><tig><term>address</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>currency</term></tig></langSet>
+                <langSet xml:lang="fil"><tig><term>salapi</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>cryptocurrency</term></tig></langSet>
+                <langSet xml:lang="fil"><tig><term>cryptocurrency</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Bitcoin</term></tig></langSet>
+                <langSet xml:lang="fil"><tig><term>Bitcoin</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>payment</term></tig></langSet>
+                <langSet xml:lang="fil"><tig><term>pagbayad</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>bank transfer</term></tig></langSet>
+                <langSet xml:lang="fil"><tig><term>bank transfer</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>number</term></tig></langSet>
+                <langSet xml:lang="fil"><tig><term>numero</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
