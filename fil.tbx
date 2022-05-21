@@ -12,19 +12,19 @@
         <body>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>edit</term></tig></langSet>
-                <langSet xml:lang="fil"><tig><term/></tig></langSet>
+                <langSet xml:lang="fil"><tig><term>baguhin</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SSO</term></tig></langSet>
-                <langSet xml:lang="fil"><tig><term/></tig></langSet>
+                <langSet xml:lang="fil"><tig><term>SSO</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
-                <langSet xml:lang="fil"><tig><term/></tig></langSet>
+                <langSet xml:lang="fil"><tig><term>pribado</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>search</term></tig></langSet>
-                <langSet xml:lang="fil"><tig><term/></tig></langSet>
+                <langSet xml:lang="fil"><tig><term>maghanap</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
@@ -32,7 +32,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
-                <langSet xml:lang="fil"><tig><term/></tig></langSet>
+                <langSet xml:lang="fil"><tig><term>NBD</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bug</term></tig></langSet>
@@ -48,15 +48,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Keyboard shortcuts</term></tig></langSet>
-                <langSet xml:lang="fil"><tig><term/></tig></langSet>
+                <langSet xml:lang="fil"><tig><term>Mga shortcut sa keyboard</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
-                <langSet xml:lang="fil"><tig><term/></tig></langSet>
+                <langSet xml:lang="fil"><tig><term>Weblate</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Regular expressions</term></tig></langSet>
-                <langSet xml:lang="fil"><tig><term/></tig></langSet>
+                <langSet xml:lang="fil"><tig><term>Mga regular expression</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gitee</term></tig></langSet>
@@ -64,11 +64,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Subject</term></tig></langSet>
-                <langSet xml:lang="fil"><tig><term/></tig></langSet>
+                <langSet xml:lang="fil"><tig><term>Paksa</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Personal Data</term></tig></langSet>
-                <langSet xml:lang="fil"><tig><term/></tig></langSet>
+                <langSet xml:lang="fil"><tig><term>Personal na Data</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Cookies</term></tig></langSet>
@@ -76,15 +76,15 @@
             </termEntry>
             <termEntry id="XML Tag">
                 <langSet xml:lang="en"><tig><term>XML Tag</term></tig></langSet>
-                <langSet xml:lang="fil"><tig><term/></tig></langSet>
+                <langSet xml:lang="fil"><tig><term>XML Tag</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>variants</term></tig></langSet>
-                <langSet xml:lang="fil"><tig><term/></tig></langSet>
+                <langSet xml:lang="fil"><tig><term>mga variant</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
-                <langSet xml:lang="fil"><tig><term/></tig></langSet>
+                <langSet xml:lang="fil"><tig><term>token</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>current</term></tig></langSet>
@@ -92,23 +92,23 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>identity</term></tig></langSet>
-                <langSet xml:lang="fil"><tig><term/></tig></langSet>
+                <langSet xml:lang="fil"><tig><term>pagkakilanlan</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>session</term></tig></langSet>
-                <langSet xml:lang="fil"><tig><term/></tig></langSet>
+                <langSet xml:lang="fil"><tig><term>session</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslated</term></tig></langSet>
-                <langSet xml:lang="fil"><tig><term/></tig></langSet>
+                <langSet xml:lang="fil"><tig><term>di sinalin</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
-                <langSet xml:lang="fil"><tig><term/></tig></langSet>
+                <langSet xml:lang="fil"><tig><term>i-parse</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>This is not used when a component list is selected.</term></tig></langSet>
-                <langSet xml:lang="fil"><tig><term/></tig></langSet>
+                <langSet xml:lang="fil"><tig><term>Hindi ito ginagamit kapag pinili ang isang listahan ng component.</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gerrit</term></tig></langSet>
@@ -120,7 +120,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pseudolocale</term></tig></langSet>
-                <langSet xml:lang="fil"><tig><term/></tig></langSet>
+                <langSet xml:lang="fil"><tig><term>pseudolocale</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>component list</term></tig></langSet>
@@ -128,7 +128,7 @@
             </termEntry>
             <termEntry id="components">
                 <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
-                <langSet xml:lang="fil"><tig><term/></tig></langSet>
+                <langSet xml:lang="fil"><tig><term>mga component</term></tig></langSet>
             </termEntry>
         </body>
     </text>
