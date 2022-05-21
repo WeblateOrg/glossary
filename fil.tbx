@@ -49,6 +49,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Keyboard shortcuts</term></tig></langSet>
                 <langSet xml:lang="fil"><tig><term>Mga shortcut sa keyboard</term></tig></langSet>
+                <note from="translator">tanggalin ang "mga" kapag mahaba, pwede ring "keyboard shortcut" kung mahaba.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
@@ -93,6 +94,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>identity</term></tig></langSet>
                 <langSet xml:lang="fil"><tig><term>pagkakilanlan</term></tig></langSet>
+                <note from="translator">kapag di kasya, "identity" na lang.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>session</term></tig></langSet>
@@ -173,10 +175,12 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>number</term></tig></langSet>
                 <langSet xml:lang="fil"><tig><term>numero</term></tig></langSet>
+                <note from="translator">Number as in cellphone number, bank number, etc.</note>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>number</term></tig></langSet>
                 <langSet xml:lang="fil"><tig><term>bilang</term></tig></langSet>
+                <note from="translator">Number as in a numeric number (ex. "number of items")</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>IBAN</term></tig></langSet>
@@ -197,6 +201,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>libre</term></tig></langSet>
                 <langSet xml:lang="fil"><tig><term>libre</term></tig></langSet>
+                <note from="translator">"Libre" here is not Filipino for "free", it is a term mostly used for open source projects.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>release</term></tig></langSet>
