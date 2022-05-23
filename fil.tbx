@@ -218,6 +218,46 @@
                 <langSet xml:lang="en"><tig><term>feature</term></tig></langSet>
                 <langSet xml:lang="fil"><tig><term>feature</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>resolution</term></tig></langSet>
+                <langSet xml:lang="fil"><tig><term>resolution</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>link</term></tig></langSet>
+                <langSet xml:lang="fil"><tig><term>link</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
+                <langSet xml:lang="fil"><tig><term>Hosted Weblate</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>localization</term></tig></langSet>
+                <langSet xml:lang="fil"><tig><term>localization</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>unsupported</term></tig></langSet>
+                <langSet xml:lang="fil"><tig><term>di-suportado</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>image</term></tig></langSet>
+                <langSet xml:lang="fil"><tig><term>larawan</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>unsupported</term></tig></langSet>
+                <langSet xml:lang="fil"><tig><term>di-suportadong</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>community</term></tig></langSet>
+                <langSet xml:lang="fil"><tig><term>komunidad</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hosted service</term></tig></langSet>
+                <langSet xml:lang="fil"><tig><term>hosted service</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>dedicated</term></tig></langSet>
+                <langSet xml:lang="fil"><tig><term>dedicated</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
