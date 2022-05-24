@@ -244,6 +244,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>default</term></tig></langSet>
                 <langSet xml:lang="id"><tig><term>bawaan, asali</term></tig></langSet>
+                <note from="translator">preferensi sebelum diset yang digunakan oleh program untuk kembali ke posisi semula</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
@@ -428,6 +429,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>wrap</term></tig></langSet>
                 <langSet xml:lang="id"><tig><term>pecah</term></tig></langSet>
+                <note from="translator">konteks: line wrapping yaitu pemecahan baris teks agar sesuai dengan lebar halaman atau kolom</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Path</term></tig></langSet>
@@ -452,6 +454,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>line wrapping</term></tig></langSet>
                 <langSet xml:lang="id"><tig><term>pemecahan baris</term></tig></langSet>
+                <note from="translator">line wrapping yaitu pemecahan baris teks agar sesuai dengan lebar halaman atau kolom</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>lines wrapping</term></tig></langSet>
@@ -773,6 +776,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
                 <langSet xml:lang="id"><tig><term>tak dapat diterjemahkan</term></tig></langSet>
+                <descrip>Glossary terms that should not be changed from the source language</descrip>
             </termEntry>
         </body>
     </text>
