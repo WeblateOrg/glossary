@@ -402,6 +402,54 @@
                 <langSet xml:lang="en"><tig><term>pagination</term></tig></langSet>
                 <langSet xml:lang="id"><tig><term>paginasi</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>files</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>berkas</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>cookie</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>kuki</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>needing edit</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>perlu disunting</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Needs editing</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>Perlu disunting</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>wrap</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>bungkus</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Path</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>Lokasi</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>digest</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>intisari</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>events</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>peristiwa, kejadian</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Please</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>Silakan, harap, mohon</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>expired</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>kedaluwarsa</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>line wrapping</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>pembungkusan baris</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>lines wrapping</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>pemecahan baris</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
