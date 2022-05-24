@@ -420,7 +420,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>wrap</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term>bungkus</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>pecah</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Path</term></tig></langSet>
@@ -444,7 +444,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>line wrapping</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term>pembungkusan baris</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>pemecahan baris</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>lines wrapping</term></tig></langSet>
