@@ -446,6 +446,14 @@
                 <langSet xml:lang="en"><tig><term>lines wrapping</term></tig></langSet>
                 <langSet xml:lang="id"><tig><term>pemecahan baris</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>wrap</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>bungkus (skrip)</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>colon</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>tanda titik dua</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
