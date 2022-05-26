@@ -172,11 +172,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>current</term></tig></langSet>
-                <langSet xml:lang="he"><tig><term/></tig></langSet>
+                <langSet xml:lang="he"><tig><term>נוכחי</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>identity</term></tig></langSet>
-                <langSet xml:lang="he"><tig><term/></tig></langSet>
+                <langSet xml:lang="he"><tig><term>זהות</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>session</term></tig></langSet>
@@ -188,7 +188,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
-                <langSet xml:lang="he"><tig><term/></tig></langSet>
+                <langSet xml:lang="he"><tig><term>פענוח</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>This is not used when a component list is selected.</term></tig></langSet>
@@ -208,11 +208,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>component list</term></tig></langSet>
-                <langSet xml:lang="he"><tig><term/></tig></langSet>
+                <langSet xml:lang="he"><tig><term>רשימת רכיבים</term></tig></langSet>
             </termEntry>
             <termEntry id="components">
                 <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
-                <langSet xml:lang="he"><tig><term></term></tig></langSet>
+                <langSet xml:lang="he"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
