@@ -478,10 +478,6 @@
                 <langSet xml:lang="en"><tig><term>Microsoft Azure Active Directory</term></tig></langSet>
                 <langSet xml:lang="id"><tig><term>Microsoft Azure Active Directory</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term>pengaya</term></tig></langSet>
-            </termEntry>
         </body>
     </text>
 </martif>
