@@ -244,7 +244,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term>add-on</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>pengaya</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>current</term></tig></langSet>
@@ -420,7 +420,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Path</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term>Lokasi</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>Lokasi, Alamat</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>digest</term></tig></langSet>
