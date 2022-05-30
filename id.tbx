@@ -458,6 +458,30 @@
                 <langSet xml:lang="en"><tig><term>base</term></tig></langSet>
                 <langSet xml:lang="id"><tig><term>basis, dasar</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>template</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>templat</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pseudolocales</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>pelokalan semu</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>confirming</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>mengonfirmasi</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>authenticate</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>mengautentikasi</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Microsoft Azure Active Directory</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>Microsoft Azure Active Directory</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>pengaya</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
