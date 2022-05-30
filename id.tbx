@@ -454,6 +454,10 @@
                 <langSet xml:lang="en"><tig><term>colon</term></tig></langSet>
                 <langSet xml:lang="id"><tig><term>tanda titik dua</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>base</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>basis, dasar</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
