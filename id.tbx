@@ -478,6 +478,58 @@
                 <langSet xml:lang="en"><tig><term>Microsoft Azure Active Directory</term></tig></langSet>
                 <langSet xml:lang="id"><tig><term>Microsoft Azure Active Directory</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>add-ons</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>pengaya</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>addons</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>pengaya</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>plugin</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>pengaya</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>crash</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>mogok</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>header</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>kepala</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>headers</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>kepala</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>syntax</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>sintaksis</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>middleware</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>peranti tengah</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>proxy</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>proksi</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>backups</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>rekam cadang</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>backup</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>rekam cadang</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>container</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>kontainer</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>restore</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>memulihkan, pulihkan</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
