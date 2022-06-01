@@ -251,6 +251,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>identity</term></tig></langSet>
                 <langSet xml:lang="fi"><tig><term>identiteetti</term></tig></langSet>
+                <note from="translator">Henkilöllisyys jos henkilöistä</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>session</term></tig></langSet>
@@ -263,6 +264,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
                 <langSet xml:lang="fi"><tig><term>jäsentää</term></tig></langSet>
+                <note from="translator">https://www.kielitoimistonsanakirja.fi/#/j%C3%A4sent%C3%A4%C3%A4</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>This is not used when a component list is selected.</term></tig></langSet>
