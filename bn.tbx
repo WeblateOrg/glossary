@@ -44,15 +44,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CI</term></tig></langSet>
-                <langSet xml:lang="bn"><tig><term/></tig></langSet>
+                <langSet xml:lang="bn"><tig><term>সিআই</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Keyboard shortcuts</term></tig></langSet>
-                <langSet xml:lang="bn"><tig><term/></tig></langSet>
+                <langSet xml:lang="bn"><tig><term>কিবোর্ড শর্টকাট</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
-                <langSet xml:lang="bn"><tig><term/></tig></langSet>
+                <langSet xml:lang="bn"><tig><term>ওয়েবলেট</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Regular expressions</term></tig></langSet>
@@ -64,15 +64,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Subject</term></tig></langSet>
-                <langSet xml:lang="bn"><tig><term/></tig></langSet>
+                <langSet xml:lang="bn"><tig><term>বিষয়</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Personal Data</term></tig></langSet>
-                <langSet xml:lang="bn"><tig><term/></tig></langSet>
+                <langSet xml:lang="bn"><tig><term>ব্যক্তিগত তথ্য</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Cookies</term></tig></langSet>
-                <langSet xml:lang="bn"><tig><term/></tig></langSet>
+                <langSet xml:lang="bn"><tig><term>কুকি</term></tig></langSet>
             </termEntry>
             <termEntry id="XML Tag">
                 <langSet xml:lang="en"><tig><term>XML Tag</term></tig></langSet>
@@ -80,23 +80,23 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>variants</term></tig></langSet>
-                <langSet xml:lang="bn"><tig><term/></tig></langSet>
+                <langSet xml:lang="bn"><tig><term>প্রকরণ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
-                <langSet xml:lang="bn"><tig><term/></tig></langSet>
+                <langSet xml:lang="bn"><tig><term>টোকেন</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>current</term></tig></langSet>
-                <langSet xml:lang="bn"><tig><term/></tig></langSet>
+                <langSet xml:lang="bn"><tig><term>বর্তমান</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>identity</term></tig></langSet>
-                <langSet xml:lang="bn"><tig><term/></tig></langSet>
+                <langSet xml:lang="bn"><tig><term>পরিচয়</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>session</term></tig></langSet>
-                <langSet xml:lang="bn"><tig><term/></tig></langSet>
+                <langSet xml:lang="bn"><tig><term>সেশন</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslated</term></tig></langSet>
@@ -104,7 +104,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
-                <langSet xml:lang="bn"><tig><term/></tig></langSet>
+                <langSet xml:lang="bn"><tig><term>পার্স</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>This is not used when a component list is selected.</term></tig></langSet>
@@ -120,15 +120,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pseudolocale</term></tig></langSet>
-                <langSet xml:lang="bn"><tig><term/></tig></langSet>
+                <langSet xml:lang="bn"><tig><term>সিউডোলোকাল</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>component list</term></tig></langSet>
-                <langSet xml:lang="bn"><tig><term/></tig></langSet>
+                <langSet xml:lang="bn"><tig><term>অংশ তালিকা</term></tig></langSet>
             </termEntry>
             <termEntry id="components">
                 <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
-                <langSet xml:lang="bn"><tig><term></term></tig></langSet>
+                <langSet xml:lang="bn"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
