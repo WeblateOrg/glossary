@@ -610,6 +610,10 @@
                 <langSet xml:lang="en"><tig><term>key</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>密钥</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>explanation</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>解释</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
