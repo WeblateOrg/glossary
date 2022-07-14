@@ -140,7 +140,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>approve</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>批准</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>核准</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>flags</term></tig></langSet>
