@@ -286,6 +286,10 @@
                 <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
                 <langSet xml:lang="fi"><tig><term/></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
+                <langSet xml:lang="fi"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
