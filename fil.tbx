@@ -258,6 +258,10 @@
                 <langSet xml:lang="en"><tig><term>dedicated</term></tig></langSet>
                 <langSet xml:lang="fil"><tig><term>dedicated</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
+                <langSet xml:lang="fil"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
