@@ -616,7 +616,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>更改日志</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>更新日志</term></tig></langSet>
             </termEntry>
         </body>
     </text>
