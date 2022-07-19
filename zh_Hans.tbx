@@ -594,10 +594,6 @@
                 <langSet xml:lang="en"><tig><term>component list</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>部件列表</term></tig></langSet>
             </termEntry>
-            <termEntry id="components">
-                <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term/></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>key</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>键</term></tig></langSet>
