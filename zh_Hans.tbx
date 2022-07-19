@@ -171,10 +171,6 @@
                 <langSet xml:lang="zh_Hans"><tig><term>定期</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>部件</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>chosen</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>指定</term></tig></langSet>
             </termEntry>
