@@ -610,6 +610,10 @@
                 <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>更新日志</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>filter</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>过滤器</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
