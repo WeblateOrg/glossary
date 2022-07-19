@@ -236,7 +236,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pseudolocale</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>pseudo local</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>component list</term></tig></langSet>
@@ -248,7 +248,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term></term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>registo de alterações</term></tig></langSet>
             </termEntry>
         </body>
     </text>
