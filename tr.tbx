@@ -328,7 +328,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>User</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term>kullanıcı</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>Kullanıcı</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Available</term></tig></langSet>
@@ -340,7 +340,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Kind</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term>Tür</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>Çeşit</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Permissions</term></tig></langSet>
