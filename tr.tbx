@@ -326,6 +326,26 @@
                 <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>değişiklik günlüğü</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>User</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>kullanıcı</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Available</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>Mevcut</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Managers</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>Yöneticiler</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Kind</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>Tür</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Permissions</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>İzinler</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
