@@ -580,7 +580,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>character</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>글자</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>character</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>글자, 문자</term></tig></langSet>
             </termEntry>
         </body>
     </text>
