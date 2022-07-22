@@ -602,6 +602,10 @@
                 <langSet xml:lang="en"><tig><term>fetch</term></tig></langSet>
                 <langSet xml:lang="ko"><tig><term>불러오기</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>machine translation</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>긱</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
