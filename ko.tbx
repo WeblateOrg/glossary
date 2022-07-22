@@ -604,7 +604,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>machine translation</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>긱</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>기계 번역</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Application</term></tig></langSet>
