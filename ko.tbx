@@ -219,10 +219,6 @@
                 <langSet xml:lang="ko"><tig><term>번역자</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>e-mail</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>전자우편</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>turned off</term></tig></langSet>
                 <langSet xml:lang="ko"><tig><term>해제되다</term></tig></langSet>
             </termEntry>
