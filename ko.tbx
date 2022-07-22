@@ -574,10 +574,6 @@
                 <langSet xml:lang="en"><tig><term>component list</term></tig></langSet>
                 <langSet xml:lang="ko"><tig><term>구성요소 목록</term></tig></langSet>
             </termEntry>
-            <termEntry id="components">
-                <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term/></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
                 <langSet xml:lang="ko"><tig><term/></tig></langSet>
