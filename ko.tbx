@@ -596,7 +596,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>speaker</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>사용자</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>언어 사용자</term></tig></langSet>
             </termEntry>
         </body>
     </text>
