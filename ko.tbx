@@ -324,7 +324,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>component</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>구성 요소</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>구성요소</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>addon</term></tig></langSet>
@@ -332,7 +332,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>구성 요소</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>구성요소</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Update</term></tig></langSet>
@@ -572,7 +572,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>component list</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term/></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>구성요소 목록</term></tig></langSet>
             </termEntry>
             <termEntry id="components">
                 <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
@@ -584,7 +584,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>character</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>글자, 문자</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>글자</term></tig></langSet>
             </termEntry>
         </body>
     </text>
