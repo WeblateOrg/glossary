@@ -586,6 +586,18 @@
                 <langSet xml:lang="en"><tig><term>character</term></tig></langSet>
                 <langSet xml:lang="ko"><tig><term>글자</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>machinery</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>번역기</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>file</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>파일</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>plural</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>복수형</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
