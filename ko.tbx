@@ -598,6 +598,14 @@
                 <langSet xml:lang="en"><tig><term>speaker</term></tig></langSet>
                 <langSet xml:lang="ko"><tig><term>언어 사용자</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>speakers</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>언어 사용자</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>fetch</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>불러오기</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
