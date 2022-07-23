@@ -1772,7 +1772,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>This is not used when a component list is selected.</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term/></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Dies wird nicht verwendet, wenn eine Komponentenliste ausgewählt ist.</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gerrit</term></tig></langSet>
@@ -1788,11 +1788,11 @@
             </termEntry>
             <termEntry id="components">
                 <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term/></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Komponenten</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Needs editing</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>bearbeitungsbedürftig</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Bearbeitung erforderlich</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
