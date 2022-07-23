@@ -606,6 +606,10 @@
                 <langSet xml:lang="en"><tig><term>machine translation</term></tig></langSet>
                 <langSet xml:lang="ko"><tig><term>긱</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Application</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>응용프로그램</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
