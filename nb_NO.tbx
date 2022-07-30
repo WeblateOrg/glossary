@@ -36,7 +36,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>edit</term></tig></langSet>
-                <langSet xml:lang="nb_NO"><tig><term/></tig></langSet>
+                <langSet xml:lang="nb_NO"><tig><term>rediger / redigering</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SSO</term></tig></langSet>
@@ -44,7 +44,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
-                <langSet xml:lang="nb_NO"><tig><term/></tig></langSet>
+                <langSet xml:lang="nb_NO"><tig><term>privat</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>search</term></tig></langSet>
@@ -52,15 +52,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
-                <langSet xml:lang="nb_NO"><tig><term/></tig></langSet>
+                <langSet xml:lang="nb_NO"><tig><term>tillegg</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
-                <langSet xml:lang="nb_NO"><tig><term/></tig></langSet>
+                <langSet xml:lang="nb_NO"><tig><term>neste arbeidsdag?</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bug</term></tig></langSet>
-                <langSet xml:lang="nb_NO"><tig><term/></tig></langSet>
+                <langSet xml:lang="nb_NO"><tig><term>feil</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
@@ -72,7 +72,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Keyboard shortcuts</term></tig></langSet>
-                <langSet xml:lang="nb_NO"><tig><term/></tig></langSet>
+                <langSet xml:lang="nb_NO"><tig><term>Tastatursnarveier</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
@@ -116,11 +116,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>current</term></tig></langSet>
-                <langSet xml:lang="nb_NO"><tig><term/></tig></langSet>
+                <langSet xml:lang="nb_NO"><tig><term>nåværende</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>identity</term></tig></langSet>
-                <langSet xml:lang="nb_NO"><tig><term/></tig></langSet>
+                <langSet xml:lang="nb_NO"><tig><term>identitet</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>session</term></tig></langSet>
@@ -132,7 +132,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
-                <langSet xml:lang="nb_NO"><tig><term/></tig></langSet>
+                <langSet xml:lang="nb_NO"><tig><term>tolk/fortolk</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>This is not used when a component list is selected.</term></tig></langSet>
@@ -152,7 +152,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>component list</term></tig></langSet>
-                <langSet xml:lang="nb_NO"><tig><term/></tig></langSet>
+                <langSet xml:lang="nb_NO"><tig><term>komponentliste</term></tig></langSet>
             </termEntry>
             <termEntry id="components">
                 <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
@@ -160,7 +160,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
-                <langSet xml:lang="nb_NO"><tig><term></term></tig></langSet>
+                <langSet xml:lang="nb_NO"><tig><term>endringslogg</term></tig></langSet>
             </termEntry>
         </body>
     </text>
