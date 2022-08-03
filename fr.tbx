@@ -686,6 +686,10 @@
                 <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>journal des modifications</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>issue</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
