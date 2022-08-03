@@ -1060,6 +1060,10 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pull request</term></tig></langSet>
                 <langSet xml:lang="et"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
