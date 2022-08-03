@@ -626,6 +626,14 @@
                 <langSet xml:lang="en"><tig><term>pull request</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>拉取请求</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>issue</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>问题</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>unresolved comment</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>待解决的评论</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
