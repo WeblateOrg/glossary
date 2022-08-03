@@ -346,6 +346,14 @@
                 <langSet xml:lang="en"><tig><term>Permissions</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>İzinler</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pull request</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>issue</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
