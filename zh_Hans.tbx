@@ -622,6 +622,14 @@
                 <langSet xml:lang="en"><tig><term>context</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>语境</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>issue</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>问题</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pull request</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>拉取请求</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
