@@ -655,10 +655,6 @@
                 <langSet xml:lang="fr"><tig><term>session</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>untranslated</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>analyser</term></tig></langSet>
             </termEntry>
