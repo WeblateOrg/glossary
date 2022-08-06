@@ -680,7 +680,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>issue</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term></term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>problème</term></tig></langSet>
             </termEntry>
         </body>
     </text>
