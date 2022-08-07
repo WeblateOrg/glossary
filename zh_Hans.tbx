@@ -634,6 +634,14 @@
                 <langSet xml:lang="en"><tig><term>unresolved comment</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>待解决的评论</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>examples</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>示例</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>example</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>示例</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
