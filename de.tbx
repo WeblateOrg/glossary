@@ -1679,10 +1679,6 @@
                 <langSet xml:lang="de"><tig><term>Zeilenumbruch</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>newline</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Zeilenvorschub</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>commits</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Commits</term></tig></langSet>
             </termEntry>
