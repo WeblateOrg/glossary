@@ -1670,10 +1670,6 @@
                 <langSet xml:lang="en"><tig><term>newlines</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Zeilenumbrüche</term></tig></langSet>
             </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>newlines</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Zeilenvorschübe</term></tig></langSet>
-            </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>newline</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Zeilenumbruch</term></tig></langSet>
