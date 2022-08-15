@@ -1040,7 +1040,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>message</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Zeichenkette</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Nachricht</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Whiteboard</term></tig></langSet>
