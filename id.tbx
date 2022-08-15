@@ -102,6 +102,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>key</term></tig></langSet>
                 <langSet xml:lang="id"><tig><term>key, kunci</term></tig></langSet>
+                <note from="translator">@id</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>state</term></tig></langSet>
@@ -247,6 +248,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
                 <langSet xml:lang="id"><tig><term>pengaya</term></tig></langSet>
+                <note from="translator">@id</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>current</term></tig></langSet>
@@ -549,10 +551,12 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pull request</term></tig></langSet>
                 <langSet xml:lang="id"><tig><term>id</term></tig></langSet>
+                <note from="translator">Terjemahan</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>issue</term></tig></langSet>
                 <langSet xml:lang="id"><tig><term>Indonesia</term></tig></langSet>
+                <note from="translator">@id</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>access restriction</term></tig></langSet>
