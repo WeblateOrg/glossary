@@ -1475,10 +1475,6 @@
                 <langSet xml:lang="de"><tig><term>Formatzeichenketten</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>access restrictions</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Zugriffsbeschränkungen</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>access restriction</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Zugriffsbeschränkung</term></tig></langSet>
             </termEntry>
