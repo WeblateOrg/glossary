@@ -136,7 +136,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Contributors</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>공헌자(컨트리뷰터)</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>기여자</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>License</term></tig></langSet>
@@ -608,11 +608,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Application</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>응용프로그램</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>애플리케이션</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pull request</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
