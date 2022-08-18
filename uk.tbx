@@ -180,11 +180,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>access restriction</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>обмеження доступу</term></tig></langSet>
             </termEntry>
             <termEntry id="access restrictions (plural)">
                 <langSet xml:lang="en"><tig><term>access restrictions</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>обмеження доступу</term></tig></langSet>
             </termEntry>
         </body>
     </text>
