@@ -818,6 +818,14 @@
                 <langSet xml:lang="en"><tig><term>access restrictions</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>ограничения доступа</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>regex</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>regular expression</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
