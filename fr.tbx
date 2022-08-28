@@ -690,6 +690,10 @@
                 <langSet xml:lang="en"><tig><term>access restrictions</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>restrictions d’accès</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>regex</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
