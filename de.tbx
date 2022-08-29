@@ -1802,6 +1802,10 @@
                 <langSet xml:lang="en"><tig><term>regex</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Regulärer Ausdruck</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>class</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
