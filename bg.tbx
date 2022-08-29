@@ -290,6 +290,10 @@
                 <langSet xml:lang="en"><tig><term>regular expression</term></tig></langSet>
                 <langSet xml:lang="bg"><tig><term>регулярен израз</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>class</term></tig></langSet>
+                <langSet xml:lang="bg"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
