@@ -1088,6 +1088,10 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regex</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>class</term></tig></langSet>
                 <langSet xml:lang="kk"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
