@@ -144,10 +144,14 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regular expression</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term></term></tig></langSet>
+                <langSet xml:lang="tt"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regex</term></tig></langSet>
+                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>class</term></tig></langSet>
                 <langSet xml:lang="tt"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
