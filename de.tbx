@@ -1370,10 +1370,6 @@
                 <langSet xml:lang="en"><tig><term>unmark</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>aufheben</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>flag</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Markierung</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Translation flags</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Übersetzungsmarkierungen</term></tig></langSet>
