@@ -1804,7 +1804,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>class</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term></term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Klasse</term></tig></langSet>
             </termEntry>
         </body>
     </text>
