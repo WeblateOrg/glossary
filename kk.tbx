@@ -28,7 +28,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>watched</term></tig></langSet>
-                <langSet xml:lang="kk"><tig><term>baqylanğan</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>бақыланады</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>notification</term></tig></langSet>
@@ -48,7 +48,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>user</term></tig></langSet>
-                <langSet xml:lang="kk"><tig><term>paidalanūşy</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>қолданушы</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>password</term></tig></langSet>
@@ -324,7 +324,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>view</term></tig></langSet>
-                <langSet xml:lang="kk"><tig><term>qarau</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>көру</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fetch</term></tig></langSet>
@@ -336,7 +336,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>using</term></tig></langSet>
-                <langSet xml:lang="kk"><tig><term>arqyly</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>қолдану, қолданып, арқылы</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>third party</term></tig></langSet>
@@ -392,7 +392,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>usually</term></tig></langSet>
-                <langSet xml:lang="kk"><tig><term>ädette</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>әдетте</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>to</term></tig></langSet>
@@ -536,7 +536,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>voting</term></tig></langSet>
-                <langSet xml:lang="kk"><tig><term>sailau</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>дауыс беру, сайлау</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>comment</term></tig></langSet>
@@ -584,7 +584,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>workflow</term></tig></langSet>
-                <langSet xml:lang="kk"><tig><term>ıskeri ereje</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>жұмыс ағыны</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>integrating</term></tig></langSet>
@@ -940,11 +940,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>visit</term></tig></langSet>
-                <langSet xml:lang="kk"><tig><term>kırıp şyğu</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>көру/кіру</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>warning</term></tig></langSet>
-                <langSet xml:lang="kk"><tig><term>eskertu</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>ескерту</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add</term></tig></langSet>
@@ -996,7 +996,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
-                <langSet xml:lang="kk"><tig><term/></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>Weblate</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Regular expressions</term></tig></langSet>
@@ -1020,11 +1020,11 @@
             </termEntry>
             <termEntry id="XML Tag">
                 <langSet xml:lang="en"><tig><term>XML Tag</term></tig></langSet>
-                <langSet xml:lang="kk"><tig><term/></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>XML тегі</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>variants</term></tig></langSet>
-                <langSet xml:lang="kk"><tig><term/></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>нұсқалар</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
@@ -1080,7 +1080,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>access restriction</term></tig></langSet>
-                <langSet xml:lang="kk"><tig><term/></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>қолжетімділік шектеуі</term></tig></langSet>
             </termEntry>
             <termEntry id="access restrictions (plural)">
                 <langSet xml:lang="en"><tig><term>access restrictions</term></tig></langSet>
@@ -1092,7 +1092,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>class</term></tig></langSet>
-                <langSet xml:lang="kk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
