@@ -862,6 +862,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regex</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>exreg</term></tig></langSet>
+                <note from="translator">EXpressão REGular</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>class</term></tig></langSet>
