@@ -76,7 +76,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>privilege</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>權利</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>特權</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>change</term></tig></langSet>
@@ -684,7 +684,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>class</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term></term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>类</term></tig></langSet>
             </termEntry>
         </body>
     </text>
