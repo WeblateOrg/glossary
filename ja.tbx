@@ -342,6 +342,10 @@
                 <langSet xml:lang="en"><tig><term>class</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>クラス</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
