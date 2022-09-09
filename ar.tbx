@@ -192,6 +192,10 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>class</term></tig></langSet>
+                <langSet xml:lang="ar"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
                 <langSet xml:lang="ar"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
