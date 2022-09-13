@@ -172,7 +172,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ro"><tig><term>slug</term></tig></langSet>
             </termEntry>
         </body>
     </text>
