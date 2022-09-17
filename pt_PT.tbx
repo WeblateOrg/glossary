@@ -276,7 +276,55 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>class</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term></term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>contributor</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>colaborador</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>"Needing edit"</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>"Precisa de edição"</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Shared</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>Partilhado</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>string</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>entrada; texto</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>e-mail</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>correio eletrónico</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>e-mail</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>correio eletrónico</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>e-mail address</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>endereço de correio eletrónico</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>this</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>este</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Needs editing</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>Precisa de edição</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>font family</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>família de tipo de letra</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Tabs</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>Separadores</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>report</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>reportar</term></tig></langSet>
             </termEntry>
         </body>
     </text>
