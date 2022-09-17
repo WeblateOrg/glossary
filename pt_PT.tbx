@@ -326,6 +326,10 @@
                 <langSet xml:lang="en"><tig><term>report</term></tig></langSet>
                 <langSet xml:lang="pt_PT"><tig><term>reportar</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Contributor</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>Colaborador</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
