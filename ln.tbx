@@ -164,6 +164,10 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
+                <langSet xml:lang="ln"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>fixup</term></tig></langSet>
                 <langSet xml:lang="ln"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
