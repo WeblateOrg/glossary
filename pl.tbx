@@ -428,7 +428,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fixup</term></tig></langSet>
-                <langSet xml:lang="pl"><tig><term></term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>poprawka</term></tig></langSet>
             </termEntry>
         </body>
     </text>
