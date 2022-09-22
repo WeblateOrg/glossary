@@ -666,6 +666,10 @@
                 <langSet xml:lang="en"><tig><term>fixup</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>修正</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>translation</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>翻译</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
