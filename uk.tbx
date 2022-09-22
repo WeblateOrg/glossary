@@ -206,6 +206,14 @@
                 <langSet xml:lang="en"><tig><term>fixup</term></tig></langSet>
                 <langSet xml:lang="uk"><tig><term>виправлення</term></tig></langSet>
             </termEntry>
+            <termEntry id="plural form">
+                <langSet xml:lang="en"><tig><term>translations</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>translation</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
