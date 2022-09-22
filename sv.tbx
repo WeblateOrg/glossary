@@ -250,6 +250,10 @@
                 <langSet xml:lang="en"><tig><term>translation</term></tig></langSet>
                 <langSet xml:lang="sv"><tig><term>översättning</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>you</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>du</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
