@@ -300,7 +300,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>翻译</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>译文</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>source string</term></tig></langSet>
