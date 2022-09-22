@@ -244,11 +244,11 @@
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>translations</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term></term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>översättningar</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term></term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>översättning</term></tig></langSet>
             </termEntry>
         </body>
     </text>
