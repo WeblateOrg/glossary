@@ -1096,6 +1096,10 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fixup</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry id="plural form">
+                <langSet xml:lang="en"><tig><term>translations</term></tig></langSet>
                 <langSet xml:lang="kk"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
