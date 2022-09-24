@@ -438,6 +438,14 @@
                 <langSet xml:lang="en"><tig><term>translation</term></tig></langSet>
                 <langSet xml:lang="pl"><tig><term>tłumaczenie</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>unresolved comment</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry id="opposite">
+                <langSet xml:lang="en"><tig><term>resolved comment</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
