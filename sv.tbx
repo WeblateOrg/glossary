@@ -254,6 +254,14 @@
                 <langSet xml:lang="en"><tig><term>you</term></tig></langSet>
                 <langSet xml:lang="sv"><tig><term>du</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>unresolved comment</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry id="opposite">
+                <langSet xml:lang="en"><tig><term>resolved comment</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
