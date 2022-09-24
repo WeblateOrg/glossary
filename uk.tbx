@@ -216,11 +216,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>unresolved comment</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>невирішений коментар</term></tig></langSet>
             </termEntry>
             <termEntry id="opposite">
                 <langSet xml:lang="en"><tig><term>resolved comment</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>вирішений коментар</term></tig></langSet>
             </termEntry>
         </body>
     </text>
