@@ -308,10 +308,14 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>unresolved comment</term></tig></langSet>
-                <langSet xml:lang="bg"><tig><term></term></tig></langSet>
+                <langSet xml:lang="bg"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry id="opposite">
                 <langSet xml:lang="en"><tig><term>resolved comment</term></tig></langSet>
+                <langSet xml:lang="bg"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>URL scheme</term></tig></langSet>
                 <langSet xml:lang="bg"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
