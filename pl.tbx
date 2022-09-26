@@ -440,15 +440,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>unresolved comment</term></tig></langSet>
-                <langSet xml:lang="pl"><tig><term/></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>nierozwiązany komentarz</term></tig></langSet>
             </termEntry>
             <termEntry id="opposite">
                 <langSet xml:lang="en"><tig><term>resolved comment</term></tig></langSet>
-                <langSet xml:lang="pl"><tig><term/></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>rozwiązany komentarz</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>URL scheme</term></tig></langSet>
-                <langSet xml:lang="pl"><tig><term></term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>Schemat URL</term></tig></langSet>
             </termEntry>
         </body>
     </text>
