@@ -12,11 +12,11 @@
         <body>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>access restriction</term></tig></langSet>
-                <langSet xml:lang="lv"><tig><term/></tig></langSet>
+                <langSet xml:lang="lv"><tig><term>piekļuves ierobežojums</term></tig></langSet>
             </termEntry>
             <termEntry id="access restrictions (plural)">
                 <langSet xml:lang="en"><tig><term>access restrictions</term></tig></langSet>
-                <langSet xml:lang="lv"><tig><term/></tig></langSet>
+                <langSet xml:lang="lv"><tig><term>piekļuves ierobežojumi</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gitee</term></tig></langSet>
@@ -84,7 +84,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>unresolved comment</term></tig></langSet>
-                <langSet xml:lang="lv"><tig><term/></tig></langSet>
+                <langSet xml:lang="lv"><tig><term>neatrisināts komentārs</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
@@ -128,11 +128,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>search</term></tig></langSet>
-                <langSet xml:lang="lv"><tig><term/></tig></langSet>
+                <langSet xml:lang="lv"><tig><term>meklēt</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
-                <langSet xml:lang="lv"><tig><term/></tig></langSet>
+                <langSet xml:lang="lv"><tig><term>Weblate</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Regular expressions</term></tig></langSet>
@@ -140,11 +140,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
-                <langSet xml:lang="lv"><tig><term/></tig></langSet>
+                <langSet xml:lang="lv"><tig><term>papildinājums</term></tig></langSet>
             </termEntry>
             <termEntry id="opposite">
                 <langSet xml:lang="en"><tig><term>resolved comment</term></tig></langSet>
-                <langSet xml:lang="lv"><tig><term/></tig></langSet>
+                <langSet xml:lang="lv"><tig><term>atrisināts komentārs</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Personal Data</term></tig></langSet>
@@ -164,11 +164,11 @@
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>translations</term></tig></langSet>
-                <langSet xml:lang="lv"><tig><term/></tig></langSet>
+                <langSet xml:lang="lv"><tig><term>tulkojumi</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation</term></tig></langSet>
-                <langSet xml:lang="lv"><tig><term/></tig></langSet>
+                <langSet xml:lang="lv"><tig><term>tulkojums</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translations</term></tig></langSet>
