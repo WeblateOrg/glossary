@@ -388,15 +388,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>unresolved comment</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>çözülmemiş yorum</term></tig></langSet>
             </termEntry>
             <termEntry id="opposite">
                 <langSet xml:lang="en"><tig><term>resolved comment</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>çözülmüş yorum</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>URL scheme</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term></term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>URL şeması</term></tig></langSet>
             </termEntry>
         </body>
     </text>
