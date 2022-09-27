@@ -1828,7 +1828,23 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>URL scheme</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term></term></tig></langSet>
+                <langSet xml:lang="de"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Contributor</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Mitwirkender</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>guide</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Anleitung</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>developer</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Entwickler</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Application</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Anwendung</term></tig></langSet>
             </termEntry>
         </body>
     </text>
