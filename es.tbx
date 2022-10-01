@@ -12,7 +12,7 @@
         <body>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>hook</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>actuador</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>gancho</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>hosting</term></tig></langSet>
@@ -20,7 +20,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parse error</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>error de análisis</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>error del análisis</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>GDPR</term></tig></langSet>
@@ -44,15 +44,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>push</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>enviar</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>presionar</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>rebase</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>cambiar base</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>rebasar</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>watched</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>monitorizado</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>mirado</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>edit</term></tig></langSet>
@@ -60,7 +60,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SSO</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>acceso unificado; cuenta unificada</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>inicio de sesión único</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
@@ -92,7 +92,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Keyboard shortcuts</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>Atajos del teclado</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>Atajos en el teclado</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
@@ -108,11 +108,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Subject</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>Asunto</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>Tema</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Personal Data</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>Datos personales</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>Información personal</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Cookies</term></tig></langSet>
@@ -144,7 +144,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>Clave</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>clave</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>current</term></tig></langSet>
@@ -160,7 +160,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>``mode``</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>Modo</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>``modo``</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslated</term></tig></langSet>
@@ -188,7 +188,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pseudolocale</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>pseudolocale</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>pseudoconfiguración regional</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>component list</term></tig></langSet>
@@ -204,19 +204,19 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pull request</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>Petición de arrastre</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>solicitud de extracción</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>issue</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>problema</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>tema</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>access restriction</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>Restricción de acceso</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>restricción al acceso</term></tig></langSet>
             </termEntry>
             <termEntry id="access restrictions (plural)">
                 <langSet xml:lang="en"><tig><term>access restrictions</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>Restricciones de acceso</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>Restricciones al acceso</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regular expression</term></tig></langSet>
@@ -224,7 +224,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regex</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>expresiones regulares</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>expresión regular</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>class</term></tig></langSet>
@@ -248,7 +248,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>unresolved comment</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>comentario no resuelto</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>comentario sin resolver</term></tig></langSet>
             </termEntry>
             <termEntry id="opposite">
                 <langSet xml:lang="en"><tig><term>resolved comment</term></tig></langSet>
