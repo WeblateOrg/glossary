@@ -53,6 +53,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>watched</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>mirado</term></tig></langSet>
+                <note from="translator">Incluso visto</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>edit</term></tig></langSet>
@@ -145,6 +146,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>clave</term></tig></langSet>
+                <note from="translator">https://www.fundeu.es/recomendacion/token-alternativas-en-espanol/</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>current</term></tig></langSet>
@@ -161,6 +163,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>``mode``</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>``modo``</term></tig></langSet>
+                <descrip>Characteristics that distinguish an action.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslated</term></tig></langSet>
@@ -209,6 +212,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>issue</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>tema</term></tig></langSet>
+                <note from="translator">asunto</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>access restriction</term></tig></langSet>
@@ -305,6 +309,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>confirmar correo electrónico</term></tig></langSet>
+                <descrip>e-mail address that will be used as committer</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>history</term></tig></langSet>
@@ -321,26 +326,32 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>Sentry</term></tig></langSet>
+                <descrip>sentry.io</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Rollbar</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>Rollbar</term></tig></langSet>
+                <descrip>rollbar.com</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ModernMT</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>ModernMT</term></tig></langSet>
+                <descrip>modernmt.com</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>MyMemory</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>MyMemory</term></tig></langSet>
+                <descrip>mymemory.translated.net</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tmserver</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>tmserver</term></tig></langSet>
+                <descrip>Translate Toolkit</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gravatar</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>Gravatar</term></tig></langSet>
+                <descrip>gravatar.com</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Qt Linguist</term></tig></langSet>
@@ -373,6 +384,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Google OAuth 2</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>Google OAuth 2</term></tig></langSet>
+                <descrip>登入認證協定</descrip>
             </termEntry>
             <termEntry id="Past tense">
                 <langSet xml:lang="en"><tig><term>translated</term></tig></langSet>
@@ -421,6 +433,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>intraducible</term></tig></langSet>
+                <descrip>Glossary terms that should not be changed from the source language</descrip>
             </termEntry>
         </body>
     </text>
