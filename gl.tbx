@@ -4024,15 +4024,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SSO</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term/></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>inicio da sesión exclusiva</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term/></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>Engadir</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term/></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>Non é un vo negocio</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
@@ -4040,19 +4040,19 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CI</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term/></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>CI</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Keyboard shortcuts</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term/></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>Atallos do teclado</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term/></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>Weblate</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Regular expressions</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term/></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>expresións comúns</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gitee</term></tig></langSet>
@@ -4060,27 +4060,27 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Subject</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term/></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>Asunto</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Personal Data</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term/></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>Datos persoais</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Cookies</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term/></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>Cookies</term></tig></langSet>
             </termEntry>
             <termEntry id="XML Tag">
                 <langSet xml:lang="en"><tig><term>XML Tag</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term/></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>Etiqueta XML</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>variants</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term/></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>variantes</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>identity</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term/></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>identidade</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslated</term></tig></langSet>
@@ -4100,11 +4100,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pseudolocale</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term/></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>pseudoconfiguración rexional</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>component list</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term/></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>Listaxe dos compoñentes</term></tig></langSet>
             </termEntry>
             <termEntry id="components">
                 <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
@@ -4112,59 +4112,59 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term/></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>rexistro dos cambios</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pull request</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term/></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>pull request</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>issue</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term/></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>tema</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>access restriction</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term/></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>Acceso restrinxido</term></tig></langSet>
             </termEntry>
             <termEntry id="access restrictions (plural)">
                 <langSet xml:lang="en"><tig><term>access restrictions</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term/></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>Limitacions ao acceso</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regex</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term/></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>expresión común</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regular expression</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term/></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>expresión común</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term/></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>indicación</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fixup</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term/></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>arranxar</term></tig></langSet>
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>translations</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term/></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>traducións</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term/></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>tradución</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>unresolved comment</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term/></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>comentario sen resolver</term></tig></langSet>
             </termEntry>
             <termEntry id="opposite">
                 <langSet xml:lang="en"><tig><term>resolved comment</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term/></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>comentario resolto</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>URL scheme</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term></term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>esquema da URL</term></tig></langSet>
             </termEntry>
         </body>
     </text>
