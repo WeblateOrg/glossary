@@ -188,31 +188,31 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term/></tig></langSet>
+                <langSet xml:lang="it"><tig><term>slug</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fixup</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term/></tig></langSet>
+                <langSet xml:lang="it"><tig><term>correzione</term></tig></langSet>
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>translations</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term/></tig></langSet>
+                <langSet xml:lang="it"><tig><term>traduzioni</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term/></tig></langSet>
+                <langSet xml:lang="it"><tig><term>traduzione</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>unresolved comment</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term/></tig></langSet>
+                <langSet xml:lang="it"><tig><term>commento non risolto</term></tig></langSet>
             </termEntry>
             <termEntry id="opposite">
                 <langSet xml:lang="en"><tig><term>resolved comment</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term/></tig></langSet>
+                <langSet xml:lang="it"><tig><term>commento risolto</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>URL scheme</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term></term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>Schema URL</term></tig></langSet>
             </termEntry>
         </body>
     </text>
