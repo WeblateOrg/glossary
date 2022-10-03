@@ -190,6 +190,22 @@
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
                 <langSet xml:lang="lv"><tig><term>papildinājums</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>setting</term></tig></langSet>
+                <langSet xml:lang="lv"><tig><term>parametrs</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
+                <langSet xml:lang="lv"><tig><term>iesniegt izmaiņas</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>push</term></tig></langSet>
+                <langSet xml:lang="lv"><tig><term>virzīt</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pull</term></tig></langSet>
+                <langSet xml:lang="lv"><tig><term>vilkt</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
