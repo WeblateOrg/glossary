@@ -872,23 +872,23 @@
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>translations</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>traduções</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>tradução</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>unresolved comment</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>comentário não resolvido</term></tig></langSet>
             </termEntry>
             <termEntry id="opposite">
                 <langSet xml:lang="en"><tig><term>resolved comment</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>comentário resolvido</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>URL scheme</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term></term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>Esquema da URL</term></tig></langSet>
             </termEntry>
         </body>
     </text>
