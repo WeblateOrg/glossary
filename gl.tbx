@@ -4166,6 +4166,10 @@
                 <langSet xml:lang="en"><tig><term>URL scheme</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>esquema da URL</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
