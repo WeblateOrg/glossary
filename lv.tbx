@@ -206,6 +206,10 @@
                 <langSet xml:lang="en"><tig><term>pull</term></tig></langSet>
                 <langSet xml:lang="lv"><tig><term>vilkt</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
+                <langSet xml:lang="lv"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
