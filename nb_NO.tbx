@@ -214,6 +214,10 @@
                 <langSet xml:lang="en"><tig><term>resolved comment</term></tig></langSet>
                 <langSet xml:lang="nb_NO"><tig><term>løst kommentar</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
+                <langSet xml:lang="nb_NO"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
