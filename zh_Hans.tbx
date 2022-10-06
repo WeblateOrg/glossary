@@ -678,6 +678,14 @@
                 <langSet xml:lang="en"><tig><term>URL scheme</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>URL 格式</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>Hosted Weblate</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>托管的 Weblate</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
