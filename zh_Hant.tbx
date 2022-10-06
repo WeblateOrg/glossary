@@ -708,6 +708,10 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>URL scheme</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
