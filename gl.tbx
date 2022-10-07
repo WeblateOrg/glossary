@@ -4168,7 +4168,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term></term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>Aloxado en Weblate</term></tig></langSet>
             </termEntry>
         </body>
     </text>
