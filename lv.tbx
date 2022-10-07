@@ -210,6 +210,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
                 <langSet xml:lang="lv"><tig><term>Weblate</term></tig></langSet>
+                <note from="translator">Hostēts Weblate</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fork</term></tig></langSet>
