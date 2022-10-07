@@ -348,27 +348,27 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fixup</term></tig></langSet>
-                <langSet xml:lang="ja"><tig><term/></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>修正済み</term></tig></langSet>
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>translations</term></tig></langSet>
-                <langSet xml:lang="ja"><tig><term/></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>翻訳</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>unresolved comment</term></tig></langSet>
-                <langSet xml:lang="ja"><tig><term/></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>未解決のコメント</term></tig></langSet>
             </termEntry>
             <termEntry id="opposite">
                 <langSet xml:lang="en"><tig><term>resolved comment</term></tig></langSet>
-                <langSet xml:lang="ja"><tig><term/></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>解決済みコメント</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>URL scheme</term></tig></langSet>
-                <langSet xml:lang="ja"><tig><term/></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>URL スキーム</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
-                <langSet xml:lang="ja"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>Hosted Weblate</term></tig></langSet>
             </termEntry>
         </body>
     </text>
