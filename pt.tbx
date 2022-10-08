@@ -476,11 +476,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pull request</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>pull request</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>issue</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>problema</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>access restriction</term></tig></langSet>
@@ -496,7 +496,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regex</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>exreg</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>class</term></tig></langSet>
@@ -512,23 +512,23 @@
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>translations</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>traduções</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>unresolved comment</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>comentário não resolvido</term></tig></langSet>
             </termEntry>
             <termEntry id="opposite">
                 <langSet xml:lang="en"><tig><term>resolved comment</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>comentário resolvido</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>URL scheme</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Esquema do URL</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term></term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
