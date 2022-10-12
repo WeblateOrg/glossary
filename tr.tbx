@@ -402,6 +402,10 @@
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>Barındırılan Weblate</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>string</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>dizge</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
