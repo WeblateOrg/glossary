@@ -72,7 +72,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Cookies</term></tig></langSet>
-                <langSet xml:lang="hi"><tig><term/></tig></langSet>
+                <langSet xml:lang="hi"><tig><term>कुकी</term></tig></langSet>
             </termEntry>
             <termEntry id="XML Tag">
                 <langSet xml:lang="en"><tig><term>XML Tag</term></tig></langSet>
@@ -192,7 +192,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
-                <langSet xml:lang="hi"><tig><term></term></tig></langSet>
+                <langSet xml:lang="hi"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
