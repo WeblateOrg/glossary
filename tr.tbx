@@ -112,7 +112,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term>panel</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>pano</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>filter</term></tig></langSet>
@@ -136,7 +136,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Terms of Service</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term>Hizmet Şartları</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>Kullanım koşulları</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>memory</term></tig></langSet>
@@ -252,7 +252,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Regular expressions</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term>Düzenli ifadeler</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>Kurallı ifadeler</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gitee</term></tig></langSet>
@@ -268,11 +268,11 @@
             </termEntry>
             <termEntry id="XML Tag">
                 <langSet xml:lang="en"><tig><term>XML Tag</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term>XML Etiketi</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>XML kod imi</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>variants</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term>türevler</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>çeşitler</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
@@ -360,11 +360,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regex</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term>düzenli ifade</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>kurallı ifade</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regular expression</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term>düzenli ifade</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>kurallı ifade</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>class</term></tig></langSet>
