@@ -402,6 +402,10 @@
                 <langSet xml:lang="en"><tig><term>Public</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>Herkese açık</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>occurence</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>kullanım</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
