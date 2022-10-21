@@ -170,6 +170,10 @@
                 <langSet xml:lang="en"><tig><term>Cookies</term></tig></langSet>
                 <langSet xml:lang="pa_PK"><tig><term>کوکیاں</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>None</term></tig></langSet>
+                <langSet xml:lang="pa_PK"><tig><term>کوئی نہیں</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
