@@ -712,7 +712,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term></term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>users</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>使用者</term></tig></langSet>
             </termEntry>
         </body>
     </text>
