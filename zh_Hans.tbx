@@ -588,7 +588,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>key</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>键</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>键值</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>key</term></tig></langSet>
