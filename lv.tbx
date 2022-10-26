@@ -218,6 +218,10 @@
                 <langSet xml:lang="en"><tig><term>branch</term></tig></langSet>
                 <langSet xml:lang="lv"><tig><term>zars, nozarojums</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
+                <langSet xml:lang="lv"><tig><term>iesniegt izmaiņas</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
