@@ -262,6 +262,10 @@
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>Alojado en Weblate</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
