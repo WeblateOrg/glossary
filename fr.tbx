@@ -75,10 +75,6 @@
                 <langSet xml:lang="fr"><tig><term>système de contrôle des versions</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term>archivage</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>current</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>actuel</term></tig></langSet>
             </termEntry>
