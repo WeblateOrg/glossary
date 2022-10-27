@@ -726,6 +726,10 @@
                 <langSet xml:lang="en"><tig><term>URL scheme</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Schéma d’URL</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>commit</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
