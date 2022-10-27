@@ -358,6 +358,10 @@
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
                 <langSet xml:lang="pt_PT"><tig><term>Weblate Hospedado</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
