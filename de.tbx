@@ -1696,7 +1696,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Backup</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Backup</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Sicherung</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Backups</term></tig></langSet>
@@ -1704,7 +1704,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Backup service</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Backup-Dienst</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Sicherungsdienst</term></tig></langSet>
             </termEntry>
             <termEntry id="XML Tag">
                 <langSet xml:lang="en"><tig><term>XML Tag</term></tig></langSet>
@@ -1848,7 +1848,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term></term></tig></langSet>
+                <langSet xml:lang="de"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
