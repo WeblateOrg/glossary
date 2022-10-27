@@ -180,6 +180,10 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
+                <langSet xml:lang="lzh"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
                 <langSet xml:lang="lzh"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
