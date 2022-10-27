@@ -890,6 +890,10 @@
                 <langSet xml:lang="en"><tig><term>URL scheme</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>Esquema da URL</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
