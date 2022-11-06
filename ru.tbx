@@ -215,10 +215,12 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Workflow</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Рабочий процесс</term></tig></langSet>
+                <note from="translator">Пустой звук. Его отсутствие в большинстве случаев не будет важным.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Repository</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Репозиторий</term></tig></langSet>
+                <note from="translator">Хранилище по-русски</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>directory</term></tig></langSet>
