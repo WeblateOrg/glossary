@@ -492,7 +492,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslated</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term/></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>미번역</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
@@ -500,7 +500,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>This is not used when a component list is selected.</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term/></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>구성요소 목록을 선택한 경우에는 사용되지 않습니다.</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gerrit</term></tig></langSet>
@@ -616,11 +616,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>access restriction</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term/></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>접속 제한</term></tig></langSet>
             </termEntry>
             <termEntry id="access restrictions (plural)">
                 <langSet xml:lang="en"><tig><term>access restrictions</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term/></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>접속 제한</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regex</term></tig></langSet>
@@ -640,19 +640,19 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fixup</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term/></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>해결</term></tig></langSet>
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>translations</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term/></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>번역</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term/></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>번역</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>unresolved comment</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term/></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>해결되지 않은 댓글</term></tig></langSet>
             </termEntry>
             <termEntry id="opposite">
                 <langSet xml:lang="en"><tig><term>resolved comment</term></tig></langSet>
@@ -660,7 +660,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>URL scheme</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term/></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>URL 스키마</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
@@ -668,7 +668,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>커밋</term></tig></langSet>
             </termEntry>
         </body>
     </text>
