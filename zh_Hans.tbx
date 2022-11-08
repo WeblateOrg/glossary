@@ -686,6 +686,22 @@
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>提交</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>term</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>术语</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>term</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>条款</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Terms of Service</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>服务条款</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Privacy Policy</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>隐私政策</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
