@@ -458,6 +458,18 @@
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
                 <langSet xml:lang="pl"><tig><term>commit</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>term</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Privacy Policy</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Terms of Service</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
