@@ -4176,19 +4176,19 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translator</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term></term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>tradutor</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>term</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term></term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>termo</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Privacy Policy</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term></term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>Política de Privacidade</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Terms of Service</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term></term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>Condicións do servicio</term></tig></langSet>
             </termEntry>
         </body>
     </text>
