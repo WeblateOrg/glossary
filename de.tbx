@@ -955,10 +955,6 @@
                 <langSet xml:lang="de"><tig><term>Branch</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Interface</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Benutzeroberfläche</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Abkhazian</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Abchasisch</term></tig></langSet>
             </termEntry>
