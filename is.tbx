@@ -524,11 +524,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pseudolocale</term></tig></langSet>
-                <langSet xml:lang="is"><tig><term/></tig></langSet>
+                <langSet xml:lang="is"><tig><term>gervi-staðfærsla</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>component list</term></tig></langSet>
-                <langSet xml:lang="is"><tig><term/></tig></langSet>
+                <langSet xml:lang="is"><tig><term>íhlutalisti</term></tig></langSet>
             </termEntry>
             <termEntry id="components">
                 <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
@@ -536,31 +536,31 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
-                <langSet xml:lang="is"><tig><term/></tig></langSet>
+                <langSet xml:lang="is"><tig><term>breytingaskrá</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pull request</term></tig></langSet>
-                <langSet xml:lang="is"><tig><term/></tig></langSet>
+                <langSet xml:lang="is"><tig><term>innfellingarbeiðni</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>access restriction</term></tig></langSet>
-                <langSet xml:lang="is"><tig><term/></tig></langSet>
+                <langSet xml:lang="is"><tig><term>aðgangstakmörkun</term></tig></langSet>
             </termEntry>
             <termEntry id="access restrictions (plural)">
                 <langSet xml:lang="en"><tig><term>access restrictions</term></tig></langSet>
-                <langSet xml:lang="is"><tig><term/></tig></langSet>
+                <langSet xml:lang="is"><tig><term>aðgangstakmarkanir</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regular expression</term></tig></langSet>
-                <langSet xml:lang="is"><tig><term/></tig></langSet>
+                <langSet xml:lang="is"><tig><term>regluleg segð</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regex</term></tig></langSet>
-                <langSet xml:lang="is"><tig><term/></tig></langSet>
+                <langSet xml:lang="is"><tig><term>regluleg segð</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>class</term></tig></langSet>
-                <langSet xml:lang="is"><tig><term/></tig></langSet>
+                <langSet xml:lang="is"><tig><term>klasi</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
@@ -568,31 +568,31 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fixup</term></tig></langSet>
-                <langSet xml:lang="is"><tig><term/></tig></langSet>
+                <langSet xml:lang="is"><tig><term>leiðrétting</term></tig></langSet>
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>translations</term></tig></langSet>
-                <langSet xml:lang="is"><tig><term/></tig></langSet>
+                <langSet xml:lang="is"><tig><term>þýðingar</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation</term></tig></langSet>
-                <langSet xml:lang="is"><tig><term/></tig></langSet>
+                <langSet xml:lang="is"><tig><term>þýðing</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>unresolved comment</term></tig></langSet>
-                <langSet xml:lang="is"><tig><term/></tig></langSet>
+                <langSet xml:lang="is"><tig><term>óleyst athugasemd</term></tig></langSet>
             </termEntry>
             <termEntry id="opposite">
                 <langSet xml:lang="en"><tig><term>resolved comment</term></tig></langSet>
-                <langSet xml:lang="is"><tig><term/></tig></langSet>
+                <langSet xml:lang="is"><tig><term>leyst athugasemd</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>URL scheme</term></tig></langSet>
-                <langSet xml:lang="is"><tig><term/></tig></langSet>
+                <langSet xml:lang="is"><tig><term>URL-slóðaskema</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
-                <langSet xml:lang="is"><tig><term/></tig></langSet>
+                <langSet xml:lang="is"><tig><term>Weblate-hýsing</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
@@ -600,19 +600,19 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translator</term></tig></langSet>
-                <langSet xml:lang="is"><tig><term></term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>þýðandi</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>term</term></tig></langSet>
-                <langSet xml:lang="is"><tig><term></term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>hugtak</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Privacy Policy</term></tig></langSet>
-                <langSet xml:lang="is"><tig><term></term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>Persónuverndarstefna</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Terms of Service</term></tig></langSet>
-                <langSet xml:lang="is"><tig><term></term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>Þjónustuskilmálar</term></tig></langSet>
             </termEntry>
         </body>
     </text>
