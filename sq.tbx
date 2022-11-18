@@ -16,11 +16,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SSO</term></tig></langSet>
-                <langSet xml:lang="sq"><tig><term/></tig></langSet>
+                <langSet xml:lang="sq"><tig><term>SSO</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
-                <langSet xml:lang="sq"><tig><term>private</term></tig></langSet>
+                <langSet xml:lang="sq"><tig><term>privat</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>search</term></tig></langSet>
@@ -32,7 +32,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
-                <langSet xml:lang="sq"><tig><term/></tig></langSet>
+                <langSet xml:lang="sq"><tig><term>NBD</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bug</term></tig></langSet>
@@ -44,7 +44,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CI</term></tig></langSet>
-                <langSet xml:lang="sq"><tig><term/></tig></langSet>
+                <langSet xml:lang="sq"><tig><term>CI</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Keyboard shortcuts</term></tig></langSet>
@@ -84,7 +84,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
-                <langSet xml:lang="sq"><tig><term/></tig></langSet>
+                <langSet xml:lang="sq"><tig><term>token</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>current</term></tig></langSet>
@@ -92,11 +92,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>identity</term></tig></langSet>
-                <langSet xml:lang="sq"><tig><term/></tig></langSet>
+                <langSet xml:lang="sq"><tig><term>identitet</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>session</term></tig></langSet>
-                <langSet xml:lang="sq"><tig><term/></tig></langSet>
+                <langSet xml:lang="sq"><tig><term>sesion</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslated</term></tig></langSet>
@@ -104,7 +104,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
-                <langSet xml:lang="sq"><tig><term/></tig></langSet>
+                <langSet xml:lang="sq"><tig><term>përtype</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>This is not used when a component list is selected.</term></tig></langSet>
@@ -120,11 +120,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pseudolocale</term></tig></langSet>
-                <langSet xml:lang="sq"><tig><term/></tig></langSet>
+                <langSet xml:lang="sq"><tig><term>pseudovendore</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>component list</term></tig></langSet>
-                <langSet xml:lang="sq"><tig><term/></tig></langSet>
+                <langSet xml:lang="sq"><tig><term>listë përbërësish</term></tig></langSet>
             </termEntry>
             <termEntry id="components">
                 <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
@@ -132,7 +132,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
-                <langSet xml:lang="sq"><tig><term/></tig></langSet>
+                <langSet xml:lang="sq"><tig><term>regjistër ndryshimesh</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pull request</term></tig></langSet>
@@ -140,59 +140,59 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>issue</term></tig></langSet>
-                <langSet xml:lang="sq"><tig><term/></tig></langSet>
+                <langSet xml:lang="sq"><tig><term>çështje</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>access restriction</term></tig></langSet>
-                <langSet xml:lang="sq"><tig><term/></tig></langSet>
+                <langSet xml:lang="sq"><tig><term>kufizim hyrjeje</term></tig></langSet>
             </termEntry>
             <termEntry id="access restrictions (plural)">
                 <langSet xml:lang="en"><tig><term>access restrictions</term></tig></langSet>
-                <langSet xml:lang="sq"><tig><term/></tig></langSet>
+                <langSet xml:lang="sq"><tig><term>kufizime hyrjeje</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regular expression</term></tig></langSet>
-                <langSet xml:lang="sq"><tig><term/></tig></langSet>
+                <langSet xml:lang="sq"><tig><term>shprehje e rregullt</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regex</term></tig></langSet>
-                <langSet xml:lang="sq"><tig><term/></tig></langSet>
+                <langSet xml:lang="sq"><tig><term>shprehje e rregullt</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>class</term></tig></langSet>
-                <langSet xml:lang="sq"><tig><term/></tig></langSet>
+                <langSet xml:lang="sq"><tig><term>klasë</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
-                <langSet xml:lang="sq"><tig><term/></tig></langSet>
+                <langSet xml:lang="sq"><tig><term>identifikues</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fixup</term></tig></langSet>
-                <langSet xml:lang="sq"><tig><term/></tig></langSet>
+                <langSet xml:lang="sq"><tig><term>ndreqje</term></tig></langSet>
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>translations</term></tig></langSet>
-                <langSet xml:lang="sq"><tig><term/></tig></langSet>
+                <langSet xml:lang="sq"><tig><term>përkthime</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation</term></tig></langSet>
-                <langSet xml:lang="sq"><tig><term/></tig></langSet>
+                <langSet xml:lang="sq"><tig><term>përkthim</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>unresolved comment</term></tig></langSet>
-                <langSet xml:lang="sq"><tig><term/></tig></langSet>
+                <langSet xml:lang="sq"><tig><term>koment i pazgjidhur</term></tig></langSet>
             </termEntry>
             <termEntry id="opposite">
                 <langSet xml:lang="en"><tig><term>resolved comment</term></tig></langSet>
-                <langSet xml:lang="sq"><tig><term/></tig></langSet>
+                <langSet xml:lang="sq"><tig><term>koment i zgjidhur</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>URL scheme</term></tig></langSet>
-                <langSet xml:lang="sq"><tig><term/></tig></langSet>
+                <langSet xml:lang="sq"><tig><term>Skemë URL-je</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
-                <langSet xml:lang="sq"><tig><term/></tig></langSet>
+                <langSet xml:lang="sq"><tig><term>Hosted Weblate</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
@@ -200,19 +200,19 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translator</term></tig></langSet>
-                <langSet xml:lang="sq"><tig><term></term></tig></langSet>
+                <langSet xml:lang="sq"><tig><term>përkthyes</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>term</term></tig></langSet>
-                <langSet xml:lang="sq"><tig><term></term></tig></langSet>
+                <langSet xml:lang="sq"><tig><term>term</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Terms of Service</term></tig></langSet>
-                <langSet xml:lang="sq"><tig><term></term></tig></langSet>
+                <langSet xml:lang="sq"><tig><term>Kushte Shërbimi</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Privacy Policy</term></tig></langSet>
-                <langSet xml:lang="sq"><tig><term></term></tig></langSet>
+                <langSet xml:lang="sq"><tig><term>Rregulla Privatësie</term></tig></langSet>
             </termEntry>
         </body>
     </text>
