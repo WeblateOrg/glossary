@@ -238,6 +238,10 @@
                 <langSet xml:lang="en"><tig><term>Privacy Policy</term></tig></langSet>
                 <langSet xml:lang="it"><tig><term>Policy privacy</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>profile</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
