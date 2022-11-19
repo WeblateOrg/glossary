@@ -702,6 +702,10 @@
                 <langSet xml:lang="en"><tig><term>Privacy Policy</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>隐私政策</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>profile</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>个人资料</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
