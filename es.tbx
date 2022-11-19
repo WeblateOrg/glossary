@@ -282,6 +282,10 @@
                 <langSet xml:lang="en"><tig><term>Terms of Service</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>Condiciones del servicio</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>profile</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
