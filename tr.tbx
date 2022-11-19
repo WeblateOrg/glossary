@@ -418,6 +418,10 @@
                 <langSet xml:lang="en"><tig><term>term</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>terim</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>profile</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
