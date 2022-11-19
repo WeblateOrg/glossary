@@ -284,7 +284,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>profile</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term></term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>perfil</term></tig></langSet>
             </termEntry>
         </body>
     </text>
