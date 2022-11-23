@@ -424,7 +424,7 @@
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>projects</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term></term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>projeler</term></tig></langSet>
             </termEntry>
         </body>
     </text>
