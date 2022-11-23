@@ -254,6 +254,14 @@
                 <langSet xml:lang="en"><tig><term>profile</term></tig></langSet>
                 <langSet xml:lang="uk"><tig><term>профіль</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>project</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry id="plural form">
+                <langSet xml:lang="en"><tig><term>projects</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
