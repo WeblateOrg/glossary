@@ -614,6 +614,14 @@
                 <langSet xml:lang="en"><tig><term>Terms of Service</term></tig></langSet>
                 <langSet xml:lang="is"><tig><term>Þjónustuskilmálar</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>project</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry id="plural form">
+                <langSet xml:lang="en"><tig><term>projects</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
