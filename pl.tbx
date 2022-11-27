@@ -476,11 +476,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>project</term></tig></langSet>
-                <langSet xml:lang="pl"><tig><term></term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>projekt</term></tig></langSet>
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>projects</term></tig></langSet>
-                <langSet xml:lang="pl"><tig><term></term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>projekty</term></tig></langSet>
             </termEntry>
         </body>
     </text>
