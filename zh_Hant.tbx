@@ -738,6 +738,14 @@
                 <langSet xml:lang="en"><tig><term>projects</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>專案</term></tig></langSet>
             </termEntry>
+            <termEntry id="alias &quot;source text&quot;">
+                <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry id="alias &quot;Zen mode&quot;">
+                <langSet xml:lang="en"><tig><term>Zen</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
