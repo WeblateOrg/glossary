@@ -528,7 +528,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Weblate Hospedado</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
@@ -540,35 +540,35 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translator</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>tradutor</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>term</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>termo</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Privacy Policy</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Política de Privacidade</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Terms of Service</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Termos do Serviço</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>profile</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>perfil</term></tig></langSet>
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>projects</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>projetos</term></tig></langSet>
             </termEntry>
             <termEntry id="alias &quot;source text&quot;">
                 <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term></term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>fonte</term></tig></langSet>
             </termEntry>
             <termEntry id="alias &quot;Zen mode&quot;">
                 <langSet xml:lang="en"><tig><term>Zen</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term></term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Zen</term></tig></langSet>
             </termEntry>
         </body>
     </text>
