@@ -240,23 +240,23 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>profile</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term/></tig></langSet>
+                <langSet xml:lang="it"><tig><term>profilo</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>project</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term/></tig></langSet>
+                <langSet xml:lang="it"><tig><term>progetto</term></tig></langSet>
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>projects</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term/></tig></langSet>
+                <langSet xml:lang="it"><tig><term>progetti</term></tig></langSet>
             </termEntry>
             <termEntry id="alias &quot;source text&quot;">
                 <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term></term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>sorgente</term></tig></langSet>
             </termEntry>
             <termEntry id="alias &quot;Zen mode&quot;">
                 <langSet xml:lang="en"><tig><term>Zen</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term></term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>Zen</term></tig></langSet>
             </termEntry>
         </body>
     </text>
