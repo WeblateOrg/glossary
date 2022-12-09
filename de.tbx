@@ -371,10 +371,6 @@
                 <langSet xml:lang="de"><tig><term>XLIFF-Übersetzungsdatei</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Zen</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Zen</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>web-based</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>web-basiert</term></tig></langSet>
             </termEntry>
