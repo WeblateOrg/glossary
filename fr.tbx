@@ -152,7 +152,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>addon</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term>module</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>extension</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>permission</term></tig></langSet>
@@ -592,7 +592,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term>module</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>extension</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
