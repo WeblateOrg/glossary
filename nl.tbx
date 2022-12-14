@@ -398,6 +398,10 @@
                 <langSet xml:lang="en"><tig><term>Zen</term></tig></langSet>
                 <langSet xml:lang="nl"><tig><term>Zen</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
