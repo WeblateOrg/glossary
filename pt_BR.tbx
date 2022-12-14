@@ -942,6 +942,10 @@
                 <langSet xml:lang="en"><tig><term>users</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>usuários</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>e-mail de commit</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
