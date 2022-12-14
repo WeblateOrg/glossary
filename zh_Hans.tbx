@@ -196,7 +196,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>spam</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>垃圾邮件</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>垃圾</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>wipe</term></tig></langSet>
