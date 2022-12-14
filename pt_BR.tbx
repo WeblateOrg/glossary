@@ -922,6 +922,26 @@
                 <langSet xml:lang="en"><tig><term>Zen</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>Zen</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>administrator</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>administrador</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>user</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>usuário</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>team</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>equipe</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>add</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>adicionar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>users</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>usuários</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
