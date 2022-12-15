@@ -4204,7 +4204,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term></term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>confirmar correo electrónico</term></tig></langSet>
             </termEntry>
         </body>
     </text>
