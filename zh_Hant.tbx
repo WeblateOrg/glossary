@@ -196,7 +196,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>template</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>模板</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>參考範本</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>platform</term></tig></langSet>
@@ -748,7 +748,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>提交用的郵件信箱</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>administrator</term></tig></langSet>
@@ -780,7 +780,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>administration</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>管理員</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>管理權限</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>revoke</term></tig></langSet>
