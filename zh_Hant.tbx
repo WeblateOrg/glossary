@@ -748,7 +748,51 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term></term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>administrator</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>管理員</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Team administrators</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>團隊管理員</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Java properties</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>Java properties</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>提交</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Commit</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>提交</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>e-mail</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>郵件信箱</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>teams</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>團隊</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>administration</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>管理員</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>revoke</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>撤銷</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Team</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>團隊</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Revoke</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>撤銷</term></tig></langSet>
             </termEntry>
         </body>
     </text>
