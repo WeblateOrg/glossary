@@ -362,6 +362,10 @@
                 <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
                 <langSet xml:lang="bg"><tig><term>е-поща на подателя</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>history</term></tig></langSet>
+                <langSet xml:lang="bg"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
