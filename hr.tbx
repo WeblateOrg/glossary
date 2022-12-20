@@ -368,43 +368,43 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translator</term></tig></langSet>
-                <langSet xml:lang="hr"><tig><term/></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>prevodilac</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Privacy Policy</term></tig></langSet>
-                <langSet xml:lang="hr"><tig><term/></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>Politika privatnosti</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Terms of Service</term></tig></langSet>
-                <langSet xml:lang="hr"><tig><term/></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>Uvjeti usluge</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>profile</term></tig></langSet>
-                <langSet xml:lang="hr"><tig><term/></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>profil</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>project</term></tig></langSet>
-                <langSet xml:lang="hr"><tig><term/></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>projekt</term></tig></langSet>
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>projects</term></tig></langSet>
-                <langSet xml:lang="hr"><tig><term/></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>projekti</term></tig></langSet>
             </termEntry>
             <termEntry id="alias &quot;source text&quot;">
                 <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
-                <langSet xml:lang="hr"><tig><term/></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>izvor</term></tig></langSet>
             </termEntry>
             <termEntry id="alias &quot;Zen mode&quot;">
                 <langSet xml:lang="en"><tig><term>Zen</term></tig></langSet>
-                <langSet xml:lang="hr"><tig><term/></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>Zen</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
-                <langSet xml:lang="hr"><tig><term/></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>e-mail adresa podnositelja promjene</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>history</term></tig></langSet>
-                <langSet xml:lang="hr"><tig><term></term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>povijest</term></tig></langSet>
             </termEntry>
         </body>
     </text>
