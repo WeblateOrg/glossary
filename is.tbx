@@ -632,6 +632,10 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>history</term></tig></langSet>
                 <langSet xml:lang="is"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
