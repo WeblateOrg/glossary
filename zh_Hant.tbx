@@ -794,6 +794,38 @@
                 <langSet xml:lang="en"><tig><term>Revoke</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>撤銷</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>template</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>範本</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>control character</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>控制字元</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>username</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>使用者帳號</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>style</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>類型</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>monolingual</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>單語言</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>monolingual base language</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>單語言基礎</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>translation component</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>翻譯組件</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>history</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
