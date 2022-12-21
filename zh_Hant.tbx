@@ -898,6 +898,42 @@
                 <langSet xml:lang="en"><tig><term>timestamp</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>時間標記</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Qt Linguist</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>Qt Linguist</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Protected</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>保護</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Public</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>公開</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>foo/bar</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>foo/bar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Role</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>角色</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Reviewers</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>審核員</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>none</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>無</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Review Strings</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>審核字串</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Manage repository</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>管理儲存庫</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
