@@ -27080,6 +27080,14 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
+                <langSet xml:lang="eo"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Django</term></tig></langSet>
+                <langSet xml:lang="eo"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>translation-finder</term></tig></langSet>
                 <langSet xml:lang="eo"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
