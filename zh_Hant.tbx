@@ -896,7 +896,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>timestamp</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>timestamp</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>時間標記</term></tig></langSet>
             </termEntry>
         </body>
     </text>
