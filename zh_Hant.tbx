@@ -824,7 +824,51 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>history</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term></term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Manage</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>管理</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Removal</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>移除</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Review</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>審查</term></tig></langSet>
+            </termEntry>
+            <termEntry id="2">
+                <langSet xml:lang="en"><tig><term>review</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>審查</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>flag</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>標記</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Flag</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>標記</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>JSON Format</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>JSON 格式</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>source code</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>原始碼</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Viewers</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>審查員</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>translation-finder</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>translation-finder</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Django</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>Django</term></tig></langSet>
             </termEntry>
         </body>
     </text>
