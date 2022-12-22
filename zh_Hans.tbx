@@ -727,6 +727,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>代码提交邮箱</term></tig></langSet>
+                <descrip>e-mail address that will be used as committer</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>history</term></tig></langSet>
@@ -747,14 +748,17 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Rollbar</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>Rollbar</term></tig></langSet>
+                <descrip>rollbar.com</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ModernMT</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>ModernMT</term></tig></langSet>
+                <descrip>modernmt.com</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>MyMemory</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>MyMemory</term></tig></langSet>
+                <descrip>mymemory.translated.net</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tmserver</term></tig></langSet>
@@ -763,6 +767,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gravatar</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>Gravatar</term></tig></langSet>
+                <descrip>gravatar.com</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Qt Linguist</term></tig></langSet>
