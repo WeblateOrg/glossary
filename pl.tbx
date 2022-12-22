@@ -496,47 +496,47 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>history</term></tig></langSet>
-                <langSet xml:lang="pl"><tig><term/></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>historia</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Django</term></tig></langSet>
-                <langSet xml:lang="pl"><tig><term/></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>Django</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation-finder</term></tig></langSet>
-                <langSet xml:lang="pl"><tig><term/></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>translation-finder</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
-                <langSet xml:lang="pl"><tig><term/></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>Sentry</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Rollbar</term></tig></langSet>
-                <langSet xml:lang="pl"><tig><term/></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>Rollbar</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ModernMT</term></tig></langSet>
-                <langSet xml:lang="pl"><tig><term/></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>ModernMT</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>MyMemory</term></tig></langSet>
-                <langSet xml:lang="pl"><tig><term/></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>MyMemory</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tmserver</term></tig></langSet>
-                <langSet xml:lang="pl"><tig><term/></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>tmserver</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gravatar</term></tig></langSet>
-                <langSet xml:lang="pl"><tig><term/></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>Gravatar</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Qt Linguist</term></tig></langSet>
-                <langSet xml:lang="pl"><tig><term></term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>Qt Linguist</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>foo/bar</term></tig></langSet>
-                <langSet xml:lang="pl"><tig><term></term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
