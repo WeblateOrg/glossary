@@ -896,7 +896,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>электронная почта для фиксации</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>history</term></tig></langSet>
