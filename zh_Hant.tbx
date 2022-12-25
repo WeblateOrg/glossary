@@ -942,6 +942,22 @@
                 <langSet xml:lang="en"><tig><term>inactive</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>不活躍</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Font style</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>字型樣式</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>moderate</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>審核</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>moderator</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>審核者</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Insights</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>內觀</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
