@@ -859,10 +859,6 @@
                 <langSet xml:lang="zh_Hant"><tig><term>原始碼</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Viewers</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>檢查員</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>translation-finder</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>translation-finder</term></tig></langSet>
             </termEntry>
