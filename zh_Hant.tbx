@@ -196,7 +196,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>template</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>參考範本</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>範本</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>platform</term></tig></langSet>
@@ -452,7 +452,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>permissions</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>權限</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>某某權</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>groups</term></tig></langSet>
@@ -744,7 +744,7 @@
             </termEntry>
             <termEntry id="alias &quot;Zen mode&quot;">
                 <langSet xml:lang="en"><tig><term>Zen</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>連續模式</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>禪心</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
@@ -780,7 +780,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>administration</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>管理權限</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>管理權</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>revoke</term></tig></langSet>
@@ -796,7 +796,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>template</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>範本</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>模版</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>control character</term></tig></langSet>
@@ -808,7 +808,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>style</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>類型</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>樣式</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>monolingual</term></tig></langSet>
@@ -836,11 +836,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Review</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>審查</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>檢閱</term></tig></langSet>
             </termEntry>
             <termEntry id="2">
                 <langSet xml:lang="en"><tig><term>review</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>審查</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>檢閱</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>flag</term></tig></langSet>
@@ -860,7 +860,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Viewers</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>審查員</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>檢查員</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation-finder</term></tig></langSet>
@@ -896,7 +896,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>timestamp</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>時間標記</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>時間戳記</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Qt Linguist</term></tig></langSet>
@@ -920,7 +920,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Reviewers</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>審核員</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>檢閱者</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>none</term></tig></langSet>
@@ -928,7 +928,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Review Strings</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>審核字串</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>檢閱字串</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Manage repository</term></tig></langSet>
@@ -940,7 +940,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>inactive</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>停用</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>不活躍</term></tig></langSet>
             </termEntry>
         </body>
     </text>
