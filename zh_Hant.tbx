@@ -193,6 +193,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>template</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>範本</term></tig></langSet>
+                <note from="translator">範本是預先設定好格式設定等相關樣式的示範性檔案，可以直接套用節省再次套用類似樣式的時間。</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>platform</term></tig></langSet>
@@ -449,6 +450,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>permissions</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>取用權/某某權/權限</term></tig></langSet>
+                <note from="translator">permission 是許可的權利，至於權限非 permission 本義，僅是在設定權利（白名單）時其作用上等同設定權限（黑名單），兩者原理相通。</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>groups</term></tig></langSet>
@@ -773,6 +775,7 @@
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>template</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>模版</term></tig></langSet>
+                <note from="translator">翻譯檔的原文母本稱為模版，是給譯者翻模成各語言翻譯檔用的。</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>control character</term></tig></langSet>
@@ -869,6 +872,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>timestamp</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>時間戳記</term></tig></langSet>
+                <descrip>時間標記</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Qt Linguist</term></tig></langSet>
