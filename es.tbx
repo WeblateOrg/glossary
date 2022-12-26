@@ -368,7 +368,7 @@
             </termEntry>
             <termEntry id="readthedocs.org">
                 <langSet xml:lang="en"><tig><term>Read the Docs</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>Lea la documentación</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>Read the Docs</term></tig></langSet>
             </termEntry>
         </body>
     </text>
