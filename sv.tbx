@@ -320,7 +320,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation-finder</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term/></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>translation-finder</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
@@ -356,23 +356,23 @@
             </termEntry>
             <termEntry id="hackerone.com">
                 <langSet xml:lang="en"><tig><term>HackerOne</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term></term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>HackerOne</term></tig></langSet>
             </termEntry>
             <termEntry id="deepl.com">
                 <langSet xml:lang="en"><tig><term>DeepL</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term></term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>DeepL</term></tig></langSet>
             </termEntry>
             <termEntry id="https://www.gnu.org/software/gettext">
                 <langSet xml:lang="en"><tig><term>gettext</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term></term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>gettext</term></tig></langSet>
             </termEntry>
             <termEntry id="sphinx-doc.org">
                 <langSet xml:lang="en"><tig><term>Sphinx</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term></term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>Sphinx</term></tig></langSet>
             </termEntry>
             <termEntry id="readthedocs.org">
                 <langSet xml:lang="en"><tig><term>Read the Docs</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term></term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>Read the Docs</term></tig></langSet>
             </termEntry>
         </body>
     </text>
