@@ -1946,6 +1946,54 @@
                 <langSet xml:lang="en"><tig><term>Read the Docs</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Lesen Sie die Dokumentation</term></tig></langSet>
             </termEntry>
+            <termEntry id="2">
+                <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>committen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>merge request</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Merge-Anfrage</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>merge</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Merge</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>machine translation</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>automatische Übersetzung</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Machine translation service</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Maschineller Übersetzungsdienst</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>deployment</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Bereitstellung</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>team</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Team</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>teams</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Teams</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>assignment</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Zuweisung</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>assignments</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Zuweisungen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>service</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Dienst</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>translation memory</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Übersetzungsspeicher</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
