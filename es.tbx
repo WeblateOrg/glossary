@@ -370,6 +370,10 @@
                 <langSet xml:lang="en"><tig><term>Read the Docs</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>Read the Docs</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Google OAuth 2</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
