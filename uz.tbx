@@ -304,6 +304,10 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Google OAuth 2</term></tig></langSet>
+                <langSet xml:lang="uz"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry id="Past tense">
+                <langSet xml:lang="en"><tig><term>translated</term></tig></langSet>
                 <langSet xml:lang="uz"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
