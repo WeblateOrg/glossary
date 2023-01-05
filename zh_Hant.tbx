@@ -990,6 +990,10 @@
                 <langSet xml:lang="en"><tig><term>bind password</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>bind password</term></tig></langSet>
             </termEntry>
+            <termEntry id="Past tense">
+                <langSet xml:lang="en"><tig><term>translated</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
