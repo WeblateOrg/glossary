@@ -468,7 +468,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Google OAuth 2</term></tig></langSet>
-                <langSet xml:lang="nl"><tig><term/></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>Google OAuth 2</term></tig></langSet>
             </termEntry>
             <termEntry id="Past tense">
                 <langSet xml:lang="en"><tig><term>translated</term></tig></langSet>
