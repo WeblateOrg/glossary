@@ -1747,10 +1747,6 @@
                 <langSet xml:lang="de"><tig><term>Dies wird nicht verwendet, wenn eine Komponentenliste ausgewählt ist.</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Gerrit</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Subversion</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term/></tig></langSet>
             </termEntry>
