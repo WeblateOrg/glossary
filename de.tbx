@@ -1994,10 +1994,6 @@
                 <langSet xml:lang="en"><tig><term>Gerrit</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Gerrit</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>merge request</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Merge Request</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>merge requests</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Merge Requests</term></tig></langSet>
