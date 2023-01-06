@@ -966,6 +966,18 @@
                 <langSet xml:lang="en"><tig><term>translated</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term/></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>period</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>промежуток</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>settings</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>настройки</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>e-mail adress</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>адрес эл. почты</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
