@@ -1420,11 +1420,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pull requests</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Pull-Anfragen</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Pull Requests</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pull request</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Pull-Anfrage</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Pull Request</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>addon</term></tig></langSet>
@@ -1944,7 +1944,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>merge request</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Merge-Anfrage</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Merge Request</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>merge</term></tig></langSet>
@@ -1996,7 +1996,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gerrit</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term/></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Gerrit</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>merge request</term></tig></langSet>
