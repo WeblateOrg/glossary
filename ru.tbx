@@ -978,6 +978,10 @@
                 <langSet xml:lang="en"><tig><term>e-mail adress</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>адрес эл. почты</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>status</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>состояние</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
