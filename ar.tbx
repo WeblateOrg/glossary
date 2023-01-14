@@ -252,11 +252,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>project</term></tig></langSet>
-                <langSet xml:lang="ar"><tig><term/></tig></langSet>
+                <langSet xml:lang="ar"><tig><term>مشروع</term></tig></langSet>
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>projects</term></tig></langSet>
-                <langSet xml:lang="ar"><tig><term/></tig></langSet>
+                <langSet xml:lang="ar"><tig><term>مشاريع</term></tig></langSet>
             </termEntry>
             <termEntry id="alias &quot;source text&quot;">
                 <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
@@ -340,7 +340,7 @@
             </termEntry>
             <termEntry id="Past tense">
                 <langSet xml:lang="en"><tig><term>translated</term></tig></langSet>
-                <langSet xml:lang="ar"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ar"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
