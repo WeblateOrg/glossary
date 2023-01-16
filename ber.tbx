@@ -12,11 +12,11 @@
         <body>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>edit</term></tig></langSet>
-                <langSet xml:lang="ber"><tig><term/></tig></langSet>
+                <langSet xml:lang="ber"><tig><term>ⵙⴳⴳⴷ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SSO</term></tig></langSet>
-                <langSet xml:lang="ber"><tig><term/></tig></langSet>
+                <langSet xml:lang="ber"><tig><term>SSO</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
@@ -308,7 +308,7 @@
             </termEntry>
             <termEntry id="Past tense">
                 <langSet xml:lang="en"><tig><term>translated</term></tig></langSet>
-                <langSet xml:lang="ber"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ber"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
