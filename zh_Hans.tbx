@@ -614,10 +614,6 @@
                 <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>部件</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>context</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>语境</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pull request</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>拉取请求</term></tig></langSet>
