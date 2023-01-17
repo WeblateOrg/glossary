@@ -1998,6 +1998,10 @@
                 <langSet xml:lang="en"><tig><term>merge requests</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Merge Requests</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Administration</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Administration</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
