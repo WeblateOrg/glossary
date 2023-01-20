@@ -455,10 +455,12 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>Sentry</term></tig></langSet>
+                <descrip>sentry.io</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Rollbar</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>Rollbar</term></tig></langSet>
+                <descrip>rollbar.com</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ModernMT</term></tig></langSet>
@@ -473,6 +475,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tmserver</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>tmserver</term></tig></langSet>
+                <descrip>Translate Toolkit</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gravatar</term></tig></langSet>
@@ -527,6 +530,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>VCS</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>Sürüm denetimi sistemi</term></tig></langSet>
+                <note from="translator">Version control system</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>review</term></tig></langSet>
@@ -575,6 +579,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>çevrilemez</term></tig></langSet>
+                <descrip>Glossary terms that should not be changed from the source language</descrip>
             </termEntry>
         </body>
     </text>
