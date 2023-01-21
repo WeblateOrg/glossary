@@ -4632,7 +4632,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Privacy Policy</term></tig></langSet>
-                <langSet xml:lang="sl"><tig><term/></tig></langSet>
+                <langSet xml:lang="sl"><tig><term>Pravilnik o zasebnosti</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Terms of Service</term></tig></langSet>
@@ -4640,11 +4640,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>project</term></tig></langSet>
-                <langSet xml:lang="sl"><tig><term/></tig></langSet>
+                <langSet xml:lang="sl"><tig><term>projekt</term></tig></langSet>
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>projects</term></tig></langSet>
-                <langSet xml:lang="sl"><tig><term/></tig></langSet>
+                <langSet xml:lang="sl"><tig><term>projekti</term></tig></langSet>
             </termEntry>
             <termEntry id="alias &quot;source text&quot;">
                 <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
@@ -4680,11 +4680,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ModernMT</term></tig></langSet>
-                <langSet xml:lang="sl"><tig><term/></tig></langSet>
+                <langSet xml:lang="sl"><tig><term>ModernMT</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>MyMemory</term></tig></langSet>
-                <langSet xml:lang="sl"><tig><term/></tig></langSet>
+                <langSet xml:lang="sl"><tig><term>MyMemory</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tmserver</term></tig></langSet>
@@ -4728,7 +4728,7 @@
             </termEntry>
             <termEntry id="Past tense">
                 <langSet xml:lang="en"><tig><term>translated</term></tig></langSet>
-                <langSet xml:lang="sl"><tig><term></term></tig></langSet>
+                <langSet xml:lang="sl"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
