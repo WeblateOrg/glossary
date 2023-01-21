@@ -474,6 +474,10 @@
                 <langSet xml:lang="en"><tig><term>translated</term></tig></langSet>
                 <langSet xml:lang="pt_PT"><tig><term>traduzido</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>tag</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>etiqueta</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
