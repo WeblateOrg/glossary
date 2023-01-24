@@ -20,7 +20,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
-                <langSet xml:lang="hi"><tig><term/></tig></langSet>
+                <langSet xml:lang="hi"><tig><term>निजी</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>search</term></tig></langSet>
@@ -64,7 +64,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Subject</term></tig></langSet>
-                <langSet xml:lang="hi"><tig><term/></tig></langSet>
+                <langSet xml:lang="hi"><tig><term>विषय</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Personal Data</term></tig></langSet>
@@ -76,7 +76,7 @@
             </termEntry>
             <termEntry id="XML Tag">
                 <langSet xml:lang="en"><tig><term>XML Tag</term></tig></langSet>
-                <langSet xml:lang="hi"><tig><term/></tig></langSet>
+                <langSet xml:lang="hi"><tig><term>XML टैग</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>variants</term></tig></langSet>
@@ -144,7 +144,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>access restriction</term></tig></langSet>
-                <langSet xml:lang="hi"><tig><term/></tig></langSet>
+                <langSet xml:lang="hi"><tig><term>अभिगम्यता नियंत्रण</term></tig></langSet>
             </termEntry>
             <termEntry id="access restrictions (plural)">
                 <langSet xml:lang="en"><tig><term>access restrictions</term></tig></langSet>
@@ -204,7 +204,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>term</term></tig></langSet>
-                <langSet xml:lang="hi"><tig><term/></tig></langSet>
+                <langSet xml:lang="hi"><tig><term>पद</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Privacy Policy</term></tig></langSet>
@@ -212,15 +212,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Terms of Service</term></tig></langSet>
-                <langSet xml:lang="hi"><tig><term/></tig></langSet>
+                <langSet xml:lang="hi"><tig><term>सेवा-शर्तें</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>profile</term></tig></langSet>
-                <langSet xml:lang="hi"><tig><term/></tig></langSet>
+                <langSet xml:lang="hi"><tig><term>पार्श्वचित्र</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>project</term></tig></langSet>
-                <langSet xml:lang="hi"><tig><term/></tig></langSet>
+                <langSet xml:lang="hi"><tig><term>परियोजना</term></tig></langSet>
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>projects</term></tig></langSet>
@@ -228,11 +228,11 @@
             </termEntry>
             <termEntry id="alias &quot;source text&quot;">
                 <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
-                <langSet xml:lang="hi"><tig><term/></tig></langSet>
+                <langSet xml:lang="hi"><tig><term>स्रोत</term></tig></langSet>
             </termEntry>
             <termEntry id="alias &quot;Zen mode&quot;">
                 <langSet xml:lang="en"><tig><term>Zen</term></tig></langSet>
-                <langSet xml:lang="hi"><tig><term/></tig></langSet>
+                <langSet xml:lang="hi"><tig><term>ध्यान</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
@@ -308,7 +308,7 @@
             </termEntry>
             <termEntry id="Past tense">
                 <langSet xml:lang="en"><tig><term>translated</term></tig></langSet>
-                <langSet xml:lang="hi"><tig><term></term></tig></langSet>
+                <langSet xml:lang="hi"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
