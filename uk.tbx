@@ -346,6 +346,10 @@
                 <langSet xml:lang="en"><tig><term>translated</term></tig></langSet>
                 <langSet xml:lang="uk"><tig><term>перекладено</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>glossary</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
