@@ -710,6 +710,10 @@
                 <langSet xml:lang="en"><tig><term>translated</term></tig></langSet>
                 <langSet xml:lang="id"><tig><term>diterjemahkan</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>glossary</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
