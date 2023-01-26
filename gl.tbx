@@ -4274,6 +4274,10 @@
                 <langSet xml:lang="en"><tig><term>translated</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>traducido</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>glossary</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
