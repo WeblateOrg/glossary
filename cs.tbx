@@ -1200,6 +1200,10 @@
             </termEntry>
             <termEntry id="Past tense">
                 <langSet xml:lang="en"><tig><term>translated</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>repo</term></tig></langSet>
                 <langSet xml:lang="cs"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
