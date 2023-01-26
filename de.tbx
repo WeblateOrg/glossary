@@ -2002,6 +2002,14 @@
                 <langSet xml:lang="en"><tig><term>Administration</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Administration</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>repo</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
