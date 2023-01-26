@@ -420,6 +420,10 @@
             </termEntry>
             <termEntry id="Past tense">
                 <langSet xml:lang="en"><tig><term>translated</term></tig></langSet>
+                <langSet xml:lang="fil"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>glossary</term></tig></langSet>
                 <langSet xml:lang="fil"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
