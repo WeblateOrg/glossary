@@ -348,6 +348,10 @@
             </termEntry>
             <termEntry id="Past tense">
                 <langSet xml:lang="en"><tig><term>translated</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>glossary</term></tig></langSet>
                 <langSet xml:lang="da"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
