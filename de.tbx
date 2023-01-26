@@ -2010,6 +2010,22 @@
                 <langSet xml:lang="en"><tig><term>repo</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Repo</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Access repository</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Auf Repository zugreifen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Manage repository</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Repository verwalten</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Screenshot context</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Bildschirmfoto zum Kontext</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>squashed</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>zusammengeführt</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
