@@ -20844,6 +20844,14 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>glossary</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>repo</term></tig></langSet>
                 <langSet xml:lang="ug"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
