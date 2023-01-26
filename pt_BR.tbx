@@ -1014,6 +1014,10 @@
                 <langSet xml:lang="en"><tig><term>translated</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>traduzido</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>glossary</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
