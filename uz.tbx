@@ -12,7 +12,7 @@
         <body>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>edit</term></tig></langSet>
-                <langSet xml:lang="uz"><tig><term/></tig></langSet>
+                <langSet xml:lang="uz"><tig><term>tahrirlash</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SSO</term></tig></langSet>
@@ -36,7 +36,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bug</term></tig></langSet>
-                <langSet xml:lang="uz"><tig><term/></tig></langSet>
+                <langSet xml:lang="uz"><tig><term>bug</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
@@ -44,7 +44,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CI</term></tig></langSet>
-                <langSet xml:lang="uz"><tig><term/></tig></langSet>
+                <langSet xml:lang="uz"><tig><term>CI</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Keyboard shortcuts</term></tig></langSet>
@@ -72,15 +72,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Cookies</term></tig></langSet>
-                <langSet xml:lang="uz"><tig><term/></tig></langSet>
+                <langSet xml:lang="uz"><tig><term>Cookies</term></tig></langSet>
             </termEntry>
             <termEntry id="XML Tag">
                 <langSet xml:lang="en"><tig><term>XML Tag</term></tig></langSet>
-                <langSet xml:lang="uz"><tig><term/></tig></langSet>
+                <langSet xml:lang="uz"><tig><term>XML tegi</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>variants</term></tig></langSet>
-                <langSet xml:lang="uz"><tig><term/></tig></langSet>
+                <langSet xml:lang="uz"><tig><term>variantlar</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
@@ -88,7 +88,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>current</term></tig></langSet>
-                <langSet xml:lang="uz"><tig><term/></tig></langSet>
+                <langSet xml:lang="uz"><tig><term>joriy</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>identity</term></tig></langSet>
@@ -124,7 +124,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>component list</term></tig></langSet>
-                <langSet xml:lang="uz"><tig><term/></tig></langSet>
+                <langSet xml:lang="uz"><tig><term>komponentlar ro'yxati</term></tig></langSet>
             </termEntry>
             <termEntry id="components">
                 <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
@@ -160,7 +160,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>class</term></tig></langSet>
-                <langSet xml:lang="uz"><tig><term/></tig></langSet>
+                <langSet xml:lang="uz"><tig><term>class</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
@@ -168,19 +168,19 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fixup</term></tig></langSet>
-                <langSet xml:lang="uz"><tig><term/></tig></langSet>
+                <langSet xml:lang="uz"><tig><term>tuzatish</term></tig></langSet>
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>translations</term></tig></langSet>
-                <langSet xml:lang="uz"><tig><term/></tig></langSet>
+                <langSet xml:lang="uz"><tig><term>tarjimalar</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation</term></tig></langSet>
-                <langSet xml:lang="uz"><tig><term/></tig></langSet>
+                <langSet xml:lang="uz"><tig><term>tarjima</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>unresolved comment</term></tig></langSet>
-                <langSet xml:lang="uz"><tig><term/></tig></langSet>
+                <langSet xml:lang="uz"><tig><term>hal qilinmagan izoh</term></tig></langSet>
             </termEntry>
             <termEntry id="opposite">
                 <langSet xml:lang="en"><tig><term>resolved comment</term></tig></langSet>
@@ -188,11 +188,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>URL scheme</term></tig></langSet>
-                <langSet xml:lang="uz"><tig><term/></tig></langSet>
+                <langSet xml:lang="uz"><tig><term>URL sxemasi</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
-                <langSet xml:lang="uz"><tig><term/></tig></langSet>
+                <langSet xml:lang="uz"><tig><term>Xostlangan Weblate</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
@@ -200,7 +200,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translator</term></tig></langSet>
-                <langSet xml:lang="uz"><tig><term/></tig></langSet>
+                <langSet xml:lang="uz"><tig><term>tarjimon</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>term</term></tig></langSet>
@@ -228,27 +228,27 @@
             </termEntry>
             <termEntry id="alias &quot;source text&quot;">
                 <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
-                <langSet xml:lang="uz"><tig><term/></tig></langSet>
+                <langSet xml:lang="uz"><tig><term>manba</term></tig></langSet>
             </termEntry>
             <termEntry id="alias &quot;Zen mode&quot;">
                 <langSet xml:lang="en"><tig><term>Zen</term></tig></langSet>
-                <langSet xml:lang="uz"><tig><term/></tig></langSet>
+                <langSet xml:lang="uz"><tig><term>Zen</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
-                <langSet xml:lang="uz"><tig><term/></tig></langSet>
+                <langSet xml:lang="uz"><tig><term>commit e-mail</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>history</term></tig></langSet>
-                <langSet xml:lang="uz"><tig><term/></tig></langSet>
+                <langSet xml:lang="uz"><tig><term>tarix</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Django</term></tig></langSet>
-                <langSet xml:lang="uz"><tig><term/></tig></langSet>
+                <langSet xml:lang="uz"><tig><term>Django</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation-finder</term></tig></langSet>
-                <langSet xml:lang="uz"><tig><term/></tig></langSet>
+                <langSet xml:lang="uz"><tig><term>tarjima topuvchi</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
@@ -272,7 +272,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gravatar</term></tig></langSet>
-                <langSet xml:lang="uz"><tig><term/></tig></langSet>
+                <langSet xml:lang="uz"><tig><term>Gravatar</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Qt Linguist</term></tig></langSet>
@@ -284,15 +284,15 @@
             </termEntry>
             <termEntry id="hackerone.com">
                 <langSet xml:lang="en"><tig><term>HackerOne</term></tig></langSet>
-                <langSet xml:lang="uz"><tig><term/></tig></langSet>
+                <langSet xml:lang="uz"><tig><term>HackerOne</term></tig></langSet>
             </termEntry>
             <termEntry id="deepl.com">
                 <langSet xml:lang="en"><tig><term>DeepL</term></tig></langSet>
-                <langSet xml:lang="uz"><tig><term/></tig></langSet>
+                <langSet xml:lang="uz"><tig><term>DeepL</term></tig></langSet>
             </termEntry>
             <termEntry id="https://www.gnu.org/software/gettext">
                 <langSet xml:lang="en"><tig><term>gettext</term></tig></langSet>
-                <langSet xml:lang="uz"><tig><term/></tig></langSet>
+                <langSet xml:lang="uz"><tig><term>gettext</term></tig></langSet>
             </termEntry>
             <termEntry id="sphinx-doc.org">
                 <langSet xml:lang="en"><tig><term>Sphinx</term></tig></langSet>
@@ -304,23 +304,23 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Google OAuth 2</term></tig></langSet>
-                <langSet xml:lang="uz"><tig><term/></tig></langSet>
+                <langSet xml:lang="uz"><tig><term>Google OAuth 2</term></tig></langSet>
             </termEntry>
             <termEntry id="Past tense">
                 <langSet xml:lang="en"><tig><term>translated</term></tig></langSet>
-                <langSet xml:lang="uz"><tig><term/></tig></langSet>
+                <langSet xml:lang="uz"><tig><term>tarjima qilingan</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>glossary</term></tig></langSet>
-                <langSet xml:lang="uz"><tig><term/></tig></langSet>
+                <langSet xml:lang="uz"><tig><term>lug'at</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
-                <langSet xml:lang="uz"><tig><term></term></tig></langSet>
+                <langSet xml:lang="uz"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repo</term></tig></langSet>
-                <langSet xml:lang="uz"><tig><term></term></tig></langSet>
+                <langSet xml:lang="uz"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
