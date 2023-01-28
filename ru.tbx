@@ -528,7 +528,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>облачный хостинг Weblate [на hosted.weblate.org]</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Хостинг Weblate</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>explanation</term></tig></langSet>
