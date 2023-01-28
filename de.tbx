@@ -1146,10 +1146,6 @@
                 <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Übersichtsseite</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Übersicht</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Total strings</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Gesamtanzahl</term></tig></langSet>
