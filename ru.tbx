@@ -115,6 +115,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>contributor</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>участник</term></tig></langSet>
+                <note from="translator">человек, который уделяет время и/или ресурсы на развитие проекта</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>invoice</term></tig></langSet>
@@ -269,6 +270,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ACL</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Список контроля доступа</term></tig></langSet>
+                <note from="translator">Access Control List (ACL) — список управления доступом, который определяет возможность доступа к к чему-либо</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>approve</term></tig></langSet>
