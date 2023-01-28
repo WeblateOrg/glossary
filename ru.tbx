@@ -264,7 +264,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ACL</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>список контроля доступа</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Список контроля доступа</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>approve</term></tig></langSet>
