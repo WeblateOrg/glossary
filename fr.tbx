@@ -838,6 +838,10 @@
                 <langSet xml:lang="en"><tig><term>repo</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>dépôt</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>text direction</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
