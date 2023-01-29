@@ -52,11 +52,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>host</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term>anamakine</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>sunucu</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>check</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term>denetle, işaretle</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>denetle, imle</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>control</term></tig></langSet>
@@ -68,11 +68,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>flag</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term>bayrak, işaret</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>bayrak, im</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>flags</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term>bayraklar, işaretler</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>bayraklar, imler</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>rebase</term></tig></langSet>
@@ -96,7 +96,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>push</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term>yolla</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>it</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pull</term></tig></langSet>
@@ -220,7 +220,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term>özel</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>özel, kişisel</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
@@ -280,7 +280,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>current</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term>şu anki</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>geçerli</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>identity</term></tig></langSet>
@@ -296,7 +296,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term>ayrıştır</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>işle</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gerrit</term></tig></langSet>
@@ -328,7 +328,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Available</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term>Mevcut</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>Kullanılabilir</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Managers</term></tig></langSet>
@@ -384,19 +384,19 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>unresolved comment</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term>çözülmemiş yorum</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>çözümlenmemiş yorum</term></tig></langSet>
             </termEntry>
             <termEntry id="opposite">
                 <langSet xml:lang="en"><tig><term>resolved comment</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term>çözülmüş yorum</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>çözümlenmiş yorum</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>URL scheme</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term>URL şeması</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>adres şeması</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term>Barındırılan Weblate</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>Hosted Weblate</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Public</term></tig></langSet>
@@ -412,7 +412,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translator</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term>Çevirici</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>Çevirmen</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>term</term></tig></langSet>
@@ -512,11 +512,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repo</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>depo</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>text direction</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>metin doğrultusu</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>VCS</term></tig></langSet>
