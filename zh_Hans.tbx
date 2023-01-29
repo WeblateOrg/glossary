@@ -804,7 +804,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>text direction</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term></term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>文字方向</term></tig></langSet>
             </termEntry>
         </body>
     </text>
