@@ -574,6 +574,10 @@
                 <langSet xml:lang="en"><tig><term>repo</term></tig></langSet>
                 <langSet xml:lang="pl"><tig><term>repo</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>text direction</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
