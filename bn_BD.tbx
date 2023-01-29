@@ -320,10 +320,14 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
-                <langSet xml:lang="bn_BD"><tig><term></term></tig></langSet>
+                <langSet xml:lang="bn_BD"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repo</term></tig></langSet>
+                <langSet xml:lang="bn_BD"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>text direction</term></tig></langSet>
                 <langSet xml:lang="bn_BD"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
