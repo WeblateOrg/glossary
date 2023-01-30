@@ -356,7 +356,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>text direction</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>напрямок писемності</term></tig></langSet>
             </termEntry>
         </body>
     </text>
