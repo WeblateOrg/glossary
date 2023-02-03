@@ -156,7 +156,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>default</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term>varsayılan</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>öntanımlı</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Submit</term></tig></langSet>
