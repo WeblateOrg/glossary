@@ -56,7 +56,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>儲存庫</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>倉儲</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tab</term></tig></langSet>
@@ -452,7 +452,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>permissions</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>某某權</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>權限</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>groups</term></tig></langSet>
@@ -928,7 +928,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Manage repository</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>管理儲存庫</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>管理倉儲</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>foo/bar</term></tig></langSet>
@@ -1012,7 +1012,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>text direction</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term></term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
