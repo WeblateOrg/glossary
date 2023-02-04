@@ -1014,6 +1014,74 @@
                 <langSet xml:lang="en"><tig><term>text direction</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>IRC client</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>IRC 用戶端</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>IRC network</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>IRC 頻道</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>CII Best Practices</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>最佳實踐</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>release</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>發佈</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>GObject introspection</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>GObject introspection</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Framework</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>框架</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Python Social Auth</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>Python Social Auth</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>self-closing tag</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>自閉合標籤</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>closing tags</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>結束標籤</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>closing tag</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>結束標籤</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>self-closing tags</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>自閉合標籤</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Android</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>volume</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>volume</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>fuzzy</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>fuzzy</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Toggle</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>切換</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>toggle</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>切換</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>checkbox</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>複選框</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
