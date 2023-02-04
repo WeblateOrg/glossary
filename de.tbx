@@ -39,10 +39,6 @@
                 <langSet xml:lang="de"><tig><term>beteiligen</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>authentication</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Legitimierung</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>tab</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Reiter</term></tig></langSet>
             </termEntry>
