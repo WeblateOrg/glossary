@@ -1055,10 +1055,6 @@
                 <langSet xml:lang="de"><tig><term>FAQ</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>download</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>herunterladen</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Insights</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Insights</term></tig></langSet>
             </termEntry>
