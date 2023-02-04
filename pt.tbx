@@ -666,6 +666,10 @@
                 <langSet xml:lang="en"><tig><term>tag</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>etiqueta</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>database</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>banco de dados</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
