@@ -1000,7 +1000,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>glossary</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>詞彙表</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repo</term></tig></langSet>
