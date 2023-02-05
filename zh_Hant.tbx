@@ -650,10 +650,6 @@
                 <langSet xml:lang="en"><tig><term>component list</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>組件列表</term></tig></langSet>
             </termEntry>
-            <termEntry id="components">
-                <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>更新記錄</term></tig></langSet>
