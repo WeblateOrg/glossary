@@ -2014,6 +2014,18 @@
                 <langSet xml:lang="en"><tig><term>backups</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Sicherungen</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>data volume</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Daten-Volume</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Doker image</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Docker-Image</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>image</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Image</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
