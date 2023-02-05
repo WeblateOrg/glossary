@@ -739,10 +739,6 @@
                 <langSet xml:lang="de"><tig><term>Reiterkarte</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Authentication tab</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Reiterkarte »Legitimierung«</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>API root URL</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>API-Root-Adresse</term></tig></langSet>
             </termEntry>
