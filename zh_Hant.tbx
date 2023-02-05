@@ -452,7 +452,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>permissions</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>權限</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>取用權/某某權/權限</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>groups</term></tig></langSet>
@@ -572,7 +572,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Regular expressions</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>規則表達式</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>常規表達式</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gitee</term></tig></langSet>
@@ -1020,7 +1020,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>release</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>發佈</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>發行</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>GObject introspection</term></tig></langSet>
