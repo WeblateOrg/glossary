@@ -642,10 +642,6 @@
                 <langSet xml:lang="en"><tig><term>multiplier</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>乘數</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>check</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>查核</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>component list</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>組件列表</term></tig></langSet>
