@@ -1134,10 +1134,6 @@
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Token</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>language code</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Sprachenkürzel</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Romansh</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Rätoromanisch</term></tig></langSet>
