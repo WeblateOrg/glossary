@@ -1210,10 +1210,6 @@
                 <langSet xml:lang="en"><tig><term>VCS</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>VCS</term></tig></langSet>
             </termEntry>
-            <termEntry id="2">
-                <langSet xml:lang="en"><tig><term>language code</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Sprachkürzel</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Bemba</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Bemba</term></tig></langSet>
