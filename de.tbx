@@ -2030,6 +2030,10 @@
                 <langSet xml:lang="en"><tig><term>linked</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>verknüpft</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>generate</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>erzeugen</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
