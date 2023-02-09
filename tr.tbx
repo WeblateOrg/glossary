@@ -526,6 +526,10 @@
                 <langSet xml:lang="en"><tig><term>review</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>gözden geçir</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>squash</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>bir araya toplama</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
