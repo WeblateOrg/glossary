@@ -620,7 +620,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Travis CI</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Travis CI</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term></term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>localization process</term></tig></langSet>
@@ -740,11 +740,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>virtualenv</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>virtualenv</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term></term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>uwsgi</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>uwsgi</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term></term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>nginx</term></tig></langSet>
@@ -1004,7 +1004,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Whiteboard</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Whiteboard</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term></term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>check</term></tig></langSet>
@@ -1076,7 +1076,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Translate Toolkit</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Translate Toolkit</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term></term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Report</term></tig></langSet>
@@ -1184,7 +1184,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>VCS</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>VCS</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term></term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Bemba</term></tig></langSet>
@@ -1556,7 +1556,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Weblate</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term></term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Regular expressions</term></tig></langSet>
@@ -1780,7 +1780,7 @@
             </termEntry>
             <termEntry id="alias &quot;Zen mode&quot;">
                 <langSet xml:lang="en"><tig><term>Zen</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Zen</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term></term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
@@ -1808,7 +1808,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tmserver</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>tmserver</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term></term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gravatar</term></tig></langSet>
