@@ -1203,10 +1203,6 @@
                 <langSet xml:lang="de"><tig><term>Servicestatus</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Tigre</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Tigre</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>report period</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Berichtszeitraum</term></tig></langSet>
             </termEntry>
