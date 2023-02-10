@@ -432,7 +432,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SSL</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term></term></tig></langSet>
+                <langSet xml:lang="de"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Feedback</term></tig></langSet>
@@ -516,7 +516,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Stack Overflow</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term></term></tig></langSet>
+                <langSet xml:lang="de"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Phone support</term></tig></langSet>
@@ -1296,7 +1296,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SSO</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term></term></tig></langSet>
+                <langSet xml:lang="de"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
@@ -1663,10 +1663,6 @@
                 <langSet xml:lang="de"><tig><term>analysieren</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>This is not used when a component list is selected.</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Dies wird nicht verwendet, wenn eine Komponentenliste ausgewählt ist.</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Subversion</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term/></tig></langSet>
             </termEntry>
@@ -1848,7 +1844,7 @@
             </termEntry>
             <termEntry id="sphinx-doc.org">
                 <langSet xml:lang="en"><tig><term>Sphinx</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term></term></tig></langSet>
+                <langSet xml:lang="de"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry id="readthedocs.org">
                 <langSet xml:lang="en"><tig><term>Read the Docs</term></tig></langSet>
@@ -2008,7 +2004,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term></term></tig></langSet>
+                <langSet xml:lang="de"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
