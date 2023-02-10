@@ -196,7 +196,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Sauce Labs</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Sauce Labs</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term></term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Selenium tests</term></tig></langSet>
@@ -212,7 +212,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Rollbar</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Rollbar</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term></term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>demo</term></tig></langSet>
@@ -1828,7 +1828,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Sentry</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term></term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ModernMT</term></tig></langSet>
