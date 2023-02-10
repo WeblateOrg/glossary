@@ -1580,7 +1580,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>machine translations</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>automatische Übersetzungen</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>maschinelle Übersetzungen</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gitee</term></tig></langSet>
