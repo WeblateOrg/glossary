@@ -1207,10 +1207,6 @@
                 <langSet xml:lang="de"><tig><term>Servicestatus</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Sorbian</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Sorbisch</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Tigre</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Tigre</term></tig></langSet>
             </termEntry>
