@@ -1211,10 +1211,6 @@
                 <langSet xml:lang="de"><tig><term>Krimtatarisch</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Mari</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Mari</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Shan</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Tai-Kadai-Sprachen (Shan)</term></tig></langSet>
             </termEntry>
