@@ -764,7 +764,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>MariaDB</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>MariaDB</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term></term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>database backend</term></tig></langSet>
@@ -1900,7 +1900,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>machine translation</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Automatische Übersetzung</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>automatische Übersetzung</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Machine translation service</term></tig></langSet>
