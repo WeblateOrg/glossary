@@ -236,7 +236,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Mercurial</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Mercurial</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term></term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Collaboration sites</term></tig></langSet>
@@ -472,7 +472,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Python PIP</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Python PIP</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term></term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>KiB</term></tig></langSet>
@@ -640,7 +640,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Medium</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Medium</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term></term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Advanced</term></tig></langSet>
@@ -752,15 +752,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>nginx</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>nginx</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term></term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>PostgreSQL</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>PostgreSQL</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term></term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>MySQL</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>MySQL</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term></term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>MariaDB</term></tig></langSet>
@@ -1836,11 +1836,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ModernMT</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>ModernMT</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term></term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>MyMemory</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>MyMemory</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term></term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tmserver</term></tig></langSet>
@@ -1852,7 +1852,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Qt Linguist</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Qt Linguist</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term></term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>foo/bar</term></tig></langSet>
