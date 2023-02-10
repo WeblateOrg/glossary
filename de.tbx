@@ -951,10 +951,6 @@
                 <langSet xml:lang="de"><tig><term>Remote-Commit</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Serbian (cyrillic)</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Serbisch (kyrillisch)</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>CSV</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term/></tig></langSet>
             </termEntry>
