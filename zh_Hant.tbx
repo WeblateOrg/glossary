@@ -1074,6 +1074,30 @@
                 <langSet xml:lang="en"><tig><term>checkbox</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>複選框</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Subclass</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>子類別</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Borg</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>markup</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>標記</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Google Analytics</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>Google Analytics</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Web Monetization</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>網頁貨幣化</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>probabilistic revenue sharing</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>probabilistic revenue sharing</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
