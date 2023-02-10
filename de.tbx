@@ -764,7 +764,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>MariaDB</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term></term></tig></langSet>
+                <langSet xml:lang="de"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>database backend</term></tig></langSet>
@@ -1213,10 +1213,6 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Mari</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Mari</term></tig></langSet>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Meadow Mari</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Wiesenmari</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Shan</term></tig></langSet>
