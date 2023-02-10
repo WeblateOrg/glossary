@@ -208,7 +208,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term></term></tig></langSet>
+                <langSet xml:lang="de"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Rollbar</term></tig></langSet>
@@ -476,7 +476,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>KiB</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term></term></tig></langSet>
+                <langSet xml:lang="de"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Self hosted</term></tig></langSet>
@@ -552,7 +552,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Liberapay</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term></term></tig></langSet>
+                <langSet xml:lang="de"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Bitcoins</term></tig></langSet>
@@ -1004,7 +1004,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>i18next</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term></term></tig></langSet>
+                <langSet xml:lang="de"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>message</term></tig></langSet>
@@ -1036,7 +1036,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Insights</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term></term></tig></langSet>
+                <langSet xml:lang="de"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Locations</term></tig></langSet>
@@ -1229,10 +1229,6 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Service status</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Servicestatus</term></tig></langSet>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Lower Sorbian</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Niedersorbisch</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Sorbian</term></tig></langSet>
@@ -1872,7 +1868,7 @@
             </termEntry>
             <termEntry id="hackerone.com">
                 <langSet xml:lang="en"><tig><term>HackerOne</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term></term></tig></langSet>
+                <langSet xml:lang="de"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry id="deepl.com">
                 <langSet xml:lang="en"><tig><term>DeepL</term></tig></langSet>
