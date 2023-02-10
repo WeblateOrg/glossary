@@ -136,7 +136,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>instance</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>實例</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>執行個體</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Matrix</term></tig></langSet>
