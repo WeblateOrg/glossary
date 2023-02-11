@@ -298,6 +298,18 @@
                 <langSet xml:lang="en"><tig><term>projects</term></tig></langSet>
                 <langSet xml:lang="skr"><tig><term>منصوبے</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>screenshot</term></tig></langSet>
+                <langSet xml:lang="skr"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Screenshots</term></tig></langSet>
+                <langSet xml:lang="skr"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>authorship</term></tig></langSet>
+                <langSet xml:lang="skr"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
