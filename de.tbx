@@ -1359,10 +1359,6 @@
                 <langSet xml:lang="de"><tig><term>Verwaltung</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>screenshots</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Bildschirmfotos</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>format string</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Formatzeichenkette</term></tig></langSet>
             </termEntry>
