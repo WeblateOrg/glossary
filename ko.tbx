@@ -798,6 +798,18 @@
                 <langSet xml:lang="en"><tig><term>text direction</term></tig></langSet>
                 <langSet xml:lang="ko"><tig><term>텍스트 방향</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>screenshot</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>스크린숏</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Screenshots</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>스크린숏</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>authorship</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>작성자 표시</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
