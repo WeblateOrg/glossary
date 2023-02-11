@@ -432,7 +432,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Pseudolocale</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>가짜 언어</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>유사언어</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>member</term></tig></langSet>
@@ -520,7 +520,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>원문</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>원본</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>placeholders</term></tig></langSet>
@@ -564,7 +564,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pseudolocale</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>가짜 언어</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>유사언어</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>component list</term></tig></langSet>
@@ -576,7 +576,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>character</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>글자</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>문자</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>machinery</term></tig></langSet>
@@ -696,7 +696,7 @@
             </termEntry>
             <termEntry id="alias &quot;source text&quot;">
                 <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>원문</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>원본</term></tig></langSet>
             </termEntry>
             <termEntry id="alias &quot;Zen mode&quot;">
                 <langSet xml:lang="en"><tig><term>Zen</term></tig></langSet>
@@ -796,7 +796,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>text direction</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>글자 방향</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>텍스트 방향</term></tig></langSet>
             </termEntry>
         </body>
     </text>
