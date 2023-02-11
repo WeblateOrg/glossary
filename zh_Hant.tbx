@@ -1080,7 +1080,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Borg</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term></term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>markup</term></tig></langSet>
@@ -1097,6 +1097,18 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>probabilistic revenue sharing</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>probabilistic revenue sharing</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>screenshot</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Screenshots</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>authorship</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
     </text>
