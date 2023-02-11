@@ -530,6 +530,18 @@
                 <langSet xml:lang="en"><tig><term>squash</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>bir araya toplama</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>screenshot</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Screenshots</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>authorship</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
