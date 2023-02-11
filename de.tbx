@@ -95,10 +95,6 @@
                 <langSet xml:lang="de"><tig><term>Basisdatei</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>screenshot</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Bildschirmfoto</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>API key</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>API-Schlüssel</term></tig></langSet>
             </termEntry>
