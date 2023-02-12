@@ -4298,6 +4298,10 @@
                 <langSet xml:lang="en"><tig><term>authorship</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>autoría</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
