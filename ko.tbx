@@ -810,6 +810,10 @@
                 <langSet xml:lang="en"><tig><term>authorship</term></tig></langSet>
                 <langSet xml:lang="ko"><tig><term>작성자 표시</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
