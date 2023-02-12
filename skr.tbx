@@ -28,7 +28,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>term</term></tig></langSet>
-                <langSet xml:lang="skr"><tig><term/></tig></langSet>
+                <langSet xml:lang="skr"><tig><term>ٹرم</term></tig></langSet>
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>projects</term></tig></langSet>
@@ -72,11 +72,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>access restriction</term></tig></langSet>
-                <langSet xml:lang="skr"><tig><term/></tig></langSet>
+                <langSet xml:lang="skr"><tig><term>رسائی پابندی</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>session</term></tig></langSet>
-                <langSet xml:lang="skr"><tig><term/></tig></langSet>
+                <langSet xml:lang="skr"><tig><term>سیشن</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>unresolved comment</term></tig></langSet>
@@ -92,15 +92,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>class</term></tig></langSet>
-                <langSet xml:lang="skr"><tig><term/></tig></langSet>
+                <langSet xml:lang="skr"><tig><term>جماعت</term></tig></langSet>
             </termEntry>
             <termEntry id="alias &quot;Zen mode&quot;">
                 <langSet xml:lang="en"><tig><term>Zen</term></tig></langSet>
-                <langSet xml:lang="skr"><tig><term>زِن</term></tig></langSet>
+                <langSet xml:lang="skr"><tig><term>Zen</term></tig></langSet>
             </termEntry>
             <termEntry id="Past tense">
                 <langSet xml:lang="en"><tig><term>translated</term></tig></langSet>
-                <langSet xml:lang="skr"><tig><term/></tig></langSet>
+                <langSet xml:lang="skr"><tig><term>ترجمہ تھیا</term></tig></langSet>
             </termEntry>
             <termEntry id="opposite">
                 <langSet xml:lang="en"><tig><term>resolved comment</term></tig></langSet>
@@ -112,7 +112,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
-                <langSet xml:lang="skr"><tig><term/></tig></langSet>
+                <langSet xml:lang="skr"><tig><term>کومٹ ای میل</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>MyMemory</term></tig></langSet>
@@ -132,7 +132,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>component list</term></tig></langSet>
-                <langSet xml:lang="skr"><tig><term/></tig></langSet>
+                <langSet xml:lang="skr"><tig><term>حصہ تندیر</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Django</term></tig></langSet>
@@ -140,7 +140,7 @@
             </termEntry>
             <termEntry id="access restrictions (plural)">
                 <langSet xml:lang="en"><tig><term>access restrictions</term></tig></langSet>
-                <langSet xml:lang="skr"><tig><term/></tig></langSet>
+                <langSet xml:lang="skr"><tig><term>رسائی پابندیاں</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regex</term></tig></langSet>
@@ -152,19 +152,19 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
-                <langSet xml:lang="skr"><tig><term>ویبلیٹ</term></tig></langSet>
+                <langSet xml:lang="skr"><tig><term>Weblate</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
-                <langSet xml:lang="skr"><tig><term/></tig></langSet>
+                <langSet xml:lang="skr"><tig><term>ایڈ آن</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
-                <langSet xml:lang="skr"><tig><term/></tig></langSet>
+                <langSet xml:lang="skr"><tig><term>Celery</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CI</term></tig></langSet>
-                <langSet xml:lang="skr"><tig><term/></tig></langSet>
+                <langSet xml:lang="skr"><tig><term>CI</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>search</term></tig></langSet>
@@ -172,7 +172,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Terms of Service</term></tig></langSet>
-                <langSet xml:lang="skr"><tig><term/></tig></langSet>
+                <langSet xml:lang="skr"><tig><term>خدمت دیاں شرطاں</term></tig></langSet>
             </termEntry>
             <termEntry id="https://www.gnu.org/software/gettext">
                 <langSet xml:lang="en"><tig><term>gettext</term></tig></langSet>
@@ -180,11 +180,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pseudolocale</term></tig></langSet>
-                <langSet xml:lang="skr"><tig><term>نقلی  لوکیل</term></tig></langSet>
+                <langSet xml:lang="skr"><tig><term>نقلی لوکیل</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
-                <langSet xml:lang="skr"><tig><term/></tig></langSet>
+                <langSet xml:lang="skr"><tig><term>تبدیلی لاگ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>issue</term></tig></langSet>
@@ -196,15 +196,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
-                <langSet xml:lang="skr"><tig><term/></tig></langSet>
+                <langSet xml:lang="skr"><tig><term>سلگ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation</term></tig></langSet>
-                <langSet xml:lang="skr"><tig><term/></tig></langSet>
+                <langSet xml:lang="skr"><tig><term>ترجمہ</term></tig></langSet>
             </termEntry>
             <termEntry id="alias &quot;source text&quot;">
                 <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
-                <langSet xml:lang="skr"><tig><term/></tig></langSet>
+                <langSet xml:lang="skr"><tig><term>ماخذ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regular expression</term></tig></langSet>
@@ -212,11 +212,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation-finder</term></tig></langSet>
-                <langSet xml:lang="skr"><tig><term/></tig></langSet>
+                <langSet xml:lang="skr"><tig><term>ترجمہ لبھݨ آلا</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tmserver</term></tig></langSet>
-                <langSet xml:lang="skr"><tig><term/></tig></langSet>
+                <langSet xml:lang="skr"><tig><term>ٹی ایم سرور</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ModernMT</term></tig></langSet>
@@ -244,11 +244,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
-                <langSet xml:lang="skr"><tig><term/></tig></langSet>
+                <langSet xml:lang="skr"><tig><term>ٹوکن</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SSO</term></tig></langSet>
-                <langSet xml:lang="skr"><tig><term/></tig></langSet>
+                <langSet xml:lang="skr"><tig><term>ایس ایس او</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Keyboard shortcuts</term></tig></langSet>
@@ -288,7 +288,7 @@
             </termEntry>
             <termEntry id="sphinx-doc.org">
                 <langSet xml:lang="en"><tig><term>Sphinx</term></tig></langSet>
-                <langSet xml:lang="skr"><tig><term/></tig></langSet>
+                <langSet xml:lang="skr"><tig><term>سفنکس</term></tig></langSet>
             </termEntry>
             <termEntry id="readthedocs.org">
                 <langSet xml:lang="en"><tig><term>Read the Docs</term></tig></langSet>
@@ -308,11 +308,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>authorship</term></tig></langSet>
-                <langSet xml:lang="skr"><tig><term/></tig></langSet>
+                <langSet xml:lang="skr"><tig><term>تصنیف</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
-                <langSet xml:lang="skr"><tig><term></term></tig></langSet>
+                <langSet xml:lang="skr"><tig><term>سینٹری</term></tig></langSet>
             </termEntry>
         </body>
     </text>
