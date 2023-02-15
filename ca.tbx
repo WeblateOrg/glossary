@@ -646,6 +646,10 @@
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
                 <langSet xml:lang="ca"><tig><term>Sentry</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>team</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>equip</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
