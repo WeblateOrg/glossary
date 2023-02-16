@@ -812,7 +812,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>센트리(Sentry)</term></tig></langSet>
             </termEntry>
         </body>
     </text>
