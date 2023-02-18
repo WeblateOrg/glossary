@@ -532,19 +532,19 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>screenshot</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>ekran görüntüsü</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Screenshots</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>Ekran görüntüleri</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>authorship</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>katkıda bulunan</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term></term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>Sentry</term></tig></langSet>
             </termEntry>
         </body>
     </text>
