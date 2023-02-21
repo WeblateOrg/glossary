@@ -734,10 +734,6 @@
                 <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>原文</term></tig></langSet>
             </termEntry>
-            <termEntry id="alias &quot;Zen mode&quot;">
-                <langSet xml:lang="en"><tig><term>Zen</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>禪心</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>提交用的郵件信箱</term></tig></langSet>
