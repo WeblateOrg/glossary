@@ -12,7 +12,7 @@
         <body>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>edit</term></tig></langSet>
-                <langSet xml:lang="en_GB"><tig><term/></tig></langSet>
+                <langSet xml:lang="en_GB"><tig><term>edit</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SSO</term></tig></langSet>
@@ -20,11 +20,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
-                <langSet xml:lang="en_GB"><tig><term/></tig></langSet>
+                <langSet xml:lang="en_GB"><tig><term>private</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>search</term></tig></langSet>
-                <langSet xml:lang="en_GB"><tig><term/></tig></langSet>
+                <langSet xml:lang="en_GB"><tig><term>search</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
@@ -32,7 +32,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
-                <langSet xml:lang="en_GB"><tig><term/></tig></langSet>
+                <langSet xml:lang="en_GB"><tig><term>NBD</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bug</term></tig></langSet>
@@ -48,7 +48,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Keyboard shortcuts</term></tig></langSet>
-                <langSet xml:lang="en_GB"><tig><term/></tig></langSet>
+                <langSet xml:lang="en_GB"><tig><term>Keyboard shortcuts</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
@@ -56,7 +56,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Regular expressions</term></tig></langSet>
-                <langSet xml:lang="en_GB"><tig><term/></tig></langSet>
+                <langSet xml:lang="en_GB"><tig><term>Regular expressions</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gitee</term></tig></langSet>
@@ -64,11 +64,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Subject</term></tig></langSet>
-                <langSet xml:lang="en_GB"><tig><term/></tig></langSet>
+                <langSet xml:lang="en_GB"><tig><term>Subject</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Personal Data</term></tig></langSet>
-                <langSet xml:lang="en_GB"><tig><term/></tig></langSet>
+                <langSet xml:lang="en_GB"><tig><term>Personal Data</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Cookies</term></tig></langSet>
@@ -76,15 +76,15 @@
             </termEntry>
             <termEntry id="XML Tag">
                 <langSet xml:lang="en"><tig><term>XML Tag</term></tig></langSet>
-                <langSet xml:lang="en_GB"><tig><term/></tig></langSet>
+                <langSet xml:lang="en_GB"><tig><term>XML Tag</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>variants</term></tig></langSet>
-                <langSet xml:lang="en_GB"><tig><term/></tig></langSet>
+                <langSet xml:lang="en_GB"><tig><term>variants</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
-                <langSet xml:lang="en_GB"><tig><term/></tig></langSet>
+                <langSet xml:lang="en_GB"><tig><term>token</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>current</term></tig></langSet>
@@ -92,11 +92,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>identity</term></tig></langSet>
-                <langSet xml:lang="en_GB"><tig><term/></tig></langSet>
+                <langSet xml:lang="en_GB"><tig><term>identity</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>session</term></tig></langSet>
-                <langSet xml:lang="en_GB"><tig><term/></tig></langSet>
+                <langSet xml:lang="en_GB"><tig><term>session</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslated</term></tig></langSet>
@@ -104,7 +104,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
-                <langSet xml:lang="en_GB"><tig><term/></tig></langSet>
+                <langSet xml:lang="en_GB"><tig><term>parse</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>This is not used when a component list is selected.</term></tig></langSet>
@@ -120,7 +120,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pseudolocale</term></tig></langSet>
-                <langSet xml:lang="en_GB"><tig><term/></tig></langSet>
+                <langSet xml:lang="en_GB"><tig><term>pseudolocale</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>component list</term></tig></langSet>
@@ -132,63 +132,63 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
-                <langSet xml:lang="en_GB"><tig><term/></tig></langSet>
+                <langSet xml:lang="en_GB"><tig><term>changelog</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pull request</term></tig></langSet>
-                <langSet xml:lang="en_GB"><tig><term/></tig></langSet>
+                <langSet xml:lang="en_GB"><tig><term>pull request</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>issue</term></tig></langSet>
-                <langSet xml:lang="en_GB"><tig><term/></tig></langSet>
+                <langSet xml:lang="en_GB"><tig><term>issue</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>access restriction</term></tig></langSet>
-                <langSet xml:lang="en_GB"><tig><term/></tig></langSet>
+                <langSet xml:lang="en_GB"><tig><term>access restriction</term></tig></langSet>
             </termEntry>
             <termEntry id="access restrictions (plural)">
                 <langSet xml:lang="en"><tig><term>access restrictions</term></tig></langSet>
-                <langSet xml:lang="en_GB"><tig><term/></tig></langSet>
+                <langSet xml:lang="en_GB"><tig><term>access restrictions</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regular expression</term></tig></langSet>
-                <langSet xml:lang="en_GB"><tig><term/></tig></langSet>
+                <langSet xml:lang="en_GB"><tig><term>regular expression</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regex</term></tig></langSet>
-                <langSet xml:lang="en_GB"><tig><term/></tig></langSet>
+                <langSet xml:lang="en_GB"><tig><term>regex</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>class</term></tig></langSet>
-                <langSet xml:lang="en_GB"><tig><term/></tig></langSet>
+                <langSet xml:lang="en_GB"><tig><term>class</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
-                <langSet xml:lang="en_GB"><tig><term/></tig></langSet>
+                <langSet xml:lang="en_GB"><tig><term>slug</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fixup</term></tig></langSet>
-                <langSet xml:lang="en_GB"><tig><term/></tig></langSet>
+                <langSet xml:lang="en_GB"><tig><term>fixup</term></tig></langSet>
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>translations</term></tig></langSet>
-                <langSet xml:lang="en_GB"><tig><term/></tig></langSet>
+                <langSet xml:lang="en_GB"><tig><term>translations</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation</term></tig></langSet>
-                <langSet xml:lang="en_GB"><tig><term/></tig></langSet>
+                <langSet xml:lang="en_GB"><tig><term>translation</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>unresolved comment</term></tig></langSet>
-                <langSet xml:lang="en_GB"><tig><term/></tig></langSet>
+                <langSet xml:lang="en_GB"><tig><term>unresolved comment</term></tig></langSet>
             </termEntry>
             <termEntry id="opposite">
                 <langSet xml:lang="en"><tig><term>resolved comment</term></tig></langSet>
-                <langSet xml:lang="en_GB"><tig><term/></tig></langSet>
+                <langSet xml:lang="en_GB"><tig><term>resolved comment</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>URL scheme</term></tig></langSet>
-                <langSet xml:lang="en_GB"><tig><term/></tig></langSet>
+                <langSet xml:lang="en_GB"><tig><term>URL scheme</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
@@ -200,35 +200,35 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translator</term></tig></langSet>
-                <langSet xml:lang="en_GB"><tig><term/></tig></langSet>
+                <langSet xml:lang="en_GB"><tig><term>translator</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>term</term></tig></langSet>
-                <langSet xml:lang="en_GB"><tig><term/></tig></langSet>
+                <langSet xml:lang="en_GB"><tig><term>term</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Privacy Policy</term></tig></langSet>
-                <langSet xml:lang="en_GB"><tig><term/></tig></langSet>
+                <langSet xml:lang="en_GB"><tig><term>Privacy Policy</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Terms of Service</term></tig></langSet>
-                <langSet xml:lang="en_GB"><tig><term/></tig></langSet>
+                <langSet xml:lang="en_GB"><tig><term>Terms of Service</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>profile</term></tig></langSet>
-                <langSet xml:lang="en_GB"><tig><term/></tig></langSet>
+                <langSet xml:lang="en_GB"><tig><term>profile</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>project</term></tig></langSet>
-                <langSet xml:lang="en_GB"><tig><term/></tig></langSet>
+                <langSet xml:lang="en_GB"><tig><term>project</term></tig></langSet>
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>projects</term></tig></langSet>
-                <langSet xml:lang="en_GB"><tig><term/></tig></langSet>
+                <langSet xml:lang="en_GB"><tig><term>projects</term></tig></langSet>
             </termEntry>
             <termEntry id="alias &quot;source text&quot;">
                 <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
-                <langSet xml:lang="en_GB"><tig><term/></tig></langSet>
+                <langSet xml:lang="en_GB"><tig><term>source</term></tig></langSet>
             </termEntry>
             <termEntry id="alias &quot;Zen mode&quot;">
                 <langSet xml:lang="en"><tig><term>Zen</term></tig></langSet>
@@ -236,11 +236,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
-                <langSet xml:lang="en_GB"><tig><term/></tig></langSet>
+                <langSet xml:lang="en_GB"><tig><term>commit e-mail</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>history</term></tig></langSet>
-                <langSet xml:lang="en_GB"><tig><term/></tig></langSet>
+                <langSet xml:lang="en_GB"><tig><term>history</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Django</term></tig></langSet>
@@ -248,7 +248,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation-finder</term></tig></langSet>
-                <langSet xml:lang="en_GB"><tig><term/></tig></langSet>
+                <langSet xml:lang="en_GB"><tig><term>translation-finder</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
@@ -300,7 +300,7 @@
             </termEntry>
             <termEntry id="readthedocs.org">
                 <langSet xml:lang="en"><tig><term>Read the Docs</term></tig></langSet>
-                <langSet xml:lang="en_GB"><tig><term/></tig></langSet>
+                <langSet xml:lang="en_GB"><tig><term>Read the Docs</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Google OAuth 2</term></tig></langSet>
@@ -308,39 +308,39 @@
             </termEntry>
             <termEntry id="Past tense">
                 <langSet xml:lang="en"><tig><term>translated</term></tig></langSet>
-                <langSet xml:lang="en_GB"><tig><term/></tig></langSet>
+                <langSet xml:lang="en_GB"><tig><term>translated</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>glossary</term></tig></langSet>
-                <langSet xml:lang="en_GB"><tig><term/></tig></langSet>
+                <langSet xml:lang="en_GB"><tig><term>glossary</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
-                <langSet xml:lang="en_GB"><tig><term/></tig></langSet>
+                <langSet xml:lang="en_GB"><tig><term>repository</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repo</term></tig></langSet>
-                <langSet xml:lang="en_GB"><tig><term/></tig></langSet>
+                <langSet xml:lang="en_GB"><tig><term>repo</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>text direction</term></tig></langSet>
-                <langSet xml:lang="en_GB"><tig><term/></tig></langSet>
+                <langSet xml:lang="en_GB"><tig><term>text direction</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>screenshot</term></tig></langSet>
-                <langSet xml:lang="en_GB"><tig><term/></tig></langSet>
+                <langSet xml:lang="en_GB"><tig><term>screenshot</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Screenshots</term></tig></langSet>
-                <langSet xml:lang="en_GB"><tig><term/></tig></langSet>
+                <langSet xml:lang="en_GB"><tig><term>Screenshots</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>authorship</term></tig></langSet>
-                <langSet xml:lang="en_GB"><tig><term/></tig></langSet>
+                <langSet xml:lang="en_GB"><tig><term>authorship</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
-                <langSet xml:lang="en_GB"><tig><term></term></tig></langSet>
+                <langSet xml:lang="en_GB"><tig><term>Sentry</term></tig></langSet>
             </termEntry>
         </body>
     </text>
