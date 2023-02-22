@@ -572,7 +572,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Regular expressions</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>常規表達式</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>正規表示法</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gitee</term></tig></langSet>
@@ -1124,7 +1124,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Insights</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>洞悉</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>洞察</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Baidu</term></tig></langSet>
