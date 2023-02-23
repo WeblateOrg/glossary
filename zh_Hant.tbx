@@ -1126,6 +1126,30 @@
                 <langSet xml:lang="en"><tig><term>Insights</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>洞悉</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Baidu</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>Baidu</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Amagama</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>Amagama</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>production environment</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>正式環境</term></tig></langSet>
+            </termEntry>
+            <termEntry id="alias &quot;Zen mode&quot;">
+                <langSet xml:lang="en"><tig><term>Zen</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Rolling updates</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>滾動式更新</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Yandex</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>Yandex</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
