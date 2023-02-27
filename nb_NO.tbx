@@ -348,11 +348,11 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>screenshot</term></tig></langSet>
-                <langSet xml:lang="nb_NO"><tig><term/></tig></langSet>
+                <langSet xml:lang="nb_NO"><tig><term>skjermavbildning</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Screenshots</term></tig></langSet>
-                <langSet xml:lang="nb_NO"><tig><term/></tig></langSet>
+                <langSet xml:lang="nb_NO"><tig><term>skjermavbildninger</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>authorship</term></tig></langSet>
@@ -360,7 +360,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
-                <langSet xml:lang="nb_NO"><tig><term></term></tig></langSet>
+                <langSet xml:lang="nb_NO"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
