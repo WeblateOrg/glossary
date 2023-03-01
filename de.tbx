@@ -1395,10 +1395,6 @@
                 <langSet xml:lang="de"><tig><term>Benutzer</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Repository</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Repository</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>CI</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term/></tig></langSet>
             </termEntry>
