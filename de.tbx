@@ -1019,10 +1019,6 @@
                 <langSet xml:lang="de"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Insights</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Locations</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Orte</term></tig></langSet>
             </termEntry>
