@@ -1150,6 +1150,14 @@
                 <langSet xml:lang="en"><tig><term>Yandex</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>Yandex</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>approved</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>已核可</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>reviews</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>檢閱</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
