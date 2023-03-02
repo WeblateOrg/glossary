@@ -480,23 +480,23 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>text direction</term></tig></langSet>
-                <langSet xml:lang="hr"><tig><term/></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>smjer teksta</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>screenshot</term></tig></langSet>
-                <langSet xml:lang="hr"><tig><term/></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>snimka ekrana</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Screenshots</term></tig></langSet>
-                <langSet xml:lang="hr"><tig><term/></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>Snimke ekrana</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>authorship</term></tig></langSet>
-                <langSet xml:lang="hr"><tig><term/></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>autorstvo</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
-                <langSet xml:lang="hr"><tig><term></term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>Sentry</term></tig></langSet>
             </termEntry>
         </body>
     </text>
