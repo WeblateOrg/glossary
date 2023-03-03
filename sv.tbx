@@ -176,7 +176,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term>parsa</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>parsa/tolka</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>This is not used when a component list is selected.</term></tig></langSet>
