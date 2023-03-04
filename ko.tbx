@@ -716,7 +716,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation-finder</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>번역 파일 파인더</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>번역-찾기도구</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
@@ -816,7 +816,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>웹레이트</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>Weblate</term></tig></langSet>
             </termEntry>
         </body>
     </text>
