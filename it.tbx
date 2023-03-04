@@ -366,6 +366,10 @@
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
                 <langSet xml:lang="it"><tig><term>Sentinella</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
