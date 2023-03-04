@@ -818,6 +818,10 @@
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
                 <langSet xml:lang="ko"><tig><term>Weblate</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>호스팅된 웹레이트</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
