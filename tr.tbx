@@ -554,6 +554,10 @@
                 <langSet xml:lang="en"><tig><term>install</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>kur</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
