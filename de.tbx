@@ -1718,10 +1718,6 @@
                 <langSet xml:lang="en"><tig><term>Application</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Anwendung</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Commit</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>credentials</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Zugangsdaten</term></tig></langSet>
@@ -2000,7 +1996,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term></term></tig></langSet>
+                <langSet xml:lang="de"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
