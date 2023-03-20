@@ -216,19 +216,19 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>profile</term></tig></langSet>
-                <langSet xml:lang="sq"><tig><term/></tig></langSet>
+                <langSet xml:lang="sq"><tig><term>profil</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>project</term></tig></langSet>
-                <langSet xml:lang="sq"><tig><term/></tig></langSet>
+                <langSet xml:lang="sq"><tig><term>projekt</term></tig></langSet>
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>projects</term></tig></langSet>
-                <langSet xml:lang="sq"><tig><term/></tig></langSet>
+                <langSet xml:lang="sq"><tig><term>projekte</term></tig></langSet>
             </termEntry>
             <termEntry id="alias &quot;source text&quot;">
                 <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
-                <langSet xml:lang="sq"><tig><term/></tig></langSet>
+                <langSet xml:lang="sq"><tig><term>burim</term></tig></langSet>
             </termEntry>
             <termEntry id="alias &quot;Zen mode&quot;">
                 <langSet xml:lang="en"><tig><term>Zen</term></tig></langSet>
@@ -240,7 +240,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>history</term></tig></langSet>
-                <langSet xml:lang="sq"><tig><term/></tig></langSet>
+                <langSet xml:lang="sq"><tig><term>historik</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Django</term></tig></langSet>
@@ -300,7 +300,7 @@
             </termEntry>
             <termEntry id="readthedocs.org">
                 <langSet xml:lang="en"><tig><term>Read the Docs</term></tig></langSet>
-                <langSet xml:lang="sq"><tig><term/></tig></langSet>
+                <langSet xml:lang="sq"><tig><term>Lexoni Dokumentimin</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Google OAuth 2</term></tig></langSet>
@@ -308,7 +308,7 @@
             </termEntry>
             <termEntry id="Past tense">
                 <langSet xml:lang="en"><tig><term>translated</term></tig></langSet>
-                <langSet xml:lang="sq"><tig><term/></tig></langSet>
+                <langSet xml:lang="sq"><tig><term>i përkthyer</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>glossary</term></tig></langSet>
@@ -316,23 +316,23 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
-                <langSet xml:lang="sq"><tig><term/></tig></langSet>
+                <langSet xml:lang="sq"><tig><term>depo</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repo</term></tig></langSet>
-                <langSet xml:lang="sq"><tig><term/></tig></langSet>
+                <langSet xml:lang="sq"><tig><term>depo</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>text direction</term></tig></langSet>
-                <langSet xml:lang="sq"><tig><term/></tig></langSet>
+                <langSet xml:lang="sq"><tig><term>kah teksti</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>screenshot</term></tig></langSet>
-                <langSet xml:lang="sq"><tig><term/></tig></langSet>
+                <langSet xml:lang="sq"><tig><term>foto ekrani</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Screenshots</term></tig></langSet>
-                <langSet xml:lang="sq"><tig><term/></tig></langSet>
+                <langSet xml:lang="sq"><tig><term>Foto ekrani</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>authorship</term></tig></langSet>
@@ -344,7 +344,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
-                <langSet xml:lang="sq"><tig><term></term></tig></langSet>
+                <langSet xml:lang="sq"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
