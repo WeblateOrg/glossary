@@ -324,35 +324,35 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term/></tig></langSet>
+                <langSet xml:lang="ro"><tig><term>depozit</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repo</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term/></tig></langSet>
+                <langSet xml:lang="ro"><tig><term>repo</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>text direction</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term/></tig></langSet>
+                <langSet xml:lang="ro"><tig><term>direcție text</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>screenshot</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term/></tig></langSet>
+                <langSet xml:lang="ro"><tig><term>captură de ecran</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Screenshots</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term/></tig></langSet>
+                <langSet xml:lang="ro"><tig><term>Capturi de ecran</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>authorship</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term/></tig></langSet>
+                <langSet xml:lang="ro"><tig><term>paternitate</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term/></tig></langSet>
+                <langSet xml:lang="ro"><tig><term>Sentry</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ro"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
