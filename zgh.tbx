@@ -16,11 +16,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Privacy Policy</term></tig></langSet>
-                <langSet xml:lang="zgh"><tig><term/></tig></langSet>
+                <langSet xml:lang="zgh"><tig><term>ⵜⴰⵙⵔⵜⵉⵜ ⵏ ⵜⵥⵍⴰⵢⵜ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>identity</term></tig></langSet>
-                <langSet xml:lang="zgh"><tig><term/></tig></langSet>
+                <langSet xml:lang="zgh"><tig><term>ⵜⴰⵎⴰⴳⵉⵜ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CI</term></tig></langSet>
@@ -28,7 +28,7 @@
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>projects</term></tig></langSet>
-                <langSet xml:lang="zgh"><tig><term/></tig></langSet>
+                <langSet xml:lang="zgh"><tig><term>ⵉⵙⵖⵏⵓⵜⵏ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Subversion</term></tig></langSet>
@@ -60,7 +60,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>project</term></tig></langSet>
-                <langSet xml:lang="zgh"><tig><term/></tig></langSet>
+                <langSet xml:lang="zgh"><tig><term>ⴰⵙⵖⵏⵓ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Terms of Service</term></tig></langSet>
@@ -72,7 +72,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
-                <langSet xml:lang="zgh"><tig><term/></tig></langSet>
+                <langSet xml:lang="zgh"><tig><term>ⴰⵔⵔⴰ ⵏ ⵉⵙⵏⴼⴰⵍⵏ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>variants</term></tig></langSet>
@@ -80,15 +80,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>current</term></tig></langSet>
-                <langSet xml:lang="zgh"><tig><term/></tig></langSet>
+                <langSet xml:lang="zgh"><tig><term>ⴰⴷⵡⴰⵍⵉ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
-                <langSet xml:lang="zgh"><tig><term/></tig></langSet>
+                <langSet xml:lang="zgh"><tig><term>ⴰⵙⴼⵙⵉ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>issue</term></tig></langSet>
-                <langSet xml:lang="zgh"><tig><term/></tig></langSet>
+                <langSet xml:lang="zgh"><tig><term>ⵜⴰⵎⵓⴽⵔⵉⵙⵜ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
@@ -192,7 +192,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
-                <langSet xml:lang="zgh"><tig><term/></tig></langSet>
+                <langSet xml:lang="zgh"><tig><term>ⵓⵙⵍⵉⴳ</term></tig></langSet>
             </termEntry>
             <termEntry id="opposite">
                 <langSet xml:lang="en"><tig><term>resolved comment</term></tig></langSet>
@@ -200,7 +200,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>edit</term></tig></langSet>
-                <langSet xml:lang="zgh"><tig><term/></tig></langSet>
+                <langSet xml:lang="zgh"><tig><term>ⵙⴳⴳⴷ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SSO</term></tig></langSet>
@@ -212,7 +212,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
-                <langSet xml:lang="zgh"><tig><term/></tig></langSet>
+                <langSet xml:lang="zgh"><tig><term>ⴰⴽⵕⴰⴼⵙ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Cookies</term></tig></langSet>
@@ -224,11 +224,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Keyboard shortcuts</term></tig></langSet>
-                <langSet xml:lang="zgh"><tig><term/></tig></langSet>
+                <langSet xml:lang="zgh"><tig><term>ⵜⵓⴳⵣⵉⵍⵉⵏ ⵏ ⵜⵏⴰⵙⵜ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Personal Data</term></tig></langSet>
-                <langSet xml:lang="zgh"><tig><term/></tig></langSet>
+                <langSet xml:lang="zgh"><tig><term>ⵜⵉⵎⵓⵛⴰ ⵜⵓⴷⵎⴰⵡⴰⵏⵉⵏ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
@@ -240,7 +240,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>class</term></tig></langSet>
-                <langSet xml:lang="zgh"><tig><term/></tig></langSet>
+                <langSet xml:lang="zgh"><tig><term>ⴰⵙⵎⵉⵍ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Django</term></tig></langSet>
@@ -264,11 +264,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>profile</term></tig></langSet>
-                <langSet xml:lang="zgh"><tig><term/></tig></langSet>
+                <langSet xml:lang="zgh"><tig><term>ⴰⵙⴷⴰⵡ ⴰⵏⵉⵎⴰⵏ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>history</term></tig></langSet>
-                <langSet xml:lang="zgh"><tig><term/></tig></langSet>
+                <langSet xml:lang="zgh"><tig><term>ⴰⵎⵣⵔⵓⵢ</term></tig></langSet>
             </termEntry>
             <termEntry id="sphinx-doc.org">
                 <langSet xml:lang="en"><tig><term>Sphinx</term></tig></langSet>
@@ -280,7 +280,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>glossary</term></tig></langSet>
-                <langSet xml:lang="zgh"><tig><term/></tig></langSet>
+                <langSet xml:lang="zgh"><tig><term>ⵜⴰⵎⴰⵡⴰⵍⵜ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
@@ -304,7 +304,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>authorship</term></tig></langSet>
-                <langSet xml:lang="zgh"><tig><term/></tig></langSet>
+                <langSet xml:lang="zgh"><tig><term>ⴰⵙⵏⴰⵢ</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
@@ -312,7 +312,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
-                <langSet xml:lang="zgh"><tig><term></term></tig></langSet>
+                <langSet xml:lang="zgh"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
