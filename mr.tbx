@@ -173,6 +173,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regular expression</term></tig></langSet>
                 <langSet xml:lang="mr"><tig><term>सामान्य सुत्र</term></tig></langSet>
+                <note from="translator">प्रोग्रामिंगच्या भाषेत regex म्हणतात ते.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>class</term></tig></langSet>
@@ -253,6 +254,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
                 <langSet xml:lang="mr"><tig><term>वचनबद्ध ईमेल</term></tig></langSet>
+                <descrip>e-mail address that will be used as committer</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>history</term></tig></langSet>
