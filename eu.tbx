@@ -52,7 +52,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
-                <langSet xml:lang="eu"><tig><term/></tig></langSet>
+                <langSet xml:lang="eu"><tig><term>gehigarria</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
@@ -60,7 +60,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bug</term></tig></langSet>
-                <langSet xml:lang="eu"><tig><term/></tig></langSet>
+                <langSet xml:lang="eu"><tig><term>akatsa</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
@@ -156,7 +156,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
-                <langSet xml:lang="eu"><tig><term/></tig></langSet>
+                <langSet xml:lang="eu"><tig><term>aldaketen erregistroa</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pull request</term></tig></langSet>
@@ -168,11 +168,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>access restriction</term></tig></langSet>
-                <langSet xml:lang="eu"><tig><term/></tig></langSet>
+                <langSet xml:lang="eu"><tig><term>sarbide-murrizketa</term></tig></langSet>
             </termEntry>
             <termEntry id="access restrictions (plural)">
                 <langSet xml:lang="en"><tig><term>access restrictions</term></tig></langSet>
-                <langSet xml:lang="eu"><tig><term/></tig></langSet>
+                <langSet xml:lang="eu"><tig><term>sarbide-murrizketak</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regex</term></tig></langSet>
@@ -184,7 +184,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>class</term></tig></langSet>
-                <langSet xml:lang="eu"><tig><term/></tig></langSet>
+                <langSet xml:lang="eu"><tig><term>mota</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
@@ -360,7 +360,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>authorship</term></tig></langSet>
-                <langSet xml:lang="eu"><tig><term/></tig></langSet>
+                <langSet xml:lang="eu"><tig><term>autoretza</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
@@ -368,7 +368,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
-                <langSet xml:lang="eu"><tig><term></term></tig></langSet>
+                <langSet xml:lang="eu"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
