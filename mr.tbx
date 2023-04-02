@@ -28,7 +28,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>edit</term></tig></langSet>
-                <langSet xml:lang="mr"><tig><term/></tig></langSet>
+                <langSet xml:lang="mr"><tig><term>संपादा</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SSO</term></tig></langSet>
@@ -36,23 +36,23 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
-                <langSet xml:lang="mr"><tig><term/></tig></langSet>
+                <langSet xml:lang="mr"><tig><term>खाजगी</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>search</term></tig></langSet>
-                <langSet xml:lang="mr"><tig><term/></tig></langSet>
+                <langSet xml:lang="mr"><tig><term>शोध</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
-                <langSet xml:lang="mr"><tig><term/></tig></langSet>
+                <langSet xml:lang="mr"><tig><term>जोड-कार्य</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
-                <langSet xml:lang="mr"><tig><term/></tig></langSet>
+                <langSet xml:lang="mr"><tig><term>पुढचा व्यावसायिक दिवस</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bug</term></tig></langSet>
-                <langSet xml:lang="mr"><tig><term/></tig></langSet>
+                <langSet xml:lang="mr"><tig><term>बग</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
@@ -64,7 +64,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Keyboard shortcuts</term></tig></langSet>
-                <langSet xml:lang="mr"><tig><term/></tig></langSet>
+                <langSet xml:lang="mr"><tig><term>कीबोर्ड शॉर्टकट</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
@@ -72,7 +72,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Regular expressions</term></tig></langSet>
-                <langSet xml:lang="mr"><tig><term/></tig></langSet>
+                <langSet xml:lang="mr"><tig><term>सामान्य सुत्रे</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gitee</term></tig></langSet>
@@ -80,11 +80,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Subject</term></tig></langSet>
-                <langSet xml:lang="mr"><tig><term/></tig></langSet>
+                <langSet xml:lang="mr"><tig><term>विषय</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Personal Data</term></tig></langSet>
-                <langSet xml:lang="mr"><tig><term/></tig></langSet>
+                <langSet xml:lang="mr"><tig><term>वैयक्तिक माहिती</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Cookies</term></tig></langSet>
@@ -92,27 +92,27 @@
             </termEntry>
             <termEntry id="XML Tag">
                 <langSet xml:lang="en"><tig><term>XML Tag</term></tig></langSet>
-                <langSet xml:lang="mr"><tig><term/></tig></langSet>
+                <langSet xml:lang="mr"><tig><term>XML टॅग</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>variants</term></tig></langSet>
-                <langSet xml:lang="mr"><tig><term/></tig></langSet>
+                <langSet xml:lang="mr"><tig><term>प्रकार</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
-                <langSet xml:lang="mr"><tig><term/></tig></langSet>
+                <langSet xml:lang="mr"><tig><term>टोकन</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>current</term></tig></langSet>
-                <langSet xml:lang="mr"><tig><term/></tig></langSet>
+                <langSet xml:lang="mr"><tig><term>वर्तमान</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>identity</term></tig></langSet>
-                <langSet xml:lang="mr"><tig><term/></tig></langSet>
+                <langSet xml:lang="mr"><tig><term>ओळख</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>session</term></tig></langSet>
-                <langSet xml:lang="mr"><tig><term/></tig></langSet>
+                <langSet xml:lang="mr"><tig><term>सत्र</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslated</term></tig></langSet>
@@ -140,7 +140,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>component list</term></tig></langSet>
-                <langSet xml:lang="mr"><tig><term/></tig></langSet>
+                <langSet xml:lang="mr"><tig><term>घटक सूची</term></tig></langSet>
             </termEntry>
             <termEntry id="components">
                 <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
@@ -148,63 +148,63 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
-                <langSet xml:lang="mr"><tig><term/></tig></langSet>
+                <langSet xml:lang="mr"><tig><term>बदलपत्र</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pull request</term></tig></langSet>
-                <langSet xml:lang="mr"><tig><term/></tig></langSet>
+                <langSet xml:lang="mr"><tig><term>पुल रिक्वेस्ट</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>issue</term></tig></langSet>
-                <langSet xml:lang="mr"><tig><term/></tig></langSet>
+                <langSet xml:lang="mr"><tig><term>मुद्दा</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>access restriction</term></tig></langSet>
-                <langSet xml:lang="mr"><tig><term/></tig></langSet>
+                <langSet xml:lang="mr"><tig><term>प्रवेश प्रतिबंध</term></tig></langSet>
             </termEntry>
             <termEntry id="access restrictions (plural)">
                 <langSet xml:lang="en"><tig><term>access restrictions</term></tig></langSet>
-                <langSet xml:lang="mr"><tig><term/></tig></langSet>
+                <langSet xml:lang="mr"><tig><term>प्रवेश प्रतिबंध</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regex</term></tig></langSet>
-                <langSet xml:lang="mr"><tig><term/></tig></langSet>
+                <langSet xml:lang="mr"><tig><term>regex</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regular expression</term></tig></langSet>
-                <langSet xml:lang="mr"><tig><term/></tig></langSet>
+                <langSet xml:lang="mr"><tig><term>सामान्य सुत्र</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>class</term></tig></langSet>
-                <langSet xml:lang="mr"><tig><term/></tig></langSet>
+                <langSet xml:lang="mr"><tig><term>वर्ग</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
-                <langSet xml:lang="mr"><tig><term/></tig></langSet>
+                <langSet xml:lang="mr"><tig><term>slug</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fixup</term></tig></langSet>
-                <langSet xml:lang="mr"><tig><term/></tig></langSet>
+                <langSet xml:lang="mr"><tig><term>दुरुस्त करा</term></tig></langSet>
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>translations</term></tig></langSet>
-                <langSet xml:lang="mr"><tig><term/></tig></langSet>
+                <langSet xml:lang="mr"><tig><term>अनुवाद</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation</term></tig></langSet>
-                <langSet xml:lang="mr"><tig><term/></tig></langSet>
+                <langSet xml:lang="mr"><tig><term>अनुवाद</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>unresolved comment</term></tig></langSet>
-                <langSet xml:lang="mr"><tig><term/></tig></langSet>
+                <langSet xml:lang="mr"><tig><term>न सुटलेली टिप्पणी</term></tig></langSet>
             </termEntry>
             <termEntry id="opposite">
                 <langSet xml:lang="en"><tig><term>resolved comment</term></tig></langSet>
-                <langSet xml:lang="mr"><tig><term/></tig></langSet>
+                <langSet xml:lang="mr"><tig><term>सोडवलेली टिपण्णी</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>URL scheme</term></tig></langSet>
-                <langSet xml:lang="mr"><tig><term/></tig></langSet>
+                <langSet xml:lang="mr"><tig><term>URL स्कीम</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
@@ -216,35 +216,35 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translator</term></tig></langSet>
-                <langSet xml:lang="mr"><tig><term/></tig></langSet>
+                <langSet xml:lang="mr"><tig><term>अनुवादक</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>term</term></tig></langSet>
-                <langSet xml:lang="mr"><tig><term/></tig></langSet>
+                <langSet xml:lang="mr"><tig><term>शब्द</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Privacy Policy</term></tig></langSet>
-                <langSet xml:lang="mr"><tig><term/></tig></langSet>
+                <langSet xml:lang="mr"><tig><term>गोपनीयता धोरण</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Terms of Service</term></tig></langSet>
-                <langSet xml:lang="mr"><tig><term/></tig></langSet>
+                <langSet xml:lang="mr"><tig><term>सेवेच्या अटी</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>profile</term></tig></langSet>
-                <langSet xml:lang="mr"><tig><term/></tig></langSet>
+                <langSet xml:lang="mr"><tig><term>रूपरेषा</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>project</term></tig></langSet>
-                <langSet xml:lang="mr"><tig><term/></tig></langSet>
+                <langSet xml:lang="mr"><tig><term>प्रकल्प</term></tig></langSet>
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>projects</term></tig></langSet>
-                <langSet xml:lang="mr"><tig><term/></tig></langSet>
+                <langSet xml:lang="mr"><tig><term>प्रकल्प</term></tig></langSet>
             </termEntry>
             <termEntry id="alias &quot;source text&quot;">
                 <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
-                <langSet xml:lang="mr"><tig><term/></tig></langSet>
+                <langSet xml:lang="mr"><tig><term>स्त्रोत</term></tig></langSet>
             </termEntry>
             <termEntry id="alias &quot;Zen mode&quot;">
                 <langSet xml:lang="en"><tig><term>Zen</term></tig></langSet>
@@ -252,11 +252,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
-                <langSet xml:lang="mr"><tig><term/></tig></langSet>
+                <langSet xml:lang="mr"><tig><term>वचनबद्ध ईमेल</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>history</term></tig></langSet>
-                <langSet xml:lang="mr"><tig><term/></tig></langSet>
+                <langSet xml:lang="mr"><tig><term>इतिहास</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Django</term></tig></langSet>
@@ -264,7 +264,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation-finder</term></tig></langSet>
-                <langSet xml:lang="mr"><tig><term/></tig></langSet>
+                <langSet xml:lang="mr"><tig><term>अनुवाद-शोधक</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
@@ -316,7 +316,7 @@
             </termEntry>
             <termEntry id="readthedocs.org">
                 <langSet xml:lang="en"><tig><term>Read the Docs</term></tig></langSet>
-                <langSet xml:lang="mr"><tig><term/></tig></langSet>
+                <langSet xml:lang="mr"><tig><term>Read the Docs</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Google OAuth 2</term></tig></langSet>
@@ -324,43 +324,43 @@
             </termEntry>
             <termEntry id="Past tense">
                 <langSet xml:lang="en"><tig><term>translated</term></tig></langSet>
-                <langSet xml:lang="mr"><tig><term/></tig></langSet>
+                <langSet xml:lang="mr"><tig><term>अनुवादित</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>glossary</term></tig></langSet>
-                <langSet xml:lang="mr"><tig><term/></tig></langSet>
+                <langSet xml:lang="mr"><tig><term>शब्दावली</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
-                <langSet xml:lang="mr"><tig><term/></tig></langSet>
+                <langSet xml:lang="mr"><tig><term>रिपोझिटरी (भांडार)</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repo</term></tig></langSet>
-                <langSet xml:lang="mr"><tig><term/></tig></langSet>
+                <langSet xml:lang="mr"><tig><term>रेपो</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>text direction</term></tig></langSet>
-                <langSet xml:lang="mr"><tig><term/></tig></langSet>
+                <langSet xml:lang="mr"><tig><term>मजकूर दिशा</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>screenshot</term></tig></langSet>
-                <langSet xml:lang="mr"><tig><term/></tig></langSet>
+                <langSet xml:lang="mr"><tig><term>प्रतिमांकन</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Screenshots</term></tig></langSet>
-                <langSet xml:lang="mr"><tig><term/></tig></langSet>
+                <langSet xml:lang="mr"><tig><term>प्रतिमांकन</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>authorship</term></tig></langSet>
-                <langSet xml:lang="mr"><tig><term/></tig></langSet>
+                <langSet xml:lang="mr"><tig><term>लेखकत्व</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
-                <langSet xml:lang="mr"><tig><term/></tig></langSet>
+                <langSet xml:lang="mr"><tig><term>पहारेकरी</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
-                <langSet xml:lang="mr"><tig><term></term></tig></langSet>
+                <langSet xml:lang="mr"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
