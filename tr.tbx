@@ -556,7 +556,11 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term></term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>false positive</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>yanlış pozitif sonuç</term></tig></langSet>
             </termEntry>
         </body>
     </text>
