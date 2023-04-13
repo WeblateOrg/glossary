@@ -1994,6 +1994,10 @@
                 <langSet xml:lang="en"><tig><term>browse</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>durchsuchen</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
