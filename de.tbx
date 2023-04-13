@@ -1990,6 +1990,10 @@
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Sentry</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>browse</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>durchsuchen</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
