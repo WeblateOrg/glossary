@@ -562,6 +562,10 @@
                 <langSet xml:lang="en"><tig><term>false positive</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>yanlış pozitif sonuç</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
