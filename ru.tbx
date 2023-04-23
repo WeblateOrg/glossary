@@ -1010,6 +1010,14 @@
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Метрики</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Browse</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Обзор</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>translation progress</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>переведение</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
