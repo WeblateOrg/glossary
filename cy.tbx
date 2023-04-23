@@ -27248,7 +27248,7 @@
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>translations</term></tig></langSet>
-                <langSet xml:lang="cy"><tig><term/></tig></langSet>
+                <langSet xml:lang="cy"><tig><term>cyfieithiadau</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation</term></tig></langSet>
@@ -27288,15 +27288,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>project</term></tig></langSet>
-                <langSet xml:lang="cy"><tig><term/></tig></langSet>
+                <langSet xml:lang="cy"><tig><term>prosiect</term></tig></langSet>
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>projects</term></tig></langSet>
-                <langSet xml:lang="cy"><tig><term/></tig></langSet>
+                <langSet xml:lang="cy"><tig><term>prosiectau</term></tig></langSet>
             </termEntry>
             <termEntry id="alias &quot;source text&quot;">
                 <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
-                <langSet xml:lang="cy"><tig><term/></tig></langSet>
+                <langSet xml:lang="cy"><tig><term>ffynhonnell</term></tig></langSet>
             </termEntry>
             <termEntry id="alias &quot;Zen mode&quot;">
                 <langSet xml:lang="en"><tig><term>Zen</term></tig></langSet>
@@ -27408,7 +27408,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
-                <langSet xml:lang="cy"><tig><term></term></tig></langSet>
+                <langSet xml:lang="cy"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
