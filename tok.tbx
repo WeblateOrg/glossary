@@ -12,27 +12,27 @@
         <body>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>variants</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term/></tig></langSet>
+                <langSet xml:lang="tok"><tig><term>ante</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term/></tig></langSet>
+                <langSet xml:lang="tok"><tig><term>jo</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>identity</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term/></tig></langSet>
+                <langSet xml:lang="tok"><tig><term>nasin sona</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>session</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term/></tig></langSet>
+                <langSet xml:lang="tok"><tig><term>nasin lon</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term/></tig></langSet>
+                <langSet xml:lang="tok"><tig><term>o sona</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term/></tig></langSet>
+                <langSet xml:lang="tok"><tig><term>namako</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Subversion</term></tig></langSet>
@@ -40,7 +40,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>current</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term/></tig></langSet>
+                <langSet xml:lang="tok"><tig><term>pi tenpo ni</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gerrit</term></tig></langSet>
@@ -48,7 +48,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>edit</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term/></tig></langSet>
+                <langSet xml:lang="tok"><tig><term>o ante</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SSO</term></tig></langSet>
@@ -56,19 +56,19 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term/></tig></langSet>
+                <langSet xml:lang="tok"><tig><term>pi kulupu taso</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>search</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term/></tig></langSet>
+                <langSet xml:lang="tok"><tig><term>alasa</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bug</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term/></tig></langSet>
+                <langSet xml:lang="tok"><tig><term>pakala</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term/></tig></langSet>
+                <langSet xml:lang="tok"><tig><term>ilo Celery</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CI</term></tig></langSet>
@@ -76,7 +76,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Keyboard shortcuts</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term/></tig></langSet>
+                <langSet xml:lang="tok"><tig><term>nasin pi ilo sitelen</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
@@ -84,15 +84,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Regular expressions</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term/></tig></langSet>
+                <langSet xml:lang="tok"><tig><term>toki pi nasin awen</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gitee</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term/></tig></langSet>
+                <langSet xml:lang="tok"><tig><term>lipu Gitee</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Personal Data</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term/></tig></langSet>
+                <langSet xml:lang="tok"><tig><term>sona jan</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Cookies</term></tig></langSet>
@@ -100,11 +100,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pseudolocale</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term/></tig></langSet>
+                <langSet xml:lang="tok"><tig><term>toki nasa</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>component list</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term/></tig></langSet>
+                <langSet xml:lang="tok"><tig><term>kulupu ijo</term></tig></langSet>
             </termEntry>
             <termEntry id="components">
                 <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
@@ -112,63 +112,63 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term/></tig></langSet>
+                <langSet xml:lang="tok"><tig><term>lipu ante</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pull request</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term/></tig></langSet>
+                <langSet xml:lang="tok"><tig><term>wile ante</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>issue</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term/></tig></langSet>
+                <langSet xml:lang="tok"><tig><term>pakala</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>access restriction</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term/></tig></langSet>
+                <langSet xml:lang="tok"><tig><term>ken ala</term></tig></langSet>
             </termEntry>
             <termEntry id="access restrictions (plural)">
                 <langSet xml:lang="en"><tig><term>access restrictions</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term/></tig></langSet>
+                <langSet xml:lang="tok"><tig><term>ken ala</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regex</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term/></tig></langSet>
+                <langSet xml:lang="tok"><tig><term>nasin awen</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regular expression</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term/></tig></langSet>
+                <langSet xml:lang="tok"><tig><term>toki pi nasin awen</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>class</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term/></tig></langSet>
+                <langSet xml:lang="tok"><tig><term>kulupu</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term/></tig></langSet>
+                <langSet xml:lang="tok"><tig><term>linja lon</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fixup</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term/></tig></langSet>
+                <langSet xml:lang="tok"><tig><term>pona</term></tig></langSet>
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>translations</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term/></tig></langSet>
+                <langSet xml:lang="tok"><tig><term>toki ante</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term/></tig></langSet>
+                <langSet xml:lang="tok"><tig><term>toki ante</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>unresolved comment</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term/></tig></langSet>
+                <langSet xml:lang="tok"><tig><term>toki pi pini ala</term></tig></langSet>
             </termEntry>
             <termEntry id="opposite">
                 <langSet xml:lang="en"><tig><term>resolved comment</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term/></tig></langSet>
+                <langSet xml:lang="tok"><tig><term>toki pini</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>URL scheme</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term/></tig></langSet>
+                <langSet xml:lang="tok"><tig><term>nasin linja</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
@@ -180,35 +180,35 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translator</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term/></tig></langSet>
+                <langSet xml:lang="tok"><tig><term>jan pi toki ante</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>term</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term/></tig></langSet>
+                <langSet xml:lang="tok"><tig><term>nimi</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Privacy Policy</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term/></tig></langSet>
+                <langSet xml:lang="tok"><tig><term>nasin pi sona jan</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Terms of Service</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term/></tig></langSet>
+                <langSet xml:lang="tok"><tig><term>nasin kepeken</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>profile</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term/></tig></langSet>
+                <langSet xml:lang="tok"><tig><term>lipu jan</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>project</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term/></tig></langSet>
+                <langSet xml:lang="tok"><tig><term>pali</term></tig></langSet>
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>projects</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term/></tig></langSet>
+                <langSet xml:lang="tok"><tig><term>pali</term></tig></langSet>
             </termEntry>
             <termEntry id="alias &quot;source text&quot;">
                 <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term/></tig></langSet>
+                <langSet xml:lang="tok"><tig><term>tan</term></tig></langSet>
             </termEntry>
             <termEntry id="alias &quot;Zen mode&quot;">
                 <langSet xml:lang="en"><tig><term>Zen</term></tig></langSet>
@@ -216,11 +216,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term/></tig></langSet>
+                <langSet xml:lang="tok"><tig><term>linja E-Mail pi jan pali</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>history</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term/></tig></langSet>
+                <langSet xml:lang="tok"><tig><term>tenpo pini</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Django</term></tig></langSet>
@@ -228,7 +228,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation-finder</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term/></tig></langSet>
+                <langSet xml:lang="tok"><tig><term>alasa pi toki ante</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
@@ -280,7 +280,7 @@
             </termEntry>
             <termEntry id="readthedocs.org">
                 <langSet xml:lang="en"><tig><term>Read the Docs</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term/></tig></langSet>
+                <langSet xml:lang="tok"><tig><term>lipu Read the Docs</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Google OAuth 2</term></tig></langSet>
@@ -288,39 +288,39 @@
             </termEntry>
             <termEntry id="Past tense">
                 <langSet xml:lang="en"><tig><term>translated</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term/></tig></langSet>
+                <langSet xml:lang="tok"><tig><term>pini ante</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>glossary</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term/></tig></langSet>
+                <langSet xml:lang="tok"><tig><term>kulupu nimi</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term/></tig></langSet>
+                <langSet xml:lang="tok"><tig><term>poki</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repo</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term/></tig></langSet>
+                <langSet xml:lang="tok"><tig><term>poki</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>text direction</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term/></tig></langSet>
+                <langSet xml:lang="tok"><tig><term>tawa sitelen</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>screenshot</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term/></tig></langSet>
+                <langSet xml:lang="tok"><tig><term>sitelen ilo</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Screenshots</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term/></tig></langSet>
+                <langSet xml:lang="tok"><tig><term>sitelen ilo</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>authorship</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term/></tig></langSet>
+                <langSet xml:lang="tok"><tig><term>jan pali</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term/></tig></langSet>
+                <langSet xml:lang="tok"><tig><term>ilo Sentry</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
@@ -328,7 +328,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term></term></tig></langSet>
+                <langSet xml:lang="tok"><tig><term>nanpa</term></tig></langSet>
             </termEntry>
         </body>
     </text>
