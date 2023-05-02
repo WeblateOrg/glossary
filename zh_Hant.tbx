@@ -491,10 +491,6 @@
                 <langSet xml:lang="zh_Hant"><tig><term>啟用</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Info</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>資訊</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>info</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>資訊</term></tig></langSet>
             </termEntry>
