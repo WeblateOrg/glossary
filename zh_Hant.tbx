@@ -1235,10 +1235,6 @@
                 <langSet xml:lang="zh_Hant"><tig><term>指令稿</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>configuration files</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>組態檔</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>tools</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>工具</term></tig></langSet>
             </termEntry>
