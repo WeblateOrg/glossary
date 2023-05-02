@@ -1370,6 +1370,18 @@
                 <langSet xml:lang="en"><tig><term>configuration files</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>組態檔</term></tig></langSet>
             </termEntry>
+            <termEntry id="plural form">
+                <langSet xml:lang="en"><tig><term>files</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>檔案</term></tig></langSet>
+            </termEntry>
+            <termEntry id="plural form">
+                <langSet xml:lang="en"><tig><term>messages</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>訊息</term></tig></langSet>
+            </termEntry>
+            <termEntry id="plural form">
+                <langSet xml:lang="en"><tig><term>repositories</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>儲存庫</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
