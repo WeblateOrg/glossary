@@ -16,7 +16,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>review</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>檢閱</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>審核</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>continuous</term></tig></langSet>
@@ -56,7 +56,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>倉儲</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>儲存庫</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tab</term></tig></langSet>
@@ -80,7 +80,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>change</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>更動</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>變更</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repositories</term></tig></langSet>
@@ -88,7 +88,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>review</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>檢閱</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>審核</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>approve</term></tig></langSet>
@@ -212,11 +212,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>placeholder</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>佔位符</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>佔位字元</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regular expression</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>正則表達式</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>常規表達式</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>check</term></tig></langSet>
@@ -248,7 +248,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>placeholders</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>佔位符</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>佔位字元</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>jump</term></tig></langSet>
@@ -396,7 +396,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>configuration</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>設定/組態</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>組態</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Afrihili</term></tig></langSet>
@@ -572,7 +572,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Regular expressions</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>正規表示法</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>常規表達式</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gitee</term></tig></langSet>
@@ -592,7 +592,7 @@
             </termEntry>
             <termEntry id="XML Tag">
                 <langSet xml:lang="en"><tig><term>XML Tag</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>XML 標籤</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>XML 標記</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>variants</term></tig></langSet>
@@ -644,7 +644,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>更新記錄</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>變更日誌</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pull request</term></tig></langSet>
@@ -664,7 +664,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regex</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>正則表達式</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>常規表達式</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>domain</term></tig></langSet>
@@ -720,7 +720,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Terms of Service</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>使用條款</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>服務條款</term></tig></langSet>
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>projects</term></tig></langSet>
@@ -728,7 +728,7 @@
             </termEntry>
             <termEntry id="alias &quot;source text&quot;">
                 <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>原文</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>來源</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
@@ -788,7 +788,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>username</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>使用者帳號</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>使用者名稱</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>style</term></tig></langSet>
@@ -820,19 +820,19 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Review</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>檢閱</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>審核</term></tig></langSet>
             </termEntry>
             <termEntry id="2">
                 <langSet xml:lang="en"><tig><term>review</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>檢閱</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>審核</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>flag</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>標記</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>旗標</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Flag</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>標記</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>旗標</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>JSON Format</term></tig></langSet>
@@ -840,7 +840,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>source code</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>原始碼</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>來源碼</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation-finder</term></tig></langSet>
@@ -900,7 +900,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Reviewers</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>檢閱者</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>審核者</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>none</term></tig></langSet>
@@ -908,11 +908,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Review Strings</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>檢閱字串</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>審核字串</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Manage repository</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>管理倉儲</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>管理儲存庫</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>foo/bar</term></tig></langSet>
@@ -940,7 +940,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Viewers</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>查看者</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>檢視者</term></tig></langSet>
             </termEntry>
             <termEntry id="hackerone.com">
                 <langSet xml:lang="en"><tig><term>HackerOne</term></tig></langSet>
@@ -992,7 +992,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repo</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>倉儲</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>儲存庫</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>text direction</term></tig></langSet>
@@ -1000,11 +1000,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>IRC client</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>IRC 用戶端</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>IRC 客戶端</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>IRC network</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>IRC 頻道</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>IRC 網路</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CII Best Practices</term></tig></langSet>
@@ -1152,7 +1152,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>reviews</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>檢閱</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>審核</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
@@ -1160,7 +1160,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term></term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
