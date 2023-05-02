@@ -1203,10 +1203,6 @@
                 <langSet xml:lang="zh_Hant"><tig><term>選單</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>configurations</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>組態</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>setting</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>設定</term></tig></langSet>
             </termEntry>
