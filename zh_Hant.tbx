@@ -1366,6 +1366,14 @@
                 <langSet xml:lang="en"><tig><term>event</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>事件</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>configuration file</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>組態檔</term></tig></langSet>
+            </termEntry>
+            <termEntry id="plural form">
+                <langSet xml:lang="en"><tig><term>configuration files</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>組態檔</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
