@@ -1378,6 +1378,10 @@
                 <langSet xml:lang="en"><tig><term>repositories</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>儲存庫</term></tig></langSet>
             </termEntry>
+            <termEntry id="3rd-person singular">
+                <langSet xml:lang="en"><tig><term>disables</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>停用</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
