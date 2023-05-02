@@ -1162,6 +1162,190 @@
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>translation file</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>翻譯檔</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>filesystem</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>檔案系統</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>memory</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>記憶體</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>layout</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>配置</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>entry point</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>入口點</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>configure</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>組態</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Synopsis</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>概要</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Summary</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>摘要</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>overview</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>概覽</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Getting started</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>開始使用</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>menu</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>選單</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>configurations</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>組態</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>setting</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>設定</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Sign in</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>登入</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>attributes</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>特性</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>attribute</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>特性</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>folder</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>資料夾</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>threshold</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>門檻值</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>configures</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>組態</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>script</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>指令稿</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>configuration files</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>組態檔</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>tools</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>工具</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>data</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>資料</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>scripts</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>指令稿</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pulls</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>拉取</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Contact</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>聯絡</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>disables</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>停用</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>file</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>檔案</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>synchronization</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>同步</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>configuring</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>組態</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>remote</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>遠端</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>server</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>伺服器</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>path</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>路徑</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>object</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>物件</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>cache</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>快取</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>tests</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>測試</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>performace</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>效能</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>performance</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>效能</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>directory</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>目錄</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>wrapper</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>包裝器</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>webserver</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>網頁伺服器</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>options</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>選項</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>navigation bar</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>導航條</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>networks</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>網路</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>languages</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>語言</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>console</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>主控台</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
