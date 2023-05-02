@@ -82,10 +82,6 @@
                 <langSet xml:lang="en"><tig><term>change</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>變更</term></tig></langSet>
             </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>repositories</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>儲存庫</term></tig></langSet>
-            </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>review</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>審核</term></tig></langSet>
