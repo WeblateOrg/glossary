@@ -604,7 +604,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>session</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>工作階段</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>作業階段</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslated</term></tig></langSet>
@@ -668,7 +668,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>class</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>类</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>類別</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fixup</term></tig></langSet>
@@ -692,7 +692,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>URL scheme</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>URL 格式</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>URL 方案</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
