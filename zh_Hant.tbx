@@ -1342,6 +1342,34 @@
                 <langSet xml:lang="en"><tig><term>console</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>主控台</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>module</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>模組</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>package</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>軟體包</term></tig></langSet>
+            </termEntry>
+            <termEntry id="plural form">
+                <langSet xml:lang="en"><tig><term>configurations</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>組態</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>modules</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>模組</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>structures</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>結構</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>language</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>語言</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>event</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>事件</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
