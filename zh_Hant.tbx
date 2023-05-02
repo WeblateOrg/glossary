@@ -840,6 +840,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>source code</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>來源碼</term></tig></langSet>
+                <note from="translator">請參見: https://github.com/microsoft/vscode-loc/issues/1220</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation-finder</term></tig></langSet>
