@@ -506,6 +506,10 @@
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
                 <langSet xml:lang="hr"><tig><term>Metrični podaci</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
