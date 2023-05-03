@@ -372,6 +372,10 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
+                <langSet xml:lang="ksh"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
                 <langSet xml:lang="ksh"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
