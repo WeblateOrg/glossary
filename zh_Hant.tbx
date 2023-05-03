@@ -1378,6 +1378,26 @@
                 <langSet xml:lang="en"><tig><term>disables</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>停用</term></tig></langSet>
             </termEntry>
+            <termEntry id="3rd-person singular">
+                <langSet xml:lang="en"><tig><term>enables</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>啟用</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>notification</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>通知</term></tig></langSet>
+            </termEntry>
+            <termEntry id="plural form">
+                <langSet xml:lang="en"><tig><term>notifications</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>通知</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>watched</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>關注的</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
