@@ -358,6 +358,10 @@
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
                 <langSet xml:lang="ro"><tig><term>Măsurători</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
+                <langSet xml:lang="ro"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
