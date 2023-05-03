@@ -2000,7 +2000,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term></term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>nicht übersetzbar</term></tig></langSet>
             </termEntry>
         </body>
     </text>
