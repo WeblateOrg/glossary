@@ -5964,7 +5964,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>instance</term></tig></langSet>
-                <langSet xml:lang="cy"><tig><term>enghraifft</term></tig></langSet>
+                <langSet xml:lang="cy"><tig><term>gweinydd</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>default worksheet template</term></tig></langSet>
@@ -27212,7 +27212,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
-                <langSet xml:lang="cy"><tig><term/></tig></langSet>
+                <langSet xml:lang="cy"><tig><term>log newidiadau</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pull request</term></tig></langSet>
@@ -27224,11 +27224,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>access restriction</term></tig></langSet>
-                <langSet xml:lang="cy"><tig><term/></tig></langSet>
+                <langSet xml:lang="cy"><tig><term>cyfyngiad mynediad</term></tig></langSet>
             </termEntry>
             <termEntry id="access restrictions (plural)">
                 <langSet xml:lang="en"><tig><term>access restrictions</term></tig></langSet>
-                <langSet xml:lang="cy"><tig><term/></tig></langSet>
+                <langSet xml:lang="cy"><tig><term>cyfyngiadau mynediad</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regex</term></tig></langSet>
@@ -27388,15 +27388,15 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>screenshot</term></tig></langSet>
-                <langSet xml:lang="cy"><tig><term/></tig></langSet>
+                <langSet xml:lang="cy"><tig><term>sgrinlun</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Screenshots</term></tig></langSet>
-                <langSet xml:lang="cy"><tig><term/></tig></langSet>
+                <langSet xml:lang="cy"><tig><term>Sgrinluniau</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>authorship</term></tig></langSet>
-                <langSet xml:lang="cy"><tig><term/></tig></langSet>
+                <langSet xml:lang="cy"><tig><term>awduraeth</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
@@ -27412,7 +27412,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
-                <langSet xml:lang="cy"><tig><term></term></tig></langSet>
+                <langSet xml:lang="cy"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
