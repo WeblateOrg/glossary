@@ -228,7 +228,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>控制面板</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>儀錶板</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>localization</term></tig></langSet>
@@ -1396,7 +1396,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term></term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
