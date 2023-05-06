@@ -1419,6 +1419,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>不可翻譯</term></tig></langSet>
+                <descrip>Glossary terms that should not be changed from the source language</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>field</term></tig></langSet>
