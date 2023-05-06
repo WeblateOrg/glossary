@@ -332,7 +332,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term></term></tig></langSet>
+                <langSet xml:lang="tok"><tig><term>ken ala toki ante</term></tig></langSet>
             </termEntry>
         </body>
     </text>
