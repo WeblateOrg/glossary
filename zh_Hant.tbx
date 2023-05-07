@@ -1398,6 +1398,54 @@
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>不可翻譯</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>field</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>欄位</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>character</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>字元</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>software</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>軟體</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>query</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>查詢</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>variable</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>變數</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>support</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>支援</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>trailing space</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>後隨空格</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>copy</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>複製</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>paste</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>貼上</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>example</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>範例</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>title</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>標題</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>default</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>預設</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
