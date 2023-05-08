@@ -516,11 +516,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>Métricas</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term></term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>intraduzível</term></tig></langSet>
             </termEntry>
         </body>
     </text>
