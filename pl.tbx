@@ -606,6 +606,10 @@
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
                 <langSet xml:lang="pl"><tig><term>nieprzetłumaczalne</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>teams</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>zespoły</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
