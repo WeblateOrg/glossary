@@ -40,7 +40,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>component list</term></tig></langSet>
-                <langSet xml:lang="zgh"><tig><term/></tig></langSet>
+                <langSet xml:lang="zgh"><tig><term>ⵜⴰⵍⴳⴰⵎⵜ ⵏ ⵉⴼⵔⴷⴰⵙ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bug</term></tig></langSet>
@@ -64,7 +64,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Terms of Service</term></tig></langSet>
-                <langSet xml:lang="zgh"><tig><term/></tig></langSet>
+                <langSet xml:lang="zgh"><tig><term>ⵜⵉⴼⴰⴷⵉⵡⵉⵏ ⵏ ⵓⵙⵎⵔⵙ</term></tig></langSet>
             </termEntry>
             <termEntry id="https://www.gnu.org/software/gettext">
                 <langSet xml:lang="en"><tig><term>gettext</term></tig></langSet>
@@ -220,7 +220,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>term</term></tig></langSet>
-                <langSet xml:lang="zgh"><tig><term/></tig></langSet>
+                <langSet xml:lang="zgh"><tig><term>ⵉⵔⵎ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Keyboard shortcuts</term></tig></langSet>
@@ -320,7 +320,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
-                <langSet xml:lang="zgh"><tig><term></term></tig></langSet>
+                <langSet xml:lang="zgh"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
