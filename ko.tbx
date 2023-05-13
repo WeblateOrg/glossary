@@ -148,11 +148,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>comments</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>주석</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>의견</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>comment</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>주석</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>의견</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Curstomizable</term></tig></langSet>
@@ -424,7 +424,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Personal Data</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>개인 자료</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>개인 정보</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Cookies</term></tig></langSet>
@@ -652,11 +652,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>unresolved comment</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>해결되지 않은 주석</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>해결되지 않은 의견</term></tig></langSet>
             </termEntry>
             <termEntry id="opposite">
                 <langSet xml:lang="en"><tig><term>resolved comment</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>해결된 주석</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>해결된 의견</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>URL scheme</term></tig></langSet>
@@ -708,7 +708,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>history</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>역사</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>히스토리</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Django</term></tig></langSet>
@@ -792,7 +792,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repo</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>레포</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>저장소</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>text direction</term></tig></langSet>
@@ -828,7 +828,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
