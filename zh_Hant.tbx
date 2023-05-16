@@ -60,7 +60,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tab</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>標籤頁</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>頁籤</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>mailing list</term></tig></langSet>
