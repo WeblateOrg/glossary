@@ -1446,6 +1446,14 @@
                 <langSet xml:lang="en"><tig><term>default</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>預設</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>compatibility</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>相容性</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>community</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>社群</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
