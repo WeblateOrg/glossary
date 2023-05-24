@@ -1001,6 +1001,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>custom</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>persoal</term></tig></langSet>
+                <descrip>sérstaklega búinn til fyrir ákveðinn tilgang eða notanda</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>customization</term></tig></langSet>
@@ -1797,6 +1798,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>header</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>cabeceira</term></tig></langSet>
+                <descrip>bagian pengodean yang mendahului tubuh dokumen dan digunakan untuk menggambarkan dokumen itu sendiri</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>height</term></tig></langSet>
@@ -2225,6 +2227,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>merge</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>mesturar</term></tig></langSet>
+                <descrip>Git merge</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>message</term></tig></langSet>
@@ -3941,6 +3944,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>volume</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>volume</term></tig></langSet>
+                <descrip>Docker volume</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>wallpaper</term></tig></langSet>
@@ -4312,7 +4316,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term></term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term/></tig></langSet>
+                <descrip>Glossary terms that should not be changed from the source language</descrip>
             </termEntry>
         </body>
     </text>
