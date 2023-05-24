@@ -669,6 +669,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
                 <langSet xml:lang="sl"><tig><term>uveljavi [▲]</term></tig></langSet>
+                <descrip>git-commit</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>communicate (glagol)</term></tig></langSet>
@@ -897,6 +898,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>custom</term></tig></langSet>
                 <langSet xml:lang="sl"><tig><term>po meri</term></tig></langSet>
+                <descrip>sérstaklega búinn til fyrir ákveðinn tilgang eða notanda</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>customize</term></tig></langSet>
@@ -1761,6 +1763,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>header</term></tig></langSet>
                 <langSet xml:lang="sl"><tig><term>glava</term></tig></langSet>
+                <descrip>bagian pengodean yang mendahului tubuh dokumen dan digunakan untuk menggambarkan dokumen itu sendiri</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>helper</term></tig></langSet>
@@ -2333,6 +2336,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>merge</term></tig></langSet>
                 <langSet xml:lang="sl"><tig><term>združi</term></tig></langSet>
+                <descrip>Git merge</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>message</term></tig></langSet>
@@ -2597,6 +2601,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>optimize</term></tig></langSet>
                 <langSet xml:lang="sl"><tig><term>optimiraj</term></tig></langSet>
+                <descrip>að meta og sníða vöru samkvæmt hagkvæmustu notkun</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>optional</term></tig></langSet>
@@ -3549,6 +3554,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>sign in</term></tig></langSet>
                 <langSet xml:lang="sl"><tig><term>prijava</term></tig></langSet>
+                <descrip>https://kbbi.kemdikbud.go.id/entri/log%20masuk</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>sign up</term></tig></langSet>
@@ -4009,6 +4015,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>timestamp</term></tig></langSet>
                 <langSet xml:lang="sl"><tig><term>časovni žig</term></tig></langSet>
+                <descrip>時間標記</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>timing</term></tig></langSet>
@@ -4361,6 +4368,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>volume</term></tig></langSet>
                 <langSet xml:lang="sl"><tig><term>nosilec (ali glasnost!) vsebina</term></tig></langSet>
+                <descrip>Docker volume</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>voxel</term></tig></langSet>
@@ -4657,6 +4665,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
                 <langSet xml:lang="sl"><tig><term/></tig></langSet>
+                <descrip>e-mail address that will be used as committer</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>history</term></tig></langSet>
@@ -4673,10 +4682,12 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
                 <langSet xml:lang="sl"><tig><term/></tig></langSet>
+                <descrip>sentry.io</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Rollbar</term></tig></langSet>
                 <langSet xml:lang="sl"><tig><term/></tig></langSet>
+                <descrip>rollbar.com</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ModernMT</term></tig></langSet>
@@ -4689,10 +4700,12 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tmserver</term></tig></langSet>
                 <langSet xml:lang="sl"><tig><term/></tig></langSet>
+                <descrip>Translate Toolkit</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gravatar</term></tig></langSet>
                 <langSet xml:lang="sl"><tig><term/></tig></langSet>
+                <descrip>gravatar.com</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Qt Linguist</term></tig></langSet>
@@ -4725,6 +4738,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Google OAuth 2</term></tig></langSet>
                 <langSet xml:lang="sl"><tig><term/></tig></langSet>
+                <descrip>登入認證協定</descrip>
             </termEntry>
             <termEntry id="Past tense">
                 <langSet xml:lang="en"><tig><term>translated</term></tig></langSet>
@@ -4768,7 +4782,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
-                <langSet xml:lang="sl"><tig><term></term></tig></langSet>
+                <langSet xml:lang="sl"><tig><term/></tig></langSet>
+                <descrip>Glossary terms that should not be changed from the source language</descrip>
             </termEntry>
         </body>
     </text>
