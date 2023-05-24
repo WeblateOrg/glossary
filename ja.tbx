@@ -137,6 +137,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Libre</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>Libre</term></tig></langSet>
+                <descrip>NGGAK</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>plural formula</term></tig></langSet>
@@ -536,6 +537,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>翻訳禁止</term></tig></langSet>
+                <descrip>Glossary terms that should not be changed from the source language</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>billing plan</term></tig></langSet>
