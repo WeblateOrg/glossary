@@ -6181,6 +6181,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>volume</term></tig></langSet>
                 <langSet xml:lang="cy"><tig><term>lefel sain</term></tig></langSet>
+                <descrip>Docker volume</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>portable computer</term></tig></langSet>
@@ -7329,6 +7330,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>header</term></tig></langSet>
                 <langSet xml:lang="cy"><tig><term>pennyn</term></tig></langSet>
+                <descrip>bagian pengodean yang mendahului tubuh dokumen dan digunakan untuk menggambarkan dokumen itu sendiri</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>message class</term></tig></langSet>
@@ -10341,6 +10343,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>optimize</term></tig></langSet>
                 <langSet xml:lang="cy"><tig><term>optimeiddio</term></tig></langSet>
+                <descrip>að meta og sníða vöru samkvæmt hagkvæmustu notkun</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ActiveX control</term></tig></langSet>
@@ -11101,6 +11104,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>URL</term></tig></langSet>
                 <langSet xml:lang="cy"><tig><term>URL</term></tig></langSet>
+                <descrip>យោងតាម ក្រុមប្រឹក្សាជាតិភាសាខ្មែរ (គ.ជ.ភ.ខ.)</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Web address</term></tig></langSet>
@@ -12733,6 +12737,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>plan</term></tig></langSet>
                 <langSet xml:lang="cy"><tig><term>cynllun</term></tig></langSet>
+                <descrip>Gunakan "paket" bila kalimat itu membahas tentang jenis langganan atau hosting</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>portfolio</term></tig></langSet>
@@ -18081,6 +18086,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>simple</term></tig></langSet>
                 <langSet xml:lang="cy"><tig><term>syml</term></tig></langSet>
+                <descrip>kalo 'lancar' gimana?</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>storage provider</term></tig></langSet>
@@ -19477,6 +19483,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>merge</term></tig></langSet>
                 <langSet xml:lang="cy"><tig><term>cyfuno</term></tig></langSet>
+                <descrip>Git merge</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>POSA</term></tig></langSet>
@@ -22773,6 +22780,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>custom</term></tig></langSet>
                 <langSet xml:lang="cy"><tig><term>cyfaddas</term></tig></langSet>
+                <descrip>sérstaklega búinn til fyrir ákveðinn tilgang eða notanda</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>customization</term></tig></langSet>
@@ -27305,6 +27313,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
                 <langSet xml:lang="cy"><tig><term/></tig></langSet>
+                <descrip>e-mail address that will be used as committer</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Django</term></tig></langSet>
@@ -27317,26 +27326,32 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
                 <langSet xml:lang="cy"><tig><term/></tig></langSet>
+                <descrip>sentry.io</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Rollbar</term></tig></langSet>
                 <langSet xml:lang="cy"><tig><term/></tig></langSet>
+                <descrip>rollbar.com</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ModernMT</term></tig></langSet>
                 <langSet xml:lang="cy"><tig><term/></tig></langSet>
+                <descrip>modernmt.com</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>MyMemory</term></tig></langSet>
                 <langSet xml:lang="cy"><tig><term/></tig></langSet>
+                <descrip>mymemory.translated.net</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tmserver</term></tig></langSet>
                 <langSet xml:lang="cy"><tig><term/></tig></langSet>
+                <descrip>Translate Toolkit</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gravatar</term></tig></langSet>
                 <langSet xml:lang="cy"><tig><term/></tig></langSet>
+                <descrip>gravatar.com</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Qt Linguist</term></tig></langSet>
@@ -27369,6 +27384,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Google OAuth 2</term></tig></langSet>
                 <langSet xml:lang="cy"><tig><term/></tig></langSet>
+                <descrip>登入認證協定</descrip>
             </termEntry>
             <termEntry id="Past tense">
                 <langSet xml:lang="en"><tig><term>translated</term></tig></langSet>
@@ -27413,6 +27429,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
                 <langSet xml:lang="cy"><tig><term/></tig></langSet>
+                <descrip>Glossary terms that should not be changed from the source language</descrip>
             </termEntry>
         </body>
     </text>
