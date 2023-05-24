@@ -261,6 +261,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
                 <langSet xml:lang="nb_NO"><tig><term/></tig></langSet>
+                <descrip>e-mail address that will be used as committer</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>history</term></tig></langSet>
@@ -277,26 +278,32 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Rollbar</term></tig></langSet>
                 <langSet xml:lang="nb_NO"><tig><term/></tig></langSet>
+                <descrip>rollbar.com</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
                 <langSet xml:lang="nb_NO"><tig><term/></tig></langSet>
+                <descrip>sentry.io</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ModernMT</term></tig></langSet>
                 <langSet xml:lang="nb_NO"><tig><term/></tig></langSet>
+                <descrip>modernmt.com</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>MyMemory</term></tig></langSet>
                 <langSet xml:lang="nb_NO"><tig><term/></tig></langSet>
+                <descrip>mymemory.translated.net</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tmserver</term></tig></langSet>
                 <langSet xml:lang="nb_NO"><tig><term/></tig></langSet>
+                <descrip>Translate Toolkit</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gravatar</term></tig></langSet>
                 <langSet xml:lang="nb_NO"><tig><term/></tig></langSet>
+                <descrip>gravatar.com</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Qt Linguist</term></tig></langSet>
@@ -329,6 +336,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Google OAuth 2</term></tig></langSet>
                 <langSet xml:lang="nb_NO"><tig><term/></tig></langSet>
+                <descrip>登入認證協定</descrip>
             </termEntry>
             <termEntry id="Past tense">
                 <langSet xml:lang="en"><tig><term>translated</term></tig></langSet>
@@ -372,7 +380,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
-                <langSet xml:lang="nb_NO"><tig><term></term></tig></langSet>
+                <langSet xml:lang="nb_NO"><tig><term/></tig></langSet>
+                <descrip>Glossary terms that should not be changed from the source language</descrip>
             </termEntry>
         </body>
     </text>
