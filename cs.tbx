@@ -508,7 +508,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>region</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term>oblast</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>region</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>reload</term></tig></langSet>
