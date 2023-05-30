@@ -12,7 +12,7 @@
         <body>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>audit log</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>revisionslog</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>auditeringslog</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>suggestion</term></tig></langSet>
@@ -36,11 +36,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>version control system</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>versionsstyringssystem</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>udgavekontrolsystem</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>version control</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>versionsstyring</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>udgavekontrol</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>whitespace</term></tig></langSet>
@@ -56,11 +56,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>privat</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>privat/private</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>search</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>søg</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>søg/søgning</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
@@ -72,7 +72,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Repository</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>Arkiv</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>Depot</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
@@ -101,7 +101,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Regular expressions</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>Regelmæssige udtryk</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>Regulære udtryk</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gitee</term></tig></langSet>
@@ -113,7 +113,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Personal Data</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>Personlige data</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>Personlige Data</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Cookies</term></tig></langSet>
@@ -121,7 +121,7 @@
             </termEntry>
             <termEntry id="XML Tag">
                 <langSet xml:lang="en"><tig><term>XML Tag</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>XML-tag</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>XML-Mærke</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>variants</term></tig></langSet>
@@ -129,11 +129,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>symbol</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>amulet</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>current</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>nuværende</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>nuværende/aktuel</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>identity</term></tig></langSet>
@@ -149,7 +149,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>analysere</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>parse/læse/analysere</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>This is not used when a component list is selected.</term></tig></langSet>
@@ -165,7 +165,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pseudolocale</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>pseudolokale</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>falsk lokalitet</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>component list</term></tig></langSet>
@@ -181,7 +181,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pull request</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>trækanmodning</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>trækbegæring</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>issue</term></tig></langSet>
@@ -201,7 +201,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regex</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>regulært udtryk</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>regex</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>class</term></tig></langSet>
@@ -209,7 +209,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>slug</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>hylster</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fixup</term></tig></langSet>
@@ -221,11 +221,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>unresolved comment</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>ubesvaret kommentar</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>uforløst kommentar</term></tig></langSet>
             </termEntry>
             <termEntry id="opposite">
                 <langSet xml:lang="en"><tig><term>resolved comment</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>løst kommentar</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>forløst kommentar</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>URL scheme</term></tig></langSet>
@@ -245,7 +245,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>term</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>term</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>term/betegnelse/vilkår</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Privacy Policy</term></tig></langSet>
@@ -253,7 +253,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Terms of Service</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>Vilkår for service</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>Tjenestevilkår</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>profile</term></tig></langSet>
@@ -261,11 +261,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>project</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>projekt</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>projekt/projektere</term></tig></langSet>
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>projects</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>projekter</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>projekter/projekterer</term></tig></langSet>
             </termEntry>
             <termEntry id="alias &quot;source text&quot;">
                 <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
@@ -277,12 +277,12 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>e-mail forpligte</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>e-post til forpligtelse</term></tig></langSet>
                 <descrip>e-mail address that will be used as committer</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>history</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>historie</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>historie/historik</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Django</term></tig></langSet>
@@ -348,7 +348,7 @@
             </termEntry>
             <termEntry id="readthedocs.org">
                 <langSet xml:lang="en"><tig><term>Read the Docs</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>Læs dokumenterne</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>Læs Dokumenterne</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Google OAuth 2</term></tig></langSet>
@@ -365,15 +365,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>arkiv</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>depot</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repo</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>repo</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>depot</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>text direction</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>tekstens retning</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>tekstretning</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>screenshot</term></tig></langSet>
@@ -397,11 +397,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term/></tig></langSet>
+                <langSet xml:lang="da"><tig><term>Mål/Statistikker</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term/></tig></langSet>
+                <langSet xml:lang="da"><tig><term>uoversætteligt</term></tig></langSet>
                 <descrip>Glossary terms that should not be changed from the source language</descrip>
             </termEntry>
         </body>
