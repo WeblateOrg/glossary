@@ -1061,11 +1061,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>Métricas</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>intraduzível</term></tig></langSet>
                 <descrip>Glossary terms that should not be changed from the source language</descrip>
             </termEntry>
         </body>
