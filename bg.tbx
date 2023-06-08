@@ -442,31 +442,31 @@
             </termEntry>
             <termEntry id="Past tense">
                 <langSet xml:lang="en"><tig><term>translated</term></tig></langSet>
-                <langSet xml:lang="bg"><tig><term/></tig></langSet>
+                <langSet xml:lang="bg"><tig><term>преведено</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>glossary</term></tig></langSet>
-                <langSet xml:lang="bg"><tig><term/></tig></langSet>
+                <langSet xml:lang="bg"><tig><term>речник</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repo</term></tig></langSet>
-                <langSet xml:lang="bg"><tig><term/></tig></langSet>
+                <langSet xml:lang="bg"><tig><term>хранилище</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>text direction</term></tig></langSet>
-                <langSet xml:lang="bg"><tig><term/></tig></langSet>
+                <langSet xml:lang="bg"><tig><term>посока на текста</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>screenshot</term></tig></langSet>
-                <langSet xml:lang="bg"><tig><term/></tig></langSet>
+                <langSet xml:lang="bg"><tig><term>екранна снимка</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Screenshots</term></tig></langSet>
-                <langSet xml:lang="bg"><tig><term/></tig></langSet>
+                <langSet xml:lang="bg"><tig><term>Екранни снимки</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>authorship</term></tig></langSet>
-                <langSet xml:lang="bg"><tig><term/></tig></langSet>
+                <langSet xml:lang="bg"><tig><term>авторство</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
@@ -478,11 +478,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
-                <langSet xml:lang="bg"><tig><term/></tig></langSet>
+                <langSet xml:lang="bg"><tig><term>Метрики</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
-                <langSet xml:lang="bg"><tig><term/></tig></langSet>
+                <langSet xml:lang="bg"><tig><term>непреводим</term></tig></langSet>
                 <descrip>Glossary terms that should not be changed from the source language</descrip>
             </termEntry>
         </body>
