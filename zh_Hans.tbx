@@ -130,6 +130,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>review</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>审校</term></tig></langSet>
+                <note from="translator">注：仅用于 Weblate 内 review 这一流程相关字符串</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>remove</term></tig></langSet>
