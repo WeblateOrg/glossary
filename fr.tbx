@@ -407,7 +407,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>plan</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term>offre (commerciale) ou abonnement</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>abonnement</term></tig></langSet>
+                <note from="translator">abonnement pour billing plan ou éventuellement offre (commerciale)</note>
                 <descrip>Gunakan "paket" bila kalimat itu membahas tentang jenis langganan atau hosting</descrip>
             </termEntry>
             <termEntry>
