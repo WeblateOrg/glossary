@@ -532,6 +532,22 @@
                 <langSet xml:lang="pt_PT"><tig><term>intraduzível</term></tig></langSet>
                 <descrip>Glossary terms that should not be changed from the source language</descrip>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>strings</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>cadeias de caracteres</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>string</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>cadeia de caracteres</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>strings</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>cadeias</term></tig></langSet>
+            </termEntry>
+            <termEntry id="2">
+                <langSet xml:lang="en"><tig><term>string</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>cadeia</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
