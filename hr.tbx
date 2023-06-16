@@ -525,6 +525,14 @@
                 <langSet xml:lang="en"><tig><term>payment</term></tig></langSet>
                 <langSet xml:lang="hr"><tig><term>plaćanje, uplata</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>reviewer</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>pregledatelj</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Reviewers</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>Pregledatelji</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
