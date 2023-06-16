@@ -533,6 +533,10 @@
                 <langSet xml:lang="en"><tig><term>Reviewers</term></tig></langSet>
                 <langSet xml:lang="hr"><tig><term>Pregledatelji</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>specified</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>specificirano</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
