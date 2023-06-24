@@ -537,6 +537,14 @@
                 <langSet xml:lang="en"><tig><term>specified</term></tig></langSet>
                 <langSet xml:lang="hr"><tig><term>specificirano</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>translation files</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>prevodilačke datoteke</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>translation file</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>prevodilačka datoteka</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
