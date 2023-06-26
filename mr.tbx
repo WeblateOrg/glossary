@@ -373,11 +373,13 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
-                <langSet xml:lang="mr"><tig><term/></tig></langSet>
+                <langSet xml:lang="mr"><tig><term>मानक</term></tig></langSet>
+                <note from="translator">Metrics as in Performance Metrics, kind of measurement.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
-                <langSet xml:lang="mr"><tig><term/></tig></langSet>
+                <langSet xml:lang="mr"><tig><term>अनुवाद न करण्यायोग्य</term></tig></langSet>
+                <note from="translator">अनुवाद न करण्यायोग्य</note>
                 <descrip>Glossary terms that should not be changed from the source language</descrip>
             </termEntry>
         </body>
