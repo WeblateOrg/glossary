@@ -12,16 +12,16 @@
         <body>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term>kommit</term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>véglegesítés</term></tig></langSet>
                 <descrip>git-commit</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>contribution</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term>munka, részvétel</term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>közreműködés</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>donate</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term>támogatás/juttatás/adomány</term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>adományozás</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>push</term></tig></langSet>
@@ -29,11 +29,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term>tár, tároló</term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>tároló</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term>fordítás, nyelv</term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>fordítás</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>check</term></tig></langSet>
@@ -41,7 +41,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>hosting</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term>elhelyezés</term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>tárhelyszolgáltatás</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>version control system</term></tig></langSet>
@@ -61,7 +61,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>site</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term>oldal</term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>webhely</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>account</term></tig></langSet>
@@ -77,7 +77,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>host key</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term>host-azonosító kulcs</term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>gép kulcsa</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pull</term></tig></langSet>
@@ -134,11 +134,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>flag</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term>kapcsoló</term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>jelző</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>profile</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term>adatlap</term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>profil</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>edit</term></tig></langSet>
@@ -150,7 +150,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term>privát</term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>személyes</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>search</term></tig></langSet>
@@ -158,7 +158,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term>bővítmény</term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>kiegészítő</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
@@ -186,7 +186,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Regular expressions</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term>Reguláris kifejezés</term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>Reguláris kifejezések</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gitee</term></tig></langSet>
@@ -206,7 +206,7 @@
             </termEntry>
             <termEntry id="XML Tag">
                 <langSet xml:lang="en"><tig><term>XML Tag</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term>XML címke</term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>XML-címke</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>variants</term></tig></langSet>
@@ -234,7 +234,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term>elemez</term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>feldolgozás</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>This is not used when a component list is selected.</term></tig></langSet>
@@ -250,11 +250,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pseudolocale</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>pszeudo területi beállítás</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>component list</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>összetevőlista</term></tig></langSet>
             </termEntry>
             <termEntry id="components">
                 <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
@@ -262,59 +262,59 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>változásnapló</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pull request</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>beolvasztási kérés</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>issue</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>probléma</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>access restriction</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>hozzáférés-korlátozás</term></tig></langSet>
             </termEntry>
             <termEntry id="access restrictions (plural)">
                 <langSet xml:lang="en"><tig><term>access restrictions</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>hozzáférés-korlátozások</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regex</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>reguláris kifejezés</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regular expression</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>reguláris kifejezés</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>class</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>osztály</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>keresőbarát URL</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fixup</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>javítás</term></tig></langSet>
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>translations</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>fordítások</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>unresolved comment</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>megoldatlan megjegyzés</term></tig></langSet>
             </termEntry>
             <termEntry id="opposite">
                 <langSet xml:lang="en"><tig><term>resolved comment</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>megoldott megjegyzés</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>URL scheme</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>URL-séma</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
@@ -326,31 +326,31 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translator</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>fordító</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>term</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>kifejezés</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Privacy Policy</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>Adatvédelmi irányelv</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Terms of Service</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>Használati feltételek</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>project</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>projekt</term></tig></langSet>
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>projects</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>projektek</term></tig></langSet>
             </termEntry>
             <termEntry id="alias &quot;source text&quot;">
                 <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>forrás</term></tig></langSet>
             </termEntry>
             <termEntry id="alias &quot;Zen mode&quot;">
                 <langSet xml:lang="en"><tig><term>Zen</term></tig></langSet>
@@ -358,12 +358,12 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>véglegesítés e-mail-címe</term></tig></langSet>
                 <descrip>e-mail address that will be used as committer</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>history</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>előzmények</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Django</term></tig></langSet>
@@ -371,7 +371,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation-finder</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>fordításkereső</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
@@ -429,7 +429,7 @@
             </termEntry>
             <termEntry id="readthedocs.org">
                 <langSet xml:lang="en"><tig><term>Read the Docs</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>Read the Docs</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Google OAuth 2</term></tig></langSet>
@@ -438,35 +438,35 @@
             </termEntry>
             <termEntry id="Past tense">
                 <langSet xml:lang="en"><tig><term>translated</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>lefordítva</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>glossary</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>szójegyzék</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repo</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>tároló</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>text direction</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>szövegirány</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>screenshot</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>képernyőkép</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Screenshots</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>Képernyőképek</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>authorship</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>szerzőség</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>Sentry</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
@@ -474,11 +474,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>Mérőszámok</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>lefordíthatatlan</term></tig></langSet>
                 <descrip>Glossary terms that should not be changed from the source language</descrip>
             </termEntry>
         </body>
