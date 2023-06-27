@@ -12,7 +12,7 @@
         <body>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>source string</term></tig></langSet>
-                <langSet xml:lang="ca"><tig><term>cadena d'origen</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>cadena d’origen</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>machine translation</term></tig></langSet>
@@ -64,7 +64,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>editor mode</term></tig></langSet>
-                <langSet xml:lang="ca"><tig><term>mode d'edició</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>mode d’edició</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>watched</term></tig></langSet>
@@ -133,7 +133,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>hook</term></tig></langSet>
-                <langSet xml:lang="ca"><tig><term>punt d'inserció</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>punt d’inserció</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>browse</term></tig></langSet>
@@ -233,7 +233,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>activation token</term></tig></langSet>
-                <langSet xml:lang="ca"><tig><term>testimoni d'activació</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>testimoni d’activació</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>verification token</term></tig></langSet>
@@ -466,11 +466,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>access restriction</term></tig></langSet>
-                <langSet xml:lang="ca"><tig><term>restricció d'accés</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>restricció d’accés</term></tig></langSet>
             </termEntry>
             <termEntry id="access restrictions (plural)">
                 <langSet xml:lang="en"><tig><term>access restrictions</term></tig></langSet>
-                <langSet xml:lang="ca"><tig><term>restriccions d'accés</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>restriccions d’accés</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regex</term></tig></langSet>
@@ -506,7 +506,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>URL scheme</term></tig></langSet>
-                <langSet xml:lang="ca"><tig><term>esquema d'URL</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>esquema d’URL</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
@@ -563,7 +563,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation-finder</term></tig></langSet>
-                <langSet xml:lang="ca"><tig><term>cercador de traduccions</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>translation-finder</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
