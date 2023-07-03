@@ -1477,6 +1477,14 @@
                 <langSet xml:lang="en"><tig><term>community</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>社群</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>e-mail</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>電子郵件</term></tig></langSet>
+            </termEntry>
+            <termEntry id="review">
+                <langSet xml:lang="en"><tig><term>review</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>檢閱</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
