@@ -16,7 +16,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>review</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>審核</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>校閱</term></tig></langSet>
+                <note from="translator">For translation</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>continuous</term></tig></langSet>
@@ -896,7 +897,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Reviewers</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>審核者</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>校閱人員</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>none</term></tig></langSet>
@@ -904,7 +905,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Review Strings</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>審核字串</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>校閱字串</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Manage repository</term></tig></langSet>
@@ -1154,7 +1155,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>reviews</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>審核</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>校閱</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
@@ -1472,6 +1473,7 @@
             <termEntry id="review">
                 <langSet xml:lang="en"><tig><term>review</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>檢閱</term></tig></langSet>
+                <note from="translator">For configuration</note>
             </termEntry>
         </body>
     </text>
