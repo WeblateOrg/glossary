@@ -815,10 +815,6 @@
                 <descrip>選單選項</descrip>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Review</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>審核</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>flag</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>旗標</term></tig></langSet>
             </termEntry>
