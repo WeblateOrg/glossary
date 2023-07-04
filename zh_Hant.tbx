@@ -1475,6 +1475,33 @@
                 <langSet xml:lang="zh_Hant"><tig><term>檢閱</term></tig></langSet>
                 <note from="translator">For configuration</note>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>review</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>審閱</term></tig></langSet>
+                <descrip>For code review</descrip>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pending</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>未決</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>billing plan</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>計費方案</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Support package</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>支援套件</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>原文</term></tig></langSet>
+                <descrip>as translation abbr.</descrip>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>translation</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>譯文</term></tig></langSet>
+                <descrip>as translation abbr.</descrip>
+            </termEntry>
         </body>
     </text>
 </martif>
