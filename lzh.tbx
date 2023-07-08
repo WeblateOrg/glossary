@@ -351,6 +351,10 @@
                 <langSet xml:lang="lzh"><tig><term/></tig></langSet>
                 <descrip>Glossary terms that should not be changed from the source language</descrip>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>CVS</term></tig></langSet>
+                <langSet xml:lang="lzh"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
