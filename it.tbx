@@ -393,6 +393,10 @@
                 <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
                 <langSet xml:lang="it"><tig><term>pannello di controllo</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>CVS</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
