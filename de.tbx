@@ -1171,7 +1171,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>VCS</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term/></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Versionsverwaltung</term></tig></langSet>
+                <note from="translator">Version Control System</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Bemba</term></tig></langSet>
@@ -2028,7 +2029,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CVS</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term></term></tig></langSet>
+                <langSet xml:lang="de"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
