@@ -549,6 +549,10 @@
                 <langSet xml:lang="en"><tig><term>Controller</term></tig></langSet>
                 <langSet xml:lang="hr"><tig><term>kontrolor</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>CVS</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
