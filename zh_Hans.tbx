@@ -853,10 +853,6 @@
                 <langSet xml:lang="en"><tig><term>CVS</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>版本管理系统（CVS）</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>CVS</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>版本管理系统（CVS）</term></tig></langSet>
-            </termEntry>
         </body>
     </text>
 </martif>
