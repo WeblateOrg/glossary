@@ -343,10 +343,6 @@
                 <descrip>git-commit</descrip>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>VCS</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>版本控制系统（VCS）</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>update</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>更新</term></tig></langSet>
             </termEntry>
