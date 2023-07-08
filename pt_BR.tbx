@@ -1073,6 +1073,10 @@
                 <langSet xml:lang="pt_BR"><tig><term>commits</term></tig></langSet>
                 <descrip>Termo do Git</descrip>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>CVS</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
