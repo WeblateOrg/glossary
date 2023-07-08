@@ -849,6 +849,10 @@
                 <langSet xml:lang="zh_Hans"><tig><term>不可翻译</term></tig></langSet>
                 <descrip>Glossary terms that should not be changed from the source language</descrip>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Subversion</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>Subversion（版本控制系统）</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
