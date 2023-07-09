@@ -702,6 +702,10 @@
                 <langSet xml:lang="en"><tig><term>VCS</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term/></tig></langSet>
             </termEntry>
+            <termEntry id="plural form">
+                <langSet xml:lang="en"><tig><term>projects</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
