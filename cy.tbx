@@ -27435,6 +27435,10 @@ Does dim gair yn y Gymraeg am 'slug'.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CVS</term></tig></langSet>
+                <langSet xml:lang="cy"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>VCS</term></tig></langSet>
                 <langSet xml:lang="cy"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
