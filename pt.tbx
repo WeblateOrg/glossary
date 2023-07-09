@@ -549,10 +549,6 @@
                 <langSet xml:lang="en"><tig><term>profile</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>perfil</term></tig></langSet>
             </termEntry>
-            <termEntry id="plural form">
-                <langSet xml:lang="en"><tig><term>projects</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>projetos</term></tig></langSet>
-            </termEntry>
             <termEntry id="alias &quot;source text&quot;">
                 <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>fonte</term></tig></langSet>
@@ -708,7 +704,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>VCS</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term></term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
