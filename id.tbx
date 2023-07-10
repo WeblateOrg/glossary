@@ -788,7 +788,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>VCS</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term></term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>VCS</term></tig></langSet>
             </termEntry>
         </body>
     </text>
