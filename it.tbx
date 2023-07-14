@@ -124,10 +124,6 @@
                 <langSet xml:lang="it"><tig><term>sessione</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>untranslated</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
                 <langSet xml:lang="it"><tig><term>analizzare</term></tig></langSet>
                 <note from="translator">analizzare o interpretare un testo, una pagina</note>
