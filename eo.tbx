@@ -116,7 +116,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>treatment process</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term>procédé de traitement</term></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>traktprocezo</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>geological substratum</term></tig></langSet>
@@ -276,7 +276,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>urban sludge</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term>Boue urbaine</term></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>urba feĉo</term></tig></langSet>
+                <note from="translator">Taŭgas variantoj "ŝlimo", "feĉo",  "ŝlako" aŭ eĉ "rubo" aŭ "elĵetaĵoj de socio".</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>municipal solid waste compost</term></tig></langSet>
@@ -27015,11 +27016,12 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pull request</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term/></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>tirpeto</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>issue</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term/></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>proklamo</term></tig></langSet>
+                <note from="translator">Depende de kunteksto povas esti "problemo" aŭ "eldono".  Dum uzo povas esti kazoj: "ia problemo", "problemo de io", "problemo pri io".</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>access restriction</term></tig></langSet>
@@ -27031,11 +27033,12 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regex</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term/></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>regula esprimo</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term/></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>identigilo</term></tig></langSet>
+                <note from="translator">Depende de kunteksto povas esti "retadreso", "identigilo" aŭ eĉ "ligilo", temas pri iu ajn home legebla identigilo por iu ajn elektebla informo.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fixup</term></tig></langSet>
@@ -27043,23 +27046,24 @@
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>translations</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term/></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>tradukoj</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term/></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>traduko</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>unresolved comment</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term/></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>nesolvita komento</term></tig></langSet>
+                <note from="translator">Depende de kunteksto povas esti "nesolvita" (ekz. problemo) aŭ "netrovita" (ekz. linio, mesaĝo ktp).</note>
             </termEntry>
             <termEntry id="opposite">
                 <langSet xml:lang="en"><tig><term>resolved comment</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term/></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>solvita komento</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>URL scheme</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term/></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>skemo de URL</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
@@ -27071,15 +27075,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translator</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term/></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>tradukisto</term></tig></langSet>
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>projects</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term/></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>projektoj</term></tig></langSet>
             </termEntry>
             <termEntry id="alias &quot;source text&quot;">
                 <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term/></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>fonto</term></tig></langSet>
             </termEntry>
             <termEntry id="alias &quot;Zen mode&quot;">
                 <langSet xml:lang="en"><tig><term>Zen</term></tig></langSet>
@@ -27096,7 +27100,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation-finder</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term/></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>tradukserĉilo</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
@@ -27154,7 +27158,7 @@
             </termEntry>
             <termEntry id="readthedocs.org">
                 <langSet xml:lang="en"><tig><term>Read the Docs</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term/></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>Legi dokumentaĵon</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Google OAuth 2</term></tig></langSet>
@@ -27163,19 +27167,20 @@
             </termEntry>
             <termEntry id="Past tense">
                 <langSet xml:lang="en"><tig><term>translated</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term/></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>tradukita</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repo</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term/></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>deponejo</term></tig></langSet>
+                <note from="translator">Se temas pri "repository"</note>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>screenshot</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term/></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>ekrankopio</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Screenshots</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term/></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>Ekrankopioj</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>authorship</term></tig></langSet>
@@ -27183,7 +27188,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term/></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>Gardostaranto</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
@@ -27191,11 +27196,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term/></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>Metriko</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term/></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>netradukenda</term></tig></langSet>
                 <descrip>Glossary terms that should not be changed from the source language</descrip>
             </termEntry>
             <termEntry>
@@ -27204,7 +27209,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>VCS</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term/></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>VCS</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>attachment</term></tig></langSet>
