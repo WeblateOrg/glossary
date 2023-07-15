@@ -381,6 +381,10 @@
                 <langSet xml:lang="en"><tig><term>contributor</term></tig></langSet>
                 <langSet xml:lang="it"><tig><term>collaboratore</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>contribution</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>collaborazione</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
