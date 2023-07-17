@@ -375,11 +375,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>contribution</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term>collaborazione</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>contributo</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>contributions</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term>collaborazioni</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>contributi</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>contributors</term></tig></langSet>
