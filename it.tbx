@@ -378,10 +378,6 @@
                 <langSet xml:lang="it"><tig><term>collaborazione</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>projects</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term>progetti</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>contributions</term></tig></langSet>
                 <langSet xml:lang="it"><tig><term>collaborazioni</term></tig></langSet>
             </termEntry>
