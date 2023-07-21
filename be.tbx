@@ -563,7 +563,19 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>VCS</term></tig></langSet>
+                <langSet xml:lang="be"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>placeholder</term></tig></langSet>
+                <langSet xml:lang="be"><tig><term>запаўняльнік</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>DokuWiki</term></tig></langSet>
                 <langSet xml:lang="be"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>XLSX</term></tig></langSet>
+                <langSet xml:lang="be"><tig><term>XLSX</term></tig></langSet>
             </termEntry>
         </body>
     </text>
