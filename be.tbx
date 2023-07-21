@@ -270,7 +270,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Regular expressions</term></tig></langSet>
-                <langSet xml:lang="be"><tig><term/></tig></langSet>
+                <langSet xml:lang="be"><tig><term>Рэгулярныя выразы</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gitee</term></tig></langSet>
@@ -346,11 +346,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>access restriction</term></tig></langSet>
-                <langSet xml:lang="be"><tig><term/></tig></langSet>
+                <langSet xml:lang="be"><tig><term>абмежаванне доступу</term></tig></langSet>
             </termEntry>
             <termEntry id="access restrictions (plural)">
                 <langSet xml:lang="en"><tig><term>access restrictions</term></tig></langSet>
-                <langSet xml:lang="be"><tig><term/></tig></langSet>
+                <langSet xml:lang="be"><tig><term>абмежаванні доступу</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regex</term></tig></langSet>
@@ -358,7 +358,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regular expression</term></tig></langSet>
-                <langSet xml:lang="be"><tig><term/></tig></langSet>
+                <langSet xml:lang="be"><tig><term>рэгулярны выраз</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>class</term></tig></langSet>
@@ -538,7 +538,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>authorship</term></tig></langSet>
-                <langSet xml:lang="be"><tig><term/></tig></langSet>
+                <langSet xml:lang="be"><tig><term>аўтарства</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
@@ -571,7 +571,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>DokuWiki</term></tig></langSet>
-                <langSet xml:lang="be"><tig><term></term></tig></langSet>
+                <langSet xml:lang="be"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>XLSX</term></tig></langSet>
