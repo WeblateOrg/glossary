@@ -655,7 +655,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>unresolved comment</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>해결되지 않은 의견</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>미해결된 의견</term></tig></langSet>
             </termEntry>
             <termEntry id="opposite">
                 <langSet xml:lang="en"><tig><term>resolved comment</term></tig></langSet>
