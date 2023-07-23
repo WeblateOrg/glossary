@@ -2031,10 +2031,6 @@
                 <langSet xml:lang="en"><tig><term>CVS</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term/></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>language code</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Sprachcode</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>language codes</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Sprachcodes</term></tig></langSet>
