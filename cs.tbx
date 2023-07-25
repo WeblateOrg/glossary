@@ -1254,6 +1254,10 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>VCS</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>tab character</term></tig></langSet>
                 <langSet xml:lang="cs"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
