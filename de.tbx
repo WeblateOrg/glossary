@@ -2032,7 +2032,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tab character</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term></term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Tabulatorzeichen</term></tig></langSet>
             </termEntry>
         </body>
     </text>
