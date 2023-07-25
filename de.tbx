@@ -1215,11 +1215,6 @@
                 <langSet xml:lang="de"><tig><term>überprüfen</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>plan</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Angebot</term></tig></langSet>
-                <descrip>Gunakan "paket" bila kalimat itu membahas tentang jenis langganan atau hosting</descrip>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>trail</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Testphase</term></tig></langSet>
             </termEntry>
