@@ -706,6 +706,10 @@
                 <langSet xml:lang="en"><tig><term>projects</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>projetos</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>tab character</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
