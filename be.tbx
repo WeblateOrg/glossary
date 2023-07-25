@@ -577,6 +577,10 @@
                 <langSet xml:lang="en"><tig><term>XLSX</term></tig></langSet>
                 <langSet xml:lang="be"><tig><term>XLSX</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>tab character</term></tig></langSet>
+                <langSet xml:lang="be"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
