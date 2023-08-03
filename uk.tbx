@@ -406,7 +406,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tab character</term></tig></langSet>
-                <langSet xml:lang="uk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term>Символ табуляції</term></tig></langSet>
             </termEntry>
         </body>
     </text>
