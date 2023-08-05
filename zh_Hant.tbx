@@ -16,7 +16,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>review</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>校閱</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>檢閱</term></tig></langSet>
                 <note from="translator">For translation</note>
             </termEntry>
             <termEntry>
@@ -897,7 +897,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Reviewers</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>校閱人員</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>檢閱者</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>none</term></tig></langSet>
