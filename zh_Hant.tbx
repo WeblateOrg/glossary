@@ -905,7 +905,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Review Strings</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>校閱字串</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>檢閱字串</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Manage repository</term></tig></langSet>
@@ -1151,7 +1151,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>reviews</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>校閱</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>檢閱</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
