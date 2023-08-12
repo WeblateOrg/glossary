@@ -604,10 +604,6 @@
                 <langSet xml:lang="en"><tig><term>filter</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>过滤器</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>component</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>组件</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>部件</term></tig></langSet>
