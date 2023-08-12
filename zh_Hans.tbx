@@ -315,7 +315,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>base file</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>基础文件</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>基文件</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>path</term></tig></langSet>
