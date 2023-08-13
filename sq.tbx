@@ -88,7 +88,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>current</term></tig></langSet>
-                <langSet xml:lang="sq"><tig><term/></tig></langSet>
+                <langSet xml:lang="sq"><tig><term>aktual</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>identity</term></tig></langSet>
@@ -236,7 +236,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
-                <langSet xml:lang="sq"><tig><term/></tig></langSet>
+                <langSet xml:lang="sq"><tig><term>e-maili për kommit</term></tig></langSet>
                 <descrip>e-mail address that will be used as committer</descrip>
             </termEntry>
             <termEntry>
@@ -320,7 +320,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>glossary</term></tig></langSet>
-                <langSet xml:lang="sq"><tig><term/></tig></langSet>
+                <langSet xml:lang="sq"><tig><term>fjalorës</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
@@ -344,7 +344,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>authorship</term></tig></langSet>
-                <langSet xml:lang="sq"><tig><term/></tig></langSet>
+                <langSet xml:lang="sq"><tig><term>autorës</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
@@ -356,11 +356,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
-                <langSet xml:lang="sq"><tig><term/></tig></langSet>
+                <langSet xml:lang="sq"><tig><term>Metrikat</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
-                <langSet xml:lang="sq"><tig><term/></tig></langSet>
+                <langSet xml:lang="sq"><tig><term>nuk përkthehet</term></tig></langSet>
                 <descrip>Glossary terms that should not be changed from the source language</descrip>
             </termEntry>
             <termEntry>
@@ -373,7 +373,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tab character</term></tig></langSet>
-                <langSet xml:lang="sq"><tig><term></term></tig></langSet>
+                <langSet xml:lang="sq"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
