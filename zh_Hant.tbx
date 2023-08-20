@@ -1506,6 +1506,15 @@
                 <langSet xml:lang="en"><tig><term>tab character</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>Tab 定位字元</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>built-in</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>內建</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>attribute</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>屬性</term></tig></langSet>
+                <note from="translator">(in HTML)</note>
+            </termEntry>
         </body>
     </text>
 </martif>
