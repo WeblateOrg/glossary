@@ -1094,10 +1094,6 @@
                 <langSet xml:lang="de"><tig><term>Übersichtsseite</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Total strings</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Gesamtanzahl</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Token</term></tig></langSet>
             </termEntry>
