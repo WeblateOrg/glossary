@@ -2014,10 +2014,6 @@
                 <langSet xml:lang="de"><tig><term>Zugriffssteuerung</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>CVS</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>CVS</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>language codes</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Sprachcodes</term></tig></langSet>
             </termEntry>
