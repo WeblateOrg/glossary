@@ -258,7 +258,7 @@
             </termEntry>
             <termEntry id="components">
                 <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>összetevők</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
@@ -322,7 +322,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>véglegesítés</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translator</term></tig></langSet>
@@ -483,7 +483,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CVS</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>CVS</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>VCS</term></tig></langSet>
