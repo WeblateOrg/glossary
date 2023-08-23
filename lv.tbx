@@ -395,7 +395,12 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tab character</term></tig></langSet>
-                <langSet xml:lang="lv"><tig><term></term></tig></langSet>
+                <langSet xml:lang="lv"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Fluent</term></tig></langSet>
+                <langSet xml:lang="lv"><tig><term>Fluent</term></tig></langSet>
+                <descrip>“Fluent” is a “localization system for natural-sounding translations” - https://projectfluent.org/</descrip>
             </termEntry>
         </body>
     </text>
