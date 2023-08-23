@@ -1515,6 +1515,11 @@
                 <langSet xml:lang="zh_Hant"><tig><term>屬性</term></tig></langSet>
                 <note from="translator">(in HTML)</note>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Fluent</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>Fluent</term></tig></langSet>
+                <descrip>“Fluent” is a “localization system for natural-sounding translations” - https://projectfluent.org/</descrip>
+            </termEntry>
         </body>
     </text>
 </martif>
