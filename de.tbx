@@ -72,7 +72,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fuzzy</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>fragwürdig</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>ungenau</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>string</term></tig></langSet>
