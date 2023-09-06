@@ -1514,7 +1514,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>user interface</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Benutzeroberfläche</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Bedienoberfläche</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation propagation</term></tig></langSet>
