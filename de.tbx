@@ -1055,7 +1055,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>confirmation link</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Bestätigungs-Link</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Bestätigungslink</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Project access control</term></tig></langSet>
