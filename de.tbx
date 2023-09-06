@@ -1054,10 +1054,6 @@
                 <langSet xml:lang="de"><tig><term>Qualitätsprüfungen</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>fork</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>forken</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Promotion</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>gezielt fördern</term></tig></langSet>
             </termEntry>
