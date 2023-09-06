@@ -580,10 +580,6 @@
                 <langSet xml:lang="de"><tig><term>Erweiterter Support</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>https protocol</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>HTTPS-Protokoll</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>SSH key</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>SSH-Schlüssel</term></tig></langSet>
             </termEntry>
