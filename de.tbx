@@ -420,10 +420,6 @@
                 <langSet xml:lang="de"><tig><term>Ablauf der Übersetzung</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Continuous translation</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Kontinuierliche Übersetzungen</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Cloud or virtualization images</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Cloud- und Virtualisierungs-Images</term></tig></langSet>
             </termEntry>
