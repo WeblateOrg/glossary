@@ -341,7 +341,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Translation workflow</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Ablauf der Übersetzung</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Übersetzungsablauf</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Cloud or virtualization images</term></tig></langSet>
