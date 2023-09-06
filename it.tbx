@@ -341,10 +341,6 @@
                 <langSet xml:lang="it"><tig><term>direzione testo</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Screenshots</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term>Schermate</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>authorship</term></tig></langSet>
                 <langSet xml:lang="it"><tig><term>autore</term></tig></langSet>
             </termEntry>
