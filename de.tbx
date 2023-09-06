@@ -228,10 +228,6 @@
                 <langSet xml:lang="de"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Collaboration sites</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Kollaborationsplattformen</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>software development sites</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Software-Entwicklungsplattformen</term></tig></langSet>
             </termEntry>
