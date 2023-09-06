@@ -320,10 +320,6 @@
                 <langSet xml:lang="de"><tig><term>Administrator</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>to self host</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>selbst hosten</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>translation format</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Übersetzungsformat</term></tig></langSet>
             </termEntry>
