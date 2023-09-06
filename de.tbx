@@ -909,10 +909,6 @@
                 <langSet xml:lang="en"><tig><term>Committer</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Committer</term></tig></langSet>
             </termEntry>
-            <termEntry id="2">
-                <langSet xml:lang="en"><tig><term>Committer</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Committ-Verantwortlicher</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Password reset</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Zurücksetzen des Passworts</term></tig></langSet>
