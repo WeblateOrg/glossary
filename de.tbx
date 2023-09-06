@@ -520,10 +520,6 @@
                 <langSet xml:lang="de"><tig><term>Webchat</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>freenode network</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Freenode-Netzwerk</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>access rights</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Zugriffsrechte</term></tig></langSet>
             </termEntry>
