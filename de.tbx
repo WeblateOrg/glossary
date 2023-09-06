@@ -560,10 +560,6 @@
                 <langSet xml:lang="de"><tig><term>Freenode-Netzwerk</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Attribution</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Exakte Zuordnung von Übersetzungen</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>translation management system</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Übersetzungsmanagementsystem</term></tig></langSet>
             </termEntry>
