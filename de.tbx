@@ -918,10 +918,6 @@
                 <langSet xml:lang="de"><tig><term>Bemba</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>user agent</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>User Agent</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Service status</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Servicestatus</term></tig></langSet>
             </termEntry>
