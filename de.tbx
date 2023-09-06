@@ -718,10 +718,6 @@
                 <descrip>git-commit</descrip>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>private data</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>private Daten</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Your</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Ihre</term></tig></langSet>
             </termEntry>
