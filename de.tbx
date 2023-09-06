@@ -396,10 +396,6 @@
                 <langSet xml:lang="de"><tig><term>Texteinheit</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Custom domain name</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Eigener Domain-Name</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>SSL</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term/></tig></langSet>
             </termEntry>
