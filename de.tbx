@@ -632,10 +632,6 @@
                 <langSet xml:lang="de"><tig><term>API-Root-Adresse</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Linux server</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Linux-Server</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>virtualenv</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term/></tig></langSet>
             </termEntry>
