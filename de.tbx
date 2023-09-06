@@ -316,10 +316,6 @@
                 <langSet xml:lang="de"><tig><term>Kontaktformular</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Legal Terms Overview</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Übersicht der rechtlichen Grundbegriffe</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>PO extensions</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>PO-Erweiterungen</term></tig></langSet>
             </termEntry>
