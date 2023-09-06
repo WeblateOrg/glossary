@@ -802,10 +802,6 @@
                 <langSet xml:lang="de"><tig><term>Widgets</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Image widgets</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Bild-Widgets</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>security weaknesses</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Sicherheitslücken</term></tig></langSet>
             </termEntry>
