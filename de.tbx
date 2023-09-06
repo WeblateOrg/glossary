@@ -914,10 +914,6 @@
                 <langSet xml:lang="de"><tig><term>Datumsangaben</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>straight rows of keys</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>geradlinige Tastenfolgen</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Quality checks</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Qualitätsprüfungen</term></tig></langSet>
             </termEntry>
