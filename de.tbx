@@ -352,10 +352,6 @@
                 <langSet xml:lang="de"><tig><term>ZIP-komprimiert</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>virtualization environment</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Virtualisierungsumgebung</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>links</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Links</term></tig></langSet>
             </termEntry>
