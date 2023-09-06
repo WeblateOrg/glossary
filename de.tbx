@@ -870,10 +870,6 @@
                 <langSet xml:lang="de"><tig><term>Remote-Branch</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Powered by</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Betrieben mit</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>plural</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Plural</term></tig></langSet>
             </termEntry>
