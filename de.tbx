@@ -773,10 +773,6 @@
                 <langSet xml:lang="de"><tig><term>Entwicklung kundenspezifischer Funktionen</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>new language request</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>neue Sprachanforderung</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Source language</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Ausgangssprache</term></tig></langSet>
             </termEntry>
