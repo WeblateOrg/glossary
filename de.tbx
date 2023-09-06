@@ -468,10 +468,6 @@
                 <langSet xml:lang="de"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>peer-to-peer network</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Peer-to-Peer-Netzwerk</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Bitcoin</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term/></tig></langSet>
             </termEntry>
