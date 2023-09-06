@@ -778,10 +778,6 @@
                 <langSet xml:lang="de"><tig><term>Übersetzungseinheit</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>revert request</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Zurücksetzen-Anfrage</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>RSS feeds</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>RSS-Feeds</term></tig></langSet>
             </termEntry>
