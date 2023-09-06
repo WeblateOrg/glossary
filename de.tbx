@@ -476,10 +476,6 @@
                 <langSet xml:lang="de"><tig><term>Telefon-Support</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Fund features</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Individuelle Finanzierung einzelner Funktionen</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>PayPal balance</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Paypal-Konto</term></tig></langSet>
             </termEntry>
