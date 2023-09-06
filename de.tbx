@@ -380,10 +380,6 @@
                 <langSet xml:lang="de"><tig><term>bzip2-komprimiert</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>xz compressed</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>xz-komprimiert</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Docker container</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Docker-Container</term></tig></langSet>
             </termEntry>
