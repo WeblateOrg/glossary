@@ -80,7 +80,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Subject</term></tig></langSet>
-                <langSet xml:lang="sk"><tig><term>Subjekt</term></tig></langSet>
+                <langSet xml:lang="sk"><tig><term>Predmet</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Personal Data</term></tig></langSet>
@@ -120,7 +120,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
-                <langSet xml:lang="sk"><tig><term/></tig></langSet>
+                <langSet xml:lang="sk"><tig><term>analyzovať</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>This is not used when a component list is selected.</term></tig></langSet>
@@ -156,7 +156,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>issue</term></tig></langSet>
-                <langSet xml:lang="sk"><tig><term/></tig></langSet>
+                <langSet xml:lang="sk"><tig><term>požiadavka</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>access restriction</term></tig></langSet>
