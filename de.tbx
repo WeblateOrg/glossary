@@ -740,10 +740,6 @@
                 <langSet xml:lang="de"><tig><term>Datenbank-Backend</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>code development</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Code-Entwicklung</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Your Weblate</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Ihre Weblate-Installation</term></tig></langSet>
                 <descrip>This is not universally usable instead of *your Weblate installation* or *your Weblate server*. It can be used e.g. in Weblate.org `user portal` to list all user’s Weblate sevices.</descrip>
