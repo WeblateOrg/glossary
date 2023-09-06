@@ -464,10 +464,6 @@
                 <langSet xml:lang="de"><tig><term>Projektübersicht</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Travis CI</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>localization process</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Lokalisierungsprozess</term></tig></langSet>
             </termEntry>
