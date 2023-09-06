@@ -1155,10 +1155,6 @@
                 <langSet xml:lang="de"><tig><term>Veröffentlicht</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>landing page</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Einstiegsseite</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>pseudolocale</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Pseudolokale</term></tig></langSet>
             </termEntry>
