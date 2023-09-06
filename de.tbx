@@ -770,10 +770,6 @@
                 <langSet xml:lang="de"><tig><term>RSS-Feeds</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>suggesters</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Vorschlagende</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>rebase</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>umbasieren</term></tig></langSet>
             </termEntry>
