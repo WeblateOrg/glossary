@@ -308,10 +308,6 @@
                 <langSet xml:lang="de"><tig><term>Hauptseite</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>crowdsourced translation</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Crowdsourcing-Übersetzungen</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Linux distributions</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Linux-Distributionen</term></tig></langSet>
             </termEntry>
