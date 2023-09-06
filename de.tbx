@@ -344,10 +344,6 @@
                 <langSet xml:lang="de"><tig><term>Administrator</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>premium support</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Premium-Support</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>to self host</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>selbst hosten</term></tig></langSet>
             </termEntry>
