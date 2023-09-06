@@ -1002,10 +1002,6 @@
                 <langSet xml:lang="de"><tig><term>Zeichenfolgen</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>keyboard pattern</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Tastatur-Zeichenfolge</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>dates</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Datumsangaben</term></tig></langSet>
             </termEntry>
