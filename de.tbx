@@ -324,10 +324,6 @@
                 <langSet xml:lang="de"><tig><term>Freie Lizenz</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>responsive UI</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>adaptive Benutzeroberfläche</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>tablet</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Tablet</term></tig></langSet>
             </termEntry>
