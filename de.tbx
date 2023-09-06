@@ -175,10 +175,6 @@
                 <langSet xml:lang="de"><tig><term>Quellcode</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>test suite</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Test-Suite</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Sauce Labs</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term/></tig></langSet>
             </termEntry>
