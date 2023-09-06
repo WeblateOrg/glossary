@@ -187,10 +187,6 @@
                 <langSet xml:lang="de"><tig><term>Selenium-Tests</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Rollbar</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term/></tig></langSet>
                 <descrip>rollbar.com</descrip>
