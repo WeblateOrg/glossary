@@ -524,10 +524,6 @@
                 <langSet xml:lang="de"><tig><term>Website</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>logo placement</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>exklusive Platzierung Ihres Logos</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Project overview</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Projektübersicht</term></tig></langSet>
             </termEntry>
