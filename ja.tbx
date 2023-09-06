@@ -572,7 +572,7 @@ PRIORITY_CHOICES = (&#13;
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>VCS</term></tig></langSet>
-                <langSet xml:lang="ja"><tig><term/></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>VCS</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tab character</term></tig></langSet>
