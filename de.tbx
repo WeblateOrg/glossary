@@ -1381,7 +1381,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Personal Data</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Persönliche Daten</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Personenbezogene Daten</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Cookies</term></tig></langSet>
