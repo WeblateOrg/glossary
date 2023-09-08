@@ -1741,6 +1741,14 @@
                 <langSet xml:lang="en"><tig><term>pull</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>ziehen</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>sequence</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Zeichenfolge</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>category</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Kategorie</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
