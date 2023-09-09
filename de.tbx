@@ -1774,10 +1774,6 @@
                 <langSet xml:lang="de"><tig><term>bearbeitungsbedürftig</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>command-line</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Befehlszeile</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>label</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Label</term></tig></langSet>
             </termEntry>
