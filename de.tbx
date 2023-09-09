@@ -1749,6 +1749,14 @@
                 <langSet xml:lang="en"><tig><term>category</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Kategorie</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>markup</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Auszeichnung</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Announcement</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Mitteilung</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
