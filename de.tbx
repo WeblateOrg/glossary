@@ -1341,10 +1341,6 @@
                 <langSet xml:lang="de"><tig><term>Komponenten</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Needs editing</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Bearbeitung erforderlich</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Änderungsprotokoll</term></tig></langSet>
             </termEntry>
