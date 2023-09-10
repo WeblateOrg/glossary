@@ -35,10 +35,6 @@
                 <langSet xml:lang="en"><tig><term>documentation</term></tig></langSet>
                 <langSet xml:lang="ar"><tig><term>المستندات</term></tig></langSet>
             </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Localization</term></tig></langSet>
-                <langSet xml:lang="ar"><tig><term>الترجمة</term></tig></langSet>
-            </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Localization</term></tig></langSet>
                 <langSet xml:lang="ar"><tig><term>التوطين</term></tig></langSet>
