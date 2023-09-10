@@ -1520,6 +1520,14 @@
                 <langSet xml:lang="zh_Hant"><tig><term>Fluent</term></tig></langSet>
                 <descrip>“Fluent” is a “localization system for natural-sounding translations” - https://projectfluent.org/</descrip>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>submit</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>提交</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>commits</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>送交版次</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
