@@ -97,7 +97,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Personal Data</term></tig></langSet>
-                <langSet xml:lang="ar"><tig><term/></tig></langSet>
+                <langSet xml:lang="ar"><tig><term>البيانات الشخصية</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Cookies</term></tig></langSet>
@@ -205,7 +205,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation</term></tig></langSet>
-                <langSet xml:lang="ar"><tig><term/></tig></langSet>
+                <langSet xml:lang="ar"><tig><term>ترجمة</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>unresolved comment</term></tig></langSet>
@@ -237,11 +237,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Privacy Policy</term></tig></langSet>
-                <langSet xml:lang="ar"><tig><term/></tig></langSet>
+                <langSet xml:lang="ar"><tig><term>سياسة الخصوصية</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Terms of Service</term></tig></langSet>
-                <langSet xml:lang="ar"><tig><term/></tig></langSet>
+                <langSet xml:lang="ar"><tig><term>بنود الخدمة</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>profile</term></tig></langSet>
@@ -345,7 +345,7 @@
             </termEntry>
             <termEntry id="Past tense">
                 <langSet xml:lang="en"><tig><term>translated</term></tig></langSet>
-                <langSet xml:lang="ar"><tig><term/></tig></langSet>
+                <langSet xml:lang="ar"><tig><term>مترجم</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>glossary</term></tig></langSet>
@@ -369,7 +369,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Screenshots</term></tig></langSet>
-                <langSet xml:lang="ar"><tig><term/></tig></langSet>
+                <langSet xml:lang="ar"><tig><term>لقطات الشاشة</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>authorship</term></tig></langSet>
