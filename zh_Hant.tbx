@@ -699,7 +699,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>提交</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>送交</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translator</term></tig></langSet>
@@ -723,7 +723,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>提交用的郵件信箱</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>送交用的郵件信箱</term></tig></langSet>
                 <descrip>e-mail address that will be used as committer</descrip>
             </termEntry>
             <termEntry>
@@ -740,12 +740,12 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>提交</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>送交</term></tig></langSet>
                 <descrip>git-commit</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Commit</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>提交</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>送交</term></tig></langSet>
                 <descrip>git-commit</descrip>
             </termEntry>
             <termEntry>
