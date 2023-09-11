@@ -114,7 +114,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>contributor</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>участник</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>переводчик</term></tig></langSet>
                 <note from="translator">человек, который уделяет время и/или ресурсы на развитие проекта</note>
             </termEntry>
             <termEntry>
