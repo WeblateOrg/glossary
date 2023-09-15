@@ -480,10 +480,6 @@
                 <langSet xml:lang="en"><tig><term>literal</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>字面量</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>alert</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>警告</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>widget</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>小挂件</term></tig></langSet>
