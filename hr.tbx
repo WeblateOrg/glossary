@@ -574,6 +574,10 @@
                 <langSet xml:lang="en"><tig><term>end tag</term></tig></langSet>
                 <langSet xml:lang="hr"><tig><term>završna oznaka</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>void element</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>element s početnom oznakom</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
