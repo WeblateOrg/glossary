@@ -576,7 +576,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>void element</term></tig></langSet>
-                <langSet xml:lang="hr"><tig><term>element s početnom oznakom</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>samostojeći element</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>whitespace</term></tig></langSet>
