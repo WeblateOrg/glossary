@@ -286,7 +286,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>This is not used when a component list is selected.</term></tig></langSet>
-                <langSet xml:lang="hr"><tig><term>Ovo se ne koristi kada je odabran popis komponenata.</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>Ovo se ne koristi kada je odabran jedan popis komponenti.</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gerrit</term></tig></langSet>
@@ -302,7 +302,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>component list</term></tig></langSet>
-                <langSet xml:lang="hr"><tig><term>popis komponenata</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>popis komponenti</term></tig></langSet>
             </termEntry>
             <termEntry id="components">
                 <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
