@@ -278,7 +278,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslated</term></tig></langSet>
-                <langSet xml:lang="hr"><tig><term/></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>neprevedeno</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
@@ -286,7 +286,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>This is not used when a component list is selected.</term></tig></langSet>
-                <langSet xml:lang="hr"><tig><term/></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>Ovo se ne koristi kada je odabran popis komponenata.</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gerrit</term></tig></langSet>
@@ -306,7 +306,7 @@
             </termEntry>
             <termEntry id="components">
                 <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
-                <langSet xml:lang="hr"><tig><term/></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>komponente</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
@@ -510,7 +510,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
-                <langSet xml:lang="hr"><tig><term/></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>Weblate</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
@@ -551,7 +551,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CVS</term></tig></langSet>
-                <langSet xml:lang="hr"><tig><term/></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>CVS</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tab character</term></tig></langSet>
