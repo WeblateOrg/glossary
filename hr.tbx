@@ -582,6 +582,10 @@
                 <langSet xml:lang="en"><tig><term>whitespace</term></tig></langSet>
                 <langSet xml:lang="hr"><tig><term>razmakni znak</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>whitespaces</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>razmakni znakovi</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
