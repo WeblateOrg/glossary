@@ -38,7 +38,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term>add-on</term></tig></langSet>
+                <langSet xml:lang="ro"><tig><term>supliment</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
@@ -355,7 +355,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>authorship</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term>paternitate</term></tig></langSet>
+                <langSet xml:lang="ro"><tig><term>calitate de autor</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
