@@ -586,6 +586,14 @@
                 <langSet xml:lang="en"><tig><term>whitespaces</term></tig></langSet>
                 <langSet xml:lang="hr"><tig><term>razmakni znakovi</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>bookmark</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>straničnik</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>bookmarks</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>straničnici</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
