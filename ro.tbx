@@ -412,7 +412,9 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term>(verb) contribuie</term></tig></langSet>
+                <langSet xml:lang="ro"><tig><term>(verb) contribuie, (substantiv) contribuție</term></tig></langSet>
+                <note from="translator">EN: Execute script before commit&#13;
+RO: Execută script înainte de contribuție</note>
             </termEntry>
             <termEntry id="Parse error occured">
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
