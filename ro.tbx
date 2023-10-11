@@ -406,6 +406,18 @@
                 <langSet xml:lang="en"><tig><term>safe-html</term></tig></langSet>
                 <langSet xml:lang="ro"><tig><term>html-sigur</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>parser</term></tig></langSet>
+                <langSet xml:lang="ro"><tig><term>(substantiv) interpretor</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
+                <langSet xml:lang="ro"><tig><term>(verb) contribuie</term></tig></langSet>
+            </termEntry>
+            <termEntry id="Parse error occured">
+                <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
+                <langSet xml:lang="ro"><tig><term>(verb) a interpreta</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
