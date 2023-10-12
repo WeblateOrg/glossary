@@ -59,9 +59,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term>(verb) contribuie, (substantiv) contribuție</term></tig></langSet>
-                <note from="translator">EN: Execute script before commit&#13;
-RO: Execută script înainte de contribuție</note>
+                <langSet xml:lang="ro"><tig><term>contribuție, modificare</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fuzzy</term></tig></langSet>
@@ -82,6 +80,7 @@ RO: Execută script înainte de contribuție</note>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>rebase</term></tig></langSet>
                 <langSet xml:lang="ro"><tig><term>rebazare</term></tig></langSet>
+                <note from="translator">Despre depozitori: Rebased repository - Depozitar rebazat (acțiune prin care un depozitar preia modificările unui depozitar principal și este readus într-o stare stabilă, statică, de bază)</note>
             </termEntry>
         </body>
     </text>
