@@ -244,10 +244,6 @@
                 <langSet xml:lang="ro"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term>Măsurători</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
                 <langSet xml:lang="ro"><tig><term>intraductibil</term></tig></langSet>
                 <note from="translator">ce nu se traduce</note>
