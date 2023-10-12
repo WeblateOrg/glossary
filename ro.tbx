@@ -425,6 +425,10 @@ RO: Execută script înainte de contribuție</note>
                 <langSet xml:lang="en"><tig><term>localizable</term></tig></langSet>
                 <langSet xml:lang="ro"><tig><term>traductibil (nu localizabil; acesta se referă la ceva care poate fi localizat «pe hartă»)</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hook</term></tig></langSet>
+                <langSet xml:lang="ro"><tig><term>agățător</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
