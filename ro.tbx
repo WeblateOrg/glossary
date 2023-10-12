@@ -96,10 +96,6 @@
                 <langSet xml:lang="ro"><tig><term>expresie regulată</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>regex</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term>regex</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
                 <langSet xml:lang="ro"><tig><term>slug</term></tig></langSet>
             </termEntry>
