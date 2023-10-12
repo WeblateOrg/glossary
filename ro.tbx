@@ -84,10 +84,6 @@
                 <langSet xml:lang="ro"><tig><term>jurnal de modificări</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>pull request</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term>solicitare pull</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>access restriction</term></tig></langSet>
                 <langSet xml:lang="ro"><tig><term>restricție de acces</term></tig></langSet>
             </termEntry>
