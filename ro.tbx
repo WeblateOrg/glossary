@@ -72,10 +72,6 @@
                 <langSet xml:lang="en"><tig><term>Personal Data</term></tig></langSet>
                 <langSet xml:lang="ro"><tig><term>Date personale</term></tig></langSet>
             </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Cookies</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term>Cookies</term></tig></langSet>
-            </termEntry>
             <termEntry id="XML Tag">
                 <langSet xml:lang="en"><tig><term>XML Tag</term></tig></langSet>
                 <langSet xml:lang="ro"><tig><term>Etichetă XML</term></tig></langSet>
