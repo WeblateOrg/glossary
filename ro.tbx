@@ -233,11 +233,6 @@
                 <descrip>Translate Toolkit</descrip>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Gravatar</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term>Gravatar</term></tig></langSet>
-                <descrip>gravatar.com</descrip>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Qt Linguist</term></tig></langSet>
                 <langSet xml:lang="ro"><tig><term>Lingvist Qt</term></tig></langSet>
             </termEntry>
