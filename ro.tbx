@@ -104,10 +104,6 @@
                 <langSet xml:lang="ro"><tig><term>Weblate găzduit</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>translator</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term>traducător</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>term</term></tig></langSet>
                 <langSet xml:lang="ro"><tig><term>termen</term></tig></langSet>
             </termEntry>
