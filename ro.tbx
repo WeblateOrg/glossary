@@ -143,10 +143,6 @@
                 <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
                 <langSet xml:lang="ro"><tig><term>sursă</term></tig></langSet>
             </termEntry>
-            <termEntry id="alias &quot;Zen mode&quot;">
-                <langSet xml:lang="en"><tig><term>Zen</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term>Zen</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation-finder</term></tig></langSet>
                 <langSet xml:lang="ro"><tig><term>traducător-detector</term></tig></langSet>
