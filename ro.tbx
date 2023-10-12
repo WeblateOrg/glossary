@@ -48,10 +48,6 @@
                 <langSet xml:lang="ro"><tig><term>calitate de autor</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>tab character</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term>caracter tab</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>branch</term></tig></langSet>
                 <langSet xml:lang="ro"><tig><term>ramură</term></tig></langSet>
             </termEntry>
