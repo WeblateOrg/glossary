@@ -427,7 +427,7 @@ RO: Execută script înainte de contribuție</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>hook</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term>agățător</term></tig></langSet>
+                <langSet xml:lang="ro"><tig><term>cârlig</term></tig></langSet>
             </termEntry>
         </body>
     </text>
