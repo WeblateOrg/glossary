@@ -23,10 +23,6 @@
                 <langSet xml:lang="ro"><tig><term>eroare</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Regular expressions</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term>Expresii regulate</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>pseudolocale</term></tig></langSet>
                 <langSet xml:lang="ro"><tig><term>pseudolocală</term></tig></langSet>
             </termEntry>
