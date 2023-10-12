@@ -82,6 +82,22 @@
                 <langSet xml:lang="ro"><tig><term>rebazare</term></tig></langSet>
                 <note from="translator">Despre depozitori: Rebased repository - Depozitar rebazat (acțiune prin care un depozitar preia modificările unui depozitar principal și este readus într-o stare stabilă, statică, de bază)</note>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>squash</term></tig></langSet>
+                <langSet xml:lang="ro"><tig><term>combină</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>credentials</term></tig></langSet>
+                <langSet xml:lang="ro"><tig><term>date de conectare</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>placeholder</term></tig></langSet>
+                <langSet xml:lang="ro"><tig><term>substituent</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>wrapping</term></tig></langSet>
+                <langSet xml:lang="ro"><tig><term>împachetare</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
