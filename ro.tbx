@@ -75,6 +75,14 @@ RO: Execută script înainte de contribuție</note>
                 <langSet xml:lang="en"><tig><term>hook</term></tig></langSet>
                 <langSet xml:lang="ro"><tig><term>cârlig</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>browser</term></tig></langSet>
+                <langSet xml:lang="ro"><tig><term>navigator</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>rebase</term></tig></langSet>
+                <langSet xml:lang="ro"><tig><term>rebazare</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
