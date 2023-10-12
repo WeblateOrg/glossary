@@ -44,10 +44,6 @@
                 <langSet xml:lang="ro"><tig><term>Subiect</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>variants</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term>variante</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
                 <langSet xml:lang="ro"><tig><term>jeton</term></tig></langSet>
             </termEntry>
