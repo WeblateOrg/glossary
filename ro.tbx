@@ -200,10 +200,6 @@
                 <langSet xml:lang="ro"><tig><term>Zen</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>history</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term>istoric</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>translation-finder</term></tig></langSet>
                 <langSet xml:lang="ro"><tig><term>traducător-detector</term></tig></langSet>
             </termEntry>
