@@ -217,10 +217,6 @@
                 <langSet xml:lang="ro"><tig><term>istoric</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Django</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term>Django</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>translation-finder</term></tig></langSet>
                 <langSet xml:lang="ro"><tig><term>traducător-detector</term></tig></langSet>
             </termEntry>
