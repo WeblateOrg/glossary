@@ -15,11 +15,6 @@
                 <langSet xml:lang="ro"><tig><term>GDPR - Regulamentul general privind protecția datelor</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>basic</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term>de fond</term></tig></langSet>
-                <descrip>If something is basic it is the first step, te minimum, tis is inn romanian language "de fond" and not "de basa" because de basa means it is a basis on witch it fisically stands</descrip>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
                 <langSet xml:lang="ro"><tig><term>supliment</term></tig></langSet>
             </termEntry>
