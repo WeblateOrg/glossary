@@ -180,12 +180,6 @@
                 <langSet xml:lang="ro"><tig><term>Sentry</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term>intraductibil</term></tig></langSet>
-                <note from="translator">ce nu se traduce</note>
-                <descrip>Glossary terms that should not be changed from the source language</descrip>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>tab character</term></tig></langSet>
                 <langSet xml:lang="ro"><tig><term>caracter de tabulare</term></tig></langSet>
             </termEntry>
