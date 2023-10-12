@@ -39,10 +39,6 @@
                 <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
                 <langSet xml:lang="ro"><tig><term>jurnal de modificări</term></tig></langSet>
             </termEntry>
-            <termEntry id="access restrictions (plural)">
-                <langSet xml:lang="en"><tig><term>access restrictions</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term>restricții de acces</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regular expression</term></tig></langSet>
                 <langSet xml:lang="ro"><tig><term>expresie regulată</term></tig></langSet>
