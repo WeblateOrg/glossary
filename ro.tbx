@@ -51,10 +51,6 @@
                 <langSet xml:lang="ro"><tig><term>Weblate găzduit</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>foo/bar</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
                 <langSet xml:lang="ro"><tig><term>depozitar</term></tig></langSet>
                 <note from="translator">De cele mai multe ori contextul se referă la locul unde este găzduit codul sursă al unui program software. De exemplu: GitHub, GitLab, etc., dar și platforme ca Weblate (aici sunt găzduite traduceri în într-o anumită formă dedicate programelor software)</note>
