@@ -229,11 +229,6 @@
                 <langSet xml:lang="ro"><tig><term>Zen</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term>trimiteți un e-mail</term></tig></langSet>
-                <descrip>e-mail address that will be used as committer</descrip>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>history</term></tig></langSet>
                 <langSet xml:lang="ro"><tig><term>istoric</term></tig></langSet>
             </termEntry>
