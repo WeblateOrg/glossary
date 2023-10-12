@@ -85,6 +85,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>squash</term></tig></langSet>
                 <langSet xml:lang="ro"><tig><term>combină</term></tig></langSet>
+                <note from="translator">Commit squashing - Contribuie/Modifică prin combinare</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>credentials</term></tig></langSet>
