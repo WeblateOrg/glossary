@@ -112,10 +112,6 @@
                 <langSet xml:lang="ro"><tig><term>sursă</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>translation-finder</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term>traducător-detector</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
                 <langSet xml:lang="ro"><tig><term>Sentry</term></tig></langSet>
                 <descrip>sentry.io</descrip>
