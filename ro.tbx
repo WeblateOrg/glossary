@@ -35,10 +35,6 @@
                 <langSet xml:lang="ro"><tig><term>jurnal de modificări</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>regular expression</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term>expresie regulată</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
                 <langSet xml:lang="ro"><tig><term>descriptor</term></tig></langSet>
             </termEntry>
