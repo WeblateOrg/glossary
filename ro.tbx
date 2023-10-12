@@ -148,10 +148,6 @@
                 <langSet xml:lang="ro"><tig><term>Termeni de utilizare</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>profile</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term>profil</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>project</term></tig></langSet>
                 <langSet xml:lang="ro"><tig><term>proiect</term></tig></langSet>
             </termEntry>
