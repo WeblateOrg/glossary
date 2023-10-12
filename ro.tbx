@@ -100,10 +100,6 @@
                 <langSet xml:lang="ro"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Gerrit</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term>Gerrit</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Subversion</term></tig></langSet>
                 <langSet xml:lang="ro"><tig><term>Subversiune</term></tig></langSet>
             </termEntry>
