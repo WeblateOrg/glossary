@@ -289,10 +289,6 @@
                 <note from="translator">EN: Execute script before commit&#13;
 RO: Execută script înainte de contribuție</note>
             </termEntry>
-            <termEntry id="Parse error occured">
-                <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term>(verb) a interpreta</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fuzzy</term></tig></langSet>
                 <langSet xml:lang="ro"><tig><term>neclar, confuz</term></tig></langSet>
