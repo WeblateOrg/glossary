@@ -76,10 +76,6 @@
                 <langSet xml:lang="ro"><tig><term>jeton</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>identity</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term>identitate</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>session</term></tig></langSet>
                 <langSet xml:lang="ro"><tig><term>sesiune</term></tig></langSet>
             </termEntry>
