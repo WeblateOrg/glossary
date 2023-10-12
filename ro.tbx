@@ -72,11 +72,6 @@
                 <langSet xml:lang="ro"><tig><term>Weblate găzduit</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term>Sentry</term></tig></langSet>
-                <descrip>sentry.io</descrip>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Rollbar</term></tig></langSet>
                 <langSet xml:lang="ro"><tig><term>Rollbar</term></tig></langSet>
                 <descrip>rollbar.com</descrip>
