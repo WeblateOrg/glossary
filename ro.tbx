@@ -47,10 +47,6 @@
                 <langSet xml:lang="en"><tig><term>Subject</term></tig></langSet>
                 <langSet xml:lang="ro"><tig><term>Subiect</term></tig></langSet>
             </termEntry>
-            <termEntry id="XML Tag">
-                <langSet xml:lang="en"><tig><term>XML Tag</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term>Etichetă XML</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>variants</term></tig></langSet>
                 <langSet xml:lang="ro"><tig><term>variante</term></tig></langSet>
