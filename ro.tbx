@@ -19,10 +19,6 @@
                 <langSet xml:lang="ro"><tig><term>SSO</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term>privat</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>search</term></tig></langSet>
                 <langSet xml:lang="ro"><tig><term>caută</term></tig></langSet>
             </termEntry>
