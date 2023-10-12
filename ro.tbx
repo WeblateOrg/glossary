@@ -49,10 +49,6 @@
                 <langSet xml:lang="ro"><tig><term>eroare</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>CI</term></tig></langSet>
                 <langSet xml:lang="ro"><tig><term>CI</term></tig></langSet>
                 <note from="translator">CI ( Continous Integration)</note>
