@@ -52,10 +52,6 @@
                 <langSet xml:lang="ro"><tig><term>sesiune</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>untranslated</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>This is not used when a component list is selected.</term></tig></langSet>
                 <langSet xml:lang="ro"><tig><term/></tig></langSet>
             </termEntry>
