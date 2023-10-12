@@ -11,11 +11,6 @@
     <text>
         <body>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>edit</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term>editează</term></tig></langSet>
-                <note from="translator">to edit means to change the content of a text or a graphic</note>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>GDPR -General Data Protection Regulation</term></tig></langSet>
                 <langSet xml:lang="ro"><tig><term>GDPR - Regulamentul general privind protecția datelor</term></tig></langSet>
             </termEntry>
