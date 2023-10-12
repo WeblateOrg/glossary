@@ -15,10 +15,6 @@
                 <langSet xml:lang="ro"><tig><term>GDPR - Regulamentul general privind protecția datelor</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>SSO</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term>SSO</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>search</term></tig></langSet>
                 <langSet xml:lang="ro"><tig><term>caută</term></tig></langSet>
             </termEntry>
