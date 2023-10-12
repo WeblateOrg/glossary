@@ -178,10 +178,6 @@
                 <langSet xml:lang="en"><tig><term>Sphinx</term></tig></langSet>
                 <langSet xml:lang="ro"><tig><term>Sphinx</term></tig></langSet>
             </termEntry>
-            <termEntry id="readthedocs.org">
-                <langSet xml:lang="en"><tig><term>Read the Docs</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term>Citiți Documentele</term></tig></langSet>
-            </termEntry>
             <termEntry id="Past tense">
                 <langSet xml:lang="en"><tig><term>translated</term></tig></langSet>
                 <langSet xml:lang="ro"><tig><term>tradus</term></tig></langSet>
