@@ -53,7 +53,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term>slug</term></tig></langSet>
+                <langSet xml:lang="ro"><tig><term>descriptor</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fixup</term></tig></langSet>
@@ -86,7 +86,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tab character</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term>caracter de tabulare</term></tig></langSet>
+                <langSet xml:lang="ro"><tig><term>caracter tab</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>branch</term></tig></langSet>
