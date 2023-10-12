@@ -68,11 +68,6 @@
                 <langSet xml:lang="ro"><tig><term>Weblate găzduit</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Rollbar</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term>Rollbar</term></tig></langSet>
-                <descrip>rollbar.com</descrip>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>foo/bar</term></tig></langSet>
                 <langSet xml:lang="ro"><tig><term/></tig></langSet>
             </termEntry>
