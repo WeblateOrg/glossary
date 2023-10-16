@@ -390,6 +390,10 @@
                 <langSet xml:lang="en"><tig><term>Explanation</term></tig></langSet>
                 <langSet xml:lang="it"><tig><term>Spiegazione</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>workflow</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>flusso di lavoro</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
