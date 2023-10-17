@@ -104,6 +104,10 @@
                 <langSet xml:lang="en"><tig><term>remove</term></tig></langSet>
                 <langSet xml:lang="ro"><tig><term>înlătură</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>VCS</term></tig></langSet>
+                <langSet xml:lang="ro"><tig><term>SCV</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
