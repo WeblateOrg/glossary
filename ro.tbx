@@ -59,7 +59,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term>contribuție, modificare</term></tig></langSet>
+                <langSet xml:lang="ro"><tig><term>comitere</term></tig></langSet>
+                <note from="translator">Vezi: https://dexonline.ro/definitie/comitere/paradigma</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fuzzy</term></tig></langSet>
@@ -84,8 +85,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>squash</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term>combină</term></tig></langSet>
-                <note from="translator">Commit squashing - Contribuie/Modifică prin combinare</note>
+                <langSet xml:lang="ro"><tig><term>comasează</term></tig></langSet>
+                <note from="translator">Commit squashing - Comite prin comasare</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>credentials</term></tig></langSet>
