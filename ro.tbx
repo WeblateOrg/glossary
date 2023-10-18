@@ -109,6 +109,40 @@
                 <langSet xml:lang="ro"><tig><term>SCV</term></tig></langSet>
                 <note from="translator">VCS = Version Control System, în consecință traducerea „Sistem de control al versiunilor” se prescurtează SCV.</note>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>merge</term></tig></langSet>
+                <langSet xml:lang="ro"><tig><term>îmbină</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>parser</term></tig></langSet>
+                <langSet xml:lang="ro"><tig><term>interpretor</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
+                <langSet xml:lang="ro"><tig><term>a interpreta</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>patch</term></tig></langSet>
+                <langSet xml:lang="ro"><tig><term>corecție</term></tig></langSet>
+                <note from="translator">Dacă „patch” se referă la o „corecție” sau o „îmbunătățire” a software-ului care rezolvă o problemă sau o eroare.</note>
+                <descrip>Dacă „patch” se referă la o „corecție” sau o „îmbunătățire” a software-ului care rezolvă o problemă sau o eroare.</descrip>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>widget</term></tig></langSet>
+                <langSet xml:lang="ro"><tig><term>piesă</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>related</term></tig></langSet>
+                <langSet xml:lang="ro"><tig><term>similar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>feature</term></tig></langSet>
+                <langSet xml:lang="ro"><tig><term>caracteristică</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>contributor</term></tig></langSet>
+                <langSet xml:lang="ro"><tig><term>contribuitor</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
