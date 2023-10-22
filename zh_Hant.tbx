@@ -1528,6 +1528,10 @@
                 <langSet xml:lang="en"><tig><term>commits</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>送交版次</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>reference</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>引用</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
