@@ -159,7 +159,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>maintainer</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term>responsabil („întreținător”, dar sună greoi)</term></tig></langSet>
+                <langSet xml:lang="ro"><tig><term>responsabil</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>upstream</term></tig></langSet>
