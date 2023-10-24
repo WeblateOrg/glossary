@@ -154,7 +154,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>trial</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term>probă</term></tig></langSet>
+                <langSet xml:lang="ro"><tig><term>perioadă de probă</term></tig></langSet>
+                <note from="translator">Se referă la oferta furnizorului de a permite clientului să încerce serviciul la capacități maxime, gratuit, pe o durată de timp limitată.</note>
             </termEntry>
         </body>
     </text>
