@@ -143,6 +143,14 @@
                 <langSet xml:lang="en"><tig><term>contributor</term></tig></langSet>
                 <langSet xml:lang="ro"><tig><term>contribuitor</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>underscore</term></tig></langSet>
+                <langSet xml:lang="ro"><tig><term>liniuță-jos</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>libre</term></tig></langSet>
+                <langSet xml:lang="ro"><tig><term>libre</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
