@@ -150,6 +150,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>libre</term></tig></langSet>
                 <langSet xml:lang="ro"><tig><term>libre</term></tig></langSet>
+                <note from="translator">Se referă la un plan gratuit, denumit în Weblate ca „Libre”. De asemenea se face referire și la „libre software” pe care-l vom traduce „software libre”.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>trial</term></tig></langSet>
