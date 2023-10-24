@@ -151,6 +151,10 @@
                 <langSet xml:lang="en"><tig><term>libre</term></tig></langSet>
                 <langSet xml:lang="ro"><tig><term>libre</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>trial</term></tig></langSet>
+                <langSet xml:lang="ro"><tig><term>probă</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
