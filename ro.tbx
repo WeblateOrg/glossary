@@ -161,6 +161,18 @@
                 <langSet xml:lang="en"><tig><term>maintainer</term></tig></langSet>
                 <langSet xml:lang="ro"><tig><term>responsabil („întreținător”, dar sună greoi)</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>upstream</term></tig></langSet>
+                <langSet xml:lang="ro"><tig><term>sursă principală</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>feedback</term></tig></langSet>
+                <langSet xml:lang="ro"><tig><term>impresii</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>bold</term></tig></langSet>
+                <langSet xml:lang="ro"><tig><term>aldin</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
