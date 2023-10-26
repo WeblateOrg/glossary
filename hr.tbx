@@ -310,7 +310,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
-                <langSet xml:lang="hr"><tig><term>zapis promjena</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>dnevnik promjena</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>issue</term></tig></langSet>
