@@ -458,6 +458,10 @@
                 <langSet xml:lang="sv"><tig><term>Fluent</term></tig></langSet>
                 <descrip>“Fluent” is a “localization system for natural-sounding translations” - https://projectfluent.org/</descrip>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>team</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>grupp</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
