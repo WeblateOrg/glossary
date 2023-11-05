@@ -105,7 +105,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Localization</term></tig></langSet>
-                <langSet xml:lang="hr"><tig><term>lokalizacija</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>Lokalizacija</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>continuous localization</term></tig></langSet>
@@ -174,7 +174,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>listing</term></tig></langSet>
-                <langSet xml:lang="hr"><tig><term>uvrštavanje</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>popis</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>edit</term></tig></langSet>
