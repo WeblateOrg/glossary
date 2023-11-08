@@ -52,7 +52,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Press</term></tig></langSet>
-                <langSet xml:lang="km"><tig><term>សង្កត់</term></tig></langSet>
+                <langSet xml:lang="km"><tig><term>ចុច</term></tig></langSet>
+                <note from="translator">Press/Click = ចុច (យោងតាម ក្រុមប្រឹក្សាជាតិភាសាខ្មែរ (គ.ជ.ភ.ខ.)</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>clipboard</term></tig></langSet>
@@ -152,7 +153,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Promotion</term></tig></langSet>
-                <langSet xml:lang="km"><tig><term>ប្រូម៉ូសិន</term></tig></langSet>
+                <langSet xml:lang="km"><tig><term>ប្រូម៉ូហ្សិន</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Project</term></tig></langSet>
@@ -196,7 +197,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
-                <langSet xml:lang="km"><tig><term>ឯកជនភាព</term></tig></langSet>
+                <langSet xml:lang="km"><tig><term>ឯកជន</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>search</term></tig></langSet>
@@ -238,6 +239,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gitee</term></tig></langSet>
                 <langSet xml:lang="km"><tig><term/></tig></langSet>
+                <note from="translator">ឈ្មោះកម្មវិធីមួយ</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Subject</term></tig></langSet>
@@ -245,7 +247,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Personal Data</term></tig></langSet>
-                <langSet xml:lang="km"><tig><term/></tig></langSet>
+                <langSet xml:lang="km"><tig><term>ទិន្នន័យបុគ្គល</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Cookies</term></tig></langSet>
@@ -253,27 +255,28 @@
             </termEntry>
             <termEntry id="XML Tag">
                 <langSet xml:lang="en"><tig><term>XML Tag</term></tig></langSet>
-                <langSet xml:lang="km"><tig><term/></tig></langSet>
+                <langSet xml:lang="km"><tig><term>ស្លាក XML</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>variants</term></tig></langSet>
-                <langSet xml:lang="km"><tig><term/></tig></langSet>
+                <langSet xml:lang="km"><tig><term>វ៉ារ្យ៉ង់</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
-                <langSet xml:lang="km"><tig><term/></tig></langSet>
+                <langSet xml:lang="km"><tig><term>កាក់និម្មិត</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>current</term></tig></langSet>
-                <langSet xml:lang="km"><tig><term/></tig></langSet>
+                <langSet xml:lang="km"><tig><term>បច្ចុប្បន្ន</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>identity</term></tig></langSet>
-                <langSet xml:lang="km"><tig><term/></tig></langSet>
+                <langSet xml:lang="km"><tig><term>អត្តសញ្ញាណ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>session</term></tig></langSet>
-                <langSet xml:lang="km"><tig><term/></tig></langSet>
+                <langSet xml:lang="km"><tig><term>កាលានុកាល</term></tig></langSet>
+                <note from="translator">កាលតាមលំដាប់កាល, មួយដងមួយកាល</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslated</term></tig></langSet>
@@ -281,7 +284,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
-                <langSet xml:lang="km"><tig><term/></tig></langSet>
+                <langSet xml:lang="km"><tig><term>ញែកធាតុ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>This is not used when a component list is selected.</term></tig></langSet>
@@ -313,10 +316,13 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Image</term></tig></langSet>
                 <langSet xml:lang="km"><tig><term>រូបភាព</term></tig></langSet>
+                <note from="translator">Image=រូបភាព&#13;
+Picture=រូប&#13;
+Photo=រូបថត</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pseudolocale</term></tig></langSet>
-                <langSet xml:lang="km"><tig><term/></tig></langSet>
+                <langSet xml:lang="km"><tig><term>គ្រាមភាសា</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>component list</term></tig></langSet>
@@ -328,11 +334,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
-                <langSet xml:lang="km"><tig><term/></tig></langSet>
+                <langSet xml:lang="km"><tig><term>ប្រវត្តិផ្លាស់ប្តូរ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pull request</term></tig></langSet>
-                <langSet xml:lang="km"><tig><term/></tig></langSet>
+                <langSet xml:lang="km"><tig><term>ដាក់សំណើ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>issue</term></tig></langSet>
@@ -340,11 +346,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>access restriction</term></tig></langSet>
-                <langSet xml:lang="km"><tig><term/></tig></langSet>
+                <langSet xml:lang="km"><tig><term>ការកំហិតអាក់សេស</term></tig></langSet>
             </termEntry>
             <termEntry id="access restrictions (plural)">
                 <langSet xml:lang="en"><tig><term>access restrictions</term></tig></langSet>
-                <langSet xml:lang="km"><tig><term/></tig></langSet>
+                <langSet xml:lang="km"><tig><term>ការកំហិតអាក់សេស</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regex</term></tig></langSet>
@@ -352,11 +358,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regular expression</term></tig></langSet>
-                <langSet xml:lang="km"><tig><term/></tig></langSet>
+                <langSet xml:lang="km"><tig><term>កន្សោមធម្មតា</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>class</term></tig></langSet>
-                <langSet xml:lang="km"><tig><term/></tig></langSet>
+                <langSet xml:lang="km"><tig><term>ថ្នាក់</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
@@ -368,19 +374,19 @@
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>translations</term></tig></langSet>
-                <langSet xml:lang="km"><tig><term/></tig></langSet>
+                <langSet xml:lang="km"><tig><term>ការបកប្រែ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation</term></tig></langSet>
-                <langSet xml:lang="km"><tig><term/></tig></langSet>
+                <langSet xml:lang="km"><tig><term>ការបកប្រែ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>unresolved comment</term></tig></langSet>
-                <langSet xml:lang="km"><tig><term/></tig></langSet>
+                <langSet xml:lang="km"><tig><term>ខម្មិន្តមិនដោះស្រាយ</term></tig></langSet>
             </termEntry>
             <termEntry id="opposite">
                 <langSet xml:lang="en"><tig><term>resolved comment</term></tig></langSet>
-                <langSet xml:lang="km"><tig><term/></tig></langSet>
+                <langSet xml:lang="km"><tig><term>ខម្មិន្តបានដោះស្រាយ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>URL scheme</term></tig></langSet>
@@ -396,35 +402,36 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translator</term></tig></langSet>
-                <langSet xml:lang="km"><tig><term/></tig></langSet>
+                <langSet xml:lang="km"><tig><term>អ្នកបកប្រែ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>term</term></tig></langSet>
-                <langSet xml:lang="km"><tig><term/></tig></langSet>
+                <langSet xml:lang="km"><tig><term>លក្ខន្តិកៈ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Privacy Policy</term></tig></langSet>
-                <langSet xml:lang="km"><tig><term/></tig></langSet>
+                <langSet xml:lang="km"><tig><term>គោលការណ៍ឯកជនភាព</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Terms of Service</term></tig></langSet>
-                <langSet xml:lang="km"><tig><term/></tig></langSet>
+                <langSet xml:lang="km"><tig><term>លក្ខន្តិកៈនៃសេវាកម្ម</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>profile</term></tig></langSet>
-                <langSet xml:lang="km"><tig><term/></tig></langSet>
+                <langSet xml:lang="km"><tig><term>ប្រូហ្វាល</term></tig></langSet>
+                <note from="translator">យោងតាម ក្រុមប្រឹក្សាជាតិភាសាខ្មែរ (គ.ជ.ភ.ខ.)</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>project</term></tig></langSet>
-                <langSet xml:lang="km"><tig><term/></tig></langSet>
+                <langSet xml:lang="km"><tig><term>គម្រោង</term></tig></langSet>
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>projects</term></tig></langSet>
-                <langSet xml:lang="km"><tig><term/></tig></langSet>
+                <langSet xml:lang="km"><tig><term>គម្រោង</term></tig></langSet>
             </termEntry>
             <termEntry id="alias &quot;source text&quot;">
                 <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
-                <langSet xml:lang="km"><tig><term/></tig></langSet>
+                <langSet xml:lang="km"><tig><term>ប្រភព</term></tig></langSet>
             </termEntry>
             <termEntry id="alias &quot;Zen mode&quot;">
                 <langSet xml:lang="en"><tig><term>Zen</term></tig></langSet>
@@ -437,7 +444,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>history</term></tig></langSet>
-                <langSet xml:lang="km"><tig><term/></tig></langSet>
+                <langSet xml:lang="km"><tig><term>ប្រវត្តិ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Django</term></tig></langSet>
@@ -475,6 +482,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gravatar</term></tig></langSet>
                 <langSet xml:lang="km"><tig><term/></tig></langSet>
+                <note from="translator">ឈ្មោះគេហទំព័រមួយ</note>
                 <descrip>gravatar.com</descrip>
             </termEntry>
             <termEntry>
@@ -512,31 +520,31 @@
             </termEntry>
             <termEntry id="Past tense">
                 <langSet xml:lang="en"><tig><term>translated</term></tig></langSet>
-                <langSet xml:lang="km"><tig><term/></tig></langSet>
+                <langSet xml:lang="km"><tig><term>បានបកប្រែ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
-                <langSet xml:lang="km"><tig><term/></tig></langSet>
+                <langSet xml:lang="km"><tig><term>ឃ្លាំងទុក</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repo</term></tig></langSet>
-                <langSet xml:lang="km"><tig><term/></tig></langSet>
+                <langSet xml:lang="km"><tig><term>រីប៉ូ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>text direction</term></tig></langSet>
-                <langSet xml:lang="km"><tig><term/></tig></langSet>
+                <langSet xml:lang="km"><tig><term>ទិសដៅអត្ថបទ</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>screenshot</term></tig></langSet>
-                <langSet xml:lang="km"><tig><term/></tig></langSet>
+                <langSet xml:lang="km"><tig><term>ស្ក្រីនថត</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Screenshots</term></tig></langSet>
-                <langSet xml:lang="km"><tig><term/></tig></langSet>
+                <langSet xml:lang="km"><tig><term>ស្ក្រីនថត</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>authorship</term></tig></langSet>
-                <langSet xml:lang="km"><tig><term/></tig></langSet>
+                <langSet xml:lang="km"><tig><term>កម្មសិទ្ធិនិពន្ធ</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
@@ -548,11 +556,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
-                <langSet xml:lang="km"><tig><term/></tig></langSet>
+                <langSet xml:lang="km"><tig><term>ម៉ែត្រ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
-                <langSet xml:lang="km"><tig><term/></tig></langSet>
+                <langSet xml:lang="km"><tig><term>មិនអាចបកប្រែបាន</term></tig></langSet>
                 <descrip>Glossary terms that should not be changed from the source language</descrip>
             </termEntry>
             <termEntry>
@@ -565,7 +573,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tab character</term></tig></langSet>
-                <langSet xml:lang="km"><tig><term/></tig></langSet>
+                <langSet xml:lang="km"><tig><term>តួអក្សរផ្ទាំង</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Fluent</term></tig></langSet>
