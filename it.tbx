@@ -11,10 +11,6 @@
     <text>
         <body>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>For example: {0}</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term>Per esempio: {0}</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>upload</term></tig></langSet>
                 <langSet xml:lang="it"><tig><term>carica</term></tig></langSet>
             </termEntry>
