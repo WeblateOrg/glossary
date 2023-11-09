@@ -580,6 +580,11 @@ Photo=រូបថត</note>
                 <langSet xml:lang="km"><tig><term>Fluent</term></tig></langSet>
                 <descrip>“Fluent” is a “localization system for natural-sounding translations” - https://projectfluent.org/</descrip>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Strings</term></tig></langSet>
+                <langSet xml:lang="km"><tig><term>ស្ទ្រុិង</term></tig></langSet>
+                <note from="translator">ប្រភេទទិន្នន័យដែលជាអត្ថបទ ស៊េរីតួអក្សរ និមិត្តសញ្ញា ឬ អឺរ៉េនៃតួអក្សរ អាចរក្សាទុកនិងដំណើរការដោយកុំព្យូទ័រ។</note>
+            </termEntry>
         </body>
     </text>
 </martif>
