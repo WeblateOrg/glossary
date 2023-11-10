@@ -379,10 +379,6 @@
                 <descrip>“Fluent” is a “localization system for natural-sounding translations” - https://projectfluent.org/</descrip>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>entries</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term>voci</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Explanation</term></tig></langSet>
                 <langSet xml:lang="it"><tig><term>Spiegazione</term></tig></langSet>
             </termEntry>
