@@ -146,7 +146,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pull request</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term>pull request</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>richiesta pull</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>issue</term></tig></langSet>
