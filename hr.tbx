@@ -610,6 +610,10 @@
                 <langSet xml:lang="en"><tig><term>reference</term></tig></langSet>
                 <langSet xml:lang="hr"><tig><term>referenca</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>sequence</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>niz</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
