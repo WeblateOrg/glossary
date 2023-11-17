@@ -606,6 +606,10 @@
                 <langSet xml:lang="en"><tig><term>translation-memory</term></tig></langSet>
                 <langSet xml:lang="hr"><tig><term>prevodilačka memorija</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>reference</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>referenca</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
