@@ -48,7 +48,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>inconsistent</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>일관성없음</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>일관성 없음</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>local</term></tig></langSet>
@@ -116,7 +116,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>style</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>차림새</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>스타일</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Option</term></tig></langSet>
@@ -144,7 +144,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parameter</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>파라미터</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>매개변수</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>comments</term></tig></langSet>
@@ -192,7 +192,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>참여중, 참여중인 프로젝트</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>대시보드</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>font</term></tig></langSet>
@@ -260,7 +260,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>VAT ID</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>납세자의 세금 식별 번호</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>VAT ID</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>community</term></tig></langSet>
@@ -332,7 +332,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Update</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>갱신</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>업데이트</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>on the entire platform</term></tig></langSet>
@@ -345,7 +345,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>screenshot</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>스크린숏</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>스크린샷</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>upload</term></tig></langSet>
@@ -369,7 +369,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>checklist</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>점검목록</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>체크리스트</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>edit</term></tig></langSet>
@@ -435,7 +435,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Pseudolocale</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>유사언어</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>유사 언어</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>member</term></tig></langSet>
@@ -467,7 +467,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>upgrade</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>판올림</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>업그레이드</term></tig></langSet>
             </termEntry>
             <termEntry id="XML Tag">
                 <langSet xml:lang="en"><tig><term>XML Tag</term></tig></langSet>
@@ -475,7 +475,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>variants</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>변종</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>변형</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
@@ -499,7 +499,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>&lt;구문∙문장 등&gt; 을 문법적으로 분석하다</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>분석</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>This is not used when a component list is selected.</term></tig></langSet>
@@ -539,7 +539,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Needs editing</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>수정이 필요함</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>편집 필요</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dropdown menu</term></tig></langSet>
@@ -567,7 +567,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pseudolocale</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>유사언어</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>유사 언어</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>component list</term></tig></langSet>
@@ -575,7 +575,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>변경이력</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>변경 내역</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>character</term></tig></langSet>
@@ -812,11 +812,11 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>screenshot</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>스크린숏</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>스크린샷</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Screenshots</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>스크린숏</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>스크린샷</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>authorship</term></tig></langSet>
