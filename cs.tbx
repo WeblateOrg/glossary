@@ -977,7 +977,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Personal Data</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term/></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Osobní údaje</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Cookies</term></tig></langSet>
@@ -1053,15 +1053,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regex</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term/></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>regulární výraz</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regular expression</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term/></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>regulární výraz</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>class</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term/></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>třída</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
@@ -1109,7 +1109,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>profile</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term/></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>profil</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>project</term></tig></langSet>
@@ -1117,7 +1117,7 @@
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>projects</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term/></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>projekty</term></tig></langSet>
             </termEntry>
             <termEntry id="alias &quot;source text&quot;">
                 <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
@@ -1134,7 +1134,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>history</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term/></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>historie</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Django</term></tig></langSet>
@@ -1213,7 +1213,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repo</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term/></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>repozitář</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>text direction</term></tig></langSet>
@@ -1221,11 +1221,11 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>screenshot</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term/></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>snímek obrazovky</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Screenshots</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term/></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Snímky obrazovky</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>authorship</term></tig></langSet>
