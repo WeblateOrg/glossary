@@ -346,7 +346,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tab character</term></tig></langSet>
-                <langSet xml:lang="skr"><tig><term/></tig></langSet>
+                <langSet xml:lang="skr"><tig><term>ٹیب حرف</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Fluent</term></tig></langSet>
