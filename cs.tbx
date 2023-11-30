@@ -1265,6 +1265,14 @@
                 <langSet xml:lang="cs"><tig><term>Fluent</term></tig></langSet>
                 <descrip>“Fluent” is a “localization system for natural-sounding translations” - https://projectfluent.org/</descrip>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Invitation</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Pozvánka</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Invitations</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Pozvánky</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
