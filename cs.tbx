@@ -440,11 +440,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term>analyzovat </term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term></term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parser</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term>syntaktický analyzátor</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term></term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>partition</term></tig></langSet>
@@ -989,7 +989,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>variants</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term/></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>varianty</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>subcontractor</term></tig></langSet>
@@ -1009,7 +1009,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>identity</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term/></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>totožnost</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslated</term></tig></langSet>
@@ -1033,7 +1033,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>component list</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term/></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>seznam součastí</term></tig></langSet>
             </termEntry>
             <termEntry id="components">
                 <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
@@ -1041,7 +1041,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term/></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>záznam změn</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>access restriction</term></tig></langSet>
@@ -1049,7 +1049,7 @@
             </termEntry>
             <termEntry id="access restrictions (plural)">
                 <langSet xml:lang="en"><tig><term>access restrictions</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term/></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>omezení přístupu</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regex</term></tig></langSet>
@@ -1077,7 +1077,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>unresolved comment</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term/></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>nevyřešený komentář</term></tig></langSet>
             </termEntry>
             <termEntry id="opposite">
                 <langSet xml:lang="en"><tig><term>resolved comment</term></tig></langSet>
@@ -1089,7 +1089,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term/></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Hosted Weblate</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
@@ -1101,7 +1101,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>term</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term/></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>termín</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Privacy Policy</term></tig></langSet>
@@ -1125,7 +1125,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term/></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>e-mail, ze kterého je proveden commit</term></tig></langSet>
                 <descrip>e-mail address that will be used as committer</descrip>
             </termEntry>
             <termEntry>
@@ -1205,7 +1205,7 @@
             </termEntry>
             <termEntry id="Past tense">
                 <langSet xml:lang="en"><tig><term>translated</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term/></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>přeloženo</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repo</term></tig></langSet>
@@ -1213,7 +1213,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>text direction</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term/></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>směr textu</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>screenshot</term></tig></langSet>
@@ -1225,7 +1225,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>authorship</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term/></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>autorství</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
@@ -1233,15 +1233,15 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term/></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Weblate</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term/></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Metrika</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term/></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>nepřeložitelné</term></tig></langSet>
                 <descrip>Glossary terms that should not be changed from the source language</descrip>
             </termEntry>
             <termEntry>
