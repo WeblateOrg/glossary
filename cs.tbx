@@ -440,7 +440,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term/></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>zpracovat</term></tig></langSet>
+                <note from="translator">Nebo jak jinak?</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parser</term></tig></langSet>
@@ -1279,7 +1280,7 @@
             </termEntry>
             <termEntry id="alias &quot;source text&quot;">
                 <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term/></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>zdroj</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>User</term></tig></langSet>
