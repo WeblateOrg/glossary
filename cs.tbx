@@ -1301,6 +1301,18 @@
                 <langSet xml:lang="en"><tig><term>Markdown</term></tig></langSet>
                 <langSet xml:lang="cs"><tig><term>Markdown</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>ZIP</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>ZIP</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Invalid</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Neplatné</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Strings</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Řetězce</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
