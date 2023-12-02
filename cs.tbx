@@ -1273,6 +1273,38 @@
                 <langSet xml:lang="en"><tig><term>Visibility</term></tig></langSet>
                 <langSet xml:lang="cs"><tig><term>Viditelnost</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>String</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Řetězec</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Creator</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Tvůrce</term></tig></langSet>
+            </termEntry>
+            <termEntry id="alias &quot;source text&quot;">
+                <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>User</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Uživatel</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Status</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Stav</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Edit</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Upravit</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Creators</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Tvůrci</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Markdown</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Markdown</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
