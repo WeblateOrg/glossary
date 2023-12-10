@@ -1322,6 +1322,18 @@
                 <langSet xml:lang="en"><tig><term>Performed</term></tig></langSet>
                 <langSet xml:lang="cs"><tig><term>Provedena</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Comment</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Komentář</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Selector</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Selektor</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Received</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Obdržet</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
