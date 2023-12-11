@@ -265,7 +265,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>URL scheme</term></tig></langSet>
-                <langSet xml:lang="he"><tig><term/></tig></langSet>
+                <langSet xml:lang="he"><tig><term>תבנית כתובות</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
@@ -433,7 +433,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
-                <langSet xml:lang="he"><tig><term>לא מתורגם</term></tig></langSet>
+                <langSet xml:lang="he"><tig><term>לא לתרגום</term></tig></langSet>
                 <descrip>Glossary terms that should not be changed from the source language</descrip>
             </termEntry>
             <termEntry>
