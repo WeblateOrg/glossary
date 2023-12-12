@@ -390,6 +390,14 @@
                 <langSet xml:lang="en"><tig><term>e-mail</term></tig></langSet>
                 <langSet xml:lang="it"><tig><term>email</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>soft hyphen</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>trattino facoltativo</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>persona of translator</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>profilo del traduttore</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
