@@ -1334,6 +1334,14 @@
                 <langSet xml:lang="en"><tig><term>Received</term></tig></langSet>
                 <langSet xml:lang="cs"><tig><term>Obdržet</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>automatically</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>automaticky</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>XLIFF</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>XLIFF</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
