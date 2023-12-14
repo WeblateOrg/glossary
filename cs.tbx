@@ -208,7 +208,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>display</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term>displej (přesná terminologie v souvislosti s X serverem) </term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>displej (přesná terminologie v souvislosti s X serverem)</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>download</term></tig></langSet>
@@ -665,7 +665,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>website</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term>webové stránky</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>webová stránka</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>when getting started</term></tig></langSet>
