@@ -4589,7 +4589,7 @@
             </termEntry>
             <termEntry id="access restrictions (plural)">
                 <langSet xml:lang="en"><tig><term>access restrictions</term></tig></langSet>
-                <langSet xml:lang="sl"><tig><term/></tig></langSet>
+                <langSet xml:lang="sl"><tig><term>omejitve dostopa</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regex</term></tig></langSet>
@@ -4625,7 +4625,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
-                <langSet xml:lang="sl"><tig><term/></tig></langSet>
+                <langSet xml:lang="sl"><tig><term>Goščeni Weblate</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
@@ -4665,7 +4665,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
-                <langSet xml:lang="sl"><tig><term>e-pošta za pošiljanje</term></tig></langSet>
+                <langSet xml:lang="sl"><tig><term>e-naslov za objave</term></tig></langSet>
                 <descrip>e-mail address that will be used as committer</descrip>
             </termEntry>
             <termEntry>
@@ -4754,7 +4754,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repo</term></tig></langSet>
-                <langSet xml:lang="sl"><tig><term/></tig></langSet>
+                <langSet xml:lang="sl"><tig><term>skladišče</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>text direction</term></tig></langSet>
