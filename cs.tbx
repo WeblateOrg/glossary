@@ -1344,7 +1344,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>pull request</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term></term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Database</term></tig></langSet>
@@ -1352,11 +1352,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>removal</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term></term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>merge request</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term>GitLab požadavky na sloučení</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>požadavky na sloučení</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>JavaScript</term></tig></langSet>
@@ -1364,11 +1364,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tag</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term></term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>container</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term></term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>backup</term></tig></langSet>
@@ -1380,7 +1380,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>replacer</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term></term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>suggestion</term></tig></langSet>
@@ -1388,7 +1388,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>cleanup</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term></term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>file</term></tig></langSet>
