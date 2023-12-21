@@ -1342,10 +1342,6 @@
                 <langSet xml:lang="en"><tig><term>XLIFF</term></tig></langSet>
                 <langSet xml:lang="cs"><tig><term>XLIFF</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>pull request</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term/></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Database</term></tig></langSet>
                 <langSet xml:lang="cs"><tig><term>Databáze</term></tig></langSet>
