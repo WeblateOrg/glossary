@@ -1394,6 +1394,30 @@
                 <langSet xml:lang="en"><tig><term>Alternative</term></tig></langSet>
                 <langSet xml:lang="cs"><tig><term>Alternativní</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Quote</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Uvozovka</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Trigger</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>lowercase</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>upstream</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>URL</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>URL adresa</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Request</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
