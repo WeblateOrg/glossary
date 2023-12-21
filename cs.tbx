@@ -858,7 +858,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>failed</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term>selhavší</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>selhalo</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>message</term></tig></langSet>
