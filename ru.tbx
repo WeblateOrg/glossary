@@ -1079,6 +1079,10 @@
                 <note from="translator">Translation Service name.</note>
                 <descrip>Translation Service name.</descrip>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>pull request</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>запрос на извлечение</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
