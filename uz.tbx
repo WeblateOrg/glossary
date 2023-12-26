@@ -389,6 +389,10 @@
                 <langSet xml:lang="uz"><tig><term>Fluent</term></tig></langSet>
                 <descrip>“Fluent” is a “localization system for natural-sounding translations” - https://projectfluent.org/</descrip>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>persona</term></tig></langSet>
+                <langSet xml:lang="uz"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
