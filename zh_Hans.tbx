@@ -872,6 +872,10 @@
                 <note from="translator">目前不论是“著左权”还是“著作传”都有不恰当之处，可能会和“Bug”之类词一样长期被保留。记得大写。</note>
                 <descrip>目前不论是“著左权”还是“著作传”都有不恰当之处，可能会和“Bug”之类词一样长期被保留。记得大写。</descrip>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>persona</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
