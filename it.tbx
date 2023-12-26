@@ -398,6 +398,10 @@
                 <langSet xml:lang="en"><tig><term>persona of translator</term></tig></langSet>
                 <langSet xml:lang="it"><tig><term>profilo del traduttore</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>persona</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
