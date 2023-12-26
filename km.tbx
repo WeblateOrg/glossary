@@ -585,6 +585,10 @@ Photo=រូបថត</note>
                 <langSet xml:lang="km"><tig><term>ស្ទ្រុិង</term></tig></langSet>
                 <note from="translator">ប្រភេទទិន្នន័យដែលជាអត្ថបទ ស៊េរីតួអក្សរ និមិត្តសញ្ញា ឬ អឺរ៉េនៃតួអក្សរ អាចរក្សាទុកនិងដំណើរការដោយកុំព្យូទ័រ។</note>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>persona</term></tig></langSet>
+                <langSet xml:lang="km"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
