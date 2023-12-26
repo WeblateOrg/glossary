@@ -1400,15 +1400,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Trigger</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term></term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>lowercase</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term></term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>upstream</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term></term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>URL</term></tig></langSet>
@@ -1416,6 +1416,10 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Request</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>persona</term></tig></langSet>
                 <langSet xml:lang="cs"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
