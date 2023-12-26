@@ -462,6 +462,10 @@
                 <langSet xml:lang="en"><tig><term>team</term></tig></langSet>
                 <langSet xml:lang="sv"><tig><term>grupp</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>persona</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
