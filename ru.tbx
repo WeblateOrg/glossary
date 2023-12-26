@@ -1083,6 +1083,10 @@
                 <langSet xml:lang="en"><tig><term>pull request</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>запрос на извлечение</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>persona</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>личность</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
