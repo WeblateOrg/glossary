@@ -692,7 +692,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>persona</term></tig></langSet>
-                <langSet xml:lang="ca"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>rol</term></tig></langSet>
             </termEntry>
         </body>
     </text>
