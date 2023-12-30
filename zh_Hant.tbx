@@ -194,7 +194,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>platform</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>平臺</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>平台</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parameter</term></tig></langSet>
@@ -1534,7 +1534,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>persona</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term></term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
