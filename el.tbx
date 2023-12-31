@@ -121,7 +121,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
-                <langSet xml:lang="el"><tig><term/></tig></langSet>
+                <langSet xml:lang="el"><tig><term>ανάλυση</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>This is not used when a component list is selected.</term></tig></langSet>
@@ -141,7 +141,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>component list</term></tig></langSet>
-                <langSet xml:lang="el"><tig><term/></tig></langSet>
+                <langSet xml:lang="el"><tig><term>λίστα περιεχομένου</term></tig></langSet>
             </termEntry>
             <termEntry id="components">
                 <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
@@ -149,23 +149,23 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
-                <langSet xml:lang="el"><tig><term/></tig></langSet>
+                <langSet xml:lang="el"><tig><term>αρχείο αλλαγών</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pull request</term></tig></langSet>
-                <langSet xml:lang="el"><tig><term/></tig></langSet>
+                <langSet xml:lang="el"><tig><term>αίτημα έλξης</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>issue</term></tig></langSet>
-                <langSet xml:lang="el"><tig><term/></tig></langSet>
+                <langSet xml:lang="el"><tig><term>θέμα</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>access restriction</term></tig></langSet>
-                <langSet xml:lang="el"><tig><term/></tig></langSet>
+                <langSet xml:lang="el"><tig><term>περιορισμός πρόσβασης</term></tig></langSet>
             </termEntry>
             <termEntry id="access restrictions (plural)">
                 <langSet xml:lang="en"><tig><term>access restrictions</term></tig></langSet>
-                <langSet xml:lang="el"><tig><term/></tig></langSet>
+                <langSet xml:lang="el"><tig><term>περιορισμοί πρόσβασης</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regex</term></tig></langSet>
@@ -173,7 +173,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regular expression</term></tig></langSet>
-                <langSet xml:lang="el"><tig><term/></tig></langSet>
+                <langSet xml:lang="el"><tig><term>κανονική έκφραση</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>class</term></tig></langSet>
@@ -185,15 +185,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fixup</term></tig></langSet>
-                <langSet xml:lang="el"><tig><term/></tig></langSet>
+                <langSet xml:lang="el"><tig><term>επιδιόρθωση</term></tig></langSet>
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>translations</term></tig></langSet>
-                <langSet xml:lang="el"><tig><term/></tig></langSet>
+                <langSet xml:lang="el"><tig><term>μεταφράσεις</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation</term></tig></langSet>
-                <langSet xml:lang="el"><tig><term/></tig></langSet>
+                <langSet xml:lang="el"><tig><term>μετάφραση</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>unresolved comment</term></tig></langSet>
@@ -205,11 +205,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>URL scheme</term></tig></langSet>
-                <langSet xml:lang="el"><tig><term/></tig></langSet>
+                <langSet xml:lang="el"><tig><term>Σχήμα URL</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
-                <langSet xml:lang="el"><tig><term/></tig></langSet>
+                <langSet xml:lang="el"><tig><term>Φιλοξενία στο Weblate</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
@@ -217,35 +217,35 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translator</term></tig></langSet>
-                <langSet xml:lang="el"><tig><term/></tig></langSet>
+                <langSet xml:lang="el"><tig><term>μεταφραστής</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>term</term></tig></langSet>
-                <langSet xml:lang="el"><tig><term/></tig></langSet>
+                <langSet xml:lang="el"><tig><term>όρος</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Privacy Policy</term></tig></langSet>
-                <langSet xml:lang="el"><tig><term/></tig></langSet>
+                <langSet xml:lang="el"><tig><term>Πολιτική απορρήτου</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Terms of Service</term></tig></langSet>
-                <langSet xml:lang="el"><tig><term/></tig></langSet>
+                <langSet xml:lang="el"><tig><term>Όροι χρήσης</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>profile</term></tig></langSet>
-                <langSet xml:lang="el"><tig><term/></tig></langSet>
+                <langSet xml:lang="el"><tig><term>προφίλ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>project</term></tig></langSet>
-                <langSet xml:lang="el"><tig><term/></tig></langSet>
+                <langSet xml:lang="el"><tig><term>έργο</term></tig></langSet>
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>projects</term></tig></langSet>
-                <langSet xml:lang="el"><tig><term/></tig></langSet>
+                <langSet xml:lang="el"><tig><term>έργα</term></tig></langSet>
             </termEntry>
             <termEntry id="alias &quot;source text&quot;">
                 <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
-                <langSet xml:lang="el"><tig><term/></tig></langSet>
+                <langSet xml:lang="el"><tig><term>πηγή</term></tig></langSet>
             </termEntry>
             <termEntry id="alias &quot;Zen mode&quot;">
                 <langSet xml:lang="en"><tig><term>Zen</term></tig></langSet>
@@ -258,7 +258,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>history</term></tig></langSet>
-                <langSet xml:lang="el"><tig><term/></tig></langSet>
+                <langSet xml:lang="el"><tig><term>ιστορικό</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Django</term></tig></langSet>
@@ -266,7 +266,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation-finder</term></tig></langSet>
-                <langSet xml:lang="el"><tig><term/></tig></langSet>
+                <langSet xml:lang="el"><tig><term>αναζήτηση μεταφράσεων</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
@@ -333,35 +333,35 @@
             </termEntry>
             <termEntry id="Past tense">
                 <langSet xml:lang="en"><tig><term>translated</term></tig></langSet>
-                <langSet xml:lang="el"><tig><term/></tig></langSet>
+                <langSet xml:lang="el"><tig><term>μεταφρασμένα</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>glossary</term></tig></langSet>
-                <langSet xml:lang="el"><tig><term/></tig></langSet>
+                <langSet xml:lang="el"><tig><term>γλωσσάρι</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
-                <langSet xml:lang="el"><tig><term/></tig></langSet>
+                <langSet xml:lang="el"><tig><term>αποθετήριο</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repo</term></tig></langSet>
-                <langSet xml:lang="el"><tig><term/></tig></langSet>
+                <langSet xml:lang="el"><tig><term>αποθετήριο</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>text direction</term></tig></langSet>
-                <langSet xml:lang="el"><tig><term/></tig></langSet>
+                <langSet xml:lang="el"><tig><term>κατεύθυνση κειμένου</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>screenshot</term></tig></langSet>
-                <langSet xml:lang="el"><tig><term/></tig></langSet>
+                <langSet xml:lang="el"><tig><term>στιγμιότυπο οθόνης</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Screenshots</term></tig></langSet>
-                <langSet xml:lang="el"><tig><term/></tig></langSet>
+                <langSet xml:lang="el"><tig><term>Στιγμιότυπα οθόνης</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>authorship</term></tig></langSet>
-                <langSet xml:lang="el"><tig><term/></tig></langSet>
+                <langSet xml:lang="el"><tig><term>συγγραφή</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
@@ -373,11 +373,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
-                <langSet xml:lang="el"><tig><term/></tig></langSet>
+                <langSet xml:lang="el"><tig><term>Μετρήσεις</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
-                <langSet xml:lang="el"><tig><term/></tig></langSet>
+                <langSet xml:lang="el"><tig><term>αμετάφραστο</term></tig></langSet>
                 <descrip>Glossary terms that should not be changed from the source language</descrip>
             </termEntry>
             <termEntry>
@@ -390,7 +390,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tab character</term></tig></langSet>
-                <langSet xml:lang="el"><tig><term/></tig></langSet>
+                <langSet xml:lang="el"><tig><term>χαρακτήρας στηλοθέτη</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Fluent</term></tig></langSet>
@@ -399,7 +399,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>persona</term></tig></langSet>
-                <langSet xml:lang="el"><tig><term></term></tig></langSet>
+                <langSet xml:lang="el"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
