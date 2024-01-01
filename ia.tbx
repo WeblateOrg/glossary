@@ -12,7 +12,7 @@
         <body>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>edit</term></tig></langSet>
-                <langSet xml:lang="ia"><tig><term/></tig></langSet>
+                <langSet xml:lang="ia"><tig><term>editar</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SSO</term></tig></langSet>
@@ -20,15 +20,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
-                <langSet xml:lang="ia"><tig><term/></tig></langSet>
+                <langSet xml:lang="ia"><tig><term>private</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>search</term></tig></langSet>
-                <langSet xml:lang="ia"><tig><term/></tig></langSet>
+                <langSet xml:lang="ia"><tig><term>cercar</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
-                <langSet xml:lang="ia"><tig><term/></tig></langSet>
+                <langSet xml:lang="ia"><tig><term>additivo</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
@@ -382,7 +382,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>persona</term></tig></langSet>
-                <langSet xml:lang="ia"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ia"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
