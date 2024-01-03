@@ -181,7 +181,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
-                <langSet xml:lang="el"><tig><term/></tig></langSet>
+                <langSet xml:lang="el"><tig><term>σύντομο όνομα</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fixup</term></tig></langSet>
