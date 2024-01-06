@@ -132,7 +132,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>nhật ký thay đổi</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pull request</term></tig></langSet>
@@ -241,7 +241,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>history</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>lịch sử</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Django</term></tig></langSet>
@@ -382,7 +382,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>persona</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term></term></tig></langSet>
+                <langSet xml:lang="vi"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
