@@ -668,7 +668,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>호스팅된 웨블레이트</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>호스팅된 웹레이트</term></tig></langSet>
                 <note from="translator">호스팅된 웹레이트</note>
             </termEntry>
             <termEntry id="1">
