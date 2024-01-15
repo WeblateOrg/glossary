@@ -45,11 +45,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
-                <langSet xml:lang="eu"><tig><term/></tig></langSet>
+                <langSet xml:lang="eu"><tig><term>pribatua</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>search</term></tig></langSet>
-                <langSet xml:lang="eu"><tig><term/></tig></langSet>
+                <langSet xml:lang="eu"><tig><term>bilatu</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
@@ -73,7 +73,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Keyboard shortcuts</term></tig></langSet>
-                <langSet xml:lang="eu"><tig><term/></tig></langSet>
+                <langSet xml:lang="eu"><tig><term>Laster-teklak</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
@@ -81,7 +81,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Regular expressions</term></tig></langSet>
-                <langSet xml:lang="eu"><tig><term/></tig></langSet>
+                <langSet xml:lang="eu"><tig><term>adierazpen erregularrak</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gitee</term></tig></langSet>
@@ -89,11 +89,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Subject</term></tig></langSet>
-                <langSet xml:lang="eu"><tig><term/></tig></langSet>
+                <langSet xml:lang="eu"><tig><term>Gaia</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Personal Data</term></tig></langSet>
-                <langSet xml:lang="eu"><tig><term/></tig></langSet>
+                <langSet xml:lang="eu"><tig><term>Informazio pertsonala</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Cookies</term></tig></langSet>
@@ -101,11 +101,11 @@
             </termEntry>
             <termEntry id="XML Tag">
                 <langSet xml:lang="en"><tig><term>XML Tag</term></tig></langSet>
-                <langSet xml:lang="eu"><tig><term/></tig></langSet>
+                <langSet xml:lang="eu"><tig><term>XML etiketa</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>variants</term></tig></langSet>
-                <langSet xml:lang="eu"><tig><term/></tig></langSet>
+                <langSet xml:lang="eu"><tig><term>aldagaiak</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
@@ -121,7 +121,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>session</term></tig></langSet>
-                <langSet xml:lang="eu"><tig><term/></tig></langSet>
+                <langSet xml:lang="eu"><tig><term>saioa</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslated</term></tig></langSet>
@@ -129,7 +129,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
-                <langSet xml:lang="eu"><tig><term/></tig></langSet>
+                <langSet xml:lang="eu"><tig><term>aztertu</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>This is not used when a component list is selected.</term></tig></langSet>
@@ -161,7 +161,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pull request</term></tig></langSet>
-                <langSet xml:lang="eu"><tig><term/></tig></langSet>
+                <langSet xml:lang="eu"><tig><term>aldaketa proposamena</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>issue</term></tig></langSet>
@@ -181,7 +181,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regular expression</term></tig></langSet>
-                <langSet xml:lang="eu"><tig><term/></tig></langSet>
+                <langSet xml:lang="eu"><tig><term>adierazpen erregularra</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>class</term></tig></langSet>
@@ -197,15 +197,15 @@
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>translations</term></tig></langSet>
-                <langSet xml:lang="eu"><tig><term/></tig></langSet>
+                <langSet xml:lang="eu"><tig><term>itzulpenak</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation</term></tig></langSet>
-                <langSet xml:lang="eu"><tig><term/></tig></langSet>
+                <langSet xml:lang="eu"><tig><term>itzulpena</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>unresolved comment</term></tig></langSet>
-                <langSet xml:lang="eu"><tig><term/></tig></langSet>
+                <langSet xml:lang="eu"><tig><term>ebatzi gabeko iruzkina</term></tig></langSet>
             </termEntry>
             <termEntry id="opposite">
                 <langSet xml:lang="en"><tig><term>resolved comment</term></tig></langSet>
@@ -213,7 +213,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>URL scheme</term></tig></langSet>
-                <langSet xml:lang="eu"><tig><term/></tig></langSet>
+                <langSet xml:lang="eu"><tig><term>URLaren eskema</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
@@ -225,19 +225,19 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translator</term></tig></langSet>
-                <langSet xml:lang="eu"><tig><term/></tig></langSet>
+                <langSet xml:lang="eu"><tig><term>itzultzailea</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>term</term></tig></langSet>
-                <langSet xml:lang="eu"><tig><term/></tig></langSet>
+                <langSet xml:lang="eu"><tig><term>terminoa</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Terms of Service</term></tig></langSet>
-                <langSet xml:lang="eu"><tig><term/></tig></langSet>
+                <langSet xml:lang="eu"><tig><term>Zerbitzuaren baldintzak</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Privacy Policy</term></tig></langSet>
-                <langSet xml:lang="eu"><tig><term/></tig></langSet>
+                <langSet xml:lang="eu"><tig><term>Pribatutasun politika</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>profile</term></tig></langSet>
@@ -253,7 +253,7 @@
             </termEntry>
             <termEntry id="alias &quot;source text&quot;">
                 <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
-                <langSet xml:lang="eu"><tig><term/></tig></langSet>
+                <langSet xml:lang="eu"><tig><term>iturria</term></tig></langSet>
             </termEntry>
             <termEntry id="alias &quot;Zen mode&quot;">
                 <langSet xml:lang="en"><tig><term>Zen</term></tig></langSet>
@@ -274,7 +274,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation-finder</term></tig></langSet>
-                <langSet xml:lang="eu"><tig><term/></tig></langSet>
+                <langSet xml:lang="eu"><tig><term>itzulpen-bilatzailea</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
@@ -341,7 +341,7 @@
             </termEntry>
             <termEntry id="Past tense">
                 <langSet xml:lang="en"><tig><term>translated</term></tig></langSet>
-                <langSet xml:lang="eu"><tig><term/></tig></langSet>
+                <langSet xml:lang="eu"><tig><term>itzulita</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>glossary</term></tig></langSet>
@@ -357,15 +357,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>text direction</term></tig></langSet>
-                <langSet xml:lang="eu"><tig><term/></tig></langSet>
+                <langSet xml:lang="eu"><tig><term>testuaren noranzkoa</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>screenshot</term></tig></langSet>
-                <langSet xml:lang="eu"><tig><term/></tig></langSet>
+                <langSet xml:lang="eu"><tig><term>pantaila-argazkia</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Screenshots</term></tig></langSet>
-                <langSet xml:lang="eu"><tig><term/></tig></langSet>
+                <langSet xml:lang="eu"><tig><term>pantaila-argazkiak</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>authorship</term></tig></langSet>
@@ -385,7 +385,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
-                <langSet xml:lang="eu"><tig><term/></tig></langSet>
+                <langSet xml:lang="eu"><tig><term>itzulezina</term></tig></langSet>
                 <descrip>Glossary terms that should not be changed from the source language</descrip>
             </termEntry>
             <termEntry>
@@ -398,7 +398,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tab character</term></tig></langSet>
-                <langSet xml:lang="eu"><tig><term/></tig></langSet>
+                <langSet xml:lang="eu"><tig><term>tabulazio karakterea</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Fluent</term></tig></langSet>
@@ -407,7 +407,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>persona</term></tig></langSet>
-                <langSet xml:lang="eu"><tig><term></term></tig></langSet>
+                <langSet xml:lang="eu"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
