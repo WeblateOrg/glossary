@@ -367,7 +367,7 @@ PRIORITY_CHOICES = (&#13;
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fixup</term></tig></langSet>
-                <langSet xml:lang="ja"><tig><term>修正済み</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>修正</term></tig></langSet>
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>translations</term></tig></langSet>
@@ -399,7 +399,7 @@ PRIORITY_CHOICES = (&#13;
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>term</term></tig></langSet>
-                <langSet xml:lang="ja"><tig><term>用語集</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>用語</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Terms of Service</term></tig></langSet>
