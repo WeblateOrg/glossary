@@ -61,6 +61,7 @@
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
                 <langSet xml:lang="ro"><tig><term>comitere</term></tig></langSet>
                 <note from="translator">Vezi: https://dexonline.ro/definitie/comitere/paradigma</note>
+                <descrip>git-commit</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fuzzy</term></tig></langSet>
@@ -435,7 +436,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>persona</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ro"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
