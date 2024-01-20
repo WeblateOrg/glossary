@@ -402,7 +402,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
-                <langSet xml:lang="hr"><tig><term>e-mail adresa podnositelja promjene</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>e-mail adresa podnositelja</term></tig></langSet>
                 <descrip>e-mail address that will be used as committer</descrip>
             </termEntry>
             <termEntry>
@@ -616,7 +616,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>persona</term></tig></langSet>
-                <langSet xml:lang="hr"><tig><term></term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>uloga</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>subtitle</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>titl</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>subtitles</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>titlovi</term></tig></langSet>
             </termEntry>
         </body>
     </text>
