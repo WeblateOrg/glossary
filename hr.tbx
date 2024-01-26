@@ -238,7 +238,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Personal Data</term></tig></langSet>
-                <langSet xml:lang="hr"><tig><term>Osobni podaci</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>Osobni podatci</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Cookies</term></tig></langSet>
@@ -514,7 +514,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
-                <langSet xml:lang="hr"><tig><term>Metrični podaci</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>Metrični podatci</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
