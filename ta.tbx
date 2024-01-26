@@ -27,7 +27,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>search</term></tig></langSet>
-                <langSet xml:lang="ta"><tig><term>தேடல்</term></tig></langSet>
+                <langSet xml:lang="ta"><tig><term>தேடு</term></tig></langSet>
                 <note from="translator">Tētal</note>
             </termEntry>
             <termEntry>
@@ -72,7 +72,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Personal Data</term></tig></langSet>
-                <langSet xml:lang="ta"><tig><term>தனிப்பட்ட தகவல்</term></tig></langSet>
+                <langSet xml:lang="ta"><tig><term>தனிப்பட்ட செய்தி</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Cookies</term></tig></langSet>
@@ -80,7 +80,7 @@
             </termEntry>
             <termEntry id="XML Tag">
                 <langSet xml:lang="en"><tig><term>XML Tag</term></tig></langSet>
-                <langSet xml:lang="ta"><tig><term>எக்ச்எம்எல் குறிச்சொல்</term></tig></langSet>
+                <langSet xml:lang="ta"><tig><term>ஃச்எம்எல் குறிச்சொல்</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>variants</term></tig></langSet>
@@ -88,7 +88,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
-                <langSet xml:lang="ta"><tig><term>டோக்கன்</term></tig></langSet>
+                <langSet xml:lang="ta"><tig><term>கிள்ளாக்கு</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>current</term></tig></langSet>
@@ -124,7 +124,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pseudolocale</term></tig></langSet>
-                <langSet xml:lang="ta"><tig><term>சூடோலோகேல்</term></tig></langSet>
+                <langSet xml:lang="ta"><tig><term>போலிமொழி</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>component list</term></tig></langSet>
@@ -136,15 +136,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
-                <langSet xml:lang="ta"><tig><term>சேஞ்ச்லாக்</term></tig></langSet>
+                <langSet xml:lang="ta"><tig><term>மாற்றபதிவு</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pull request</term></tig></langSet>
-                <langSet xml:lang="ta"><tig><term>கோரிக்கையை இழுக்கவும்</term></tig></langSet>
+                <langSet xml:lang="ta"><tig><term>இழு கோரிக்கை</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>issue</term></tig></langSet>
-                <langSet xml:lang="ta"><tig><term>பிரச்சினை</term></tig></langSet>
+                <langSet xml:lang="ta"><tig><term>சிக்கல்</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>access restriction</term></tig></langSet>
@@ -156,7 +156,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regex</term></tig></langSet>
-                <langSet xml:lang="ta"><tig><term>ரெசெக்ச்</term></tig></langSet>
+                <langSet xml:lang="ta"><tig><term>வழக்கவெளி</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regular expression</term></tig></langSet>
@@ -168,11 +168,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
-                <langSet xml:lang="ta"><tig><term>ச்லக்</term></tig></langSet>
+                <langSet xml:lang="ta"><tig><term>குருட்டடி</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fixup</term></tig></langSet>
-                <langSet xml:lang="ta"><tig><term>சரி செய்</term></tig></langSet>
+                <langSet xml:lang="ta"><tig><term>சரிசெய்</term></tig></langSet>
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>translations</term></tig></langSet>
@@ -192,11 +192,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>URL scheme</term></tig></langSet>
-                <langSet xml:lang="ta"><tig><term>URL திட்டம்</term></tig></langSet>
+                <langSet xml:lang="ta"><tig><term>முகவரி திட்டம்</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
-                <langSet xml:lang="ta"><tig><term>வெப்லேட் ஓச்ட் செய்யப்பட்டது</term></tig></langSet>
+                <langSet xml:lang="ta"><tig><term>வலைபெயர்ப்பு புரவலன் செய்யப்பட்டது</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
@@ -212,7 +212,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Terms of Service</term></tig></langSet>
-                <langSet xml:lang="ta"><tig><term>சேவை விதிமுறைகள்</term></tig></langSet>
+                <langSet xml:lang="ta"><tig><term>பணி விதிமுறைகள்</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Privacy Policy</term></tig></langSet>
@@ -232,7 +232,7 @@
             </termEntry>
             <termEntry id="alias &quot;source text&quot;">
                 <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
-                <langSet xml:lang="ta"><tig><term>ஆதாரம்</term></tig></langSet>
+                <langSet xml:lang="ta"><tig><term>மூலம்</term></tig></langSet>
             </termEntry>
             <termEntry id="alias &quot;Zen mode&quot;">
                 <langSet xml:lang="en"><tig><term>Zen</term></tig></langSet>
@@ -332,7 +332,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repo</term></tig></langSet>
-                <langSet xml:lang="ta"><tig><term>ரெப்போ</term></tig></langSet>
+                <langSet xml:lang="ta"><tig><term>களஞ்சி</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>text direction</term></tig></langSet>
@@ -340,11 +340,11 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>screenshot</term></tig></langSet>
-                <langSet xml:lang="ta"><tig><term>ச்கிரீன் சாட்</term></tig></langSet>
+                <langSet xml:lang="ta"><tig><term>திரைக்காட்சி</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Screenshots</term></tig></langSet>
-                <langSet xml:lang="ta"><tig><term>திரைப்படிப்புகள்</term></tig></langSet>
+                <langSet xml:lang="ta"><tig><term>திரைக்காட்சிகள்</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>authorship</term></tig></langSet>
