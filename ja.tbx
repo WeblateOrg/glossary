@@ -591,6 +591,10 @@ PRIORITY_CHOICES = (&#13;
                 <langSet xml:lang="en"><tig><term>comma</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>コンマ</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>format string</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>書式文字列</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
