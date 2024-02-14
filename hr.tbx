@@ -626,6 +626,10 @@
                 <langSet xml:lang="en"><tig><term>subtitles</term></tig></langSet>
                 <langSet xml:lang="hr"><tig><term>titlovi</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>notification</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>obavijest</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
