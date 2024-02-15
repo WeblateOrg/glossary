@@ -1426,6 +1426,22 @@
                 <langSet xml:lang="en"><tig><term>requested</term></tig></langSet>
                 <langSet xml:lang="cs"><tig><term>vyžádán</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>review</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>kontrola</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>reviewer</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>recenzent</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>guideline</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>pokyny</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>dedicated reviewers</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>pověření recenzenti</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
