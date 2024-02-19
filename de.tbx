@@ -424,10 +424,6 @@
                 <langSet xml:lang="de"><tig><term>Quellcode</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>sources</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Quellen</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>website</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Website</term></tig></langSet>
             </termEntry>
