@@ -192,7 +192,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
-                <langSet xml:lang="sq"><tig><term>Hosted Weblate</term></tig></langSet>
+                <langSet xml:lang="sq"><tig><term>Weblate i Strehuar</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
@@ -382,7 +382,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>persona</term></tig></langSet>
-                <langSet xml:lang="sq"><tig><term></term></tig></langSet>
+                <langSet xml:lang="sq"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
