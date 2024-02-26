@@ -417,6 +417,10 @@
                 <langSet xml:lang="en"><tig><term>persona</term></tig></langSet>
                 <langSet xml:lang="uk"><tig><term>особа</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
+                <langSet xml:lang="uk"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
