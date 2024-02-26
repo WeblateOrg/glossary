@@ -1442,6 +1442,10 @@
                 <langSet xml:lang="en"><tig><term>dedicated reviewers</term></tig></langSet>
                 <langSet xml:lang="cs"><tig><term>pověření recenzenti</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
