@@ -959,7 +959,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>search</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
+                <langSet xml:lang="et"><tig><term>otsi</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
@@ -995,7 +995,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Subject</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
+                <langSet xml:lang="et"><tig><term>Teema</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Personal Data</term></tig></langSet>
@@ -1027,7 +1027,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>session</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
+                <langSet xml:lang="et"><tig><term>sessioon</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslated</term></tig></langSet>
@@ -1115,7 +1115,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>term</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
+                <langSet xml:lang="et"><tig><term>termin</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Privacy Policy</term></tig></langSet>
@@ -1139,7 +1139,7 @@
             </termEntry>
             <termEntry id="alias &quot;source text&quot;">
                 <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
+                <langSet xml:lang="et"><tig><term>allikas</term></tig></langSet>
             </termEntry>
             <termEntry id="alias &quot;Zen mode&quot;">
                 <langSet xml:lang="en"><tig><term>Zen</term></tig></langSet>
@@ -1276,7 +1276,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tab character</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
+                <langSet xml:lang="et"><tig><term>tabeldusmärk</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Fluent</term></tig></langSet>
