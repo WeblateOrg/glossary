@@ -27448,6 +27448,10 @@ Does dim gair yn y Gymraeg am 'slug'.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>persona</term></tig></langSet>
+                <langSet xml:lang="cy"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
                 <langSet xml:lang="cy"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
