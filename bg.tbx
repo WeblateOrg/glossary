@@ -506,6 +506,10 @@
                 <langSet xml:lang="en"><tig><term>persona</term></tig></langSet>
                 <langSet xml:lang="bg"><tig><term>личност</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
+                <langSet xml:lang="bg"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
