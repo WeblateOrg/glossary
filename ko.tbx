@@ -867,6 +867,10 @@
                 <langSet xml:lang="en"><tig><term>persona</term></tig></langSet>
                 <langSet xml:lang="ko"><tig><term>페르소나</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
