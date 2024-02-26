@@ -400,6 +400,10 @@
                 <langSet xml:lang="en"><tig><term>Hosting</term></tig></langSet>
                 <langSet xml:lang="lt"><tig><term>Priegloba</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
+                <langSet xml:lang="lt"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
