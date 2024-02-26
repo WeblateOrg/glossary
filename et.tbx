@@ -1007,11 +1007,11 @@
             </termEntry>
             <termEntry id="XML Tag">
                 <langSet xml:lang="en"><tig><term>XML Tag</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
+                <langSet xml:lang="et"><tig><term>XML märgendid</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>variants</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
+                <langSet xml:lang="et"><tig><term>variandid</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
@@ -1023,7 +1023,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>identity</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
+                <langSet xml:lang="et"><tig><term>identiteet</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>session</term></tig></langSet>
@@ -1091,15 +1091,15 @@
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>translations</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
+                <langSet xml:lang="et"><tig><term>tõlked</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>unresolved comment</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
+                <langSet xml:lang="et"><tig><term>lahendamata märkus</term></tig></langSet>
             </termEntry>
             <termEntry id="opposite">
                 <langSet xml:lang="en"><tig><term>resolved comment</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term>lahendatud kommentaar</term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>lahendatud märkus</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>URL scheme</term></tig></langSet>
@@ -1123,7 +1123,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Terms of Service</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
+                <langSet xml:lang="et"><tig><term>Teenuse tingimused</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>profile</term></tig></langSet>
@@ -1160,7 +1160,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation-finder</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
+                <langSet xml:lang="et"><tig><term>tõlkeotsija</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
@@ -1227,11 +1227,11 @@
             </termEntry>
             <termEntry id="Past tense">
                 <langSet xml:lang="en"><tig><term>translated</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
+                <langSet xml:lang="et"><tig><term>tõlgitud</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>glossary</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
+                <langSet xml:lang="et"><tig><term>terminoloogia</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repo</term></tig></langSet>
@@ -1239,7 +1239,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>text direction</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
+                <langSet xml:lang="et"><tig><term>teksti suund</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Screenshots</term></tig></langSet>
@@ -1263,7 +1263,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
+                <langSet xml:lang="et"><tig><term>tõlkimatu</term></tig></langSet>
                 <descrip>Glossary terms that should not be changed from the source language</descrip>
             </termEntry>
             <termEntry>
