@@ -595,6 +595,10 @@ PRIORITY_CHOICES = (&#13;
                 <langSet xml:lang="en"><tig><term>format string</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>書式文字列</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
