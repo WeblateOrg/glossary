@@ -388,6 +388,10 @@
                 <langSet xml:lang="en"><tig><term>persona</term></tig></langSet>
                 <langSet xml:lang="ta"><tig><term>ஆளுமை</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
+                <langSet xml:lang="ta"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
