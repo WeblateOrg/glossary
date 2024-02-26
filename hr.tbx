@@ -630,6 +630,10 @@
                 <langSet xml:lang="en"><tig><term>notification</term></tig></langSet>
                 <langSet xml:lang="hr"><tig><term>obavijest</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
