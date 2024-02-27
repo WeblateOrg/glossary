@@ -16,7 +16,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>abort</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>desbotar</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>interromper</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>absolute</term></tig></langSet>
@@ -28,7 +28,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>accelerator</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>atallo</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>tecla rápida</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>accent</term></tig></langSet>
@@ -40,7 +40,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>access</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>acceder</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>acceso</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>accessibility</term></tig></langSet>
@@ -3859,7 +3859,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>upload</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>cargar</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>enviar</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>upper case</term></tig></langSet>
@@ -4350,7 +4350,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term></term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
