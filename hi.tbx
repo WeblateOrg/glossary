@@ -68,7 +68,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Personal Data</term></tig></langSet>
-                <langSet xml:lang="hi"><tig><term/></tig></langSet>
+                <langSet xml:lang="hi"><tig><term>व्यक्तिगत डेटा</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Cookies</term></tig></langSet>
@@ -386,7 +386,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
-                <langSet xml:lang="hi"><tig><term></term></tig></langSet>
+                <langSet xml:lang="hi"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
