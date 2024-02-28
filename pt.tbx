@@ -36,7 +36,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>undo</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>anular, desfazer</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>anular</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>integration</term></tig></langSet>
@@ -64,7 +64,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>e-mail</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>mensagem (enviada ou recebida por correio eletrónico)</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>e-mail</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>active</term></tig></langSet>
@@ -721,7 +721,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term></term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
