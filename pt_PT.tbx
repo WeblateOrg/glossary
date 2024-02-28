@@ -297,7 +297,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>e-mail</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term>correio eletrónico</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>e-mail</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>e-mail</term></tig></langSet>
@@ -571,7 +571,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term></term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
