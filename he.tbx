@@ -463,7 +463,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
-                <langSet xml:lang="he"><tig><term></term></tig></langSet>
+                <langSet xml:lang="he"><tig><term>לוח ראשי</term></tig></langSet>
             </termEntry>
         </body>
     </text>
