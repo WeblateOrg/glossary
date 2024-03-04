@@ -608,7 +608,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>change</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>mudar</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>cambiar</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>channel</term></tig></langSet>
@@ -1000,7 +1000,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>custom</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>persoal</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>personalizado</term></tig></langSet>
                 <descrip>sérstaklega búinn til fyrir ákveðinn tilgang eða notanda</descrip>
             </termEntry>
             <termEntry>
@@ -4208,7 +4208,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>confirmar correo electrónico</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>correo-e da consolidación</term></tig></langSet>
                 <descrip>e-mail address that will be used as committer</descrip>
             </termEntry>
             <termEntry>
@@ -4355,6 +4355,37 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>taboleiro</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>sign in</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>rexistrar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>discovery</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>detección</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>consolidación</term></tig></langSet>
+                <descrip>git commit (v.g.)</descrip>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>consolidar</term></tig></langSet>
+                <descrip>git commit (v.g.)</descrip>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>commits</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>consolidacións</term></tig></langSet>
+                <note from="translator">git commit (v.g.)</note>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>push</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>enviar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pushing</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>enviando</term></tig></langSet>
             </termEntry>
         </body>
     </text>
