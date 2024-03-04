@@ -2755,7 +2755,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>push</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>mandar</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>«push»</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>quality</term></tig></langSet>
@@ -4120,7 +4120,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pull request</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>pull request</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>«pull request»</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>issue</term></tig></langSet>
@@ -4366,26 +4366,34 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>consolidación</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>facer «commit»</term></tig></langSet>
                 <descrip>git commit (v.g.)</descrip>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>consolidar</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>«commit»</term></tig></langSet>
                 <descrip>git commit (v.g.)</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commits</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>consolidacións</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>«commits»</term></tig></langSet>
                 <note from="translator">git commit (v.g.)</note>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>push</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>enviar</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>facer «push»</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pushing</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>enviando</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>facer «push»</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>squash</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>concentrar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>squashing</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>concentración</term></tig></langSet>
             </termEntry>
         </body>
     </text>
