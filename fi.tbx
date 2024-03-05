@@ -534,7 +534,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
-                <langSet xml:lang="fi"><tig><term></term></tig></langSet>
+                <langSet xml:lang="fi"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Zadnu</term></tig></langSet>
+                <langSet xml:lang="fi"><tig><term>Zadnu</term></tig></langSet>
             </termEntry>
         </body>
     </text>
