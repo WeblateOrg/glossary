@@ -308,7 +308,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
-                <langSet xml:lang="kn"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kn"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Zadnu</term></tig></langSet>
+                <langSet xml:lang="kn"><tig><term>Zadnu</term></tig></langSet>
             </termEntry>
         </body>
     </text>
