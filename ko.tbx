@@ -869,7 +869,11 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Zadnu</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>Zadnu</term></tig></langSet>
             </termEntry>
         </body>
     </text>
