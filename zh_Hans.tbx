@@ -876,6 +876,10 @@
                 <langSet xml:lang="en"><tig><term>persona</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>人格面貌</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Zadnu</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>Zadnu</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
