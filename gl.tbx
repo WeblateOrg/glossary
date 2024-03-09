@@ -3727,7 +3727,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>token</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>testemuño</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tool</term></tig></langSet>
@@ -4434,6 +4434,35 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>upstream repository</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>repositorio de orixe</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>branch</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>póla</term></tig></langSet>
+                <note from="translator">no contexto de «Git» e SCV</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>addon</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>engadido</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>sentence</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>frase</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>reverse charge</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>inversión de suxeito pasivo</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hosting</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>aloxamento</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Tax registration</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>Rexistro fiscal</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>support</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>asistencia</term></tig></langSet>
             </termEntry>
         </body>
     </text>
