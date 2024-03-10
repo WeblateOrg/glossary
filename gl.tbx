@@ -4464,6 +4464,22 @@
                 <langSet xml:lang="en"><tig><term>support</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>asistencia</term></tig></langSet>
             </termEntry>
+            <termEntry id="2">
+                <langSet xml:lang="en"><tig><term>flag</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>bandeira</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>flags</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>sinaladores</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>flags</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>bandeiras</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>flag</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>sinalador</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
