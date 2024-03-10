@@ -354,6 +354,10 @@
                 <langSet xml:lang="en"><tig><term>Zadnu</term></tig></langSet>
                 <langSet xml:lang="af"><tig><term>Zadnu</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Accept</term></tig></langSet>
+                <langSet xml:lang="af"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
