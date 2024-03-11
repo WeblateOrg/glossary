@@ -238,7 +238,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>edit</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term/></tig></langSet>
+                <langSet xml:lang="ro"><tig><term>editează</term></tig></langSet>
             </termEntry>
             <termEntry id="alias &quot;source text&quot;">
                 <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
@@ -449,7 +449,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Accept</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term/></tig></langSet>
+                <langSet xml:lang="ro"><tig><term>Acceptă</term></tig></langSet>
             </termEntry>
         </body>
     </text>
