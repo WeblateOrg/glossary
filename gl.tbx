@@ -4188,7 +4188,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Privacy Policy</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>Política de Privacidade</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>Directiva de privacidade</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Terms of Service</term></tig></langSet>
@@ -4483,6 +4483,18 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Accept</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>built-in team.</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>equipo integrado.</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>built-in</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>integrado</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>policy</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>directiva</term></tig></langSet>
             </termEntry>
         </body>
     </text>
