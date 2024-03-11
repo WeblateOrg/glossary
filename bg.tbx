@@ -520,7 +520,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Accept</term></tig></langSet>
-                <langSet xml:lang="bg"><tig><term/></tig></langSet>
+                <langSet xml:lang="bg"><tig><term>Приемане</term></tig></langSet>
             </termEntry>
         </body>
     </text>
