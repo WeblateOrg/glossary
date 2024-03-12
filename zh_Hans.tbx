@@ -882,7 +882,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Accept</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>接受</term></tig></langSet>
             </termEntry>
         </body>
     </text>
