@@ -72,7 +72,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Repository</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>Depot</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>Repository</term></tig></langSet>
+                <note from="translator">Since Github doesn't support Danish, I think using the English term for repository (or repo) would be more understandable, even for Danes as they surely have grown accustomed to that.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
@@ -221,11 +222,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>unresolved comment</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>uforløst kommentar</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>uløst kommentar</term></tig></langSet>
             </termEntry>
             <termEntry id="opposite">
                 <langSet xml:lang="en"><tig><term>resolved comment</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>forløst kommentar</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>løst kommentar</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>URL scheme</term></tig></langSet>
@@ -253,7 +254,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Terms of Service</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>Tjenestevilkår</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>Servicevilkår</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>profile</term></tig></langSet>
@@ -261,11 +262,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>project</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>projekt/projektere</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>projekt</term></tig></langSet>
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>projects</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>projekter/projekterer</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>projekter</term></tig></langSet>
             </termEntry>
             <termEntry id="alias &quot;source text&quot;">
                 <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
@@ -277,7 +278,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>e-post til forpligtelse</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>commit e-mail</term></tig></langSet>
                 <descrip>e-mail address that will be used as committer</descrip>
             </termEntry>
             <termEntry>
@@ -365,11 +366,13 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>depot</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>repository</term></tig></langSet>
+                <note from="translator">Since Github doesn't support Danish, I think using the English term for repository (or repo) would be more understandable, even for Danes as they surely have grown accustomed to that.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repo</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>depot</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>repo</term></tig></langSet>
+                <note from="translator">Since Github doesn't support Danish, I think using the English term for repository (or repo) would be more understandable, even for Danes as they surely have grown accustomed to that.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>text direction</term></tig></langSet>
@@ -414,7 +417,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tab character</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term/></tig></langSet>
+                <langSet xml:lang="da"><tig><term>tabulatortegn</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Fluent</term></tig></langSet>
@@ -439,7 +442,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Accept</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term/></tig></langSet>
+                <langSet xml:lang="da"><tig><term>Acceptér</term></tig></langSet>
             </termEntry>
         </body>
     </text>
