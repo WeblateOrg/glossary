@@ -4510,6 +4510,14 @@
                 <langSet xml:lang="en"><tig><term>flag</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>marcador</term></tig></langSet>
             </termEntry>
+            <termEntry id="Variante 2">
+                <langSet xml:lang="en"><tig><term>flag</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>sinalador</term></tig></langSet>
+            </termEntry>
+            <termEntry id="Variante 3">
+                <langSet xml:lang="en"><tig><term>flag</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>indicador</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
