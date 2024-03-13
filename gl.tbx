@@ -4514,6 +4514,10 @@
                 <note from="translator">Sistema de Control de Versións</note>
                 <descrip>Sistema de Control de Versións</descrip>
             </termEntry>
+            <termEntry id="Variante 1">
+                <langSet xml:lang="en"><tig><term>flag</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>marcador</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
