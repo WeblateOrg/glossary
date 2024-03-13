@@ -4488,10 +4488,6 @@
                 <langSet xml:lang="en"><tig><term>policy</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>directiva</term></tig></langSet>
             </termEntry>
-            <termEntry id="2">
-                <langSet xml:lang="en"><tig><term>flags</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>indicadores</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>is flagged</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>márcase</term></tig></langSet>
