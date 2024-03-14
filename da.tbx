@@ -36,11 +36,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>version control system</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>udgavekontrolsystem</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>versionskontrolsystem</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>version control</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>udgavekontrol</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>versionskontrol</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>whitespace</term></tig></langSet>
@@ -122,7 +122,7 @@
             </termEntry>
             <termEntry id="XML Tag">
                 <langSet xml:lang="en"><tig><term>XML Tag</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>XML-Mærke</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>XML-tag</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>variants</term></tig></langSet>
@@ -130,7 +130,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>amulet</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>token</term></tig></langSet>
+                <note from="translator">Not sure of the actual term.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>current</term></tig></langSet>
@@ -182,7 +183,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pull request</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>trækbegæring</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>pull-anmodning</term></tig></langSet>
+                <note from="translator">Not quite sure of the actual term, but I think this gets the meaning across.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>issue</term></tig></langSet>
@@ -190,11 +192,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>access restriction</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>adgangsbegrænsning</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>adgangsrestriktion</term></tig></langSet>
             </termEntry>
             <termEntry id="access restrictions (plural)">
                 <langSet xml:lang="en"><tig><term>access restrictions</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>adgangsbegrænsninger</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>adgangsrestriktioner</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regular expression</term></tig></langSet>
@@ -278,7 +280,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>commit e-mail</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term></term></tig></langSet>
                 <descrip>e-mail address that will be used as committer</descrip>
             </termEntry>
             <termEntry>
@@ -404,7 +406,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>uoversætteligt</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>uoversættelig</term></tig></langSet>
                 <descrip>Glossary terms that should not be changed from the source language</descrip>
             </termEntry>
             <termEntry>
@@ -421,7 +423,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Fluent</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>Fluent</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>Flydende</term></tig></langSet>
                 <descrip>“Fluent” is a “localization system for natural-sounding translations” - https://projectfluent.org/</descrip>
             </termEntry>
             <termEntry>
@@ -443,6 +445,14 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Accept</term></tig></langSet>
                 <langSet xml:lang="da"><tig><term>Acceptér</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Billing</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>Fakturering</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>billing</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>fakturering</term></tig></langSet>
             </termEntry>
         </body>
     </text>
