@@ -420,6 +420,28 @@
                 <langSet xml:lang="en"><tig><term>Protected</term></tig></langSet>
                 <langSet xml:lang="da"><tig><term>Beskyttet</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Private</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>Privat</term></tig></langSet>
+            </termEntry>
+            <termEntry id="plural">
+                <langSet xml:lang="en"><tig><term>Private</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>Private</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>billing plan</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>betalingsplan</term></tig></langSet>
+                <note from="translator">Sounds more natural, imo.</note>
+                <descrip>Sounds more natural, imo.</descrip>
+            </termEntry>
+            <termEntry id="plural">
+                <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>komponenter</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>component</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>komponent</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
