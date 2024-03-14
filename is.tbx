@@ -244,7 +244,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>issue tracker</term></tig></langSet>
-                <langSet xml:lang="is"><tig><term>vandamálarekjandi</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>skrásetjari, verkbeiðnakerfi</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>installation</term></tig></langSet>
@@ -344,7 +344,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>hash</term></tig></langSet>
-                <langSet xml:lang="is"><tig><term>mylna</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>tætigildi</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>browser</term></tig></langSet>
@@ -364,7 +364,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>instance</term></tig></langSet>
-                <langSet xml:lang="is"><tig><term>verkvangur</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>verkvangur, tilvik</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>hosting plan</term></tig></langSet>
@@ -423,12 +423,12 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>backup</term></tig></langSet>
-                <langSet xml:lang="is"><tig><term>varaafrit</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>öryggisafrit, varaafrit</term></tig></langSet>
                 <descrip>afrit af gögnum sem geymt er til varnar því að tapa gögnum ef eitthvað kemur fyrir hin upprunalegu</descrip>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>documentation</term></tig></langSet>
-                <langSet xml:lang="is"><tig><term>fræðslugögn</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>leiðbeiningar, hjálparskjöl, fræðslugögn</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>portal</term></tig></langSet>
@@ -445,7 +445,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>component</term></tig></langSet>
-                <langSet xml:lang="is"><tig><term>íhlutur</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>þýðingarhluti, eining, íhlutur</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>version control system</term></tig></langSet>
@@ -453,7 +453,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>flag</term></tig></langSet>
-                <langSet xml:lang="is"><tig><term>stöðuvísir</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>flagg, stöðuvísir</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CI</term></tig></langSet>
@@ -573,7 +573,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
-                <langSet xml:lang="is"><tig><term/></tig></langSet>
+                <langSet xml:lang="is"><tig><term>slóðarbútur</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fixup</term></tig></langSet>
@@ -625,11 +625,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>project</term></tig></langSet>
-                <langSet xml:lang="is"><tig><term/></tig></langSet>
+                <langSet xml:lang="is"><tig><term>verkefni</term></tig></langSet>
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>projects</term></tig></langSet>
-                <langSet xml:lang="is"><tig><term/></tig></langSet>
+                <langSet xml:lang="is"><tig><term>verkefni</term></tig></langSet>
             </termEntry>
             <termEntry id="alias &quot;source text&quot;">
                 <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
@@ -641,12 +641,12 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
-                <langSet xml:lang="is"><tig><term/></tig></langSet>
+                <langSet xml:lang="is"><tig><term>tölvupóstfang innsendingar</term></tig></langSet>
                 <descrip>e-mail address that will be used as committer</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>history</term></tig></langSet>
-                <langSet xml:lang="is"><tig><term/></tig></langSet>
+                <langSet xml:lang="is"><tig><term>vinnsluferill</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Django</term></tig></langSet>
@@ -654,7 +654,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation-finder</term></tig></langSet>
-                <langSet xml:lang="is"><tig><term/></tig></langSet>
+                <langSet xml:lang="is"><tig><term>translation-finder</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
@@ -721,31 +721,31 @@
             </termEntry>
             <termEntry id="Past tense">
                 <langSet xml:lang="en"><tig><term>translated</term></tig></langSet>
-                <langSet xml:lang="is"><tig><term>þýddur</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term>þýtt, þýdd, þýddur</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>glossary</term></tig></langSet>
-                <langSet xml:lang="is"><tig><term/></tig></langSet>
+                <langSet xml:lang="is"><tig><term>orðasafn</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repo</term></tig></langSet>
-                <langSet xml:lang="is"><tig><term/></tig></langSet>
+                <langSet xml:lang="is"><tig><term>gagnasafn</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>text direction</term></tig></langSet>
-                <langSet xml:lang="is"><tig><term/></tig></langSet>
+                <langSet xml:lang="is"><tig><term>textastefna</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>screenshot</term></tig></langSet>
-                <langSet xml:lang="is"><tig><term/></tig></langSet>
+                <langSet xml:lang="is"><tig><term>skjámynd</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Screenshots</term></tig></langSet>
-                <langSet xml:lang="is"><tig><term/></tig></langSet>
+                <langSet xml:lang="is"><tig><term>Skjámyndir</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>authorship</term></tig></langSet>
-                <langSet xml:lang="is"><tig><term/></tig></langSet>
+                <langSet xml:lang="is"><tig><term>höfundar</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
@@ -757,11 +757,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
-                <langSet xml:lang="is"><tig><term/></tig></langSet>
+                <langSet xml:lang="is"><tig><term>Mælistærðir</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
-                <langSet xml:lang="is"><tig><term/></tig></langSet>
+                <langSet xml:lang="is"><tig><term>óþýðanlegt</term></tig></langSet>
                 <descrip>Glossary terms that should not be changed from the source language</descrip>
             </termEntry>
             <termEntry>
@@ -774,7 +774,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tab character</term></tig></langSet>
-                <langSet xml:lang="is"><tig><term/></tig></langSet>
+                <langSet xml:lang="is"><tig><term>inndráttarmerki</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Fluent</term></tig></langSet>
@@ -783,11 +783,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>persona</term></tig></langSet>
-                <langSet xml:lang="is"><tig><term/></tig></langSet>
+                <langSet xml:lang="is"><tig><term>einkenni</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
-                <langSet xml:lang="is"><tig><term/></tig></langSet>
+                <langSet xml:lang="is"><tig><term>Mælistærðir</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Zadnu</term></tig></langSet>
@@ -795,7 +795,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Accept</term></tig></langSet>
-                <langSet xml:lang="is"><tig><term/></tig></langSet>
+                <langSet xml:lang="is"><tig><term>Samþykkja</term></tig></langSet>
             </termEntry>
         </body>
     </text>
