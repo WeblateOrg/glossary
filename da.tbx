@@ -428,7 +428,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Manage</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>Administrér</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>Administrér/Administrere</term></tig></langSet>
+                <note from="translator">Either of them depending on context.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Access</term></tig></langSet>
@@ -449,6 +450,10 @@
             <termEntry id="plural">
                 <langSet xml:lang="en"><tig><term>commits</term></tig></langSet>
                 <langSet xml:lang="da"><tig><term>commits</term></tig></langSet>
+            </termEntry>
+            <termEntry id="lower-case">
+                <langSet xml:lang="en"><tig><term>billing</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>fakturering</term></tig></langSet>
             </termEntry>
         </body>
     </text>
