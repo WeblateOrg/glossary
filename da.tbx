@@ -336,11 +336,6 @@
                 <langSet xml:lang="en"><tig><term>Read the Docs</term></tig></langSet>
                 <langSet xml:lang="da"><tig><term>Læs Dokumenterne</term></tig></langSet>
             </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Google OAuth 2</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term/></tig></langSet>
-                <descrip>登入認證協定</descrip>
-            </termEntry>
             <termEntry id="Past tense">
                 <langSet xml:lang="en"><tig><term>translated</term></tig></langSet>
                 <langSet xml:lang="da"><tig><term>oversat</term></tig></langSet>
