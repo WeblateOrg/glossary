@@ -71,11 +71,6 @@
                 <langSet xml:lang="da"><tig><term>Reference</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Repository</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>Repository</term></tig></langSet>
-                <note from="translator">Since Github doesn't support Danish, I think using the English term for repository (or repo) would be more understandable, even for Danes as they surely have grown accustomed to that.</note>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
                 <langSet xml:lang="da"><tig><term>NBD</term></tig></langSet>
                 <note from="translator">Network Block Device</note>
