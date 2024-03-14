@@ -403,10 +403,6 @@
                 <descrip>“Fluent” is a “localization system for natural-sounding translations” - https://projectfluent.org/</descrip>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>persona</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
                 <langSet xml:lang="da"><tig><term/></tig></langSet>
             </termEntry>
