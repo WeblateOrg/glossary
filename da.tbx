@@ -447,10 +447,6 @@
                 <langSet xml:lang="da"><tig><term>Fakturering</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Settings</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>Indstillinger</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Manage</term></tig></langSet>
                 <langSet xml:lang="da"><tig><term>Administrér</term></tig></langSet>
             </termEntry>
