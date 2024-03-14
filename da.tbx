@@ -218,10 +218,6 @@
                 <langSet xml:lang="da"><tig><term>løst kommentar</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>URL scheme</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>URL-skema</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
                 <langSet xml:lang="da"><tig><term/></tig></langSet>
             </termEntry>
@@ -429,7 +425,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term></term></tig></langSet>
+                <langSet xml:lang="da"><tig><term/></tig></langSet>
                 <descrip>e-mail address that will be used as committer</descrip>
             </termEntry>
         </body>
