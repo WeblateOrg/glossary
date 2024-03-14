@@ -384,10 +384,6 @@
                 <note from="translator">Either of them depending on context.</note>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Access</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>Adgang</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>team</term></tig></langSet>
                 <langSet xml:lang="da"><tig><term>team</term></tig></langSet>
             </termEntry>
