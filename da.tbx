@@ -303,7 +303,8 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>screenshot</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>skærmbillede</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>skærmbillede(r)</term></tig></langSet>
+                <note from="translator">(r) for plural</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>authorship</term></tig></langSet>
