@@ -105,10 +105,6 @@
                 <langSet xml:lang="da"><tig><term>XML-tag</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>variants</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>varianter</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
                 <langSet xml:lang="da"><tig><term>token</term></tig></langSet>
                 <note from="translator">Not sure of the actual term.</note>
