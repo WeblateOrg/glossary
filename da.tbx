@@ -400,11 +400,6 @@
                 <langSet xml:lang="da"><tig><term>repo</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term/></tig></langSet>
-                <descrip>e-mail address that will be used as committer</descrip>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Access control</term></tig></langSet>
                 <langSet xml:lang="da"><tig><term>Adgangskontrol</term></tig></langSet>
             </termEntry>
