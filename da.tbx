@@ -173,10 +173,6 @@
                 <langSet xml:lang="en"><tig><term>access restriction</term></tig></langSet>
                 <langSet xml:lang="da"><tig><term>adgangsrestriktion</term></tig></langSet>
             </termEntry>
-            <termEntry id="access restrictions (plural)">
-                <langSet xml:lang="en"><tig><term>access restrictions</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>adgangsrestriktioner</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regular expression</term></tig></langSet>
                 <langSet xml:lang="da"><tig><term>regulært udtryk</term></tig></langSet>
