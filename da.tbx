@@ -345,10 +345,6 @@
                 <langSet xml:lang="en"><tig><term>team</term></tig></langSet>
                 <langSet xml:lang="da"><tig><term>team</term></tig></langSet>
             </termEntry>
-            <termEntry id="plural">
-                <langSet xml:lang="en"><tig><term>teams</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>teams</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>settings</term></tig></langSet>
                 <langSet xml:lang="da"><tig><term>indstillinger</term></tig></langSet>
