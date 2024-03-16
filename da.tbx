@@ -220,11 +220,6 @@
                 <descrip>mymemory.translated.net</descrip>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>tmserver</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term/></tig></langSet>
-                <descrip>Translate Toolkit</descrip>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Gravatar</term></tig></langSet>
                 <langSet xml:lang="da"><tig><term/></tig></langSet>
                 <descrip>gravatar.com</descrip>
