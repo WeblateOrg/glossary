@@ -160,6 +160,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regular expression</term></tig></langSet>
                 <langSet xml:lang="da"><tig><term>regulært udtryk</term></tig></langSet>
+                <note from="translator">plural: regulære udtryk</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regex</term></tig></langSet>
