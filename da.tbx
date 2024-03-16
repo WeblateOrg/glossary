@@ -125,10 +125,6 @@
                 <langSet xml:lang="da"><tig><term>nuværende/aktuel</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>identity</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>identitet</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>session</term></tig></langSet>
                 <langSet xml:lang="da"><tig><term>session</term></tig></langSet>
             </termEntry>
