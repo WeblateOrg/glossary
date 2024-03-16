@@ -387,10 +387,6 @@
                 <langSet xml:lang="en"><tig><term>Private</term></tig></langSet>
                 <langSet xml:lang="da"><tig><term>Privat</term></tig></langSet>
             </termEntry>
-            <termEntry id="plural">
-                <langSet xml:lang="en"><tig><term>Private</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>Private</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>billing plan</term></tig></langSet>
                 <langSet xml:lang="da"><tig><term>betalingsplan</term></tig></langSet>
