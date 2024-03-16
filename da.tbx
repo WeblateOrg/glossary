@@ -430,10 +430,6 @@
                 <note from="translator">Sounds more natural, imo.</note>
                 <descrip>Sounds more natural, imo.</descrip>
             </termEntry>
-            <termEntry id="plural">
-                <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>komponenter</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>component</term></tig></langSet>
                 <langSet xml:lang="da"><tig><term>komponent</term></tig></langSet>
