@@ -180,10 +180,6 @@
                 <langSet xml:lang="da"><tig><term>korrektion</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>unresolved comment</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>uløst kommentar</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
                 <langSet xml:lang="da"><tig><term/></tig></langSet>
             </termEntry>
