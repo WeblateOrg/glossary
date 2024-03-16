@@ -178,10 +178,6 @@
                 <langSet xml:lang="en"><tig><term>fixup</term></tig></langSet>
                 <langSet xml:lang="da"><tig><term>korrektion</term></tig></langSet>
             </termEntry>
-            <termEntry id="plural form">
-                <langSet xml:lang="en"><tig><term>translations</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>oversættelser</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>unresolved comment</term></tig></langSet>
                 <langSet xml:lang="da"><tig><term>uløst kommentar</term></tig></langSet>
