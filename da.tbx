@@ -270,10 +270,6 @@
                 <langSet xml:lang="da"><tig><term>repository</term></tig></langSet>
                 <note from="translator">As Github doesn't support Danish, using the English term might be easier to understand.</note>
             </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>text direction</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>tekstretning</term></tig></langSet>
-            </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>screenshot</term></tig></langSet>
                 <langSet xml:lang="da"><tig><term>skærmbillede(r)</term></tig></langSet>
