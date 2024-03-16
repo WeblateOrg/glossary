@@ -157,10 +157,6 @@
                 <langSet xml:lang="da"><tig><term>falsk lokalitet</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>component list</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>komponentliste</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
                 <langSet xml:lang="da"><tig><term>ændringslog</term></tig></langSet>
             </termEntry>
