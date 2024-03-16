@@ -160,10 +160,6 @@
                 <langSet xml:lang="da"><tig><term>regex</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>class</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>klasse</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
                 <langSet xml:lang="da"><tig><term>hylster</term></tig></langSet>
             </termEntry>
