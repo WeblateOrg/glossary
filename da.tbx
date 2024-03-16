@@ -20,10 +20,6 @@
                 <note from="translator">(r) for plural</note>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>username</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>brugernavn</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>version control system</term></tig></langSet>
                 <langSet xml:lang="da"><tig><term>versionskontrolsystem</term></tig></langSet>
             </termEntry>
