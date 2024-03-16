@@ -395,10 +395,6 @@
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
                 <langSet xml:lang="da"><tig><term>commit</term></tig></langSet>
             </termEntry>
-            <termEntry id="plural">
-                <langSet xml:lang="en"><tig><term>commits</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>commits</term></tig></langSet>
-            </termEntry>
             <termEntry id="abbreviation">
                 <langSet xml:lang="en"><tig><term>repo</term></tig></langSet>
                 <langSet xml:lang="da"><tig><term>repo</term></tig></langSet>
