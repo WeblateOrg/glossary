@@ -813,13 +813,13 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>screenshot</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>스크린숏</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>스크린샷</term></tig></langSet>
                 <note from="translator">규범 표기는 ‘스크린숏’ 입니다</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Screenshots</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>스크린숏</term></tig></langSet>
-                <note from="translator">규범 표기는 ‘스크린숏’ 입니다</note>
+                <langSet xml:lang="ko"><tig><term>스크린샷</term></tig></langSet>
+                <note from="translator">규범 표기는 ‘스크린숏’ 입니다만  일상 용어인 스크린샷 또는 한글화된 화면갈무리 등이 추천됩니다.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>authorship</term></tig></langSet>
@@ -869,7 +869,8 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term/></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>측정항목</term></tig></langSet>
+                <note from="translator">weblate에서 편집된 문자의 양을 측정 할 때에 적용됩니다.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Zadnu</term></tig></langSet>
@@ -877,7 +878,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Accept</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term/></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>승인</term></tig></langSet>
             </termEntry>
         </body>
     </text>
