@@ -20,7 +20,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>oversættelse</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>oversættelse(r)</term></tig></langSet>
+                <note from="translator">(r) for plural</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>username</term></tig></langSet>
