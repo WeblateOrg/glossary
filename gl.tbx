@@ -120,7 +120,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>agreement</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>acordo</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>conformidade</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>alarm</term></tig></langSet>
@@ -4208,7 +4208,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>correo-e da consolidación</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>correo-e da «commit»</term></tig></langSet>
                 <descrip>e-mail address that will be used as committer</descrip>
             </termEntry>
             <termEntry>
@@ -4371,8 +4371,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>«commit»</term></tig></langSet>
-                <descrip>git commit (v.g.)</descrip>
+                <langSet xml:lang="gl"><tig><term></term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commits</term></tig></langSet>
@@ -4521,6 +4520,43 @@
             <termEntry id="Variante 1">
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>análise</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>preventing</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>impedindo</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>prevent</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>impedir</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>agreement</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>acordo</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>localization</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>tradución</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>ensures</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>garante</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>ensure</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>asegura</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Key</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>Clave</term></tig></langSet>
+                <note from="translator">Cando se refire a «translation key»</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>needs</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>precisa de</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>keep</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>conservar</term></tig></langSet>
             </termEntry>
         </body>
     </text>
