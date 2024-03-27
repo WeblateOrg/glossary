@@ -587,7 +587,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>variants</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>變型</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>變體</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>current</term></tig></langSet>
@@ -1534,11 +1534,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>persona</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>人格面貌</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>指標</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Zadnu</term></tig></langSet>
@@ -1546,7 +1546,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Accept</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>接受</term></tig></langSet>
             </termEntry>
         </body>
     </text>
