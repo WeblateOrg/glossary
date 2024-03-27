@@ -4585,6 +4585,20 @@
                 <langSet xml:lang="en"><tig><term>danger</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>risco</term></tig></langSet>
             </termEntry>
+            <termEntry id="cando non acae ben arranxar">
+                <langSet xml:lang="en"><tig><term>fix</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>corrixir</term></tig></langSet>
+            </termEntry>
+            <termEntry id="Cando non acae ben alternar">
+                <langSet xml:lang="en"><tig><term>toggle</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>cambiar</term></tig></langSet>
+                <note from="translator">Cando non acae ben alternar</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>meanwhile</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>entrementres</term></tig></langSet>
+                <note from="translator">mentres, mentres tanto</note>
+            </termEntry>
         </body>
     </text>
 </martif>
