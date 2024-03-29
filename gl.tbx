@@ -1545,7 +1545,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fetch</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>obter</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>recuperar</term></tig></langSet>
+                <note from="translator">tamén podería ser «obter»</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>field</term></tig></langSet>
@@ -3031,7 +3032,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>request</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>consulta</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>solicitude</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>require</term></tig></langSet>
@@ -4053,6 +4054,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>Weblate</term></tig></langSet>
+                <note from="translator">Nome da aplicación, non traducir</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Regular expressions</term></tig></langSet>
@@ -4598,6 +4600,24 @@
                 <langSet xml:lang="en"><tig><term>meanwhile</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>entrementres</term></tig></langSet>
                 <note from="translator">mentres, mentres tanto</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>failing</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>fallado</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>contributing</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>facer achegas</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>requested</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>solicitado</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>underscore</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>trazo baixo</term></tig></langSet>
+                <note from="translator">underscore as a separator → trazo baixo como separador</note>
+                <descrip>underscore as a separator → trazo baixo como separador</descrip>
             </termEntry>
         </body>
     </text>
