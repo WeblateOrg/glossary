@@ -4643,6 +4643,18 @@
                 <langSet xml:lang="en"><tig><term>initialization</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>definir valores iniciais</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>RSS feed</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>fonte RSS</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>RSS feeds</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>fontes RSS</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>powered by</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>coa infraestrutura de</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
