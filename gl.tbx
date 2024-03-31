@@ -4126,7 +4126,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>issue</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>tema</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>incidencia</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>access restriction</term></tig></langSet>
@@ -4599,7 +4599,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>failing</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>fallado</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>defectuoso</term></tig></langSet>
+                <note from="translator">fallado sería a tradución directa</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>contributing</term></tig></langSet>
