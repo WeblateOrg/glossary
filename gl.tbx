@@ -105,6 +105,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>administrator</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>administrador</term></tig></langSet>
+                <note from="translator">mellor usar xiro: (persoa de/a) administración</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>advanced</term></tig></langSet>
@@ -136,7 +137,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>alias</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>alcume</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>sobrenome</term></tig></langSet>
+                <note from="translator">apelativo, cognome, alcume é outra cousa</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>aliasing</term></tig></langSet>
@@ -300,7 +302,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>audio</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>audio</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>son</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>authenticate</term></tig></langSet>
@@ -340,7 +342,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>axis</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>eixo</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>eixe</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>back-end</term></tig></langSet>
@@ -360,7 +362,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bandwidth</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>largura de banda</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>largo de banda</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>banner</term></tig></langSet>
@@ -404,11 +406,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>blank</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>en branco</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>baleiro</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>blink</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>pestanexar</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>escintilar</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>block (unit)</term></tig></langSet>
@@ -420,7 +422,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>blog</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>blogue</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>blog</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>blur</term></tig></langSet>
@@ -476,7 +478,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bridge (noun)</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>ponte (nome)</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>ponte (substantivo)</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bridge (verb)</term></tig></langSet>
@@ -556,7 +558,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>cancel</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>desbotar</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>cancelar</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>capability</term></tig></langSet>
@@ -624,7 +626,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>chart</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>mapear</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>gráfico</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>chat</term></tig></langSet>
@@ -716,7 +718,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>collapse</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>colapsar</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>pregar</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>collect</term></tig></langSet>
@@ -2147,7 +2149,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>localization</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>localización</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>rexionalización</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>location</term></tig></langSet>
@@ -3376,7 +3378,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>skip</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>saltar</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>omitir</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>slave</term></tig></langSet>
@@ -4041,7 +4043,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term/></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>Celery</term></tig></langSet>
+                <note from="translator">Nome, parte do aplicativo de Weblate</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CI</term></tig></langSet>
@@ -4106,7 +4109,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pseudolocale</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>pseudoconfiguración rexional</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>pseudo-configuración rexional</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>component list</term></tig></langSet>
@@ -4130,11 +4133,12 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>access restriction</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>Acceso restrinxido</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>restrición de acceso</term></tig></langSet>
+                <note from="translator">acceso restrinxido</note>
             </termEntry>
             <termEntry id="access restrictions (plural)">
                 <langSet xml:lang="en"><tig><term>access restrictions</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>Limitacions ao acceso</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>restricións de acceso</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regex</term></tig></langSet>
@@ -4178,7 +4182,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term/></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>«commit»</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translator</term></tig></langSet>
@@ -4210,7 +4214,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>correo-e da «commit»</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>correo-e de «commit»</term></tig></langSet>
                 <descrip>e-mail address that will be used as committer</descrip>
             </termEntry>
             <termEntry>
@@ -4647,6 +4651,76 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>powered by</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>coa infraestrutura de</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>backend</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>infraestrutura</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>begin</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>inicio</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>bind</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>conexión</term></tig></langSet>
+            </termEntry>
+            <termEntry id="2">
+                <langSet xml:lang="en"><tig><term>bind</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>?? ligazón ??</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>break point</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>punto de rompemento</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>blog</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>bitácora</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>bug</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>fallo</term></tig></langSet>
+                <note from="translator">en xeral mellor que erro</note>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>chat</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>parola</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>check</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>verificar</term></tig></langSet>
+                <note from="translator">en Weblate empregar «comprobar»</note>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>attach</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>anexar</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>attachment</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>anexo</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>blank</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>en branco</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>localizable</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>rexionalizábel</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>contribution</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>colaboración</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>guidelines</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>directrices</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>line break</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>salto de liña</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>perform</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>realizar</term></tig></langSet>
             </termEntry>
         </body>
     </text>
