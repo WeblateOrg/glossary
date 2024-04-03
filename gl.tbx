@@ -4758,6 +4758,10 @@
                 <langSet xml:lang="en"><tig><term>merge</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>fusión</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>discussions</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>debates</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
