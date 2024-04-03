@@ -4754,10 +4754,6 @@
                 <langSet xml:lang="en"><tig><term>spam</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>correo lixo</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>discussion</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>debate</term></tig></langSet>
-            </termEntry>
             <termEntry id="2">
                 <langSet xml:lang="en"><tig><term>merge</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>fusión</term></tig></langSet>
