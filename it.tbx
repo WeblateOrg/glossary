@@ -52,10 +52,6 @@
                 <langSet xml:lang="it"><tig><term>bug</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>CI</term></tig></langSet>
                 <langSet xml:lang="it"><tig><term>CI</term></tig></langSet>
             </termEntry>
