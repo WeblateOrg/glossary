@@ -4537,7 +4537,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ensure</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>asegura</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>asegurar</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Key</term></tig></langSet>
@@ -4721,6 +4721,30 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>perform</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>realizar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>aborted</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>cancelado</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>placeholder</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>marcador de posición</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Placeholders</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>Marcadores de posición</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>placeables</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>situábeis</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hijacked</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>secuestrado</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>ensure</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>garantir</term></tig></langSet>
             </termEntry>
         </body>
     </text>
