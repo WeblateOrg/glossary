@@ -2326,7 +2326,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>no</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>no</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>non</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>node</term></tig></langSet>
@@ -4761,6 +4761,18 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>discussions</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>debates</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>credits</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>recoñecementos</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>addons</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>engadidos</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>add-ons</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>engadidos</term></tig></langSet>
             </termEntry>
         </body>
     </text>
