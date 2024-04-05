@@ -4538,7 +4538,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Key</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>Clave</term></tig></langSet>
-                <note from="translator">Cando se refire a «translation key»</note>
+                <note from="translator">Cando se refire a «translation key», a clave que empregan algúns procedementos para «marcar/identificar» as cadeas</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>needs</term></tig></langSet>
@@ -4822,7 +4822,47 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fingerprint</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>pegada</term></tig></langSet>
+                <note from="translator">Ollo ao contexto, pode ser dixital ou dactilar</note>
+            </termEntry>
+            <termEntry id="plural">
+                <langSet xml:lang="en"><tig><term>issues</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>incidencias</term></tig></langSet>
+            </termEntry>
+            <termEntry id="Variante 1">
+                <langSet xml:lang="en"><tig><term>fingerprint</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>pegada dixital</term></tig></langSet>
+                <note from="translator">Ollo ao contexto, pode ser dixital ou dactilar</note>
+            </termEntry>
+            <termEntry id="Variante 2">
+                <langSet xml:lang="en"><tig><term>fingerprint</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>pegada dactilar</term></tig></langSet>
+                <note from="translator">Ollo ao contexto, pode ser dactilar ou dixital</note>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>issue</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>incidencia</term></tig></langSet>
+            </termEntry>
+            <termEntry id="Cando non acae ben incidencia">
+                <langSet xml:lang="en"><tig><term>issue</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>problema</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>conflict handling</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>xestión de conflitos</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>apostrophes</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>apóstrofo</term></tig></langSet>
+                <note from="translator">Marca de puntuación «'». O apóstrofe é a figura retórica (invocación)</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>features</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>funcionalidades</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pool of shared</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>fondo común</term></tig></langSet>
             </termEntry>
         </body>
     </text>
