@@ -4770,6 +4770,38 @@
                 <langSet xml:lang="en"><tig><term>add-ons</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>engadidos</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>e-mail</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>correo-e</term></tig></langSet>
+                <descrip>Cando só «correo» pode levar a confusión co postal</descrip>
+            </termEntry>
+            <termEntry id="Cando non acae ben colaboración">
+                <langSet xml:lang="en"><tig><term>contribution</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>achega</term></tig></langSet>
+            </termEntry>
+            <termEntry id="Cando non acae ben colaboración, plural">
+                <langSet xml:lang="en"><tig><term>contributions</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>achegas</term></tig></langSet>
+                <note from="translator">Empregámola cando «colaboración» non acae ben, plural</note>
+            </termEntry>
+            <termEntry id="Relativo ao documento">
+                <langSet xml:lang="en"><tig><term>contributor agreement</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>acordo de colaborador</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>rejection</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>rexeitamento</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>covered</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>abeirado</term></tig></langSet>
+                <note from="translator">«cuberto» non acae se non se refire a tapar</note>
+                <descrip>«cuberto» non acae se non se refire a tapar</descrip>
+            </termEntry>
+            <termEntry id="plural">
+                <langSet xml:lang="en"><tig><term>covered</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>abeirados</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
