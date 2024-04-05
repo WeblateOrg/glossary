@@ -4813,10 +4813,6 @@
                 <note from="translator">Cando un contrasinal é do tipo «Argalleiros do mundo unídevos»</note>
                 <descrip>Cando un contrasinal é do tipo «Argalleiros do mundo unídevos»</descrip>
             </termEntry>
-            <termEntry id="Outra posibilidade">
-                <langSet xml:lang="en"><tig><term>passphrase</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>frase de paso</term></tig></langSet>
-            </termEntry>
         </body>
     </text>
 </martif>
