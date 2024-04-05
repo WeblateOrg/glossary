@@ -4860,6 +4860,18 @@
                 <langSet xml:lang="en"><tig><term>pool of shared</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>fondo común</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>guideline</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>directriz</term></tig></langSet>
+            </termEntry>
+            <termEntry id="plural">
+                <langSet xml:lang="en"><tig><term>guidelines</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>directrices</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>non-breaking space</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>espazo sen rompedura</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
