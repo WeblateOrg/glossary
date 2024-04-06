@@ -2506,7 +2506,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parent</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>pai</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>principal</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parity</term></tig></langSet>
@@ -4871,6 +4871,22 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>non-breaking space</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>espazo sen rompedura</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>yellow</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>marelo</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>success</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>satisfactorio</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Rebase</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>«Rebase»</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>warning</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>advertencia</term></tig></langSet>
             </termEntry>
         </body>
     </text>
