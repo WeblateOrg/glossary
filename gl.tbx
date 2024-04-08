@@ -438,7 +438,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bold</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>grosa</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>negra</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bookmarks</term></tig></langSet>
@@ -4891,6 +4891,14 @@
             <termEntry id="Cando se refire a «listar en pantalla»">
                 <langSet xml:lang="en"><tig><term>listed</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>amosado</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>bold</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>grosa</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>boot</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>inicio</term></tig></langSet>
             </termEntry>
         </body>
     </text>
