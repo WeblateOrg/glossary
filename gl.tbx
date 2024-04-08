@@ -4905,10 +4905,6 @@
                 <langSet xml:lang="gl"><tig><term>saída</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Sign out</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>Pechar a sesión</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>get involved</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>participe en</term></tig></langSet>
             </termEntry>
