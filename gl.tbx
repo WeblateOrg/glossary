@@ -4888,6 +4888,14 @@
                 <langSet xml:lang="en"><tig><term>warning</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>advertencia</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>listed</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>enumerado</term></tig></langSet>
+            </termEntry>
+            <termEntry id="Cando se refire a «listar en pantalla»">
+                <langSet xml:lang="en"><tig><term>listed</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>amosado</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
