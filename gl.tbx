@@ -3474,7 +3474,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>stack</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>pila</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>rima</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>stand alone</term></tig></langSet>
@@ -4356,7 +4356,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>sign in</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>rexistrar</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>acceder</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>discovery</term></tig></langSet>
@@ -4947,6 +4947,30 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>due</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>por mor de</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>sign out</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>pechar a sesión</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>renewal</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>renovación</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>recurring</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>periódico</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>discover</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>detectar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>full-stack</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>ciclo completo</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>SSO</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>Acceso unificado</term></tig></langSet>
             </termEntry>
         </body>
     </text>
