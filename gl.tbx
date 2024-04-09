@@ -4972,6 +4972,32 @@
                 <langSet xml:lang="en"><tig><term>SSO</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>Acceso unificado</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>consistency</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>coherencia</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>consistency checks</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>comprobacións de coherencia</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>D-U-N-S</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>D-U-N-S</term></tig></langSet>
+                <note from="translator">Número DUNS o D-U-N-S (del inglés Data Universal Numbering System o Sistema Universal de Numeración de Datos)</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>D-U-N-S Number</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>Número D-U-N-S</term></tig></langSet>
+                <note from="translator">Número DUNS o D-U-N-S (del inglés Data Universal Numbering System o Sistema Universal de Numeración de Datos)</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>translate</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>traducir</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Terms and Privacy</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>Condicións e privacidade</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
