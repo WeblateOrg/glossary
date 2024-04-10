@@ -4040,7 +4040,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>Celery</term></tig></langSet>
-                <note from="translator">Nome, parte do aplicativo de Weblate</note>
+                <note from="translator">Nome do xestor de tarefas, forma parte do aplicativo de Weblate</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CI</term></tig></langSet>
@@ -4997,6 +4997,54 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Terms and Privacy</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>Condicións e privacidade</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>machine translation</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>tradución con máquinas</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>tablet</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>tableta</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>quality checks</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>controis de calidade</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>supporter</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>patrocinador</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>ready</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>preparado</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>listing</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>listaxe</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>listing</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>lista</term></tig></langSet>
+            </termEntry>
+            <termEntry id="2">
+                <langSet xml:lang="en"><tig><term>listing</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>relación</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>front-end developer</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>desenvolvedor de web frontal (front-end)</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>front-end</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>web frontal (front-end)</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>discuss</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>debate</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>discuss</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>debata</term></tig></langSet>
             </termEntry>
         </body>
     </text>
