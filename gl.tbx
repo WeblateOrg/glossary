@@ -5046,10 +5046,6 @@
                 <langSet xml:lang="en"><tig><term>discuss</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>debata</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>release</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>versión</term></tig></langSet>
-            </termEntry>
         </body>
     </text>
 </martif>
