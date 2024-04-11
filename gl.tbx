@@ -5069,12 +5069,6 @@
                 <langSet xml:lang="en"><tig><term>offline</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>sen conexión</term></tig></langSet>
             </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Merchandise</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>mercadoría</term></tig></langSet>
-                <note from="translator">Se é «produto»</note>
-                <descrip>Se é «produto»</descrip>
-            </termEntry>
             <termEntry id="Se é procedemento/actividade">
                 <langSet xml:lang="en"><tig><term>merchandise</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>mercadotecnia</term></tig></langSet>
