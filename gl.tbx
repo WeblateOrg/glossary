@@ -4194,7 +4194,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Terms of Service</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>Condicións do servizo</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>Condicións do Servizo</term></tig></langSet>
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>projects</term></tig></langSet>
@@ -4749,6 +4749,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>credits</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>recoñecementos</term></tig></langSet>
+                <note from="translator">Mellor que dar «credito» a quen colabora</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>addons</term></tig></langSet>
@@ -5102,6 +5103,48 @@
                 <langSet xml:lang="en"><tig><term>fluent</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>fluído</term></tig></langSet>
                 <note from="translator">Cando non se refire ao formato .ftl senón a procesos alleos á lingua</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>convenience</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>comodidade</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>attribution</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>recoñecemento</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>accordance</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>conformidade</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>GDPR</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>RXPD</term></tig></langSet>
+                <note from="translator">Regulamento xeral de protección de datos</note>
+                <descrip>Regulamento xeral de protección de datos</descrip>
+            </termEntry>
+            <termEntry id="RXPD (Regulamento Xeral de protección de Datos)">
+                <langSet xml:lang="en"><tig><term>Personal Data Controler</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>Delegado de Protección de Datos (DPD)</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>purpose</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>finalidade</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>purpose</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>fin</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>legal basis</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>base xurídica</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>License Agreement</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>Acordo de Licenza</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>authoritative</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>vinculante</term></tig></langSet>
             </termEntry>
         </body>
     </text>
