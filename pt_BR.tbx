@@ -612,11 +612,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dismiss</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term>dispensar</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>descartar</term></tig></langSet>
             </termEntry>
             <termEntry id="check">
                 <langSet xml:lang="en"><tig><term>dismissed</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term>dispensada</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>descartada</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>branches</term></tig></langSet>
@@ -1100,7 +1100,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term>dashboard</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>painel</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Zadnu</term></tig></langSet>
