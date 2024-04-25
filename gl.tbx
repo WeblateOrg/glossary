@@ -5146,6 +5146,28 @@
                 <langSet xml:lang="en"><tig><term>authoritative</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>vinculante</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>interrobang</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>exclarrogativo</term></tig></langSet>
+                <note from="translator">O interabang (‽) é unha marca de exclamación e interrogación do ingles (!?) de uso moi recente, «que fixo que ‽»</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>give</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>galano</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>thriving</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>progresando</term></tig></langSet>
+                <note from="translator">prosperando?</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>invitation</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>convite</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>webhooks</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>ganchos web</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
