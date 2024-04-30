@@ -815,6 +815,10 @@
                 <langSet xml:lang="en"><tig><term>Accept</term></tig></langSet>
                 <langSet xml:lang="id"><tig><term>Terima</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hosting</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>pengehosan</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
