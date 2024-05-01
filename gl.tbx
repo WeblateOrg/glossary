@@ -5168,6 +5168,14 @@
                 <langSet xml:lang="en"><tig><term>webhooks</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>ganchos web</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>contribute</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>colaborar</term></tig></langSet>
+            </termEntry>
+            <termEntry id="cando se refire ao «plan»">
+                <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>Hosted Weblate</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
