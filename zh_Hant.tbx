@@ -693,10 +693,6 @@
                 <langSet xml:lang="en"><tig><term>users</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>使用者</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>送交</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translator</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>翻譯者</term></tig></langSet>
