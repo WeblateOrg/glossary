@@ -286,7 +286,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>country code</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>地區碼</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>國家代碼</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>email</term></tig></langSet>
@@ -496,10 +496,6 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Terminology</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>專有名詞</term></tig></langSet>
-            </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>comment</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>評註</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>listing</term></tig></langSet>
@@ -1496,7 +1492,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CVS</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>版棄控制系統</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>協作版本系統</term></tig></langSet>
+                <note from="translator">https://zh.wikipedia.org/zh-tw/%E5%8D%94%E4%BD%9C%E7%89%88%E6%9C%AC%E7%B3%BB%E7%B5%B1</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>VCS</term></tig></langSet>
