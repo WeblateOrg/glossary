@@ -5180,7 +5180,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>following</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>seguinte</term></tig></langSet>
-                <note from="translator">após algo, o martes seguinte, o que ven após...</note>
+                <note from="translator">após algo, o martes seguinte, o que ven após, en resposta a</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>nearby</term></tig></langSet>
@@ -5189,6 +5189,11 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>closest</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>máis preto</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>the following</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>o seguinte</term></tig></langSet>
+                <note from="translator">como resultado de</note>
             </termEntry>
         </body>
     </text>
