@@ -2315,6 +2315,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>next</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>seguinte</term></tig></langSet>
+                <note from="translator">sendo o primeiro após o actual ou após o que vimos de mencionar</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>nick name</term></tig></langSet>
@@ -5175,6 +5176,23 @@
             <termEntry id="cando se refire ao «plan»">
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>Hosted Weblate</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>following</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>seguinte</term></tig></langSet>
+                <note from="translator">após algo, o martes seguinte, o que ven após...</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>nearby</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>próxima</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>closest</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>máis preto</term></tig></langSet>
+            </termEntry>
+            <termEntry id="como resultado de">
+                <langSet xml:lang="en"><tig><term>the following</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>seguinte</term></tig></langSet>
             </termEntry>
         </body>
     </text>
