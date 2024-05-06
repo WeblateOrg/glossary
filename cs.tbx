@@ -1454,6 +1454,10 @@
                 <langSet xml:lang="en"><tig><term>Accept</term></tig></langSet>
                 <langSet xml:lang="cs"><tig><term/></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>version control</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>verzovací systém</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
