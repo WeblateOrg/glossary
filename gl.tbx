@@ -5207,6 +5207,11 @@
                 <langSet xml:lang="en"><tig><term>proficiency</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>dominio</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>apply</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>solicitar</term></tig></langSet>
+                <note from="translator">apply now to join our team →  solicite agora unirse ao noso equipo → envíe unha solicitude para unirse ao noso equipo</note>
+            </termEntry>
         </body>
     </text>
 </martif>
