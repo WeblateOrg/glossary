@@ -5195,6 +5195,22 @@
                 <langSet xml:lang="en"><tig><term>framework</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>marco de traballo</term></tig></langSet>
             </termEntry>
+            <termEntry id="plural">
+                <langSet xml:lang="en"><tig><term>frameworks</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>marcos de traballo</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>strong skills</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>sólidos coñecementos</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>proficiency</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>dominio</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>apply now</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>solicitar</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
