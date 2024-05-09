@@ -4278,7 +4278,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Google OAuth 2</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>Autenticación automática de Google 2 (Google OAuth 2)</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>Google OAuth 2</term></tig></langSet>
+                <note from="translator">Autenticación automática de Google v2</note>
                 <descrip>登入認證協定</descrip>
             </termEntry>
             <termEntry id="Past tense">
@@ -4477,7 +4478,6 @@
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>VCS</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>SCV (VCS)</term></tig></langSet>
-                <note from="translator">Sistema de Control de Versións</note>
                 <descrip>Sistema de Control de Versións</descrip>
             </termEntry>
             <termEntry id="Variante 1">
@@ -5212,6 +5212,10 @@
                 <langSet xml:lang="en"><tig><term>Wheel package</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>Paquete Wheel (Python)</term></tig></langSet>
                 <note from="translator">Python wheel packaging standard</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>gettext PO</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>PO de gettext</term></tig></langSet>
             </termEntry>
         </body>
     </text>
