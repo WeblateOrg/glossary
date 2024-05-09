@@ -5211,6 +5211,11 @@
                 <langSet xml:lang="en"><tig><term>gettext PO</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>PO de gettext</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Google OAuth 2</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>Google OAuth 2</term></tig></langSet>
+                <note from="translator">Autenticación automática de Google v2</note>
+            </termEntry>
         </body>
     </text>
 </martif>
