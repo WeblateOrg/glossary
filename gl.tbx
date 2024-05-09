@@ -4276,12 +4276,6 @@
                 <langSet xml:lang="en"><tig><term>Read the Docs</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>Read the Docs</term></tig></langSet>
             </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Google OAuth 2</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>Google OAuth 2</term></tig></langSet>
-                <note from="translator">Autenticación automática de Google v2</note>
-                <descrip>登入認證協定</descrip>
-            </termEntry>
             <termEntry id="Past tense">
                 <langSet xml:lang="en"><tig><term>translated</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>traducido</term></tig></langSet>
