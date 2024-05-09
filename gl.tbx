@@ -2145,7 +2145,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>location</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>situación</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>localización</term></tig></langSet>
+                <note from="translator">Refírese ao concepto posición/situación</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>log</term></tig></langSet>
@@ -4263,6 +4264,7 @@
             <termEntry id="deepl.com">
                 <langSet xml:lang="en"><tig><term>DeepL</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>DeepL</term></tig></langSet>
+                <note from="translator">deepl.com</note>
             </termEntry>
             <termEntry id="https://www.gnu.org/software/gettext">
                 <langSet xml:lang="en"><tig><term>gettext</term></tig></langSet>
@@ -4795,6 +4797,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>instead</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>en troques</term></tig></langSet>
+                <note from="translator">→ polo contrario</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fingerprint</term></tig></langSet>
@@ -5211,6 +5214,11 @@
                 <langSet xml:lang="en"><tig><term>Google OAuth 2</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>Google OAuth 2</term></tig></langSet>
                 <note from="translator">Autenticación automática de Google v2</note>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>instead</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>no canto</term></tig></langSet>
+                <note from="translator">→ no lugar de</note>
             </termEntry>
         </body>
     </text>
