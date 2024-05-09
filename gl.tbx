@@ -1419,7 +1419,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>environment</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>entorno</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>contorno</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>equalizer</term></tig></langSet>
@@ -5215,6 +5215,10 @@
                 <langSet xml:lang="en"><tig><term>instead</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>no canto</term></tig></langSet>
                 <note from="translator">→ no lugar de</note>
+            </termEntry>
+            <termEntry id="outra escritura">
+                <langSet xml:lang="en"><tig><term>email</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>correo-e</term></tig></langSet>
             </termEntry>
         </body>
     </text>
