@@ -4050,10 +4050,6 @@
                 <note from="translator">Nome da aplicación, non traducir</note>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Regular expressions</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>expresións comúns</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Gitee</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term/></tig></langSet>
             </termEntry>
