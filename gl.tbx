@@ -4042,7 +4042,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Keyboard shortcuts</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>Atallos do teclado</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>Atallos de teclado</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
@@ -4128,11 +4128,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regex</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>expresión común</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>expresión regular</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regular expression</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>expresión común</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>expresión regular</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
@@ -5215,6 +5215,22 @@
             <termEntry id="outra escritura">
                 <langSet xml:lang="en"><tig><term>email</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>correo-e</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>regular expressions</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>expresións regulares</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>fine-grained</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>moi preciso</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>locked-down</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>restrinxida</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>finely</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>de xeito preciso</term></tig></langSet>
             </termEntry>
         </body>
     </text>
