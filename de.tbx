@@ -870,10 +870,6 @@
                 <langSet xml:lang="de"><tig><term>Servicestatus</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>plans</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Angebote</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>filemask</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Dateimaske</term></tig></langSet>
             </termEntry>
