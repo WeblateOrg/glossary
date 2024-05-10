@@ -1527,7 +1527,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>feature</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>característica</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>funcionalidade</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>feed</term></tig></langSet>
@@ -5227,6 +5227,15 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>finely</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>de xeito preciso</term></tig></langSet>
+            </termEntry>
+            <termEntry id="plural">
+                <langSet xml:lang="en"><tig><term>features</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>funcionalidades</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>rock!</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>prestan!</term></tig></langSet>
+                <note from="translator">viría ser o castelán «molan», podemos empregar os sinónimos: chistar, agradar, chamar, gustar, encantar, reinar, tirar.</note>
             </termEntry>
         </body>
     </text>
