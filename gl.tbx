@@ -4824,10 +4824,6 @@
                 <note from="translator">Marca de puntuación «'». O apóstrofe é a figura retórica (invocación)</note>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>features</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>funcionalidades</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>pool of shared</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>fondo común</term></tig></langSet>
             </termEntry>
