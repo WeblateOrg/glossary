@@ -5245,10 +5245,6 @@
                 <langSet xml:lang="en"><tig><term>custom</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>personalizado</term></tig></langSet>
             </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>drops</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>refuga</term></tig></langSet>
-            </termEntry>
         </body>
     </text>
 </martif>
