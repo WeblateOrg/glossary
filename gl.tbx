@@ -4430,6 +4430,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>flags</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>marcadores</term></tig></langSet>
+                <note from="translator">Preferida neste ámbito</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>built-in team.</term></tig></langSet>
@@ -4459,6 +4460,7 @@
             <termEntry id="Variante 1">
                 <langSet xml:lang="en"><tig><term>flag</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>marcador</term></tig></langSet>
+                <note from="translator">Preferida neste ámbito</note>
             </termEntry>
             <termEntry id="Variante 2">
                 <langSet xml:lang="en"><tig><term>flag</term></tig></langSet>
@@ -5244,6 +5246,29 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>custom</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>personalizado</term></tig></langSet>
+            </termEntry>
+            <termEntry id="Outra posibilidade">
+                <langSet xml:lang="en"><tig><term>add</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>adición</term></tig></langSet>
+                <note from="translator">Como en: repository post-add → repositorio postadición (após a adición)</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>proof-reading</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>corrección</term></tig></langSet>
+            </termEntry>
+            <termEntry id="completa">
+                <langSet xml:lang="en"><tig><term>proof-reading tool</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>ferramenta de corrección</term></tig></langSet>
+                <note from="translator">ortográfica</note>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>failing</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>fallado</term></tig></langSet>
+                <note from="translator">p. ex en verificación fallada</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>read-only</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>de só lectura</term></tig></langSet>
             </termEntry>
         </body>
     </text>
