@@ -5270,6 +5270,15 @@
                 <langSet xml:lang="en"><tig><term>read-only</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>de só lectura</term></tig></langSet>
             </termEntry>
+            <termEntry id="/en/rutas/">
+                <langSet xml:lang="en"><tig><term>parent</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>dirBase</term></tig></langSet>
+                <note from="translator">en/rutas/ (path) cando se refire ao directorio base ou principal</note>
+            </termEntry>
+            <termEntry id="na documentación">
+                <langSet xml:lang="en"><tig><term>&lt;language&gt;</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>&lt;códigoIdioma&gt;</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
