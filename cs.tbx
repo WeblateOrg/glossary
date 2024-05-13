@@ -1400,7 +1400,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Trigger</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term/></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Vyvolat</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>lowercase</term></tig></langSet>
