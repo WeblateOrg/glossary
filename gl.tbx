@@ -5283,6 +5283,10 @@
                 <langSet xml:lang="en"><tig><term>it lives</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>reside</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>matching</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>coincidencia</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
