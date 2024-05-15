@@ -5287,6 +5287,14 @@
                 <langSet xml:lang="en"><tig><term>Weblate basics</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>Fundamentos de Weblate</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>keeps</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>conserva</term></tig></langSet>
+            </termEntry>
+            <termEntry id="cando non acae ben conservar">
+                <langSet xml:lang="en"><tig><term>keep</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>manter</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
