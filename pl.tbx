@@ -644,10 +644,6 @@
                 <langSet xml:lang="pl"><tig><term>Metryki</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Zadnu</term></tig></langSet>
-                <langSet xml:lang="pl"><tig><term>Zadnu</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Accept</term></tig></langSet>
                 <langSet xml:lang="pl"><tig><term>Akceptuj</term></tig></langSet>
             </termEntry>
