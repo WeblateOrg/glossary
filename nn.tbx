@@ -24,15 +24,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regex</term></tig></langSet>
-                <langSet xml:lang="nn"><tig><term/></tig></langSet>
+                <langSet xml:lang="nn"><tig><term>regulært uttrykk</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>class</term></tig></langSet>
-                <langSet xml:lang="nn"><tig><term/></tig></langSet>
+                <langSet xml:lang="nn"><tig><term>klasse</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bug</term></tig></langSet>
-                <langSet xml:lang="nn"><tig><term/></tig></langSet>
+                <langSet xml:lang="nn"><tig><term>feil</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Regular expressions</term></tig></langSet>
@@ -40,15 +40,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
-                <langSet xml:lang="nn"><tig><term/></tig></langSet>
+                <langSet xml:lang="nn"><tig><term>Vertslagra Weblate</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gitee</term></tig></langSet>
-                <langSet xml:lang="nn"><tig><term/></tig></langSet>
+                <langSet xml:lang="nn"><tig><term>Gitee</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Personal Data</term></tig></langSet>
-                <langSet xml:lang="nn"><tig><term/></tig></langSet>
+                <langSet xml:lang="nn"><tig><term>Personlege data</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>project</term></tig></langSet>
@@ -60,7 +60,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
-                <langSet xml:lang="nn"><tig><term/></tig></langSet>
+                <langSet xml:lang="nn"><tig><term>endringslogg</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translator</term></tig></langSet>
@@ -72,11 +72,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
-                <langSet xml:lang="nn"><tig><term/></tig></langSet>
+                <langSet xml:lang="nn"><tig><term>URL-slug</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>current</term></tig></langSet>
-                <langSet xml:lang="nn"><tig><term/></tig></langSet>
+                <langSet xml:lang="nn"><tig><term>noverande</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation</term></tig></langSet>
@@ -84,7 +84,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>issue</term></tig></langSet>
-                <langSet xml:lang="nn"><tig><term/></tig></langSet>
+                <langSet xml:lang="nn"><tig><term>problem</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regular expression</term></tig></langSet>
@@ -92,7 +92,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pull request</term></tig></langSet>
-                <langSet xml:lang="nn"><tig><term/></tig></langSet>
+                <langSet xml:lang="nn"><tig><term>pull-førespurnad</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
@@ -100,15 +100,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>identity</term></tig></langSet>
-                <langSet xml:lang="nn"><tig><term/></tig></langSet>
+                <langSet xml:lang="nn"><tig><term>identitet</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
-                <langSet xml:lang="nn"><tig><term/></tig></langSet>
+                <langSet xml:lang="nn"><tig><term>token</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fixup</term></tig></langSet>
-                <langSet xml:lang="nn"><tig><term/></tig></langSet>
+                <langSet xml:lang="nn"><tig><term>korriger</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
@@ -120,15 +120,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>session</term></tig></langSet>
-                <langSet xml:lang="nn"><tig><term/></tig></langSet>
+                <langSet xml:lang="nn"><tig><term>økt</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
-                <langSet xml:lang="nn"><tig><term/></tig></langSet>
+                <langSet xml:lang="nn"><tig><term>tolk/fortolk</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Subversion</term></tig></langSet>
-                <langSet xml:lang="nn"><tig><term/></tig></langSet>
+                <langSet xml:lang="nn"><tig><term>Subversjon</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>unresolved comment</term></tig></langSet>
@@ -144,7 +144,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>edit</term></tig></langSet>
-                <langSet xml:lang="nn"><tig><term/></tig></langSet>
+                <langSet xml:lang="nn"><tig><term>rediger</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SSO</term></tig></langSet>
@@ -152,15 +152,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Keyboard shortcuts</term></tig></langSet>
-                <langSet xml:lang="nn"><tig><term/></tig></langSet>
+                <langSet xml:lang="nn"><tig><term>Tastatursnarvegar</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>search</term></tig></langSet>
-                <langSet xml:lang="nn"><tig><term/></tig></langSet>
+                <langSet xml:lang="nn"><tig><term>søk</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
-                <langSet xml:lang="nn"><tig><term/></tig></langSet>
+                <langSet xml:lang="nn"><tig><term>tillegg</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
@@ -168,7 +168,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pseudolocale</term></tig></langSet>
-                <langSet xml:lang="nn"><tig><term/></tig></langSet>
+                <langSet xml:lang="nn"><tig><term>pseudolokale</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CI</term></tig></langSet>
@@ -188,11 +188,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Terms of Service</term></tig></langSet>
-                <langSet xml:lang="nn"><tig><term/></tig></langSet>
+                <langSet xml:lang="nn"><tig><term>Tenestevilkår</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>term</term></tig></langSet>
-                <langSet xml:lang="nn"><tig><term/></tig></langSet>
+                <langSet xml:lang="nn"><tig><term>vilkår</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>profile</term></tig></langSet>
@@ -200,7 +200,7 @@
             </termEntry>
             <termEntry id="alias &quot;source text&quot;">
                 <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
-                <langSet xml:lang="nn"><tig><term/></tig></langSet>
+                <langSet xml:lang="nn"><tig><term>kjelde</term></tig></langSet>
             </termEntry>
             <termEntry id="alias &quot;Zen mode&quot;">
                 <langSet xml:lang="en"><tig><term>Zen</term></tig></langSet>
@@ -208,12 +208,12 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
-                <langSet xml:lang="nn"><tig><term>commit e-postsadresse</term></tig></langSet>
+                <langSet xml:lang="nn"><tig><term>innsjekkaren si e-postadresse</term></tig></langSet>
                 <descrip>e-mail address that will be used as committer</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>history</term></tig></langSet>
-                <langSet xml:lang="nn"><tig><term/></tig></langSet>
+                <langSet xml:lang="nn"><tig><term>historikk</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Django</term></tig></langSet>
@@ -221,7 +221,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation-finder</term></tig></langSet>
-                <langSet xml:lang="nn"><tig><term/></tig></langSet>
+                <langSet xml:lang="nn"><tig><term>omsetjingsøkjar</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
@@ -308,15 +308,15 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>screenshot</term></tig></langSet>
-                <langSet xml:lang="nn"><tig><term/></tig></langSet>
+                <langSet xml:lang="nn"><tig><term>skjermbilete</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Screenshots</term></tig></langSet>
-                <langSet xml:lang="nn"><tig><term/></tig></langSet>
+                <langSet xml:lang="nn"><tig><term>Skjermbilete</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>authorship</term></tig></langSet>
-                <langSet xml:lang="nn"><tig><term/></tig></langSet>
+                <langSet xml:lang="nn"><tig><term>forfattarskap</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
@@ -328,7 +328,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
-                <langSet xml:lang="nn"><tig><term/></tig></langSet>
+                <langSet xml:lang="nn"><tig><term>Statistikk</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
@@ -345,7 +345,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tab character</term></tig></langSet>
-                <langSet xml:lang="nn"><tig><term/></tig></langSet>
+                <langSet xml:lang="nn"><tig><term>tabulatorteikn</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Fluent</term></tig></langSet>
@@ -354,15 +354,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>persona</term></tig></langSet>
-                <langSet xml:lang="nn"><tig><term/></tig></langSet>
+                <langSet xml:lang="nn"><tig><term>persona</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
-                <langSet xml:lang="nn"><tig><term/></tig></langSet>
+                <langSet xml:lang="nn"><tig><term>Statistikk</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
-                <langSet xml:lang="nn"><tig><term/></tig></langSet>
+                <langSet xml:lang="nn"><tig><term>dashbord</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Zadnu</term></tig></langSet>
@@ -374,7 +374,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Please select target plural by clicking.</term></tig></langSet>
-                <langSet xml:lang="nn"><tig><term></term></tig></langSet>
+                <langSet xml:lang="nn"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
