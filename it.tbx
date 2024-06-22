@@ -382,6 +382,10 @@
                 <langSet xml:lang="en"><tig><term>team</term></tig></langSet>
                 <langSet xml:lang="it"><tig><term>team</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Passphrase</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>Frase chiave</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
