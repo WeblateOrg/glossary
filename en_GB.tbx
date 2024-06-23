@@ -36,11 +36,12 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bug</term></tig></langSet>
-                <langSet xml:lang="en_GB"><tig><term>bug</term></tig></langSet>
+                <langSet xml:lang="en_GB"><tig><term>Greška, buba</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
                 <langSet xml:lang="en_GB"><tig><term/></tig></langSet>
+                <note from="translator">Celer, vegetable</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CI</term></tig></langSet>
@@ -132,7 +133,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
-                <langSet xml:lang="en_GB"><tig><term>changelog</term></tig></langSet>
+                <langSet xml:lang="en_GB"><tig><term></term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pull request</term></tig></langSet>
@@ -160,7 +161,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>class</term></tig></langSet>
-                <langSet xml:lang="en_GB"><tig><term>class</term></tig></langSet>
+                <langSet xml:lang="en_GB"><tig><term>Odeljenje, klasa</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
@@ -236,7 +237,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
-                <langSet xml:lang="en_GB"><tig><term>commit e-mail</term></tig></langSet>
+                <langSet xml:lang="en_GB"><tig><term></term></tig></langSet>
                 <descrip>e-mail address that will be used as committer</descrip>
             </termEntry>
             <termEntry>
@@ -402,7 +403,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Please select target plural by clicking.</term></tig></langSet>
-                <langSet xml:lang="en_GB"><tig><term></term></tig></langSet>
+                <langSet xml:lang="en_GB"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
