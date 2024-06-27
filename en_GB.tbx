@@ -133,7 +133,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
-                <langSet xml:lang="en_GB"><tig><term></term></tig></langSet>
+                <langSet xml:lang="en_GB"><tig><term>changelog</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pull request</term></tig></langSet>
@@ -237,7 +237,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
-                <langSet xml:lang="en_GB"><tig><term></term></tig></langSet>
+                <langSet xml:lang="en_GB"><tig><term>commit e-mail</term></tig></langSet>
                 <descrip>e-mail address that will be used as committer</descrip>
             </termEntry>
             <termEntry>
