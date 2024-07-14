@@ -12,43 +12,43 @@
         <body>
             <termEntry id="https://www.gnu.org/software/gettext">
                 <langSet xml:lang="en"><tig><term>gettext</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>gettext</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>class</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>rang</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>Cuir ar</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>current</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>reatha</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>Méadracht</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>unresolved comment</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>trácht gan réiteach</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>URL scheme</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>Scéim URL</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>access restriction</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>srian rochtana</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>project</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>tionscadal</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Privacy Policy</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>Beartas Príobháideachais</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Cookies</term></tig></langSet>
@@ -56,93 +56,93 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ModernMT</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>ModernMT</term></tig></langSet>
                 <descrip>modernmt.com</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>glossary</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>gluais</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>session</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>seisiún</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Django</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>Django</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>loga athrú</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gerrit</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>Gerrit</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>pharsáil</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>Weblate óstáil</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>edit</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>eagar</term></tig></langSet>
             </termEntry>
             <termEntry id="alias &quot;source text&quot;">
                 <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>foinse</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Qt Linguist</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>Qt Teangeolaí</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fixup</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>shocrú suas</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Keyboard shortcuts</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>Aicearraí méarchláir</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>stór</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>identity</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>féiniúlacht</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regex</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>regex</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>term</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>téarma</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pseudolocale</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>pseudolocale</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>MyMemory</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>MyMemory</term></tig></langSet>
                 <descrip>mymemory.translated.net</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>issue</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>eisiúint</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>component list</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>tiomsanna r-phost</term></tig></langSet>
             </termEntry>
             <termEntry id="opposite">
                 <langSet xml:lang="en"><tig><term>resolved comment</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>trácht réitithe</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tmserver</term></tig></langSet>
@@ -151,45 +151,45 @@
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>projects</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>tionscadail</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>Sentry</term></tig></langSet>
                 <descrip>sentry.io</descrip>
             </termEntry>
             <termEntry id="deepl.com">
                 <langSet xml:lang="en"><tig><term>DeepL</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>domhainL</term></tig></langSet>
             </termEntry>
             <termEntry id="sphinx-doc.org">
                 <langSet xml:lang="en"><tig><term>Sphinx</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>Sphinx</term></tig></langSet>
             </termEntry>
             <termEntry id="alias &quot;Zen mode&quot;">
                 <langSet xml:lang="en"><tig><term>Zen</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>Zen</term></tig></langSet>
             </termEntry>
             <termEntry id="access restrictions (plural)">
                 <langSet xml:lang="en"><tig><term>access restrictions</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>srianta rochtana</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>variants</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>athraithigh</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>aistriúchán</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Fluent</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>Líofa</term></tig></langSet>
                 <descrip>“Fluent” is a “localization system for natural-sounding translations” - https://projectfluent.org/</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gravatar</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>Gravatar</term></tig></langSet>
                 <descrip>gravatar.com</descrip>
             </termEntry>
             <termEntry>
@@ -198,11 +198,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>history</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>staire</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regular expression</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>abairt rialta</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Subversion</term></tig></langSet>
@@ -214,32 +214,32 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bug</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>fabht</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Rollbar</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>Barra Rolla</term></tig></langSet>
                 <descrip>rollbar.com</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>comhartha</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translator</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>aistritheoir</term></tig></langSet>
             </termEntry>
             <termEntry id="hackerone.com">
                 <langSet xml:lang="en"><tig><term>HackerOne</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>HackerOne</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CI</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>CI</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>search</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>cuardaigh</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
@@ -247,68 +247,68 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Terms of Service</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>Tearmaí Seirbhís</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>text direction</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>treo téacs</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Personal Data</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>Sonraí Pearsanta</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>tiomantas r-phost</term></tig></langSet>
                 <descrip>e-mail address that will be used as committer</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>príobháideach</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gitee</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>Gitee</term></tig></langSet>
             </termEntry>
             <termEntry id="readthedocs.org">
                 <langSet xml:lang="en"><tig><term>Read the Docs</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>Léigh na Docs</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation-finder</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>aistritheoir-aimsitheoir</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pull request</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>iarraidh tarraingt</term></tig></langSet>
             </termEntry>
             <termEntry id="Past tense">
                 <langSet xml:lang="en"><tig><term>translated</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>aistrithe</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Regular expressions</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>Nathanna rialta</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>sluga</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>profile</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>próifíl</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>persona</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>pearsana</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>Méadracht</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>deais</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Zadnu</term></tig></langSet>
@@ -316,11 +316,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Accept</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>Glac</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Please select target plural by clicking.</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ga"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
