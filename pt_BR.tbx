@@ -495,7 +495,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>username</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term>nome de usuário</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>usuário</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>rate limiting</term></tig></langSet>
