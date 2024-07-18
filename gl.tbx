@@ -4235,7 +4235,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>foo/bar</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term/></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>foo/bar</term></tig></langSet>
                 <note from="translator">Variábel metasintáctica definida no RFC 30923 &lt;http:http://www.faqs.org/rfcs/rfc3092.html//www.faqs.org/rfcs/rfc3092.html&gt;|</note>
             </termEntry>
             <termEntry id="hackerone.com">
@@ -5322,13 +5322,30 @@
             </termEntry>
             <termEntry id="En documentacións, comentarios, etc.">
                 <langSet xml:lang="en"><tig><term>foo</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term/></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>foo</term></tig></langSet>
                 <note from="translator">Variábel metasintáctica definida no RFC 30923 &lt;http:http://www.faqs.org/rfcs/rfc3092.html//www.faqs.org/rfcs/rfc3092.html&gt;|</note>
             </termEntry>
             <termEntry id="En documentacións, comentarios, etc.">
                 <langSet xml:lang="en"><tig><term>foobar</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>foobar</term></tig></langSet>
                 <note from="translator">Variábel metasintáctica definida no RFC 30923 &lt;http:http://www.faqs.org/rfcs/rfc3092.html//www.faqs.org/rfcs/rfc3092.html&gt;|</note>
+            </termEntry>
+            <termEntry id="En documentacións, comentarios, etc.">
+                <langSet xml:lang="en"><tig><term>bar</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>bar</term></tig></langSet>
+                <note from="translator">Variábel metasintáctica que adoita ir precedida por «foo-» ou «foo/», definida no RFC 30923 &lt;http:http://www.faqs.org/rfcs/rfc3092.html//www.faqs.org/rfcs/rfc3092.html&gt;|</note>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>newline</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>salto de liña nova</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>newlines</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>saltos de liña nova</term></tig></langSet>
+            </termEntry>
+            <termEntry id="2">
+                <langSet xml:lang="en"><tig><term>support</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>servizo técnico</term></tig></langSet>
             </termEntry>
         </body>
     </text>
