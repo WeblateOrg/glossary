@@ -5322,12 +5322,7 @@
             </termEntry>
             <termEntry id="En documentacións, comentarios, etc.">
                 <langSet xml:lang="en"><tig><term>foo</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term></term></tig></langSet>
-                <note from="translator">Variábel metasintáctica definida no RFC 30923 &lt;http:http://www.faqs.org/rfcs/rfc3092.html//www.faqs.org/rfcs/rfc3092.html&gt;|</note>
-            </termEntry>
-            <termEntry id="En documentacións, comentarios, etc.">
-                <langSet xml:lang="en"><tig><term>foo/bar</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>foo/bar</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term/></tig></langSet>
                 <note from="translator">Variábel metasintáctica definida no RFC 30923 &lt;http:http://www.faqs.org/rfcs/rfc3092.html//www.faqs.org/rfcs/rfc3092.html&gt;|</note>
             </termEntry>
             <termEntry id="En documentacións, comentarios, etc.">
