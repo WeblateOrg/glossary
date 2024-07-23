@@ -4516,12 +4516,6 @@
                 <langSet xml:lang="en"><tig><term>keep</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>conservar</term></tig></langSet>
             </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Viewers</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>Lectores</term></tig></langSet>
-                <note from="translator">Entendese que quen ve unha páxina máis que un visor ou visionador é un lector ou espectador</note>
-                <descrip>Entendese que quen ve unha páxina máis que us visor ou visionador é un lector</descrip>
-            </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>viewer</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>espectador</term></tig></langSet>
