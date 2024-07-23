@@ -5342,6 +5342,15 @@
                 <langSet xml:lang="gl"><tig><term>Lector</term></tig></langSet>
                 <note from="translator">Entendese que quen ve unha páxina máis que un visor ou visualizador é un lector ou observador, no caso de xuntanza de vídeo sería un espectador</note>
             </termEntry>
+            <termEntry id="plural">
+                <langSet xml:lang="en"><tig><term>Viewers</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>Lectores</term></tig></langSet>
+                <note from="translator">Entendese que quen ve unha páxina máis que un visor ou visualizador é un lector ou observador, no caso de xuntanza de vídeo sería un espectador</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>scope</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>ámbito</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
