@@ -5351,6 +5351,24 @@
                 <langSet xml:lang="en"><tig><term>scope</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>ámbito</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Creoles and pidgins</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>Linguas crioulas e de contacto</term></tig></langSet>
+            </termEntry>
+            <termEntry id="linguas">
+                <langSet xml:lang="en"><tig><term>pidgin</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>de contacto</term></tig></langSet>
+                <note from="translator">lingua de contacto</note>
+            </termEntry>
+            <termEntry id="linguas">
+                <langSet xml:lang="en"><tig><term>creole</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>crioula</term></tig></langSet>
+            </termEntry>
+            <termEntry id="linguas ou idiomas">
+                <langSet xml:lang="en"><tig><term>informal</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>coloquial</term></tig></langSet>
+                <note from="translator">prefirese coloquial a informal</note>
+            </termEntry>
         </body>
     </text>
 </martif>
