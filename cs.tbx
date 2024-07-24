@@ -445,7 +445,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parser</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term/></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>parser</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>partition</term></tig></langSet>
@@ -1006,7 +1006,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>current</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term>nynější</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>současný(-á)(-é)</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>identity</term></tig></langSet>
@@ -1106,7 +1106,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Privacy Policy</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term>Podmínky zpracování osobních údajů</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Zásady ochrany osobních údajů</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>profile</term></tig></langSet>
@@ -1230,7 +1230,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term/></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Sentry</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
@@ -1247,7 +1247,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CVS</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term/></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>CVS</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>VCS</term></tig></langSet>
@@ -1376,7 +1376,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>replacer</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term/></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>replacer</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>suggestion</term></tig></langSet>
