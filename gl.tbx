@@ -5353,11 +5353,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Creoles and pidgins</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>Linguas crioulas e de contacto</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>Crioulos e sabires</term></tig></langSet>
             </termEntry>
             <termEntry id="linguas">
                 <langSet xml:lang="en"><tig><term>pidgin</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>de contacto</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>sabir</term></tig></langSet>
                 <note from="translator">lingua de contacto</note>
             </termEntry>
             <termEntry id="linguas">
