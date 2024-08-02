@@ -77,7 +77,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>billing plan</term></tig></langSet>
-                <langSet xml:lang="hr"><tig><term>tarifa</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>plan naplate</term></tig></langSet>
+                <descrip>Sounds more natural, imo.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>merge request</term></tig></langSet>
@@ -580,11 +581,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>whitespace</term></tig></langSet>
-                <langSet xml:lang="hr"><tig><term>razmakni znak</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>razmak</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>whitespaces</term></tig></langSet>
-                <langSet xml:lang="hr"><tig><term>razmakni znakovi</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>razmaci</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bookmark</term></tig></langSet>
@@ -665,6 +666,14 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>strings</term></tig></langSet>
                 <langSet xml:lang="hr"><tig><term>izrazi</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>translation flags</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>prevodilačke oznake</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Dropped</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>Ukinuto</term></tig></langSet>
             </termEntry>
         </body>
     </text>
