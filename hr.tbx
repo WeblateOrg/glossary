@@ -675,6 +675,10 @@
                 <langSet xml:lang="en"><tig><term>Dropped</term></tig></langSet>
                 <langSet xml:lang="hr"><tig><term>Ukinuto</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>timestamp</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>vremenska oznaka</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
