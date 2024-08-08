@@ -214,7 +214,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term>email commit</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>e-mail di commit</term></tig></langSet>
                 <descrip>e-mail address that will be used as committer</descrip>
             </termEntry>
             <termEntry>
@@ -364,7 +364,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>e-mail</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term>email</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>e-mail</term></tig></langSet>
+                <descrip>Cando só «correo» pode levar a confusión co postal</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>soft hyphen</term></tig></langSet>
