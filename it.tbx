@@ -363,11 +363,6 @@
                 <langSet xml:lang="it"><tig><term>flusso di lavoro</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>e-mail</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term>e-mail</term></tig></langSet>
-                <descrip>Cando só «correo» pode levar a confusión co postal</descrip>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>soft hyphen</term></tig></langSet>
                 <langSet xml:lang="it"><tig><term>trattino facoltativo</term></tig></langSet>
             </termEntry>
