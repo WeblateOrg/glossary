@@ -5369,6 +5369,16 @@
                 <langSet xml:lang="gl"><tig><term>coloquial</term></tig></langSet>
                 <note from="translator">prefirese coloquial a informal</note>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>two-factor authentication</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>autenticación con dous factores</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>2FA</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>A2F</term></tig></langSet>
+                <note from="translator">two-factor authentication (2-F A) – &#13;
+autenticación con segundo factor, ou con dous factores (A 2 F)</note>
+            </termEntry>
         </body>
     </text>
 </martif>
