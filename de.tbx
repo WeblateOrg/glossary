@@ -1764,6 +1764,10 @@
                 <langSet xml:lang="en"><tig><term>Accept</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Annehmen</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>terminology</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Terminologie</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
