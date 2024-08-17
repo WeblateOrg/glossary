@@ -951,7 +951,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>crash</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>falla</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>creba</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>create</term></tig></langSet>
@@ -1011,7 +1011,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>daemon</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>demoño</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>servizo</term></tig></langSet>
+                <note from="translator">o de «demoño» é un invento do demo (demon)</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>damage</term></tig></langSet>
@@ -4068,7 +4069,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslated</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term/></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>sen traducir</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>This is not used when a component list is selected.</term></tig></langSet>
@@ -4092,7 +4093,7 @@
             </termEntry>
             <termEntry id="components">
                 <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term/></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>compoñentes</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
@@ -5378,6 +5379,30 @@ autenticación con segundo factor, ou con dous factores (A 2 F)</note>
                 <langSet xml:lang="en"><tig><term>``</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>``</term></tig></langSet>
                 <note from="translator">Define «texto monoespazado» (de terminal)  nas documentacións elaboradas con «Sphinx» (.rst – reStructuredText)</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>fixed</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>corrixido</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Cyrtranslit</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>CyrTranslit</term></tig></langSet>
+                <note from="translator">https://pypi.org/project/cyrtranslit/ — &#13;
+Bi-directional Cyrillic transliteration. Transliterate Cyrillic script to Latin script and vice versa.</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>corrupted</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>estragado.</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>passkey</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>chave de acceso</term></tig></langSet>
+                <note from="translator">mellor que chave de paso</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Repobeats</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>Repobeats</term></tig></langSet>
+                <note from="translator">Repobeats es una herramienta (GitHub) que añade estadísticas interesantes sobre un repositorio al archivo README.md.</note>
             </termEntry>
         </body>
     </text>
