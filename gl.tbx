@@ -5379,6 +5379,11 @@
                 <note from="translator">two-factor authentication (2-F A) – &#13;
 autenticación con segundo factor, ou con dous factores (A 2 F)</note>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>``</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>``</term></tig></langSet>
+                <note from="translator">Define «texto monoespazado» (de terminal)  nas documentacións elaboradas con «Sphinx» (.rst – reStructuredText)</note>
+            </termEntry>
         </body>
     </text>
 </martif>
