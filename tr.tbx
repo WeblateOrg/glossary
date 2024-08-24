@@ -559,7 +559,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>integration</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term>tümleşim</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>bütünleştirme</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>install</term></tig></langSet>
@@ -621,11 +621,19 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>two-factor</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term>iki aşamalı</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>iki adımlı</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>recovery</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>kurtarma</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>plan</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>tarife</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hook</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>kanca</term></tig></langSet>
             </termEntry>
         </body>
     </text>
