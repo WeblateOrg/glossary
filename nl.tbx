@@ -268,7 +268,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslated</term></tig></langSet>
-                <langSet xml:lang="nl"><tig><term/></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>niet vertaald</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
@@ -280,7 +280,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>This is not used when a component list is selected.</term></tig></langSet>
-                <langSet xml:lang="nl"><tig><term/></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>Dit wordt niet gebruikt als een onderdelenlijst is geselecteerd.</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gerrit</term></tig></langSet>
@@ -300,7 +300,7 @@
             </termEntry>
             <termEntry id="components">
                 <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
-                <langSet xml:lang="nl"><tig><term/></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>componenten</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
@@ -366,7 +366,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
-                <langSet xml:lang="nl"><tig><term/></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>indienen</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>term</term></tig></langSet>
@@ -527,7 +527,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CVS</term></tig></langSet>
-                <langSet xml:lang="nl"><tig><term/></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>CVS</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>VCS</term></tig></langSet>
@@ -564,7 +564,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Please select target plural by clicking.</term></tig></langSet>
-                <langSet xml:lang="nl"><tig><term/></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>Selecteer een doel-meervoud door te klikken.</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>GitHub star</term></tig></langSet>
