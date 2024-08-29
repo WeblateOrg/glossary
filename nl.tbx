@@ -76,7 +76,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>free</term></tig></langSet>
-                <langSet xml:lang="nl"><tig><term>gratis, vrij</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>gratis</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Add new word</term></tig></langSet>
@@ -113,6 +113,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
                 <langSet xml:lang="nl"><tig><term/></tig></langSet>
+                <note from="translator">eigennaam</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>VAT ID</term></tig></langSet>
@@ -132,7 +133,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>backup</term></tig></langSet>
-                <langSet xml:lang="nl"><tig><term>back-up, reservekopie</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>back-up</term></tig></langSet>
+                <note from="translator">ook: reservekopie</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>description</term></tig></langSet>
@@ -221,6 +223,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gitee</term></tig></langSet>
                 <langSet xml:lang="nl"><tig><term/></tig></langSet>
+                <note from="translator">eigennaam</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Subject</term></tig></langSet>
@@ -285,6 +288,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gerrit</term></tig></langSet>
                 <langSet xml:lang="nl"><tig><term>Gerrit</term></tig></langSet>
+                <note from="translator">eigennaam</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Subversion</term></tig></langSet>
@@ -363,6 +367,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
                 <langSet xml:lang="nl"><tig><term>Hosted Weblate</term></tig></langSet>
+                <note from="translator">eigennaam</note>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
@@ -407,7 +412,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>history</term></tig></langSet>
-                <langSet xml:lang="nl"><tig><term>geschiedenis</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>Geschiedenis</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Django</term></tig></langSet>
@@ -445,6 +450,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gravatar</term></tig></langSet>
                 <langSet xml:lang="nl"><tig><term>Gravatar</term></tig></langSet>
+                <note from="translator">eigennaam</note>
                 <descrip>gravatar.com</descrip>
             </termEntry>
             <termEntry>
@@ -454,10 +460,12 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>foo/bar</term></tig></langSet>
                 <langSet xml:lang="nl"><tig><term/></tig></langSet>
+                <note from="translator">voorbeeld tekenreeks</note>
             </termEntry>
             <termEntry id="hackerone.com">
                 <langSet xml:lang="en"><tig><term>HackerOne</term></tig></langSet>
                 <langSet xml:lang="nl"><tig><term>HackerOne</term></tig></langSet>
+                <note from="translator">eigennaam</note>
             </termEntry>
             <termEntry id="deepl.com">
                 <langSet xml:lang="en"><tig><term>DeepL</term></tig></langSet>
@@ -466,6 +474,7 @@
             <termEntry id="https://www.gnu.org/software/gettext">
                 <langSet xml:lang="en"><tig><term>gettext</term></tig></langSet>
                 <langSet xml:lang="nl"><tig><term>gettext</term></tig></langSet>
+                <note from="translator">eigennaam</note>
             </termEntry>
             <termEntry id="sphinx-doc.org">
                 <langSet xml:lang="en"><tig><term>Sphinx</term></tig></langSet>
@@ -528,6 +537,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CVS</term></tig></langSet>
                 <langSet xml:lang="nl"><tig><term>CVS</term></tig></langSet>
+                <note from="translator">eigennaam</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>VCS</term></tig></langSet>
@@ -540,6 +550,7 @@
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Fluent</term></tig></langSet>
                 <langSet xml:lang="nl"><tig><term>Fluent</term></tig></langSet>
+                <note from="translator">merknaam</note>
                 <descrip>“Fluent” is a “localization system for natural-sounding translations” - https://projectfluent.org/</descrip>
             </termEntry>
             <termEntry>
@@ -581,6 +592,17 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Timestamp</term></tig></langSet>
                 <langSet xml:lang="nl"><tig><term>Tijdstempel</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Enable</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>Inschakelen</term></tig></langSet>
+                <note from="translator">ook: turn on</note>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>backup</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>reservekopie</term></tig></langSet>
+                <note from="translator">ook: back-up</note>
+                <descrip>ook: back-up</descrip>
             </termEntry>
         </body>
     </text>
