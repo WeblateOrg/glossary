@@ -487,7 +487,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>machine translation</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term>tradução de máquina</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>tradução automática</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>user dashboard</term></tig></langSet>
