@@ -1604,6 +1604,14 @@
                 <langSet xml:lang="en"><tig><term>elements</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>元素</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>authentication</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>身分驗證</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>two-factor</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>雙重要素</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
