@@ -292,7 +292,6 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Google OAuth 2</term></tig></langSet>
                 <langSet xml:lang="tok"><tig><term/></tig></langSet>
-                <descrip>登入認證協定</descrip>
             </termEntry>
             <termEntry id="Past tense">
                 <langSet xml:lang="en"><tig><term>translated</term></tig></langSet>
@@ -382,7 +381,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Please select target plural by clicking.</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term></term></tig></langSet>
+                <langSet xml:lang="tok"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
