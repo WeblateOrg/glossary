@@ -794,7 +794,6 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Google OAuth 2</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>Google OAuth 2</term></tig></langSet>
-                <descrip>登入認證協定</descrip>
             </termEntry>
             <termEntry id="Past tense">
                 <langSet xml:lang="en"><tig><term>translated</term></tig></langSet>
@@ -870,7 +869,6 @@
                 <langSet xml:lang="en"><tig><term>copylefted</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>Copyleft</term></tig></langSet>
                 <note from="translator">目前不论是“著左权”还是“著作传”都有不恰当之处，可能会和“Bug”之类词一样长期被保留。记得大写。</note>
-                <descrip>目前不论是“著左权”还是“著作传”都有不恰当之处，可能会和“Bug”之类词一样长期被保留。记得大写。</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>persona</term></tig></langSet>
