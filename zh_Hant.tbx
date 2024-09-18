@@ -956,7 +956,6 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Google OAuth 2</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>Google OAuth 2</term></tig></langSet>
-                <descrip>登入認證協定</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>IDP</term></tig></langSet>
