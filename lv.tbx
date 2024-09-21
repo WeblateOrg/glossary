@@ -226,7 +226,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translator</term></tig></langSet>
-                <langSet xml:lang="lv"><tig><term/></tig></langSet>
+                <langSet xml:lang="lv"><tig><term>tulkotājs</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>term</term></tig></langSet>
@@ -234,23 +234,23 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Privacy Policy</term></tig></langSet>
-                <langSet xml:lang="lv"><tig><term/></tig></langSet>
+                <langSet xml:lang="lv"><tig><term>Konfidencialitātes politika</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Terms of Service</term></tig></langSet>
-                <langSet xml:lang="lv"><tig><term/></tig></langSet>
+                <langSet xml:lang="lv"><tig><term>Pakalpojuma sniegšanas noteikumi</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>profile</term></tig></langSet>
-                <langSet xml:lang="lv"><tig><term/></tig></langSet>
+                <langSet xml:lang="lv"><tig><term>profils</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>project</term></tig></langSet>
-                <langSet xml:lang="lv"><tig><term/></tig></langSet>
+                <langSet xml:lang="lv"><tig><term>projekts</term></tig></langSet>
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>projects</term></tig></langSet>
-                <langSet xml:lang="lv"><tig><term/></tig></langSet>
+                <langSet xml:lang="lv"><tig><term>projekti</term></tig></langSet>
             </termEntry>
             <termEntry id="alias &quot;source text&quot;">
                 <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
@@ -262,12 +262,12 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
-                <langSet xml:lang="lv"><tig><term/></tig></langSet>
+                <langSet xml:lang="lv"><tig><term>iesniegto izmaiņu e-pasts</term></tig></langSet>
                 <descrip>e-mail address that will be used as committer</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>history</term></tig></langSet>
-                <langSet xml:lang="lv"><tig><term/></tig></langSet>
+                <langSet xml:lang="lv"><tig><term>vēsture</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Django</term></tig></langSet>
@@ -341,35 +341,35 @@
             </termEntry>
             <termEntry id="Past tense">
                 <langSet xml:lang="en"><tig><term>translated</term></tig></langSet>
-                <langSet xml:lang="lv"><tig><term/></tig></langSet>
+                <langSet xml:lang="lv"><tig><term>iztulkots</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>glossary</term></tig></langSet>
-                <langSet xml:lang="lv"><tig><term/></tig></langSet>
+                <langSet xml:lang="lv"><tig><term>vārdnīca</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
-                <langSet xml:lang="lv"><tig><term/></tig></langSet>
+                <langSet xml:lang="lv"><tig><term>repozitorijs</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repo</term></tig></langSet>
-                <langSet xml:lang="lv"><tig><term/></tig></langSet>
+                <langSet xml:lang="lv"><tig><term>repozitorijs</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>text direction</term></tig></langSet>
-                <langSet xml:lang="lv"><tig><term/></tig></langSet>
+                <langSet xml:lang="lv"><tig><term>teksta virziens</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>screenshot</term></tig></langSet>
-                <langSet xml:lang="lv"><tig><term/></tig></langSet>
+                <langSet xml:lang="lv"><tig><term>ekrānuzņēmums</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Screenshots</term></tig></langSet>
-                <langSet xml:lang="lv"><tig><term/></tig></langSet>
+                <langSet xml:lang="lv"><tig><term>Ekrānuzņēmumi</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>authorship</term></tig></langSet>
-                <langSet xml:lang="lv"><tig><term/></tig></langSet>
+                <langSet xml:lang="lv"><tig><term>autortiesības</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
@@ -377,11 +377,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
-                <langSet xml:lang="lv"><tig><term/></tig></langSet>
+                <langSet xml:lang="lv"><tig><term>Mērījumi</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
-                <langSet xml:lang="lv"><tig><term/></tig></langSet>
+                <langSet xml:lang="lv"><tig><term>netulkojams</term></tig></langSet>
                 <descrip>Glossary terms that should not be changed from the source language</descrip>
             </termEntry>
             <termEntry>
@@ -407,11 +407,11 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
-                <langSet xml:lang="lv"><tig><term/></tig></langSet>
+                <langSet xml:lang="lv"><tig><term>Mērījumi</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
-                <langSet xml:lang="lv"><tig><term/></tig></langSet>
+                <langSet xml:lang="lv"><tig><term>instrumentu panelis</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Zadnu</term></tig></langSet>
@@ -419,7 +419,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Accept</term></tig></langSet>
-                <langSet xml:lang="lv"><tig><term/></tig></langSet>
+                <langSet xml:lang="lv"><tig><term>Pieņemt</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Please select target plural by clicking.</term></tig></langSet>
