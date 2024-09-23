@@ -5414,7 +5414,7 @@ Bi-directional Cyrillic transliteration. Transliterate Cyrillic script to Latin 
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>terminology</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term></term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>terminoloxía</term></tig></langSet>
             </termEntry>
         </body>
     </text>
