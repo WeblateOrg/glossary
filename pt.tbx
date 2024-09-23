@@ -740,6 +740,10 @@
                 <langSet xml:lang="en"><tig><term>support</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>apoio</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>terminology</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
