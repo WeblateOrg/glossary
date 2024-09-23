@@ -603,6 +603,10 @@
                 <note from="translator">ook: back-up</note>
                 <descrip>ook: back-up</descrip>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>terminology</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
