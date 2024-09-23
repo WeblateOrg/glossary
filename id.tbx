@@ -826,6 +826,10 @@
                 <langSet xml:lang="en"><tig><term>fine-grained</term></tig></langSet>
                 <langSet xml:lang="id"><tig><term>mendalam, terperinci</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>terminology</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
