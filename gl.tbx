@@ -5412,6 +5412,10 @@ Bi-directional Cyrillic transliteration. Transliterate Cyrillic script to Latin 
                 <langSet xml:lang="en"><tig><term>bug fixes</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>correccións de fallos</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>terminology</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
