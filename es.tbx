@@ -494,6 +494,10 @@
                 <langSet xml:lang="en"><tig><term>Path</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>Ruta</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>terminology</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
