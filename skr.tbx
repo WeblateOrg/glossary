@@ -342,6 +342,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>VCS</term></tig></langSet>
                 <langSet xml:lang="skr"><tig><term/></tig></langSet>
+                <note from="translator">VCS</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tab character</term></tig></langSet>
@@ -378,7 +379,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>terminology</term></tig></langSet>
-                <langSet xml:lang="skr"><tig><term></term></tig></langSet>
+                <langSet xml:lang="skr"><tig><term/></tig></langSet>
+                <note from="translator">اصطلاحات</note>
             </termEntry>
         </body>
     </text>
