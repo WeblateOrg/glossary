@@ -616,7 +616,7 @@ PRIORITY_CHOICES = (&#13;
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>terminology</term></tig></langSet>
-                <langSet xml:lang="ja"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>用語</term></tig></langSet>
             </termEntry>
         </body>
     </text>
