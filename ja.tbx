@@ -200,16 +200,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>priority</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>優先度</term></tig></langSet>
-                <note from="translator">紛らわしいので定義を引用：&#13;
-PRIORITY_CHOICES = (&#13;
-    (60, gettext_lazy("Very high")),&#13;
-    (80, gettext_lazy("High")),&#13;
-    (100, gettext_lazy("Medium")),&#13;
-    (120, gettext_lazy("Low")),&#13;
-    (140, gettext_lazy("Very low")),&#13;
-)&#13;
-デフォルト 100&#13;
-★　数字が小さいほど優先度は高くなるので、要注意！</note>
+                <note from="translator">大小関係は小さいほど高優先度</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CI</term></tig></langSet>
