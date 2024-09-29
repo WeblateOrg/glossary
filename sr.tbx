@@ -445,7 +445,31 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>terminology</term></tig></langSet>
-                <langSet xml:lang="sr"><tig><term></term></tig></langSet>
+                <langSet xml:lang="sr"><tig><term>терминологија</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>separator</term></tig></langSet>
+                <langSet xml:lang="sr"><tig><term>сепаратор</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
+                <langSet xml:lang="sr"><tig><term>урезивање</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>fuzzy</term></tig></langSet>
+                <langSet xml:lang="sr"><tig><term>фази</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>rebase</term></tig></langSet>
+                <langSet xml:lang="sr"><tig><term>ребејз</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>underscore</term></tig></langSet>
+                <langSet xml:lang="sr"><tig><term>доња црта</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hyphen</term></tig></langSet>
+                <langSet xml:lang="sr"><tig><term>цртица</term></tig></langSet>
             </termEntry>
         </body>
     </text>
