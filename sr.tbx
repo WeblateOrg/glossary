@@ -60,7 +60,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>edit</term></tig></langSet>
-                <langSet xml:lang="sr"><tig><term>Urediti</term></tig></langSet>
+                <langSet xml:lang="sr"><tig><term>уредити</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SSO</term></tig></langSet>
@@ -68,15 +68,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
-                <langSet xml:lang="sr"><tig><term>Privatno</term></tig></langSet>
+                <langSet xml:lang="sr"><tig><term>приватно</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>search</term></tig></langSet>
-                <langSet xml:lang="sr"><tig><term>Pretraga</term></tig></langSet>
+                <langSet xml:lang="sr"><tig><term>претрага</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
-                <langSet xml:lang="sr"><tig><term>Dodatak</term></tig></langSet>
+                <langSet xml:lang="sr"><tig><term>додатак</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
