@@ -542,6 +542,12 @@
                 <langSet xml:lang="en"><tig><term>terminology</term></tig></langSet>
                 <langSet xml:lang="fi"><tig><term/></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>version control</term></tig></langSet>
+                <langSet xml:lang="fi"><tig><term>versionhallinta</term></tig></langSet>
+                <note from="translator">https://en.wikipedia.org/wiki/Version_control</note>
+                <descrip>https://en.wikipedia.org/wiki/Version_control</descrip>
+            </termEntry>
         </body>
     </text>
 </martif>
