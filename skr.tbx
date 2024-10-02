@@ -379,7 +379,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>terminology</term></tig></langSet>
-                <langSet xml:lang="skr"><tig><term/></tig></langSet>
+                <langSet xml:lang="skr"><tig><term>اصطلاحات</term></tig></langSet>
                 <note from="translator">اصطلاحات</note>
             </termEntry>
         </body>
