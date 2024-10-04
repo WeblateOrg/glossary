@@ -342,10 +342,6 @@
                 <langSet xml:lang="en"><tig><term>URL scheme</term></tig></langSet>
                 <langSet xml:lang="fi"><tig><term>URL-osoitemalli</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
-                <langSet xml:lang="fi"><tig><term/></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translator</term></tig></langSet>
                 <langSet xml:lang="fi"><tig><term>kääntäjä</term></tig></langSet>
