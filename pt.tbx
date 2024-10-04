@@ -716,7 +716,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>persona</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>persona</term></tig></langSet>
+                <note from="translator">Uma persona é uma representação fictícia do cliente ideal de uma empresa, baseada em dados reais sobre características e comportamento dos clientes.</note>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
@@ -742,7 +743,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>terminology</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term></term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>terminologia</term></tig></langSet>
+                <note from="translator">Terminologia é um conjunto determinado de vocábulos próprios de uma ciência, de uma arte, de um ofício ou de uma profissão, sendo estudo dos termos técnicos usados por exemplo em ciências especificas ou artes em geral.</note>
             </termEntry>
         </body>
     </text>
