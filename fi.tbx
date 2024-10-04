@@ -213,10 +213,6 @@
                 <langSet xml:lang="fi"><tig><term>Säännölliset lausekkeet</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Gitee</term></tig></langSet>
-                <langSet xml:lang="fi"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Subject</term></tig></langSet>
                 <langSet xml:lang="fi"><tig><term>Aihe</term></tig></langSet>
             </termEntry>
