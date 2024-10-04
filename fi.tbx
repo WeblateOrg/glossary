@@ -449,7 +449,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>authorship</term></tig></langSet>
-                <langSet xml:lang="fi"><tig><term>tekijä</term></tig></langSet>
+                <langSet xml:lang="fi"><tig><term>tekijätiedot</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
@@ -457,7 +457,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
-                <langSet xml:lang="fi"><tig><term>kääntämätön</term></tig></langSet>
+                <langSet xml:lang="fi"><tig><term>ei-käännettävä</term></tig></langSet>
                 <descrip>Glossary terms that should not be changed from the source language</descrip>
             </termEntry>
             <termEntry>
