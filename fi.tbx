@@ -320,7 +320,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>unresolved comment</term></tig></langSet>
-                <langSet xml:lang="fi"><tig><term>ei ratkaistu kommentti</term></tig></langSet>
+                <langSet xml:lang="fi"><tig><term>ratkaisematon kommentti</term></tig></langSet>
             </termEntry>
             <termEntry id="opposite">
                 <langSet xml:lang="en"><tig><term>resolved comment</term></tig></langSet>
