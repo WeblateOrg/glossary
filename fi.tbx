@@ -503,6 +503,10 @@
                 <note from="translator">https://en.wikipedia.org/wiki/Version_control</note>
                 <descrip>https://en.wikipedia.org/wiki/Version_control</descrip>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>timestamp</term></tig></langSet>
+                <langSet xml:lang="fi"><tig><term>aikaleima</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
