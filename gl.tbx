@@ -4291,7 +4291,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term/></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>Métricas</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
@@ -4300,7 +4300,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CVS</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term/></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>CVS</term></tig></langSet>
+                <note from="translator">Ao ser as siglas de Concurrent Versions System, non se debería de modificar a cadena.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>VCS</term></tig></langSet>
