@@ -40,11 +40,12 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>e-mail address</term></tig></langSet>
-                <langSet xml:lang="sr"><tig><term>адреса е-поште</term></tig></langSet>
+                <langSet xml:lang="sr"><tig><term>имејл адреса</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>e-mail</term></tig></langSet>
-                <langSet xml:lang="sr"><tig><term>е-пошта</term></tig></langSet>
+                <langSet xml:lang="sr"><tig><term>имејл</term></tig></langSet>
+                <descrip>Cando só «correo» pode levar a confusión co postal</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
@@ -470,6 +471,10 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>hyphen</term></tig></langSet>
                 <langSet xml:lang="sr"><tig><term>цртица</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Placeholders</term></tig></langSet>
+                <langSet xml:lang="sr"><tig><term>Држачи места</term></tig></langSet>
             </termEntry>
         </body>
     </text>
