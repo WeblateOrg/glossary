@@ -5398,6 +5398,7 @@ Bi-directional Cyrillic transliteration. Transliterate Cyrillic script to Latin 
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>tab</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>lapela</term></tig></langSet>
+                <note from="translator">A miña preferida cando se refire ao separador de páxinas dun navegador ou dunha xanela da interface, xa que non se confunde cun «separator» dunha barra de marcadores</note>
             </termEntry>
             <termEntry id="2">
                 <langSet xml:lang="en"><tig><term>tab</term></tig></langSet>
@@ -5407,6 +5408,7 @@ Bi-directional Cyrillic transliteration. Transliterate Cyrillic script to Latin 
             <termEntry id="3">
                 <langSet xml:lang="en"><tig><term>tab</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>separador</term></tig></langSet>
+                <note from="translator">A miña preferida cando se refire la lapela de páxinas dun navegador ou dunha xanela da interface, é a escolla oficial da RAG</note>
             </termEntry>
         </body>
     </text>
