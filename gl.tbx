@@ -4319,7 +4319,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>persona</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>persoa</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>persona</term></tig></langSet>
+                <note from="translator">https://docs.weblate.org/en/latest/admin/machine.html#azure-openai</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
