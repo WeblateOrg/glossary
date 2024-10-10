@@ -3628,10 +3628,6 @@
                 <langSet xml:lang="gl"><tig><term>sistema</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>tab</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>separador</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>table</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>táboa</term></tig></langSet>
             </termEntry>
