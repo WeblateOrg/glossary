@@ -5287,10 +5287,6 @@
                 <langSet xml:lang="en"><tig><term>keep</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>manter</term></tig></langSet>
             </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Please select target plural by clicking.</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>Seleccione o plural de destino premendo clic.</term></tig></langSet>
-            </termEntry>
             <termEntry id="Nas documentacións elaboradas «Sphinx» (.rst – reStructuredText)">
                 <langSet xml:lang="en"><tig><term>:file:</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>:file:</term></tig></langSet>
