@@ -4083,10 +4083,6 @@
                 <langSet xml:lang="en"><tig><term>pseudolocale</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>pseudoconfiguración rexional</term></tig></langSet>
             </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>component list</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>listaxe de compoñentes</term></tig></langSet>
-            </termEntry>
             <termEntry id="components">
                 <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>compoñentes</term></tig></langSet>
