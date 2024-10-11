@@ -104,7 +104,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>current</term></tig></langSet>
-                <langSet xml:lang="sk"><tig><term/></tig></langSet>
+                <langSet xml:lang="sk"><tig><term>aktuálne</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>identity</term></tig></langSet>
@@ -413,7 +413,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>terminology</term></tig></langSet>
-                <langSet xml:lang="sk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="sk"><tig><term>terminológia</term></tig></langSet>
             </termEntry>
         </body>
     </text>
