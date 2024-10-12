@@ -406,7 +406,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>terminology</term></tig></langSet>
-                <langSet xml:lang="en_GB"><tig><term></term></tig></langSet>
+                <langSet xml:lang="en_GB"><tig><term>terminology</term></tig></langSet>
             </termEntry>
         </body>
     </text>
