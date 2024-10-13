@@ -677,7 +677,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Subversion</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term/></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Subversion</term></tig></langSet>
                 <note from="translator">Nom d'un logiciel</note>
             </termEntry>
             <termEntry>
