@@ -117,10 +117,6 @@
                 <langSet xml:lang="en"><tig><term>Terms of Service</term></tig></langSet>
                 <langSet xml:lang="da"><tig><term>Servicevilkår</term></tig></langSet>
             </termEntry>
-            <termEntry id="alias &quot;source text&quot;">
-                <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>kilde</term></tig></langSet>
-            </termEntry>
             <termEntry id="alias &quot;Zen mode&quot;">
                 <langSet xml:lang="en"><tig><term>Zen</term></tig></langSet>
                 <langSet xml:lang="da"><tig><term/></tig></langSet>
