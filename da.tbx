@@ -148,10 +148,6 @@
                 <langSet xml:lang="da"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>translator</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>oversætter</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>term</term></tig></langSet>
                 <langSet xml:lang="da"><tig><term>begreb</term></tig></langSet>
             </termEntry>
