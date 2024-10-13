@@ -174,10 +174,6 @@
                 <langSet xml:lang="en"><tig><term>Sphinx</term></tig></langSet>
                 <langSet xml:lang="da"><tig><term/></tig></langSet>
             </termEntry>
-            <termEntry id="readthedocs.org">
-                <langSet xml:lang="en"><tig><term>Read the Docs</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>Læs Dokumenterne</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>glossary</term></tig></langSet>
                 <langSet xml:lang="da"><tig><term>ordliste</term></tig></langSet>
