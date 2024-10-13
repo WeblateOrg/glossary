@@ -95,7 +95,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>parse/læse/analysere</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>analysere</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gerrit</term></tig></langSet>
