@@ -15,10 +15,6 @@
                 <langSet xml:lang="da"><tig><term>auditeringslog</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>version control</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>versionskontrol</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>whitespace</term></tig></langSet>
                 <langSet xml:lang="da"><tig><term>blanktegn</term></tig></langSet>
             </termEntry>
