@@ -222,10 +222,6 @@
                 <langSet xml:lang="da"><tig><term>Adgangskontrol</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Protected</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>Beskyttet</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Private</term></tig></langSet>
                 <langSet xml:lang="da"><tig><term>Privat(e)</term></tig></langSet>
                 <note from="translator">(e) plural</note>
