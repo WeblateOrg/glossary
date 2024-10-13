@@ -23,10 +23,6 @@
                 <langSet xml:lang="da"><tig><term>SSO</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>search</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>søg/søgning</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
                 <langSet xml:lang="da"><tig><term>tilføjelse</term></tig></langSet>
             </termEntry>
