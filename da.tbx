@@ -77,11 +77,6 @@
                 <langSet xml:lang="da"><tig><term>ændringslog</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>pull request</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>pull-anmodning</term></tig></langSet>
-                <note from="translator">Not quite sure of the actual term, but I think this gets the meaning across.</note>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>issue</term></tig></langSet>
                 <langSet xml:lang="da"><tig><term>problem</term></tig></langSet>
             </termEntry>
