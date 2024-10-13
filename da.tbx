@@ -32,10 +32,6 @@
                 <note from="translator">Network Block Device</note>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>bug</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>fejl</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
                 <langSet xml:lang="da"><tig><term/></tig></langSet>
             </termEntry>
