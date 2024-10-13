@@ -12,7 +12,7 @@
         <body>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>audit log</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>auditeringslog</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>auditlog</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>whitespace</term></tig></langSet>
