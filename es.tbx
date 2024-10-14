@@ -187,7 +187,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Subversion</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term/></tig></langSet>
+                <langSet xml:lang="es"><tig><term>Subversion</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
