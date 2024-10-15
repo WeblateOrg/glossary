@@ -4490,7 +4490,7 @@ Non se emprega en ningún dos compoñentes de Weblate.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Key</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>Clave</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>clave</term></tig></langSet>
                 <note from="translator">Cando se refire a «translation key», a clave que empregan algúns procedementos para «marcar/identificar» as cadeas</note>
             </termEntry>
             <termEntry>
@@ -5409,6 +5409,14 @@ Bi-directional Cyrillic transliteration. Transliterate Cyrillic script to Latin 
                 <langSet xml:lang="en"><tig><term>tab</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>separador</term></tig></langSet>
                 <note from="translator">A miña preferida cando se refire la lapela de páxinas dun navegador ou dunha xanela da interface, é a escolla oficial da RAG</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>placeable</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>situábel</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>placeable</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>colocábel</term></tig></langSet>
             </termEntry>
         </body>
     </text>
