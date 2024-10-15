@@ -16,7 +16,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>edit</term></tig></langSet>
-                <langSet xml:lang="br"><tig><term/></tig></langSet>
+                <langSet xml:lang="br"><tig><term>kemmañ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SSO</term></tig></langSet>
@@ -24,15 +24,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
-                <langSet xml:lang="br"><tig><term/></tig></langSet>
+                <langSet xml:lang="br"><tig><term>prevez</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>search</term></tig></langSet>
-                <langSet xml:lang="br"><tig><term/></tig></langSet>
+                <langSet xml:lang="br"><tig><term>klask</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
-                <langSet xml:lang="br"><tig><term/></tig></langSet>
+                <langSet xml:lang="br"><tig><term>astenn</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
@@ -40,7 +40,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bug</term></tig></langSet>
-                <langSet xml:lang="br"><tig><term/></tig></langSet>
+                <langSet xml:lang="br"><tig><term>draen</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
@@ -52,7 +52,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Keyboard shortcuts</term></tig></langSet>
-                <langSet xml:lang="br"><tig><term/></tig></langSet>
+                <langSet xml:lang="br"><tig><term>Berradennoù klavier</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
@@ -60,7 +60,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Regular expressions</term></tig></langSet>
-                <langSet xml:lang="br"><tig><term/></tig></langSet>
+                <langSet xml:lang="br"><tig><term>Eztaoladennoù poellek</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gitee</term></tig></langSet>
@@ -68,11 +68,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Subject</term></tig></langSet>
-                <langSet xml:lang="br"><tig><term/></tig></langSet>
+                <langSet xml:lang="br"><tig><term>Danvez</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Personal Data</term></tig></langSet>
-                <langSet xml:lang="br"><tig><term/></tig></langSet>
+                <langSet xml:lang="br"><tig><term>Roadennoù personel</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Cookies</term></tig></langSet>
@@ -80,27 +80,27 @@
             </termEntry>
             <termEntry id="XML Tag">
                 <langSet xml:lang="en"><tig><term>XML Tag</term></tig></langSet>
-                <langSet xml:lang="br"><tig><term/></tig></langSet>
+                <langSet xml:lang="br"><tig><term>Tikedenn XML</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>variants</term></tig></langSet>
-                <langSet xml:lang="br"><tig><term/></tig></langSet>
+                <langSet xml:lang="br"><tig><term>argemmoù</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
-                <langSet xml:lang="br"><tig><term/></tig></langSet>
+                <langSet xml:lang="br"><tig><term>jedouer</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>current</term></tig></langSet>
-                <langSet xml:lang="br"><tig><term/></tig></langSet>
+                <langSet xml:lang="br"><tig><term>red</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>identity</term></tig></langSet>
-                <langSet xml:lang="br"><tig><term/></tig></langSet>
+                <langSet xml:lang="br"><tig><term>identelezh</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>session</term></tig></langSet>
-                <langSet xml:lang="br"><tig><term/></tig></langSet>
+                <langSet xml:lang="br"><tig><term>estez</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslated</term></tig></langSet>
@@ -108,7 +108,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
-                <langSet xml:lang="br"><tig><term/></tig></langSet>
+                <langSet xml:lang="br"><tig><term>dielfennañ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>This is not used when a component list is selected.</term></tig></langSet>
@@ -124,11 +124,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pseudolocale</term></tig></langSet>
-                <langSet xml:lang="br"><tig><term/></tig></langSet>
+                <langSet xml:lang="br"><tig><term>brizhtroidigezh</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>component list</term></tig></langSet>
-                <langSet xml:lang="br"><tig><term/></tig></langSet>
+                <langSet xml:lang="br"><tig><term>roll ar parzhioù</term></tig></langSet>
             </termEntry>
             <termEntry id="components">
                 <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
@@ -136,67 +136,67 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
-                <langSet xml:lang="br"><tig><term/></tig></langSet>
+                <langSet xml:lang="br"><tig><term>marilh ar c'hemmoù</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pull request</term></tig></langSet>
-                <langSet xml:lang="br"><tig><term/></tig></langSet>
+                <langSet xml:lang="br"><tig><term>goulenn tennañ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>issue</term></tig></langSet>
-                <langSet xml:lang="br"><tig><term/></tig></langSet>
+                <langSet xml:lang="br"><tig><term>kudenn</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>access restriction</term></tig></langSet>
-                <langSet xml:lang="br"><tig><term/></tig></langSet>
+                <langSet xml:lang="br"><tig><term>moned miret</term></tig></langSet>
             </termEntry>
             <termEntry id="access restrictions (plural)">
                 <langSet xml:lang="en"><tig><term>access restrictions</term></tig></langSet>
-                <langSet xml:lang="br"><tig><term/></tig></langSet>
+                <langSet xml:lang="br"><tig><term>monedoù miret</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regex</term></tig></langSet>
-                <langSet xml:lang="br"><tig><term/></tig></langSet>
+                <langSet xml:lang="br"><tig><term>eztaoladenn boellek</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regular expression</term></tig></langSet>
-                <langSet xml:lang="br"><tig><term/></tig></langSet>
+                <langSet xml:lang="br"><tig><term>eztaolenn boellek</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>class</term></tig></langSet>
-                <langSet xml:lang="br"><tig><term/></tig></langSet>
+                <langSet xml:lang="br"><tig><term>rummad</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
-                <langSet xml:lang="br"><tig><term/></tig></langSet>
+                <langSet xml:lang="br"><tig><term>diverradenn</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fixup</term></tig></langSet>
-                <langSet xml:lang="br"><tig><term/></tig></langSet>
+                <langSet xml:lang="br"><tig><term>reizhañ</term></tig></langSet>
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>translations</term></tig></langSet>
-                <langSet xml:lang="br"><tig><term/></tig></langSet>
+                <langSet xml:lang="br"><tig><term>troidigezhioù</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation</term></tig></langSet>
-                <langSet xml:lang="br"><tig><term/></tig></langSet>
+                <langSet xml:lang="br"><tig><term>troidigezh</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>unresolved comment</term></tig></langSet>
-                <langSet xml:lang="br"><tig><term/></tig></langSet>
+                <langSet xml:lang="br"><tig><term>evezhiadenn da ziskoulmañ</term></tig></langSet>
             </termEntry>
             <termEntry id="opposite">
                 <langSet xml:lang="en"><tig><term>resolved comment</term></tig></langSet>
-                <langSet xml:lang="br"><tig><term/></tig></langSet>
+                <langSet xml:lang="br"><tig><term>evezhiadenn diskoulmet</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>URL scheme</term></tig></langSet>
-                <langSet xml:lang="br"><tig><term/></tig></langSet>
+                <langSet xml:lang="br"><tig><term>Chema an URL</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
-                <langSet xml:lang="br"><tig><term/></tig></langSet>
+                <langSet xml:lang="br"><tig><term>Weblate herberc'hiet</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
@@ -204,35 +204,35 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translator</term></tig></langSet>
-                <langSet xml:lang="br"><tig><term/></tig></langSet>
+                <langSet xml:lang="br"><tig><term>troer</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>term</term></tig></langSet>
-                <langSet xml:lang="br"><tig><term/></tig></langSet>
+                <langSet xml:lang="br"><tig><term>termen</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Privacy Policy</term></tig></langSet>
-                <langSet xml:lang="br"><tig><term/></tig></langSet>
+                <langSet xml:lang="br"><tig><term>Reolennoù prevezded</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Terms of Service</term></tig></langSet>
-                <langSet xml:lang="br"><tig><term/></tig></langSet>
+                <langSet xml:lang="br"><tig><term>Termenoù implij.</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>profile</term></tig></langSet>
-                <langSet xml:lang="br"><tig><term/></tig></langSet>
+                <langSet xml:lang="br"><tig><term>profil</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>project</term></tig></langSet>
-                <langSet xml:lang="br"><tig><term/></tig></langSet>
+                <langSet xml:lang="br"><tig><term>raktres</term></tig></langSet>
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>projects</term></tig></langSet>
-                <langSet xml:lang="br"><tig><term/></tig></langSet>
+                <langSet xml:lang="br"><tig><term>raktresoù</term></tig></langSet>
             </termEntry>
             <termEntry id="alias &quot;source text&quot;">
                 <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
-                <langSet xml:lang="br"><tig><term/></tig></langSet>
+                <langSet xml:lang="br"><tig><term>mammenn</term></tig></langSet>
             </termEntry>
             <termEntry id="alias &quot;Zen mode&quot;">
                 <langSet xml:lang="en"><tig><term>Zen</term></tig></langSet>
@@ -240,12 +240,12 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
-                <langSet xml:lang="br"><tig><term/></tig></langSet>
+                <langSet xml:lang="br"><tig><term>postel commit</term></tig></langSet>
                 <descrip>e-mail address that will be used as committer</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>history</term></tig></langSet>
-                <langSet xml:lang="br"><tig><term/></tig></langSet>
+                <langSet xml:lang="br"><tig><term>istor</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Django</term></tig></langSet>
@@ -319,35 +319,35 @@
             </termEntry>
             <termEntry id="Past tense">
                 <langSet xml:lang="en"><tig><term>translated</term></tig></langSet>
-                <langSet xml:lang="br"><tig><term/></tig></langSet>
+                <langSet xml:lang="br"><tig><term>troet</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>glossary</term></tig></langSet>
-                <langSet xml:lang="br"><tig><term/></tig></langSet>
+                <langSet xml:lang="br"><tig><term>geriaoueg</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
-                <langSet xml:lang="br"><tig><term/></tig></langSet>
+                <langSet xml:lang="br"><tig><term>kavlec'h</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repo</term></tig></langSet>
-                <langSet xml:lang="br"><tig><term/></tig></langSet>
+                <langSet xml:lang="br"><tig><term>kavlec'h</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>text direction</term></tig></langSet>
-                <langSet xml:lang="br"><tig><term/></tig></langSet>
+                <langSet xml:lang="br"><tig><term>tu an destenn</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>screenshot</term></tig></langSet>
-                <langSet xml:lang="br"><tig><term/></tig></langSet>
+                <langSet xml:lang="br"><tig><term>tapadenn skramm</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Screenshots</term></tig></langSet>
-                <langSet xml:lang="br"><tig><term/></tig></langSet>
+                <langSet xml:lang="br"><tig><term>tapadennoù skramm</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>authorship</term></tig></langSet>
-                <langSet xml:lang="br"><tig><term/></tig></langSet>
+                <langSet xml:lang="br"><tig><term>gwirioù aozer</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
@@ -359,11 +359,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
-                <langSet xml:lang="br"><tig><term/></tig></langSet>
+                <langSet xml:lang="br"><tig><term>Stadegoù</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
-                <langSet xml:lang="br"><tig><term/></tig></langSet>
+                <langSet xml:lang="br"><tig><term>didroüs</term></tig></langSet>
                 <descrip>Glossary terms that should not be changed from the source language</descrip>
             </termEntry>
             <termEntry>
@@ -376,7 +376,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tab character</term></tig></langSet>
-                <langSet xml:lang="br"><tig><term/></tig></langSet>
+                <langSet xml:lang="br"><tig><term>arouezenn daolenniñ</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Fluent</term></tig></langSet>
@@ -385,15 +385,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>persona</term></tig></langSet>
-                <langSet xml:lang="br"><tig><term/></tig></langSet>
+                <langSet xml:lang="br"><tig><term>tudenn</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
-                <langSet xml:lang="br"><tig><term/></tig></langSet>
+                <langSet xml:lang="br"><tig><term>Muzulioù</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
-                <langSet xml:lang="br"><tig><term/></tig></langSet>
+                <langSet xml:lang="br"><tig><term>taolenn-vourzh</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Zadnu</term></tig></langSet>
@@ -401,7 +401,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Accept</term></tig></langSet>
-                <langSet xml:lang="br"><tig><term/></tig></langSet>
+                <langSet xml:lang="br"><tig><term>Asantiñ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Please select target plural by clicking.</term></tig></langSet>
@@ -409,7 +409,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>terminology</term></tig></langSet>
-                <langSet xml:lang="br"><tig><term></term></tig></langSet>
+                <langSet xml:lang="br"><tig><term>termenadurezh</term></tig></langSet>
             </termEntry>
         </body>
     </text>
