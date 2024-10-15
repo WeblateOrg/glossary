@@ -112,7 +112,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>text direction</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Leserichtung</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Schreibrichtung</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>source string</term></tig></langSet>
