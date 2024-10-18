@@ -746,6 +746,14 @@
                 <langSet xml:lang="pt"><tig><term>terminologia</term></tig></langSet>
                 <note from="translator">Terminologia é um conjunto determinado de vocábulos próprios de uma ciência, de uma arte, de um ofício ou de uma profissão, sendo estudo dos termos técnicos usados por exemplo em ciências especificas ou artes em geral.</note>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>tab</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>guia</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Needs editing</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Precisa de edição</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
