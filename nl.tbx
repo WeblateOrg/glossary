@@ -304,7 +304,7 @@
             </termEntry>
             <termEntry id="components">
                 <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
-                <langSet xml:lang="nl"><tig><term>componenten</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>onderdelen</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
