@@ -267,7 +267,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>screenshot</term></tig></langSet>
-                <langSet xml:lang="nl"><tig><term>schermfoto</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>schermafdruk</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslated</term></tig></langSet>
@@ -358,7 +358,7 @@
             </termEntry>
             <termEntry id="opposite">
                 <langSet xml:lang="en"><tig><term>resolved comment</term></tig></langSet>
-                <langSet xml:lang="nl"><tig><term>behandelde opmerking</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>opgeloste opmerking</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>URL scheme</term></tig></langSet>
@@ -510,7 +510,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Screenshots</term></tig></langSet>
-                <langSet xml:lang="nl"><tig><term>Schermfoto's</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>Schermafdrukken</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>authorship</term></tig></langSet>
@@ -611,6 +611,11 @@
             <termEntry id="To broadcast given information with future implications">
                 <langSet xml:lang="en"><tig><term>announcement</term></tig></langSet>
                 <langSet xml:lang="nl"><tig><term>aankondiging</term></tig></langSet>
+            </termEntry>
+            <termEntry id="postal code">
+                <langSet xml:lang="en"><tig><term>Postcode</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>Postcode</term></tig></langSet>
+                <note from="translator">same in English as in Dutch</note>
             </termEntry>
         </body>
     </text>
