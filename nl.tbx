@@ -417,6 +417,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Django</term></tig></langSet>
                 <langSet xml:lang="nl"><tig><term>Django</term></tig></langSet>
+                <note from="translator">eigennaam</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation-finder</term></tig></langSet>
@@ -621,6 +622,12 @@
                 <langSet xml:lang="en"><tig><term>uploads</term></tig></langSet>
                 <langSet xml:lang="nl"><tig><term>uploads</term></tig></langSet>
                 <note from="translator">same in English and Dutch</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Summary</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>Samenvatting</term></tig></langSet>
+                <note from="translator">samengevatte context</note>
+                <descrip>samengevatte context</descrip>
             </termEntry>
         </body>
     </text>
