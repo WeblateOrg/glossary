@@ -617,6 +617,11 @@
                 <langSet xml:lang="nl"><tig><term>Postcode</term></tig></langSet>
                 <note from="translator">same in English as in Dutch</note>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>uploads</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>uploads</term></tig></langSet>
+                <note from="translator">same in English and Dutch</note>
+            </termEntry>
         </body>
     </text>
 </martif>
