@@ -629,6 +629,15 @@
                 <note from="translator">samengevatte context</note>
                 <descrip>samengevatte context</descrip>
             </termEntry>
+            <termEntry id="the manual ; changing words manually">
+                <langSet xml:lang="en"><tig><term>manual</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>handleiding; handmatig</term></tig></langSet>
+            </termEntry>
+            <termEntry id="eigennaam">
+                <langSet xml:lang="en"><tig><term>PostgreSQL</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>PostgreSQL</term></tig></langSet>
+                <note from="translator">eigennaam</note>
+            </termEntry>
         </body>
     </text>
 </martif>
