@@ -638,6 +638,18 @@
                 <langSet xml:lang="nl"><tig><term>PostgreSQL</term></tig></langSet>
                 <note from="translator">eigennaam</note>
             </termEntry>
+            <termEntry id="eigennaam">
+                <langSet xml:lang="en"><tig><term>Keycloak</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>Keycloak</term></tig></langSet>
+            </termEntry>
+            <termEntry id="eigennaam">
+                <langSet xml:lang="en"><tig><term>Redis</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>Redis</term></tig></langSet>
+            </termEntry>
+            <termEntry id="eigennaam">
+                <langSet xml:lang="en"><tig><term>GitHub Enterprise Edition</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>GitHub Enterprise Edition</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
