@@ -650,6 +650,18 @@
                 <langSet xml:lang="en"><tig><term>GitHub Enterprise Edition</term></tig></langSet>
                 <langSet xml:lang="nl"><tig><term>GitHub Enterprise Edition</term></tig></langSet>
             </termEntry>
+            <termEntry id="eigennaam">
+                <langSet xml:lang="en"><tig><term>Alibaba</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>Alibaba</term></tig></langSet>
+            </termEntry>
+            <termEntry id="eigennaam">
+                <langSet xml:lang="en"><tig><term>Apertium APy</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>Apertium APy</term></tig></langSet>
+            </termEntry>
+            <termEntry id="eigennaam">
+                <langSet xml:lang="en"><tig><term>Baidu</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>Baidu</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
