@@ -100,7 +100,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
-                <langSet xml:lang="nl"><tig><term>uitbreiding</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>add-on</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
@@ -142,15 +142,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>service(s)</term></tig></langSet>
-                <langSet xml:lang="nl"><tig><term>dienst(en)</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>service(s)</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>services</term></tig></langSet>
-                <langSet xml:lang="nl"><tig><term>diensten</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>services</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>service</term></tig></langSet>
-                <langSet xml:lang="nl"><tig><term>dienst</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>service</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>image(s)</term></tig></langSet>
@@ -335,6 +335,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regex</term></tig></langSet>
                 <langSet xml:lang="nl"><tig><term>reguliere uitdrukking</term></tig></langSet>
+                <note from="translator">veel gebruikte afkorting voor reguliere uitdrukking</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>class</term></tig></langSet>
@@ -362,7 +363,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>URL scheme</term></tig></langSet>
-                <langSet xml:lang="nl"><tig><term>Url-schema</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>URL-schema</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
@@ -507,7 +508,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>screenshot</term></tig></langSet>
-                <langSet xml:lang="nl"><tig><term>schermfoto</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>schermafdruk</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Screenshots</term></tig></langSet>
@@ -625,7 +626,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Summary</term></tig></langSet>
-                <langSet xml:lang="nl"><tig><term>Samenvatting</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>Samenvatting; overzicht</term></tig></langSet>
                 <note from="translator">samengevatte context</note>
                 <descrip>samengevatte context</descrip>
             </termEntry>
