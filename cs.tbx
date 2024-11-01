@@ -1465,6 +1465,10 @@
                 <langSet xml:lang="en"><tig><term>terminology</term></tig></langSet>
                 <langSet xml:lang="cs"><tig><term>terminologie</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>General Terms and Conditions</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Všeobecné smluvní podmínky</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
