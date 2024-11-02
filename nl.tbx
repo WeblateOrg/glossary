@@ -202,7 +202,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>feature</term></tig></langSet>
-                <langSet xml:lang="nl"><tig><term>functie</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>mogelijkheid</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>features</term></tig></langSet>
@@ -662,6 +662,14 @@
             <termEntry id="eigennaam">
                 <langSet xml:lang="en"><tig><term>Baidu</term></tig></langSet>
                 <langSet xml:lang="nl"><tig><term>Baidu</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Usage</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>Gebruik</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Translation Memory</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>Vertaalgeheugen</term></tig></langSet>
             </termEntry>
         </body>
     </text>
