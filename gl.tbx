@@ -5447,6 +5447,24 @@ Bi-directional Cyrillic transliteration. Transliterate Cyrillic script to Latin 
                 <langSet xml:lang="gl"><tig><term>despregadura</term></tig></langSet>
                 <note from="translator">Nin despregamento nin despregue, agás se é a 1ª ou a 3ª persoa do singular do presente de subxuntivo (eu/el despregue). Non confundir co Imperativo en castelán, en galego só temos 2ªs persoas e serían «desprega» e «despregade»).</note>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>General Terms and Conditions </term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>Condicións Xerais</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>General Terms and Conditions document</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>documento de Condicións Xerais</term></tig></langSet>
+            </termEntry>
+            <termEntry id="memoria cache, memcache">
+                <langSet xml:lang="en"><tig><term>cache</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>memoria transitoria</term></tig></langSet>
+                <note from="translator">memoria cache, memcache</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>caching</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>memoria transitoria</term></tig></langSet>
+                <note from="translator">memoria cache, memcache</note>
+            </termEntry>
         </body>
     </text>
 </martif>
