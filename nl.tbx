@@ -197,10 +197,6 @@
                 <langSet xml:lang="nl"><tig><term>betaling</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>feature(s)</term></tig></langSet>
-                <langSet xml:lang="nl"><tig><term>functie(s)</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>feature</term></tig></langSet>
                 <langSet xml:lang="nl"><tig><term>mogelijkheid</term></tig></langSet>
             </termEntry>
