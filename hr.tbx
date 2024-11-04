@@ -596,7 +596,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>workflow</term></tig></langSet>
-                <langSet xml:lang="hr"><tig><term>proces</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>radni tok</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>workflow</term></tig></langSet>
@@ -684,7 +684,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>terminology</term></tig></langSet>
-                <langSet xml:lang="hr"><tig><term></term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
