@@ -1764,6 +1764,10 @@
                 <langSet xml:lang="en"><tig><term>Managed Policy</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>verwaltete Richtlinie</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>trademark</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Markenzeichen</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
