@@ -1469,6 +1469,10 @@
                 <langSet xml:lang="en"><tig><term>General Terms and Conditions</term></tig></langSet>
                 <langSet xml:lang="cs"><tig><term>Všeobecné smluvní podmínky</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>plan</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>balíček</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
