@@ -672,6 +672,10 @@
                 <langSet xml:lang="en"><tig><term>Reviewers</term></tig></langSet>
                 <langSet xml:lang="nl"><tig><term>Beoordelaars</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>compliant</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>conform</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
