@@ -202,7 +202,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>features</term></tig></langSet>
-                <langSet xml:lang="nl"><tig><term>functies</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>mogelijkheden</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CI</term></tig></langSet>
@@ -675,6 +675,21 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>compliant</term></tig></langSet>
                 <langSet xml:lang="nl"><tig><term>conform</term></tig></langSet>
+            </termEntry>
+            <termEntry id="computertaal; eiland">
+                <langSet xml:lang="en"><tig><term>Java</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>Java</term></tig></langSet>
+                <note from="translator">eigennaam</note>
+            </termEntry>
+            <termEntry id="computertaal">
+                <langSet xml:lang="en"><tig><term>Perl</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>Perl</term></tig></langSet>
+                <note from="translator">eigennaam</note>
+            </termEntry>
+            <termEntry id="computertaal">
+                <langSet xml:lang="en"><tig><term>Ruby</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>Ruby</term></tig></langSet>
+                <note from="translator">eigennaam</note>
             </termEntry>
         </body>
     </text>
