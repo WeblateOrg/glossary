@@ -322,10 +322,6 @@
                 <langSet xml:lang="zh_Hans"><tig><term>路径</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>component</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>部件</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>filename</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>文件名</term></tig></langSet>
             </termEntry>
