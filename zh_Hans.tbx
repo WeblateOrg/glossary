@@ -857,10 +857,6 @@
                 <langSet xml:lang="en"><tig><term>alert</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>警告</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>component</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>组件</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>copylefted</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>Copyleft</term></tig></langSet>
