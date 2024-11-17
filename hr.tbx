@@ -684,7 +684,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>terminology</term></tig></langSet>
-                <langSet xml:lang="hr"><tig><term/></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>terminologija</term></tig></langSet>
             </termEntry>
         </body>
     </text>
