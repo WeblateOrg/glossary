@@ -5465,6 +5465,20 @@ Bi-directional Cyrillic transliteration. Transliterate Cyrillic script to Latin 
                 <langSet xml:lang="gl"><tig><term>memoria transitoria</term></tig></langSet>
                 <note from="translator">memoria cache, memcache</note>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>bucket</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>depósito</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Google Storage</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>Google Storage</term></tig></langSet>
+                <note from="translator">Nome de servizo Google Cloud Storage</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Google Cloud Storage</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>Google Cloud Storage</term></tig></langSet>
+                <note from="translator">Nome de servizo Google Cloud Storage</note>
+            </termEntry>
         </body>
     </text>
 </martif>
