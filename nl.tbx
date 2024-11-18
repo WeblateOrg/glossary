@@ -647,6 +647,7 @@
             <termEntry id="eigennaam">
                 <langSet xml:lang="en"><tig><term>GitHub Enterprise Edition</term></tig></langSet>
                 <langSet xml:lang="nl"><tig><term>GitHub Enterprise Edition</term></tig></langSet>
+                <note from="translator">merknaam</note>
             </termEntry>
             <termEntry id="eigennaam">
                 <langSet xml:lang="en"><tig><term>Alibaba</term></tig></langSet>
