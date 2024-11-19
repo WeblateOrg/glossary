@@ -692,6 +692,11 @@
                 <langSet xml:lang="nl"><tig><term>Ruby</term></tig></langSet>
                 <note from="translator">eigennaam</note>
             </termEntry>
+            <termEntry id="vcs; version control system">
+                <langSet xml:lang="en"><tig><term>Git</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>Git</term></tig></langSet>
+                <note from="translator">merknaam</note>
+            </termEntry>
         </body>
     </text>
 </martif>
