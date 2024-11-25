@@ -393,6 +393,10 @@
                 <langSet xml:lang="en"><tig><term>Terms</term></tig></langSet>
                 <langSet xml:lang="it"><tig><term>Termini</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>General Terms and Conditions</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>Termini e condizioni generali</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
