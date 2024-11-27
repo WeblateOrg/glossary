@@ -670,10 +670,6 @@
                 <langSet xml:lang="de"><tig><term>Remote-Commit</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>CSV</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>spam folder</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Spam-Ordner</term></tig></langSet>
             </termEntry>
