@@ -711,7 +711,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>collapse</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>pregar</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>contraer</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>collect</term></tig></langSet>
@@ -5482,6 +5482,10 @@ Bi-directional Cyrillic transliteration. Transliterate Cyrillic script to Latin 
             <termEntry>
                 <langSet xml:lang="en"><tig><term>General Terms and Conditions</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>Condicións xerais</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>collapse</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>pregar</term></tig></langSet>
             </termEntry>
         </body>
     </text>
