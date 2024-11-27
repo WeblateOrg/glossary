@@ -362,7 +362,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>profile</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>프로파일</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>프로필</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>localization</term></tig></langSet>
@@ -383,7 +383,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>사적인</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>비공개</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>search</term></tig></langSet>
@@ -833,7 +833,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>웹레이트 기반 번역 플랫폼</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>웹레이트 번역 플랫폼</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
