@@ -686,6 +686,10 @@
                 <langSet xml:lang="en"><tig><term>terminology</term></tig></langSet>
                 <langSet xml:lang="hr"><tig><term>terminologija</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>target language</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>ciljani jezik</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
