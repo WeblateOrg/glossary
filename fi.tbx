@@ -251,7 +251,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslated</term></tig></langSet>
-                <langSet xml:lang="fi"><tig><term/></tig></langSet>
+                <langSet xml:lang="fi"><tig><term>kääntämätön</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
@@ -276,7 +276,7 @@
             </termEntry>
             <termEntry id="components">
                 <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
-                <langSet xml:lang="fi"><tig><term/></tig></langSet>
+                <langSet xml:lang="fi"><tig><term>komponentit</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
@@ -308,7 +308,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
-                <langSet xml:lang="fi"><tig><term/></tig></langSet>
+                <langSet xml:lang="fi"><tig><term>etana</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fixup</term></tig></langSet>
@@ -470,7 +470,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tab character</term></tig></langSet>
-                <langSet xml:lang="fi"><tig><term/></tig></langSet>
+                <langSet xml:lang="fi"><tig><term>välilehtimerkki</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Fluent</term></tig></langSet>
@@ -495,7 +495,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>terminology</term></tig></langSet>
-                <langSet xml:lang="fi"><tig><term/></tig></langSet>
+                <langSet xml:lang="fi"><tig><term>terminologia</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>version control</term></tig></langSet>
