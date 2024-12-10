@@ -1764,6 +1764,22 @@
                 <langSet xml:lang="en"><tig><term>trademark</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Markenzeichen</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>trademarks</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Markenzeichen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>bilingual</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>zweisprachig</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>wordmark</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Wortmarke</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>monolingual</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>einsprachig</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
