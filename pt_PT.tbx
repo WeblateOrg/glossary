@@ -321,7 +321,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Tabs</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term>Separadores</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>Abas</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>report</term></tig></langSet>
