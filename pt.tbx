@@ -286,7 +286,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>string</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>cadeia</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>entrada</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>download</term></tig></langSet>
@@ -354,7 +354,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>string</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>cadeia de caracteres</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>entrada</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>text</term></tig></langSet>
@@ -362,7 +362,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>strings</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>cadeias</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>entradas</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
@@ -527,7 +527,7 @@
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Subversion</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>Subversion</term></tig></langSet>
-                <note from="translator">https://subversion.apache.org/</note>
+                <note from="translator">Subversão</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translator</term></tig></langSet>
@@ -707,7 +707,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tab character</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>caráter de tabulação</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>carácter de tabulação</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Fluent</term></tig></langSet>
@@ -739,7 +739,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>support</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>apoio</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>suporte</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>terminology</term></tig></langSet>
@@ -748,7 +748,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tab</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>guia</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>tabulador</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Needs editing</term></tig></langSet>
