@@ -814,7 +814,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pull request</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term>požadavek na začlenění</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>žádost o sloučení</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>reward</term></tig></langSet>
@@ -1415,7 +1415,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Request</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term>Request</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Žádost</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>persona</term></tig></langSet>
@@ -1472,6 +1472,10 @@
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>plan</term></tig></langSet>
                 <langSet xml:lang="cs"><tig><term>balíček</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pull requests</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>žádosti o sloučení</term></tig></langSet>
             </termEntry>
         </body>
     </text>
