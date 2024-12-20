@@ -1117,6 +1117,10 @@
                 <langSet xml:lang="en"><tig><term>terminology</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>terminologia</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>deprecated</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>descontinuado</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
