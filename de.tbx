@@ -1226,7 +1226,6 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Cookies</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term/></tig></langSet>
-                <note from="translator">Übersetzung mit "Kekse" ist hier nicht toll.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Backup</term></tig></langSet>
