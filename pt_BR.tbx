@@ -870,7 +870,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term>lesma</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>url amigável</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fixup</term></tig></langSet>
