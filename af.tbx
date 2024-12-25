@@ -40,6 +40,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
                 <langSet xml:lang="af"><tig><term>privaat</term></tig></langSet>
+                <descrip>Rus</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Subversion</term></tig></langSet>
@@ -363,7 +364,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>terminology</term></tig></langSet>
-                <langSet xml:lang="af"><tig><term></term></tig></langSet>
+                <langSet xml:lang="af"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
