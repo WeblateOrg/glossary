@@ -22,6 +22,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
                 <langSet xml:lang="th"><tig><term>ส่วนตัว</term></tig></langSet>
+                <descrip>Rus</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>search</term></tig></langSet>
@@ -411,7 +412,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>terminology</term></tig></langSet>
-                <langSet xml:lang="th"><tig><term></term></tig></langSet>
+                <langSet xml:lang="th"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
