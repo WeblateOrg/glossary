@@ -17126,6 +17126,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
                 <langSet xml:lang="ug"><tig><term>خۇسۇسىي</term></tig></langSet>
+                <descrip>Rus</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>file system</term></tig></langSet>
@@ -20939,7 +20940,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>terminology</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
