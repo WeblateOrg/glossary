@@ -6270,6 +6270,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
                 <langSet xml:lang="cy"><tig><term>preifat</term></tig></langSet>
+                <descrip>Rus</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>authenticated access</term></tig></langSet>
@@ -27467,7 +27468,7 @@ Does dim gair yn y Gymraeg am 'slug'.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>terminology</term></tig></langSet>
-                <langSet xml:lang="cy"><tig><term></term></tig></langSet>
+                <langSet xml:lang="cy"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
