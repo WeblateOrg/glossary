@@ -53,6 +53,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
                 <langSet xml:lang="lzh"><tig><term/></tig></langSet>
+                <descrip>Rus</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bug</term></tig></langSet>
@@ -393,7 +394,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>terminology</term></tig></langSet>
-                <langSet xml:lang="lzh"><tig><term></term></tig></langSet>
+                <langSet xml:lang="lzh"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
