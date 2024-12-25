@@ -956,6 +956,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
                 <langSet xml:lang="et"><tig><term>privaatne</term></tig></langSet>
+                <descrip>Rus</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>search</term></tig></langSet>
@@ -1304,7 +1305,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>terminology</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term></term></tig></langSet>
+                <langSet xml:lang="et"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
