@@ -158,6 +158,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
                 <langSet xml:lang="ab"><tig><term/></tig></langSet>
+                <descrip>Rus</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
@@ -373,7 +374,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>terminology</term></tig></langSet>
-                <langSet xml:lang="ab"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ab"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
