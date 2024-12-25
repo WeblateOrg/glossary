@@ -21,6 +21,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
                 <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <descrip>Rus</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Keyboard shortcuts</term></tig></langSet>
@@ -397,7 +398,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>terminology</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term></term></tig></langSet>
+                <langSet xml:lang="tt"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
