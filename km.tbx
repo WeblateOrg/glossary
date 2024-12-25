@@ -198,6 +198,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
                 <langSet xml:lang="km"><tig><term>ឯកជន</term></tig></langSet>
+                <descrip>Rus</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>search</term></tig></langSet>
@@ -610,7 +611,7 @@ Photo=រូបថត</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>terminology</term></tig></langSet>
-                <langSet xml:lang="km"><tig><term></term></tig></langSet>
+                <langSet xml:lang="km"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
