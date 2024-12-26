@@ -50,7 +50,6 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
                 <langSet xml:lang="uk"><tig><term>приватно</term></tig></langSet>
-                <descrip>Rus</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
