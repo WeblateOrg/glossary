@@ -199,7 +199,6 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
                 <langSet xml:lang="zgh"><tig><term>ⵓⵙⵍⵉⴳ</term></tig></langSet>
-                <descrip>Rus</descrip>
             </termEntry>
             <termEntry id="opposite">
                 <langSet xml:lang="en"><tig><term>resolved comment</term></tig></langSet>
