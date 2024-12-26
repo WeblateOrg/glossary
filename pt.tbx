@@ -80,7 +80,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>website</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>site da Web</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>sítio Web</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>link</term></tig></langSet>
@@ -363,7 +363,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>strings</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>entradas</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>cadeias</term></tig></langSet>
+                <note from="translator">cadeias de caracteres</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
@@ -754,6 +755,16 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Needs editing</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>Precisa de edição</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>fuzzy</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>impreciso</term></tig></langSet>
+                <note from="translator">tradução obscura, incerta, a necessitar de edição</note>
+                <descrip>tradução obscura, incerta, a necessitar de edição</descrip>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>nearby</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>vizinha</term></tig></langSet>
             </termEntry>
         </body>
     </text>
