@@ -109,7 +109,6 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
                 <langSet xml:lang="lv"><tig><term>privāts</term></tig></langSet>
-                <descrip>Rus</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gerrit</term></tig></langSet>
