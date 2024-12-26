@@ -254,7 +254,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ID</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>Id.</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>ID</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>UI</term></tig></langSet>
@@ -262,7 +262,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Character</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>Caráter</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Carácter</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Watch</term></tig></langSet>
@@ -286,7 +286,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>string</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>entrada</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>cadeia</term></tig></langSet>
+                <note from="translator">cadeia de caracteres</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>download</term></tig></langSet>
@@ -322,7 +323,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>contributor agreement</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>acordo de contribuidor</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>acordo de colaborador</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>trial</term></tig></langSet>
@@ -354,11 +355,13 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>string</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>entrada</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>cadeia</term></tig></langSet>
+                <note from="translator">cadeia de caracteres</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>text</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>texto</term></tig></langSet>
+                <note from="translator">texto</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>strings</term></tig></langSet>
@@ -523,7 +526,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>Weblate Hospedado</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Weblate alojado</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Subversion</term></tig></langSet>
@@ -741,6 +744,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>support</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>suporte</term></tig></langSet>
+                <note from="translator">Suportar uma funcionalidade / assistência por uma equipa</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>terminology</term></tig></langSet>
@@ -764,6 +768,16 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>nearby</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>vizinha</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>flag</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>sinalizador</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>label</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>rótulo</term></tig></langSet>
+                <note from="translator">manter etiqueta para TAG</note>
+                <descrip>manter etiqueta para TAG</descrip>
             </termEntry>
         </body>
     </text>
