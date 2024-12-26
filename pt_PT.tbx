@@ -12,11 +12,11 @@
         <body>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Kaqchikel</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term>Caqchiquel</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term></term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term>slug</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>abreviado</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>contributor agreement</term></tig></langSet>
@@ -33,7 +33,6 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Skip</term></tig></langSet>
                 <langSet xml:lang="pt_PT"><tig><term>Ignorar</term></tig></langSet>
-                <note from="translator">Pular is pt-BR not pt-PTG</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>edit</term></tig></langSet>
@@ -61,7 +60,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bug</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term>erro</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>anomalia</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
@@ -109,7 +108,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term>código</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>token</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>current</term></tig></langSet>
@@ -137,7 +136,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Get help</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term>Obter Ajuda</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>Obter ajuda</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pixels</term></tig></langSet>
@@ -145,7 +144,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Merchandise</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term>Artigos para Venda</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>Artigos merchandise</term></tig></langSet>
+                <descrip>Se é «produto»</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Discover</term></tig></langSet>
@@ -169,7 +169,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>support</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term>apoio</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>suporte</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Subscription</term></tig></langSet>
@@ -177,7 +177,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>copylefted libre software</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term>programa livre em "copyleft"</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>Software livre por Copyleft</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>with us</term></tig></langSet>
@@ -193,11 +193,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Share</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term>Partilhe</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>Partilhar</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>merch</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term>artigos para venda</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>artigos merchandise</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Cryptocurrency donations</term></tig></langSet>
@@ -205,15 +205,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>download</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term>transferir</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>descarragar</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Fluent communication</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term>Comunicação fluente</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>Comunicação Fluent</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Self-hosted</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term>Auto Alojadas</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>Auto-alojado</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslated</term></tig></langSet>
@@ -249,7 +249,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term>registo de alterações</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>Historial</term></tig></langSet>
+                <note from="translator">registo de alterações</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pull request</term></tig></langSet>
@@ -285,7 +286,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>"Needing edit"</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term>"Precisa de edição"</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>Precisa de edição</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Shared</term></tig></langSet>
@@ -293,19 +294,19 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>string</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term>entrada; texto</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>cadeia</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>e-mail</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term>e-mail</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>email</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>e-mail</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term>correio eletrónico</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>email</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>e-mail address</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term>endereço de correio eletrónico</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>endereço de email</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>this</term></tig></langSet>
@@ -333,7 +334,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fixup</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term>concertar</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>correção</term></tig></langSet>
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>translations</term></tig></langSet>
@@ -357,7 +358,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term>Weblate Hospedado</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>Weblate alojado</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
@@ -373,11 +374,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Terms of Service</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term>Termos do Serviço</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>Termos do serviço</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Privacy Policy</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term>Política de Privacidade</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>Política de privacidade</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>profile</term></tig></langSet>
@@ -401,7 +402,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term>correio eletrónico de commit</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>endereço de email de commit</term></tig></langSet>
                 <descrip>e-mail address that will be used as committer</descrip>
             </termEntry>
             <termEntry>
@@ -496,7 +497,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repo</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term>repo</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>repositório</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>text direction</term></tig></langSet>
@@ -528,16 +529,16 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term>intraduzível</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>Não traduzível</term></tig></langSet>
                 <descrip>Glossary terms that should not be changed from the source language</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>strings</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term>cadeias de caracteres</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>cadeias</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>string</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term>cadeia de caracteres</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>cadeia</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>strings</term></tig></langSet>
@@ -557,7 +558,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tab character</term></tig></langSet>
-                <langSet xml:lang="pt_PT"><tig><term>caráter de tabulação</term></tig></langSet>
+                <langSet xml:lang="pt_PT"><tig><term>carácter de tabulação</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Fluent</term></tig></langSet>
