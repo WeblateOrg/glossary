@@ -934,6 +934,11 @@
                 <langSet xml:lang="en"><tig><term>terminology</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>terminologie</term></tig></langSet>
             </termEntry>
+            <termEntry id="Triggered">
+                <langSet xml:lang="en"><tig><term>Triggered daily, but add-ons usually split the daily load between components depending on :setting:`BACKGROUND_TASKS`.</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>Activé</term></tig></langSet>
+                <note from="translator">On parle d'événements qui activent des extensions (add-ons) par exemple</note>
+            </termEntry>
         </body>
     </text>
 </martif>
