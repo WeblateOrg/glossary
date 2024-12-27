@@ -142,7 +142,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>%(translation)s</term></tig></langSet>
-                <langSet xml:lang="pl"><tig><term>projekt %(translation)s</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>%(translation)s</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>at %(site_title)s</term></tig></langSet>
@@ -299,7 +299,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
-                <langSet xml:lang="pl"><tig><term>prywatne</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>prywatny</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>search</term></tig></langSet>
