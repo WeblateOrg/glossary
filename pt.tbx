@@ -238,7 +238,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>submissão</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>aplicar</term></tig></langSet>
                 <descrip>git-commit</descrip>
             </termEntry>
             <termEntry>
