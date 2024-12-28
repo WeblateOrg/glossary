@@ -36,7 +36,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
-                <langSet xml:lang="ta"><tig><term/></tig></langSet>
+                <langSet xml:lang="ta"><tig><term>என்பிடி</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bug</term></tig></langSet>
@@ -409,7 +409,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>terminology</term></tig></langSet>
-                <langSet xml:lang="ta"><tig><term/></tig></langSet>
+                <langSet xml:lang="ta"><tig><term>சொல்</term></tig></langSet>
             </termEntry>
         </body>
     </text>
