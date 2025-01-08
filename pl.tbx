@@ -187,6 +187,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
                 <langSet xml:lang="pl"><tig><term>Weblate</term></tig></langSet>
+                <note from="translator">Nazwa strony, powinna zostać w oryginale.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>reviewer</term></tig></langSet>
@@ -339,7 +340,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Personal Data</term></tig></langSet>
-                <langSet xml:lang="pl"><tig><term>Dane osobowe</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>Dane Osobowe</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Cookies</term></tig></langSet>
@@ -456,6 +457,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
                 <langSet xml:lang="pl"><tig><term>Hosted Weblate</term></tig></langSet>
+                <note from="translator">Nazwa strony, powinna zostać w oryginale.</note>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
@@ -649,6 +651,14 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>terminology</term></tig></langSet>
                 <langSet xml:lang="pl"><tig><term>terminologia</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Provider</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>Usługodawca</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Support Services</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>Usługi Wsparcia</term></tig></langSet>
             </termEntry>
         </body>
     </text>
