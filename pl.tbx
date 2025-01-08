@@ -660,6 +660,78 @@
                 <langSet xml:lang="en"><tig><term>Support Services</term></tig></langSet>
                 <langSet xml:lang="pl"><tig><term>Usługi Wsparcia</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>concluded</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>zawarte</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>third parties</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>podmioty zewnętrzne</term></tig></langSet>
+            </termEntry>
+            <termEntry id="Np. zewnętrzne strony internetowe">
+                <langSet xml:lang="en"><tig><term>third-party</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>podmiot zewnętrzny</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Recipients</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>Odbiorcy</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Contract</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>Umowa</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>User</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>Użytkownik</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Rights and Obligations</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>Prawa i Zobowiązania</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>General Terms and Conditions</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>Ogólne Zasady i Warunki</term></tig></langSet>
+            </termEntry>
+            <termEntry id="Chodzi o politykę firmy">
+                <langSet xml:lang="en"><tig><term>Policy</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>Polityka</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Price List</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>Lista Cen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>User Server</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>Serwer użytkownika</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>User Account</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>Konto użytkownika</term></tig></langSet>
+            </termEntry>
+            <termEntry id="Ustawa UE o ochronie danych osobowych">
+                <langSet xml:lang="en"><tig><term>GDPR</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>RODO</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hereinafter</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>teraz i później</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Website</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>Strona internetowa</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Self-hosting</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>Hosting własny</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Agreement</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>Porozumienie</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Processors</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>Moderatorzy</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
