@@ -782,7 +782,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>alert</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term>upozornění</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>varování</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>string</term></tig></langSet>
@@ -890,7 +890,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>notification</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term>upozornění</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>oznámení</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>announcement</term></tig></langSet>
