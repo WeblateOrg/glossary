@@ -170,11 +170,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>appliance</term></tig></langSet>
-                <langSet xml:lang="pl"><tig><term>urządzenie</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>zastosowanie</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>appliances</term></tig></langSet>
-                <langSet xml:lang="pl"><tig><term>urządzenia</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>zastosowania</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>location</term></tig></langSet>
@@ -772,6 +772,14 @@
                 <langSet xml:lang="en"><tig><term>EU</term></tig></langSet>
                 <langSet xml:lang="pl"><tig><term>UE</term></tig></langSet>
                 <note from="translator">Unia Europejska</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>devices</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>urządzenia</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>device</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>urządzenie</term></tig></langSet>
             </termEntry>
         </body>
     </text>
