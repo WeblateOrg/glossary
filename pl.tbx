@@ -768,6 +768,11 @@
                 <langSet xml:lang="en"><tig><term>Service</term></tig></langSet>
                 <langSet xml:lang="pl"><tig><term>Usługa</term></tig></langSet>
             </termEntry>
+            <termEntry id="European Union">
+                <langSet xml:lang="en"><tig><term>EU</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>UE</term></tig></langSet>
+                <note from="translator">Unia Europejska</note>
+            </termEntry>
         </body>
     </text>
 </martif>
