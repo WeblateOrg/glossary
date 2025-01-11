@@ -777,6 +777,10 @@
                 <langSet xml:lang="en"><tig><term>device</term></tig></langSet>
                 <langSet xml:lang="pl"><tig><term>urządzenie</term></tig></langSet>
             </termEntry>
+            <termEntry id="Plural">
+                <langSet xml:lang="en"><tig><term>devices</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>urządzenia</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
