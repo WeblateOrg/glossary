@@ -748,10 +748,6 @@
                 <langSet xml:lang="en"><tig><term>Regional Court</term></tig></langSet>
                 <langSet xml:lang="pl"><tig><term>Sąd Okręgowy</term></tig></langSet>
             </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>legal advisors</term></tig></langSet>
-                <langSet xml:lang="pl"><tig><term>doradcy działu prawnego</term></tig></langSet>
-            </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>tax</term></tig></langSet>
                 <langSet xml:lang="pl"><tig><term>podatki</term></tig></langSet>
