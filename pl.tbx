@@ -756,6 +756,10 @@
                 <langSet xml:lang="en"><tig><term>accounting advisors</term></tig></langSet>
                 <langSet xml:lang="pl"><tig><term>doradcy działu księgowego</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>legal advisors</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>doradcy działu prawnego</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
