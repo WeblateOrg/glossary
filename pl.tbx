@@ -756,6 +756,22 @@
                 <langSet xml:lang="en"><tig><term>legal advisors</term></tig></langSet>
                 <langSet xml:lang="pl"><tig><term>doradcy działu prawnego</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>tax</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>podatki</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>tax</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>dział podatkowy</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>legal</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>dział prawny</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>accounting</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>dział księgowy</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
