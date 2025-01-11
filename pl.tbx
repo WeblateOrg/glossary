@@ -764,6 +764,10 @@
                 <langSet xml:lang="en"><tig><term>accounting</term></tig></langSet>
                 <langSet xml:lang="pl"><tig><term>dział księgowy</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Service</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>Usługa</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
