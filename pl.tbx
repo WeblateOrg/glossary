@@ -736,6 +736,30 @@
                 <langSet xml:lang="en"><tig><term>legitimate</term></tig></langSet>
                 <langSet xml:lang="pl"><tig><term>prawnie przysługujący</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>legal</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>dział prawny</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Commercial Register</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>Rejestr handlowy</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>ID No.</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>numer identyfikacyjny</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Regional Court</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>Sąd Okręgowy</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>tax advisors</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>doradcy działu podatkowego</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>accounting advisors</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>doradcy działu księgowego</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
