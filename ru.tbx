@@ -1106,6 +1106,10 @@
                 <langSet xml:lang="en"><tig><term>terminology</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>терминология</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Provider</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Поставщик</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
