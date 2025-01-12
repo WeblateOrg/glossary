@@ -789,10 +789,6 @@
                 <langSet xml:lang="en"><tig><term>administrators</term></tig></langSet>
                 <langSet xml:lang="pl"><tig><term>administratorzy</term></tig></langSet>
             </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>admins</term></tig></langSet>
-                <langSet xml:lang="pl"><tig><term>administratorzy</term></tig></langSet>
-            </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>legal</term></tig></langSet>
                 <langSet xml:lang="pl"><tig><term>prawny</term></tig></langSet>
