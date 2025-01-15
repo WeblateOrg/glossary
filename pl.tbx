@@ -816,6 +816,11 @@
                 <note from="translator">Nie mylić z Administratorem strony internetowej. Administrator danych osobowych na podstawie RODO.</note>
                 <descrip>Nie mylić z Administratorem strony internetowej. Administrator danych osobowych na podstawie RODO.</descrip>
             </termEntry>
+            <termEntry id="Personal Data Processor">
+                <langSet xml:lang="en"><tig><term>processor</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>Podmiot przetwarzający dane</term></tig></langSet>
+                <note from="translator">Podmiot przetwarzający dane osobowe</note>
+            </termEntry>
         </body>
     </text>
 </martif>
