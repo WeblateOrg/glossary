@@ -784,6 +784,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>administrator</term></tig></langSet>
                 <langSet xml:lang="pl"><tig><term>administrator</term></tig></langSet>
+                <note from="translator">Administrator strony internetowej. Nie mylić z administratorem danych osobowych z ang. "Data Controller".</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>administrators</term></tig></langSet>
@@ -808,6 +809,12 @@
             <termEntry id="Plural form">
                 <langSet xml:lang="en"><tig><term>admins</term></tig></langSet>
                 <langSet xml:lang="pl"><tig><term>administratorzy</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Controller</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>Administrator danych</term></tig></langSet>
+                <note from="translator">Nie mylić z Administratorem strony internetowej. Administrator danych osobowych na podstawie RODO.</note>
+                <descrip>Nie mylić z Administratorem strony internetowej. Administrator danych osobowych na podstawie RODO.</descrip>
             </termEntry>
         </body>
     </text>
