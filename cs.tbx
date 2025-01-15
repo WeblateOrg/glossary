@@ -1431,7 +1431,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>reviewer</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term>recenzent</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>kontrolor</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>guideline</term></tig></langSet>
@@ -1439,7 +1439,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dedicated reviewers</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term>pověření recenzenti</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>pověření kontroloři</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
@@ -1476,6 +1476,10 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pull requests</term></tig></langSet>
                 <langSet xml:lang="cs"><tig><term>žádosti o sloučení</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>reviewers</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>kontroloři</term></tig></langSet>
             </termEntry>
         </body>
     </text>
