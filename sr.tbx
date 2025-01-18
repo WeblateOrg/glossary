@@ -81,7 +81,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
-                <langSet xml:lang="sr"><tig><term/></tig></langSet>
+                <langSet xml:lang="sr"><tig><term>Следећи радни дан</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bug</term></tig></langSet>
