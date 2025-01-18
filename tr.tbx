@@ -408,10 +408,6 @@
                 <langSet xml:lang="en"><tig><term>occurence</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>kullanım</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term/></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translator</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>Çevirmen</term></tig></langSet>
