@@ -242,7 +242,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CI</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term>Sürekli bütünleşim</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>Kesintisiz bütünleştirme</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Keyboard shortcuts</term></tig></langSet>
@@ -637,6 +637,10 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>terminology</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>terminoloji</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>CI</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>Kesintisiz bütünleştirme</term></tig></langSet>
             </termEntry>
         </body>
     </text>
