@@ -405,6 +405,14 @@
                 <langSet xml:lang="en"><tig><term>Support Services</term></tig></langSet>
                 <langSet xml:lang="it"><tig><term>Servizi di assistenza</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>source language</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>lingua di origine</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>add-ons</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>add-on</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
