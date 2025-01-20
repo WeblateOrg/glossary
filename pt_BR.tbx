@@ -1121,6 +1121,11 @@
                 <langSet xml:lang="en"><tig><term>deprecated</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>descontinuado</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>reStructuredText</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>reStructuredText</term></tig></langSet>
+                <note from="translator">Markup language name</note>
+            </termEntry>
         </body>
     </text>
 </martif>
