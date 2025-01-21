@@ -148,7 +148,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>entry</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term>girdi</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>kayıt</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add</term></tig></langSet>
