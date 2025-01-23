@@ -690,6 +690,26 @@
                 <langSet xml:lang="en"><tig><term>target language</term></tig></langSet>
                 <langSet xml:lang="hr"><tig><term>ciljani jezik</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>subscription</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>pretplata</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Processors</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>Obrađivači</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>path</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>stazu</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>GTC</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>Opći uvjeti poslovanja</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>General Terms and Conditions</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>Opći uvjeti poslovanja</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
