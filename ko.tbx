@@ -816,8 +816,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Screenshots</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>스크린샷</term></tig></langSet>
-                <note from="translator">규범 표기는 ‘스크린숏’ 입니다만  일상 용어인 스크린샷 또는 한글화된 화면갈무리 등이 추천됩니다.</note>
+                <langSet xml:lang="ko"><tig><term>스크린숏</term></tig></langSet>
+                <note from="translator">규범 표기는 ‘스크린숏’ 입니다. MS도 2003년 이후로 샷을 숏으로 표기하고 있습니다.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>authorship</term></tig></langSet>
