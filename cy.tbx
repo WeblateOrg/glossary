@@ -26043,10 +26043,6 @@
                 <langSet xml:lang="cy"><tig><term>Gwir liw 24 did</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>The picture needs about %1 KB of memory.</term></tig></langSet>
-                <langSet xml:lang="cy"><tig><term>Mae'r darlun angen %1 KB o gof.</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>The file size is %1 KB.</term></tig></langSet>
                 <langSet xml:lang="cy"><tig><term>Maint ffeil yw %1 KB.</term></tig></langSet>
             </termEntry>
