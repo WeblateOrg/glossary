@@ -922,6 +922,11 @@
                 <langSet xml:lang="en"><tig><term>string</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>cadeia</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>reStructuredText</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>reStructuredText</term></tig></langSet>
+                <note from="translator">reStructuredText é um nome de linguagem de marcação, ver https://docutils.sourceforge.io/rst.html. Manter o texto original na tradução.</note>
+            </termEntry>
         </body>
     </text>
 </martif>
