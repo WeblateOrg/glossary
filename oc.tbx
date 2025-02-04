@@ -928,10 +928,6 @@
                 <langSet xml:lang="oc"><tig><term>%1$s × %2$s</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>%1$s individual displayed, out of the normal total of %2$s, from %3$s generations.%1$s individuals displayed, out of the normal total of %2$s, from %3$s generations.</term></tig></langSet>
-                <langSet xml:lang="oc"><tig><term>%1$s persona, sur un totau normal de %2$s, per %3$s generacions.%1$s personas, sur un totau normal de %2$s, per %3$s generacions.</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>%1$s does not have a link back to %2$s.</term></tig></langSet>
                 <langSet xml:lang="oc"><tig><term>%1$s a pas de ligam damb %2$s.</term></tig></langSet>
             </termEntry>
