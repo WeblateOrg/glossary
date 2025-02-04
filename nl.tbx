@@ -572,10 +572,6 @@
                 <langSet xml:lang="nl"><tig><term>Accepteren</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Please select target plural by clicking.</term></tig></langSet>
-                <langSet xml:lang="nl"><tig><term>Selecteer een doel-meervoud door te klikken.</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>GitHub star</term></tig></langSet>
                 <langSet xml:lang="nl"><tig><term>GitHub-ster</term></tig></langSet>
             </termEntry>
