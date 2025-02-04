@@ -948,10 +948,6 @@
                 <langSet xml:lang="oc"><tig><term>%1$s oncle au %2$s&lt;sup&gt;au&lt;/sup&gt; degrà</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>%1$s %2$s has a %3$s link to %4$s.</term></tig></langSet>
-                <langSet xml:lang="oc"><tig><term>%1$s %2$s es ligat %3$s damb %4$s.</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>#%s</term></tig></langSet>
                 <langSet xml:lang="oc"><tig><term>#%s</term></tig></langSet>
             </termEntry>
