@@ -127,10 +127,6 @@
                 <langSet xml:lang="en"><tig><term>Accept suggestion [`Administration`, `Edit source`, `Power user`, `Review strings`, `Translate`]</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>Aceptar sugerencia [`Administración`, `Editar fuente`, `Usuario avanzado`, `Revisar cadenas`, `Traducir`]</term></tig></langSet>
             </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Dismiss failing check [`Administration`, `Edit source`, `Power user`, `Review strings`, `Translate`]</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>Descartar comprobación fallida [`Administración`, `Editar fuente`, `Usuario avanzado`, `Cadenas de revisión`, `Tranducir`]</term></tig></langSet>
-            </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>complemento</term></tig></langSet>
