@@ -99,10 +99,6 @@
                 <langSet xml:lang="eo"><tig><term>sincerely yours</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Your request to unsubscribe from the newsletter %s has been processed.</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term>Votre demande de désinscription à la liste de diffusion %s a bien été prise en compte.</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>raw materials</term></tig></langSet>
                 <langSet xml:lang="eo"><tig><term>matière première</term></tig></langSet>
             </termEntry>
