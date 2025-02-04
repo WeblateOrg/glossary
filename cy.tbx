@@ -27458,10 +27458,6 @@ Does dim gair yn y Gymraeg am 'slug'.</note>
                 <langSet xml:lang="cy"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Please select target plural by clicking.</term></tig></langSet>
-                <langSet xml:lang="cy"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>terminology</term></tig></langSet>
                 <langSet xml:lang="cy"><tig><term/></tig></langSet>
             </termEntry>
