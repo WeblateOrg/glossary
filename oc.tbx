@@ -924,10 +924,6 @@
                 <langSet xml:lang="oc"><tig><term>%1$s × %2$s</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>%1$s does not have a link back to %2$s.</term></tig></langSet>
-                <langSet xml:lang="oc"><tig><term>%1$s a pas de ligam damb %2$s.</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>%1$s does not exist. Did you mean %2$s?</term></tig></langSet>
                 <langSet xml:lang="oc"><tig><term>%1$s exista pas. Voletz disèr %2$s?</term></tig></langSet>
             </termEntry>
