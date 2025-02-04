@@ -868,10 +868,6 @@
                 <langSet xml:lang="oc"><tig><term>%s persona es privada.%s persona son privadas.</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>%s individual has been updated.%s individuals have been updated.</term></tig></langSet>
-                <langSet xml:lang="oc"><tig><term>Una persona a estat actulisada.%s personas an estat actulisadas.</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>%s individual%s individuals</term></tig></langSet>
                 <langSet xml:lang="oc"><tig><term>%s persona%s personas</term></tig></langSet>
             </termEntry>
