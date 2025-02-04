@@ -123,10 +123,6 @@
                 <langSet xml:lang="es"><tig><term>Cookies</term></tig></langSet>
                 <note from="translator">https://es.wikipedia.org/wiki/Cookie_(inform%C3%A1tica)</note>
             </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Accept suggestion [`Administration`, `Edit source`, `Power user`, `Review strings`, `Translate`]</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>Aceptar sugerencia [`Administración`, `Editar fuente`, `Usuario avanzado`, `Revisar cadenas`, `Traducir`]</term></tig></langSet>
-            </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>complemento</term></tig></langSet>
