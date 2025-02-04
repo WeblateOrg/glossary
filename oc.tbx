@@ -932,10 +932,6 @@
                 <langSet xml:lang="oc"><tig><term>%1$s persona, sur un totau normal de %2$s, per %3$s generacions.%1$s personas, sur un totau normal de %2$s, per %3$s generacions.</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>%1$s file was extracted in %2$s seconds.%1$s files were extracted in %2$s seconds.</term></tig></langSet>
-                <langSet xml:lang="oc"><tig><term>Lo fichièr a estat extrach en %2$s segondes.%1$s an estat extrachs en %2$s segondes.</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>%1$s does not have a link back to %2$s.</term></tig></langSet>
                 <langSet xml:lang="oc"><tig><term>%1$s a pas de ligam damb %2$s.</term></tig></langSet>
             </termEntry>
