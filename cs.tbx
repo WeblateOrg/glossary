@@ -1481,6 +1481,18 @@
                 <langSet xml:lang="en"><tig><term>reviewers</term></tig></langSet>
                 <langSet xml:lang="cs"><tig><term>kontroloři</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>two-factor authentication</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>dvoufaktorové ověřování</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>propagated</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>distribuováno</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>contributor license agreement</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>licenční smlouva s přispěvateli</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
