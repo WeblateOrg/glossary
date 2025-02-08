@@ -1096,10 +1096,6 @@
                 <langSet xml:lang="en"><tig><term>authorship</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>作者資訊</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>Sentry</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Zen</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>禪譯</term></tig></langSet>
