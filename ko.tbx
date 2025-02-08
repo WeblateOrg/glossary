@@ -824,10 +824,6 @@
                 <langSet xml:lang="ko"><tig><term>작성자 표시</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>센트리(Sentry)</term></tig></langSet>
-            </termEntry>
-            <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
                 <langSet xml:lang="ko"><tig><term>웹레이트 번역 플랫폼</term></tig></langSet>
             </termEntry>
