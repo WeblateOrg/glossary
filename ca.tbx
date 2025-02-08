@@ -651,10 +651,6 @@
                 <langSet xml:lang="en"><tig><term>authorship</term></tig></langSet>
                 <langSet xml:lang="ca"><tig><term>autoria</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
-                <langSet xml:lang="ca"><tig><term>Sentry</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>team</term></tig></langSet>
                 <langSet xml:lang="ca"><tig><term>equip</term></tig></langSet>
