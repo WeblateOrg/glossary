@@ -816,10 +816,6 @@
                 <langSet xml:lang="zh_Hans"><tig><term>写作人</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>Sentry</term></tig></langSet>
-            </termEntry>
-            <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>Weblate</term></tig></langSet>
             </termEntry>
