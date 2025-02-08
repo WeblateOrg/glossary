@@ -1228,10 +1228,6 @@
                 <langSet xml:lang="cs"><tig><term>autorství</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term>Sentry</term></tig></langSet>
-            </termEntry>
-            <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
                 <langSet xml:lang="cs"><tig><term>Weblate</term></tig></langSet>
             </termEntry>
