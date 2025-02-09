@@ -880,10 +880,6 @@
                 <langSet xml:lang="zh_Hant"><tig><term>公開</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>foo/bar</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>foo/bar</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Role</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>角色</term></tig></langSet>
             </termEntry>
