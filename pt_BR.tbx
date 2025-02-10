@@ -737,7 +737,7 @@
             </termEntry>
             <termEntry id="l10n">
                 <langSet xml:lang="en"><tig><term>localization</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term>localization</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>localização</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>reset</term></tig></langSet>
@@ -1125,6 +1125,10 @@
                 <langSet xml:lang="en"><tig><term>reStructuredText</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>reStructuredText</term></tig></langSet>
                 <note from="translator">Markup language name</note>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>extensão</term></tig></langSet>
             </termEntry>
         </body>
     </text>
