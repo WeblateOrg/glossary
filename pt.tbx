@@ -927,6 +927,15 @@
                 <langSet xml:lang="pt"><tig><term>reStructuredText</term></tig></langSet>
                 <note from="translator">reStructuredText é um nome de linguagem de marcação, ver https://docutils.sourceforge.io/rst.html. Manter o texto original na tradução.</note>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>clipboard</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>área de transferência</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>download</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>descarregar</term></tig></langSet>
+                <note from="translator">Descarregar ficheiros. Não confundir com área de transferência (clipboard) e não confundir com o transferir de "transferir propriedade".</note>
+            </termEntry>
         </body>
     </text>
 </martif>
