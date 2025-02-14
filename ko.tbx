@@ -112,7 +112,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Push</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>올리기(Push)</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>밀어넣기</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>style</term></tig></langSet>
@@ -140,7 +140,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>License</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>라이선스</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>저작권</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parameter</term></tig></langSet>
@@ -172,7 +172,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>email</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>이메일</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>전자우편</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>username</term></tig></langSet>
@@ -208,7 +208,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>override</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>오버라이드</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>재설정</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>template</term></tig></langSet>
@@ -260,7 +260,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>VAT ID</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>VAT ID</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>사업자 ID</term></tig></langSet>
+                <note from="translator">세무 및 부가가치세 식별 번호</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>community</term></tig></langSet>
@@ -350,7 +351,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>upload</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>업로드</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>올리기</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>payment</term></tig></langSet>
@@ -612,7 +613,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Application</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>애플리케이션</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>응용프로그램</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pull request</term></tig></langSet>
@@ -833,12 +834,12 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>번역할 수 없음</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>번역 불가</term></tig></langSet>
                 <descrip>Glossary terms that should not be changed from the source language</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CVS</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term/></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>CVS</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>VCS</term></tig></langSet>
