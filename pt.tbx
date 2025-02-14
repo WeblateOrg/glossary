@@ -81,7 +81,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>website</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>sítio Web</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>site da Web</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>link</term></tig></langSet>
@@ -424,7 +424,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>XML tags</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>etiquetas XML</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Etiquetas XML</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>container</term></tig></langSet>
@@ -756,7 +756,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tab</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>tabulador</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>separador</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Needs editing</term></tig></langSet>
@@ -840,7 +840,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Tabs</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>Abas</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Separadores</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>this</term></tig></langSet>
