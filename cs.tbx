@@ -1066,7 +1066,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term>slimák</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>zkratka</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fixup</term></tig></langSet>
@@ -1403,7 +1403,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>URL</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term>URL adresa</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Adresa URL</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Request</term></tig></langSet>
@@ -1480,6 +1480,10 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>contributor license agreement</term></tig></langSet>
                 <langSet xml:lang="cs"><tig><term>licenční smlouva s přispěvateli</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>API key</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>klíč API</term></tig></langSet>
             </termEntry>
         </body>
     </text>
