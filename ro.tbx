@@ -322,10 +322,6 @@
                 <langSet xml:lang="ro"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>history</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>regular expression</term></tig></langSet>
                 <langSet xml:lang="ro"><tig><term/></tig></langSet>
             </termEntry>
