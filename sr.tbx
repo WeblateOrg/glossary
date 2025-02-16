@@ -40,12 +40,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>e-mail address</term></tig></langSet>
-                <langSet xml:lang="sr"><tig><term>имејл адреса</term></tig></langSet>
+                <langSet xml:lang="sr"><tig><term>адреса е-пошзе</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>e-mail</term></tig></langSet>
-                <langSet xml:lang="sr"><tig><term>имејл</term></tig></langSet>
-                <descrip>Cando só «correo» pode levar a confusión co postal</descrip>
+                <langSet xml:lang="sr"><tig><term>е-пошта</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
@@ -85,7 +84,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bug</term></tig></langSet>
-                <langSet xml:lang="sr"><tig><term>баг</term></tig></langSet>
+                <langSet xml:lang="sr"><tig><term>грешка</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
@@ -153,7 +152,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
-                <langSet xml:lang="sr"><tig><term>парсирање</term></tig></langSet>
+                <langSet xml:lang="sr"><tig><term>обради</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>This is not used when a component list is selected.</term></tig></langSet>
@@ -173,7 +172,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>component list</term></tig></langSet>
-                <langSet xml:lang="sr"><tig><term>листа компоненти</term></tig></langSet>
+                <langSet xml:lang="sr"><tig><term>списак компоненти</term></tig></langSet>
             </termEntry>
             <termEntry id="components">
                 <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
@@ -205,7 +204,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regex</term></tig></langSet>
-                <langSet xml:lang="sr"><tig><term>регекс</term></tig></langSet>
+                <langSet xml:lang="sr"><tig><term>регизр</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>class</term></tig></langSet>
@@ -229,19 +228,19 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>unresolved comment</term></tig></langSet>
-                <langSet xml:lang="sr"><tig><term>нерешен коментар</term></tig></langSet>
+                <langSet xml:lang="sr"><tig><term>нерешена напомена</term></tig></langSet>
             </termEntry>
             <termEntry id="opposite">
                 <langSet xml:lang="en"><tig><term>resolved comment</term></tig></langSet>
-                <langSet xml:lang="sr"><tig><term>решен коментар</term></tig></langSet>
+                <langSet xml:lang="sr"><tig><term>решена напомена</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>URL scheme</term></tig></langSet>
-                <langSet xml:lang="sr"><tig><term>URL шема</term></tig></langSet>
+                <langSet xml:lang="sr"><tig><term>шема адресе</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
-                <langSet xml:lang="sr"><tig><term>Хостовани Веблејт</term></tig></langSet>
+                <langSet xml:lang="sr"><tig><term>Удомљени Веблејт</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
@@ -285,12 +284,12 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
-                <langSet xml:lang="sr"><tig><term>commit е-маил</term></tig></langSet>
+                <langSet xml:lang="sr"><tig><term>е-пошта предаје</term></tig></langSet>
                 <descrip>e-mail address that will be used as committer</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>history</term></tig></langSet>
-                <langSet xml:lang="sr"><tig><term>историја</term></tig></langSet>
+                <langSet xml:lang="sr"><tig><term>историјат</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Django</term></tig></langSet>
@@ -450,15 +449,16 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>separator</term></tig></langSet>
-                <langSet xml:lang="sr"><tig><term>сепаратор</term></tig></langSet>
+                <langSet xml:lang="sr"><tig><term>раздвајач</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
-                <langSet xml:lang="sr"><tig><term>урезивање</term></tig></langSet>
+                <langSet xml:lang="sr"><tig><term>предаја</term></tig></langSet>
+                <descrip>git-commit</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fuzzy</term></tig></langSet>
-                <langSet xml:lang="sr"><tig><term>фази</term></tig></langSet>
+                <langSet xml:lang="sr"><tig><term>нејасно</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>rebase</term></tig></langSet>
