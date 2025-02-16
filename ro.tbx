@@ -383,11 +383,6 @@
                 <langSet xml:lang="ro"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term/></tig></langSet>
-                <descrip>e-mail address that will be used as committer</descrip>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
                 <langSet xml:lang="ro"><tig><term/></tig></langSet>
             </termEntry>
