@@ -342,10 +342,6 @@
                 <langSet xml:lang="en"><tig><term>translation-finder</term></tig></langSet>
                 <langSet xml:lang="ro"><tig><term/></tig></langSet>
             </termEntry>
-            <termEntry id="Past tense">
-                <langSet xml:lang="en"><tig><term>translated</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term/></tig></langSet>
-            </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
                 <langSet xml:lang="ro"><tig><term>Valori metrice</term></tig></langSet>
