@@ -253,10 +253,6 @@
                 <langSet xml:lang="en"><tig><term>issue</term></tig></langSet>
                 <langSet xml:lang="ro"><tig><term/></tig></langSet>
             </termEntry>
-            <termEntry id="opposite">
-                <langSet xml:lang="en"><tig><term>resolved comment</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term/></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tmserver</term></tig></langSet>
                 <langSet xml:lang="ro"><tig><term/></tig></langSet>
