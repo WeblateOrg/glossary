@@ -382,10 +382,6 @@
                 <langSet xml:lang="en"><tig><term>Regular expressions</term></tig></langSet>
                 <langSet xml:lang="ro"><tig><term/></tig></langSet>
             </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>profile</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term/></tig></langSet>
-            </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
                 <langSet xml:lang="ro"><tig><term>Valori metrice</term></tig></langSet>
