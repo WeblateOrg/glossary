@@ -247,6 +247,10 @@
                 <langSet xml:lang="en"><tig><term>notification(s)</term></tig></langSet>
                 <langSet xml:lang="da"><tig><term>notifikation(er)</term></tig></langSet>
             </termEntry>
+            <termEntry id="Legal documents">
+                <langSet xml:lang="en"><tig><term>personal data</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>personoplysninger</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
