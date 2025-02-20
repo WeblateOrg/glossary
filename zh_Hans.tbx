@@ -870,6 +870,14 @@
                 <langSet xml:lang="en"><tig><term>terminology</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>专业术语</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>component</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>部件</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>component</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>组件</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
