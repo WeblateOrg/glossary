@@ -77,7 +77,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>whitespace</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>空白符号</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>空格</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>map</term></tig></langSet>
