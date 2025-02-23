@@ -618,10 +618,6 @@
                 <langSet xml:lang="en"><tig><term>terminology</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>terminoloji</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>false positive</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term>hatalı doğru</term></tig></langSet>
-            </termEntry>
         </body>
     </text>
 </martif>
