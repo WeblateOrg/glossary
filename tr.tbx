@@ -558,7 +558,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>false positive</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term>yanlış pozitif sonuç</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>hatalı doğru sonuç</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
@@ -617,6 +617,10 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>terminology</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>terminoloji</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>false positive</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>hatalı doğru</term></tig></langSet>
             </termEntry>
         </body>
     </text>
