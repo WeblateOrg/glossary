@@ -890,10 +890,6 @@
                 <descrip>Glossary terms that should not be changed from the source language</descrip>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>CVS</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>tab character</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>caractère de tabulation</term></tig></langSet>
             </termEntry>
