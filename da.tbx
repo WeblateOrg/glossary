@@ -233,7 +233,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Announcement</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>Meddelse</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>Meddelelse</term></tig></langSet>
             </termEntry>
             <termEntry id="readthedocs.org">
                 <langSet xml:lang="en"><tig><term>Read the Docs</term></tig></langSet>
@@ -250,6 +250,14 @@
             <termEntry id="Legal documents">
                 <langSet xml:lang="en"><tig><term>personal data</term></tig></langSet>
                 <langSet xml:lang="da"><tig><term>personoplysninger</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Review</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>Gennemgang</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Context</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>Kontekst</term></tig></langSet>
             </termEntry>
         </body>
     </text>
