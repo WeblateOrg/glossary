@@ -4287,12 +4287,6 @@
                 <descrip>Glossary terms that should not be changed from the source language</descrip>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>CVS</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>CVS</term></tig></langSet>
-                <note from="translator">Ao ser as siglas de Concurrent Versions System, non se debería de modificar a cadena.&#13;
-Non se emprega en ningún dos compoñentes de Weblate.</note>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>VCS</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term/></tig></langSet>
             </termEntry>
