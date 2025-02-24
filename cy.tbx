@@ -27417,10 +27417,6 @@ Does dim gair yn y Gymraeg am 'slug'.</note>
                 <descrip>Glossary terms that should not be changed from the source language</descrip>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>CVS</term></tig></langSet>
-                <langSet xml:lang="cy"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>VCS</term></tig></langSet>
                 <langSet xml:lang="cy"><tig><term/></tig></langSet>
             </termEntry>
