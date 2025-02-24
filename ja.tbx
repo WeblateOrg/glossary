@@ -557,10 +557,6 @@
                 <langSet xml:lang="ja"><tig><term>料金プラン</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>CVS</term></tig></langSet>
-                <langSet xml:lang="ja"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>VCS</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>VCS</term></tig></langSet>
             </termEntry>
