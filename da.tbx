@@ -202,7 +202,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Fluent</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>Flydende</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>Fluent</term></tig></langSet>
                 <descrip>“Fluent” is a “localization system for natural-sounding translations” - https://projectfluent.org/</descrip>
             </termEntry>
             <termEntry>
@@ -258,6 +258,20 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Context</term></tig></langSet>
                 <langSet xml:lang="da"><tig><term>Kontekst</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Enable</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>Aktivér</term></tig></langSet>
+                <note from="translator">When in imperative form, otherwise no "é".</note>
+                <descrip>When in imperative form, otherwise no "é".</descrip>
+            </termEntry>
+            <termEntry id="Legal documents">
+                <langSet xml:lang="en"><tig><term>natural person</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>fysisk person</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Quality check</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>Kvalitetskontrol</term></tig></langSet>
             </termEntry>
         </body>
     </text>
