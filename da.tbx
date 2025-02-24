@@ -267,6 +267,20 @@
                 <langSet xml:lang="en"><tig><term>Quality check</term></tig></langSet>
                 <langSet xml:lang="da"><tig><term>Kvalitetskontrol</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Enable</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>Aktivér</term></tig></langSet>
+                <note from="translator">When in imperative form, otherwise no "é".</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Disable</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>Deaktivér</term></tig></langSet>
+                <note from="translator">When in imperative form, otherwise no "é".</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Dashboard</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>Kontrolpanel</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
