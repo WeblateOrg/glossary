@@ -1479,11 +1479,6 @@
                 <descrip>as translation abbr.</descrip>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>CVS</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>協作版本系統</term></tig></langSet>
-                <note from="translator">https://zh.wikipedia.org/zh-tw/%E5%8D%94%E4%BD%9C%E7%89%88%E6%9C%AC%E7%B3%BB%E7%B5%B1</note>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>VCS</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>版本控制系統</term></tig></langSet>
             </termEntry>
