@@ -259,10 +259,6 @@
                 <langSet xml:lang="en"><tig><term>Context</term></tig></langSet>
                 <langSet xml:lang="da"><tig><term>Kontekst</term></tig></langSet>
             </termEntry>
-            <termEntry id="Legal documents">
-                <langSet xml:lang="en"><tig><term>Natural person</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>Fysisk person</term></tig></langSet>
-            </termEntry>
         </body>
     </text>
 </martif>
