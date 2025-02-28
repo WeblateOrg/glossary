@@ -28,7 +28,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>font</term></tig></langSet>
-                <langSet xml:lang="fi"><tig><term>fontti</term></tig></langSet>
+                <langSet xml:lang="fi"><tig><term>kirjaisin</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>upload</term></tig></langSet>
@@ -308,7 +308,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
-                <langSet xml:lang="fi"><tig><term>etana</term></tig></langSet>
+                <langSet xml:lang="fi"><tig><term>slug</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fixup</term></tig></langSet>
