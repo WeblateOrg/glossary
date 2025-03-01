@@ -106,15 +106,15 @@
             </termEntry>
             <termEntry id="XML Tag">
                 <langSet xml:lang="en"><tig><term>XML Tag</term></tig></langSet>
-                <langSet xml:lang="ar"><tig><term/></tig></langSet>
+                <langSet xml:lang="ar"><tig><term>XML Tag</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>variants</term></tig></langSet>
-                <langSet xml:lang="ar"><tig><term/></tig></langSet>
+                <langSet xml:lang="ar"><tig><term>variants</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
-                <langSet xml:lang="ar"><tig><term/></tig></langSet>
+                <langSet xml:lang="ar"><tig><term>token</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>current</term></tig></langSet>
@@ -130,7 +130,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslated</term></tig></langSet>
-                <langSet xml:lang="ar"><tig><term/></tig></langSet>
+                <langSet xml:lang="ar"><tig><term>غير مترجم</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
@@ -138,7 +138,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>This is not used when a component list is selected.</term></tig></langSet>
-                <langSet xml:lang="ar"><tig><term/></tig></langSet>
+                <langSet xml:lang="ar"><tig><term>لا يتم استخدام هذا عند تحديد قائمة المكونات.</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gerrit</term></tig></langSet>
