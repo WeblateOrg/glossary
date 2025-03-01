@@ -62,6 +62,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
                 <langSet xml:lang="ar"><tig><term>NBD</term></tig></langSet>
+                <note from="translator">إن بي دي (NBD)</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bug</term></tig></langSet>
