@@ -107,7 +107,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>term</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term>begreb</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>term</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Privacy Policy</term></tig></langSet>
