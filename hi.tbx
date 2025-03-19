@@ -176,7 +176,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation</term></tig></langSet>
-                <langSet xml:lang="hi"><tig><term/></tig></langSet>
+                <langSet xml:lang="hi"><tig><term>अनुवाद</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>unresolved comment</term></tig></langSet>
