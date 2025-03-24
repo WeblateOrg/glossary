@@ -11735,7 +11735,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>full name</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term>kompleta nomo</term></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>Plena nomo</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>full path</term></tig></langSet>
