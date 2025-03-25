@@ -4833,7 +4833,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>clipboard</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term>tondejo</term></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>tondujo</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>clipping</term></tig></langSet>
@@ -6454,7 +6454,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>corrective maintenance</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term>ripara funkciteno</term></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>ripara prizorgado</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>correlation set</term></tig></langSet>
@@ -7199,7 +7199,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>database maintenance tool</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term>datumbaza funkcitenilo</term></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>datumbaza prizorgadilo</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>database management system</term></tig></langSet>
@@ -15756,19 +15756,19 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>maintain</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term>funkciteni</term></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>prizorgadi</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>maintenance</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term>funkciteno</term></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>prizorgado</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>maintenance contract</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term>funkcitena kontrakto</term></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>prizorgada kontrakto</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>maintenance task</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term>funkcitena tasko</term></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>prizorgada tasko</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>major</term></tig></langSet>
@@ -18806,7 +18806,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>paste buffer</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term>tondejo</term></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>tondujo</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>paste special</term></tig></langSet>
@@ -19902,7 +19902,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>preventive maintenance</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term>preventa funkciteno</term></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>preventa prizorgado</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>preview</term></tig></langSet>
