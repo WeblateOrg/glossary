@@ -20230,15 +20230,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>process</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term>procezo</term></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>prilaborado</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>process control</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term>procezregado</term></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>prilaborada kontrolo</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>process diagram</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term>procesdiagram</term></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>prilaborada diagramo</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>process identifier</term></tig></langSet>
@@ -20250,7 +20250,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>processable</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term>traktebla</term></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>prilaborebla</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>processing</term></tig></langSet>
@@ -27222,6 +27222,10 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Accept</term></tig></langSet>
                 <langSet xml:lang="eo"><tig><term>Akcepti</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>court</term></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>juĝejo</term></tig></langSet>
             </termEntry>
         </body>
     </text>
