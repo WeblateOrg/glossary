@@ -5153,7 +5153,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>column size</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term>kolumnogrando</term></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>kolumnograndeco</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>column split</term></tig></langSet>
@@ -8931,11 +8931,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>downsample</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term>redukti bildograndon</term></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>redukti bildograndecon</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>downsampling</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term>reduktado de bildogrando</term></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>reduktado de bildograndeco</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>downshifting</term></tig></langSet>
@@ -10903,7 +10903,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>file size</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term>dosiergrando</term></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>dosiergrandeco</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>file structure</term></tig></langSet>
@@ -11079,7 +11079,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fit to size</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term>adapti laŭ grando</term></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>adapti laŭ grandeco</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fit to window</term></tig></langSet>
@@ -14984,7 +14984,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>line size</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term>linigrando</term></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>linigrandeco</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>line spacing</term></tig></langSet>
@@ -18534,7 +18534,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>paper size</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term>papergrando</term></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>papergrandeco</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>paper tray</term></tig></langSet>
@@ -19302,7 +19302,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pixel size</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term>rastrumera grando</term></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>rastrumera grandeco</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>place</term></tig></langSet>
@@ -23130,7 +23130,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>screen size</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term>ekrangrando</term></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>ekrangrandeco</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>screentip</term></tig></langSet>
@@ -24427,7 +24427,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>size</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term>grando</term></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>grandeco</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>size grip</term></tig></langSet>
