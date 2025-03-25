@@ -15224,7 +15224,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>localization</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term>asimilado</term></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>lokigo</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>localize</term></tig></langSet>
@@ -18706,7 +18706,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>partial localization</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term>parta asimilado</term></tig></langSet>
+                <langSet xml:lang="eo"><tig><term>parta lokigo</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>partial replica</term></tig></langSet>
