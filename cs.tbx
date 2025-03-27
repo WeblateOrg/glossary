@@ -1122,7 +1122,7 @@
             </termEntry>
             <termEntry id="alias &quot;Zen mode&quot;">
                 <langSet xml:lang="en"><tig><term>Zen</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term/></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>Zen</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
