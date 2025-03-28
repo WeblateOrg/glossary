@@ -1585,10 +1585,6 @@
                 <langSet xml:lang="en"><tig><term>terminology</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>專有名詞</term></tig></langSet>
             </termEntry>
-            <termEntry id="資訊領域中使用 Insight 這個佛教術語「內觀」時，指的是「向內觀察」專案的整體狀態，並整理成統計數據。">
-                <langSet xml:lang="en"><tig><term>Insights</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>內察</term></tig></langSet>
-            </termEntry>
         </body>
     </text>
 </martif>
