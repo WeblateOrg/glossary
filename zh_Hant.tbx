@@ -1585,6 +1585,26 @@
                 <langSet xml:lang="en"><tig><term>terminology</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>專有名詞</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Traditional Han script</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>正體漢字</term></tig></langSet>
+                <note from="translator">Traditional Han script 指的是漢字寫法，其正式名稱為正體漢字，簡稱正體字。</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Chinese</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>漢語</term></tig></langSet>
+                <note from="translator">Chinese，當用於語言列表中，則採用語言的正式名稱：漢語。</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Insights</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>內察</term></tig></langSet>
+                <note from="translator">資訊領域中使用 Insight 這個佛教術語「內觀」時，指的是「向內觀察」專案的整體狀態，並整理成統計數據。</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Simplified Han script</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>簡化漢字</term></tig></langSet>
+                <note from="translator">Simplified Han script 指的是漢字寫法，其正式名稱為簡化漢字，俗稱簡體字。</note>
+            </termEntry>
         </body>
     </text>
 </martif>
