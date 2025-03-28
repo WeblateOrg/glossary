@@ -917,11 +917,6 @@
                 <langSet xml:lang="zh_Hant"><tig><term>審核者</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Insights</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>內觀</term></tig></langSet>
-                <descrip>作者使用佛教術語內觀，來指稱返照觀察自身狀態的意思。</descrip>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Viewers</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>檢視者</term></tig></langSet>
             </termEntry>
