@@ -1105,10 +1105,6 @@
                 <langSet xml:lang="en"><tig><term>PostgreSQL</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>PostgreSQL</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>Insights</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>分析結果</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Baidu</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>Baidu</term></tig></langSet>
