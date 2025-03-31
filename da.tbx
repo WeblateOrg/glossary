@@ -181,7 +181,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
                 <langSet xml:lang="da"><tig><term>repository</term></tig></langSet>
-                <note from="translator">As Github doesn't support Danish, using the English term might be easier to understand.</note>
+                <note from="translator">As Github doesn't support Danish yet, using the official English term is likely easier to understand.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>authorship</term></tig></langSet>
@@ -284,6 +284,18 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Needs editing</term></tig></langSet>
                 <langSet xml:lang="da"><tig><term>Skal redigeres</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Passphrase</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>Adgangssætning</term></tig></langSet>
+            </termEntry>
+            <termEntry id="Plural">
+                <langSet xml:lang="en"><tig><term>repositories</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>repositories</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>the repository</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>repositoriet</term></tig></langSet>
             </termEntry>
         </body>
     </text>
