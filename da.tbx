@@ -208,6 +208,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
                 <langSet xml:lang="da"><tig><term>commit</term></tig></langSet>
+                <note from="translator">Since GitHub does not yet support Danish, it’s best to use the official English term, as this is what Danes are familiar with.</note>
             </termEntry>
             <termEntry id="abbreviation">
                 <langSet xml:lang="en"><tig><term>repo</term></tig></langSet>
@@ -295,6 +296,19 @@
                 <langSet xml:lang="en"><tig><term>the repository</term></tig></langSet>
                 <langSet xml:lang="da"><tig><term>repositoriet</term></tig></langSet>
                 <note from="translator">Since GitHub does not yet support Danish, it’s best to use the official English term, as this is what Danes are familiar with, adapting when needed like this one.</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>team</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>team(s)</term></tig></langSet>
+            </termEntry>
+            <termEntry id="GitHub terminology">
+                <langSet xml:lang="en"><tig><term>branch</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>branch</term></tig></langSet>
+                <note from="translator">Since GitHub does not yet support Danish, it’s best to use the official English term, as this is what Danes are familiar with.</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>reviewer</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>korrekturlæser</term></tig></langSet>
             </termEntry>
         </body>
     </text>
