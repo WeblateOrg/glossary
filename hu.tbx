@@ -290,7 +290,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term>keresőbarát URL</term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>slug</term></tig></langSet>
+                <note from="translator">ékezetmentes, szóköz nélküli azonosító</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fixup</term></tig></langSet>
