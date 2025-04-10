@@ -12,7 +12,7 @@
         <body>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>edit</term></tig></langSet>
-                <langSet xml:lang="be_Latn"><tig><term/></tig></langSet>
+                <langSet xml:lang="be_Latn"><tig><term>re'dagavacz'</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SSO</term></tig></langSet>
@@ -20,23 +20,23 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
-                <langSet xml:lang="be_Latn"><tig><term/></tig></langSet>
+                <langSet xml:lang="be_Latn"><tig><term>pry'vatny'</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>search</term></tig></langSet>
-                <langSet xml:lang="be_Latn"><tig><term/></tig></langSet>
+                <langSet xml:lang="be_Latn"><tig><term>poshuk</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
-                <langSet xml:lang="be_Latn"><tig><term/></tig></langSet>
+                <langSet xml:lang="be_Latn"><tig><term>dapaўnenne</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
-                <langSet xml:lang="be_Latn"><tig><term/></tig></langSet>
+                <langSet xml:lang="be_Latn"><tig><term>Nastupny' praczoўny' dzen'</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bug</term></tig></langSet>
-                <langSet xml:lang="be_Latn"><tig><term/></tig></langSet>
+                <langSet xml:lang="be_Latn"><tig><term>xіba</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
@@ -56,7 +56,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Regular expressions</term></tig></langSet>
-                <langSet xml:lang="be_Latn"><tig><term/></tig></langSet>
+                <langSet xml:lang="be_Latn"><tig><term>Re'gulyarny'ya vy'razy'</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gitee</term></tig></langSet>
@@ -88,11 +88,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>current</term></tig></langSet>
-                <langSet xml:lang="be_Latn"><tig><term/></tig></langSet>
+                <langSet xml:lang="be_Latn"><tig><term>byaguchy'</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>identity</term></tig></langSet>
-                <langSet xml:lang="be_Latn"><tig><term/></tig></langSet>
+                <langSet xml:lang="be_Latn"><tig><term>pasvedchanne</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>session</term></tig></langSet>
@@ -104,7 +104,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
-                <langSet xml:lang="be_Latn"><tig><term/></tig></langSet>
+                <langSet xml:lang="be_Latn"><tig><term>razbor, -u</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>This is not used when a component list is selected.</term></tig></langSet>
@@ -144,15 +144,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>access restriction</term></tig></langSet>
-                <langSet xml:lang="be_Latn"><tig><term/></tig></langSet>
+                <langSet xml:lang="be_Latn"><tig><term>abmezhavanne dostupu</term></tig></langSet>
             </termEntry>
             <termEntry id="access restrictions (plural)">
                 <langSet xml:lang="en"><tig><term>access restrictions</term></tig></langSet>
-                <langSet xml:lang="be_Latn"><tig><term/></tig></langSet>
+                <langSet xml:lang="be_Latn"><tig><term>abmezhavannі dostupu</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regular expression</term></tig></langSet>
-                <langSet xml:lang="be_Latn"><tig><term/></tig></langSet>
+                <langSet xml:lang="be_Latn"><tig><term>re'gulyarny' vy'raz</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regex</term></tig></langSet>
@@ -216,7 +216,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>profile</term></tig></langSet>
-                <langSet xml:lang="be_Latn"><tig><term/></tig></langSet>
+                <langSet xml:lang="be_Latn"><tig><term>profіl'</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>project</term></tig></langSet>
@@ -241,7 +241,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>history</term></tig></langSet>
-                <langSet xml:lang="be_Latn"><tig><term/></tig></langSet>
+                <langSet xml:lang="be_Latn"><tig><term>gіstory'ya</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Django</term></tig></langSet>
@@ -319,11 +319,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>glossary</term></tig></langSet>
-                <langSet xml:lang="be_Latn"><tig><term/></tig></langSet>
+                <langSet xml:lang="be_Latn"><tig><term>glasary'j</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
-                <langSet xml:lang="be_Latn"><tig><term/></tig></langSet>
+                <langSet xml:lang="be_Latn"><tig><term>re'pazіtory'j</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repo</term></tig></langSet>
@@ -343,7 +343,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>authorship</term></tig></langSet>
-                <langSet xml:lang="be_Latn"><tig><term/></tig></langSet>
+                <langSet xml:lang="be_Latn"><tig><term>aўtarstva</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
