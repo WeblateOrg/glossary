@@ -16,7 +16,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>digest</term></tig></langSet>
-                <langSet xml:lang="he"><tig><term>מקבץ</term></tig></langSet>
+                <langSet xml:lang="he"><tig><term>תלקיט</term></tig></langSet>
+                <note from="translator">ספרנות (תשל"ו, 1976)&#13;
+תַּלְקִיט&#13;
+digest&#13;
+מילון ספרנות &gt; הספר, תוֹכנוֹ וצוּרתוֹ הפיסית</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>reward</term></tig></langSet>
@@ -60,19 +64,19 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Dashboard</term></tig></langSet>
-                <langSet xml:lang="he"><tig><term>לוח ראשי</term></tig></langSet>
+                <langSet xml:lang="he"><tig><term>לוח מחוונים</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Audit</term></tig></langSet>
-                <langSet xml:lang="he"><tig><term>פיקוח</term></tig></langSet>
+                <langSet xml:lang="he"><tig><term>ביקורת</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Appliance</term></tig></langSet>
-                <langSet xml:lang="he"><tig><term>יישום ארוז</term></tig></langSet>
+                <langSet xml:lang="he"><tig><term>התקן</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Appliance</term></tig></langSet>
-                <langSet xml:lang="he"><tig><term>יישום ארוז</term></tig></langSet>
+                <langSet xml:lang="he"><tig><term>התקן</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Appliances</term></tig></langSet>
@@ -120,7 +124,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bug</term></tig></langSet>
-                <langSet xml:lang="he"><tig><term>תקלה</term></tig></langSet>
+                <langSet xml:lang="he"><tig><term>תקל</term></tig></langSet>
+                <note from="translator">טכנולוגיית המידע (תשע"ה, 2015)&#13;
+תֶּקֶל שגיאה בתכנית המונעת ממנה לתפקד כראוי&#13;
+bug&#13;
+מילון שפות תכנות [טכנולוגיית המידע] &gt; מושגים כלליים</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
@@ -213,7 +221,7 @@
             </termEntry>
             <termEntry id="components">
                 <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
-                <langSet xml:lang="he"><tig><term/></tig></langSet>
+                <langSet xml:lang="he"><tig><term>רכיבים</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
@@ -273,7 +281,11 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
-                <langSet xml:lang="he"><tig><term/></tig></langSet>
+                <langSet xml:lang="he"><tig><term>קיבוע</term></tig></langSet>
+                <note from="translator">טכנולוגיית המידע (תשע"ה, 2015)&#13;
+קיבוע בעיבוד תנועות, הפעולה המקבעת את כל העדכונים של משאבים המעורבים בתנועה. השוו 'הסגה' – rollback&#13;
+commit n.&#13;
+מילון שפות תכנות [טכנולוגיית המידע] &gt; ביצוע</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translator</term></tig></langSet>
@@ -392,11 +404,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>glossary</term></tig></langSet>
-                <langSet xml:lang="he"><tig><term/></tig></langSet>
+                <langSet xml:lang="he"><tig><term>מונחון</term></tig></langSet>
+                <note from="translator">ספרנות (תשל"ו, 1976)&#13;
+ביאורי מילים, רשימת ביאורי מילים, ספר ביאורי מילים, מונחון, רשימת מונחים&#13;
+glossary&#13;
+מילון ספרנות &gt; הספר, תוֹכנוֹ וצוּרתוֹ הפיסית</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
-                <langSet xml:lang="he"><tig><term/></tig></langSet>
+                <langSet xml:lang="he"><tig><term>מאגר</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repo</term></tig></langSet>
@@ -416,7 +432,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>authorship</term></tig></langSet>
-                <langSet xml:lang="he"><tig><term/></tig></langSet>
+                <langSet xml:lang="he"><tig><term>מחברות</term></tig></langSet>
+                <note from="translator">ספרנות (תשל"ו, 1976)&#13;
+מחברות&#13;
+authorship&#13;
+מילון ספרנות &gt; נוּסח, כּתב</note>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
@@ -458,7 +478,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
-                <langSet xml:lang="he"><tig><term>לוח ראשי</term></tig></langSet>
+                <langSet xml:lang="he"><tig><term>לוח מחוונים</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Zadnu</term></tig></langSet>
