@@ -576,10 +576,6 @@
                 <langSet xml:lang="cs"><tig><term>zdroj softwaru</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term>zdroj</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>splash screen</term></tig></langSet>
                 <langSet xml:lang="cs"><tig><term>spouštěcí obrazovka</term></tig></langSet>
             </termEntry>
