@@ -1481,6 +1481,10 @@
                 <langSet xml:lang="en"><tig><term>API key</term></tig></langSet>
                 <langSet xml:lang="cs"><tig><term>klíč API</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>administrator</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>správce</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
