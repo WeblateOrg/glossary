@@ -124,11 +124,12 @@ digest&#13;
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bug</term></tig></langSet>
-                <langSet xml:lang="he"><tig><term>תקל</term></tig></langSet>
+                <langSet xml:lang="he"><tig><term>תקלה</term></tig></langSet>
                 <note from="translator">טכנולוגיית המידע (תשע"ה, 2015)&#13;
 תֶּקֶל שגיאה בתכנית המונעת ממנה לתפקד כראוי&#13;
 bug&#13;
-מילון שפות תכנות [טכנולוגיית המידע] &gt; מושגים כלליים</note>
+מילון שפות תכנות [טכנולוגיית המידע] &gt; מושגים כלליים&#13;
+- המצאה מיותרת, זאת תקלה כמו כל תקלה אחרת.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
