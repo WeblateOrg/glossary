@@ -202,11 +202,13 @@ token&#13;
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>session</term></tig></langSet>
-                <langSet xml:lang="he"><tig><term>שיח</term></tig></langSet>
+                <langSet xml:lang="he"><tig><term>הפעלה</term></tig></langSet>
                 <note from="translator">טכנולוגיית המידע (תשע"ד, 2014)&#13;
 שיח&#13;
 session&#13;
-מילון למידה מתוקשבת [טכנולוגיית המידע]</note>
+מילון למידה מתוקשבת [טכנולוגיית המידע]&#13;
+&#13;
+מבלבל, לא להשתמש בביטוי שיח.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslated</term></tig></langSet>
@@ -222,7 +224,7 @@ parse v&#13;
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>This is not used when a component list is selected.</term></tig></langSet>
-                <langSet xml:lang="he"><tig><term>לא בשימוש בבחירתר רשימת רכיבים.</term></tig></langSet>
+                <langSet xml:lang="he"><tig><term>לא בשימוש בבחירת רשימת רכיבים.</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gerrit</term></tig></langSet>
@@ -231,7 +233,7 @@ parse v&#13;
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Subversion</term></tig></langSet>
                 <langSet xml:lang="he"><tig><term/></tig></langSet>
-                <note from="translator">גרסת משנה</note>
+                <note from="translator">לא לתרגם, זה שם של מערכת.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pseudolocale</term></tig></langSet>
@@ -448,7 +450,7 @@ glossary&#13;
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>text direction</term></tig></langSet>
-                <langSet xml:lang="he"><tig><term>כיוון מלל</term></tig></langSet>
+                <langSet xml:lang="he"><tig><term>כיוון טקסט</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>screenshot</term></tig></langSet>
@@ -501,11 +503,13 @@ metrics&#13;
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tab character</term></tig></langSet>
-                <langSet xml:lang="he"><tig><term>תו טבלר</term></tig></langSet>
+                <langSet xml:lang="he"><tig><term>תו טאב</term></tig></langSet>
                 <note from="translator">טכנולוגיית המידע (תשס"ז, 2007)&#13;
 טבלר&#13;
 tab&#13;
-מילון גרפיקה מחשבית [טכנולוגיית המידע] (תשנ"ז, 1997)</note>
+מילון גרפיקה מחשבית [טכנולוגיית המידע] (תשנ"ז, 1997)&#13;
+&#13;
+לא להשתמש במונח טבלר, זה לא מספיק מוכר.</note>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Fluent</term></tig></langSet>
