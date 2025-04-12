@@ -1481,6 +1481,14 @@
                 <langSet xml:lang="en"><tig><term>administrator</term></tig></langSet>
                 <langSet xml:lang="cs"><tig><term>správce</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>flag</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>příznak</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>secondary</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>alternativní</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
