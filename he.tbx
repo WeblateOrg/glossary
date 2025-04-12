@@ -24,7 +24,11 @@ digest&#13;
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>reward</term></tig></langSet>
-                <langSet xml:lang="he"><tig><term>פרס</term></tig></langSet>
+                <langSet xml:lang="he"><tig><term>תגמול</term></tig></langSet>
+                <note from="translator">סוציולוגיה (תשע"ו, 2015)&#13;
+תגמול&#13;
+reward n.&#13;
+מילון סוציולוגיה &gt; מונחי ארגונים</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Addon</term></tig></langSet>
@@ -44,7 +48,11 @@ digest&#13;
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>whiteboard</term></tig></langSet>
-                <langSet xml:lang="he"><tig><term>לוח מודעות</term></tig></langSet>
+                <langSet xml:lang="he"><tig><term>לוח שיתופי</term></tig></langSet>
+                <note from="translator">טכנולוגיית המידע (תשע"ד, 2014)&#13;
+לוח שיתופי&#13;
+whiteboard&#13;
+מילון למידה מתוקשבת [טכנולוגיית המידע]</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>notifications</term></tig></langSet>
@@ -56,7 +64,7 @@ digest&#13;
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>watch</term></tig></langSet>
-                <langSet xml:lang="he"><tig><term>במעקב</term></tig></langSet>
+                <langSet xml:lang="he"><tig><term>השגחה</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>default</term></tig></langSet>
@@ -170,7 +178,7 @@ bug&#13;
             </termEntry>
             <termEntry id="XML Tag">
                 <langSet xml:lang="en"><tig><term>XML Tag</term></tig></langSet>
-                <langSet xml:lang="he"><tig><term>תגית XML</term></tig></langSet>
+                <langSet xml:lang="he"><tig><term>תג XML</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>variants</term></tig></langSet>
@@ -178,7 +186,11 @@ bug&#13;
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
-                <langSet xml:lang="he"><tig><term/></tig></langSet>
+                <langSet xml:lang="he"><tig><term>אסימון</term></tig></langSet>
+                <note from="translator">טכנולוגיית המידע (תשנ"ד, 1994)&#13;
+אסימון&#13;
+token&#13;
+מילון רשתות מקומיות [טכנולוגיית המידע]</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>current</term></tig></langSet>
@@ -190,11 +202,15 @@ bug&#13;
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>session</term></tig></langSet>
-                <langSet xml:lang="he"><tig><term/></tig></langSet>
+                <langSet xml:lang="he"><tig><term>שיח</term></tig></langSet>
+                <note from="translator">טכנולוגיית המידע (תשע"ד, 2014)&#13;
+שיח&#13;
+session&#13;
+מילון למידה מתוקשבת [טכנולוגיית המידע]</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslated</term></tig></langSet>
-                <langSet xml:lang="he"><tig><term/></tig></langSet>
+                <langSet xml:lang="he"><tig><term>לא תורגם</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
@@ -206,7 +222,7 @@ parse v&#13;
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>This is not used when a component list is selected.</term></tig></langSet>
-                <langSet xml:lang="he"><tig><term/></tig></langSet>
+                <langSet xml:lang="he"><tig><term>לא בשימוש בבחירתר רשימת רכיבים.</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gerrit</term></tig></langSet>
@@ -215,6 +231,7 @@ parse v&#13;
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Subversion</term></tig></langSet>
                 <langSet xml:lang="he"><tig><term/></tig></langSet>
+                <note from="translator">גרסת משנה</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pseudolocale</term></tig></langSet>
@@ -271,14 +288,15 @@ parse v&#13;
             <termEntry>
                 <langSet xml:lang="en"><tig><term>unresolved comment</term></tig></langSet>
                 <langSet xml:lang="he"><tig><term/></tig></langSet>
+                <note from="translator">תגובה לא פתורה</note>
             </termEntry>
             <termEntry id="opposite">
                 <langSet xml:lang="en"><tig><term>resolved comment</term></tig></langSet>
-                <langSet xml:lang="he"><tig><term/></tig></langSet>
+                <langSet xml:lang="he"><tig><term>תגובה פתורה</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>URL scheme</term></tig></langSet>
-                <langSet xml:lang="he"><tig><term>תבנית כתובות</term></tig></langSet>
+                <langSet xml:lang="he"><tig><term>סכמת URL</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
@@ -299,6 +317,10 @@ commit n.&#13;
             <termEntry>
                 <langSet xml:lang="en"><tig><term>term</term></tig></langSet>
                 <langSet xml:lang="he"><tig><term>מונח</term></tig></langSet>
+                <note from="translator">טכנולוגיית המידע (תשנ"ז, 1997)&#13;
+מונח מילוני&#13;
+term&#13;
+מילון בינה מלאכותית [טכנולוגיית המידע]</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Privacy Policy</term></tig></langSet>
@@ -340,6 +362,7 @@ commit n.&#13;
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation-finder</term></tig></langSet>
                 <langSet xml:lang="he"><tig><term/></tig></langSet>
+                <note from="translator">מאתר תרגום</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
@@ -421,19 +444,24 @@ glossary&#13;
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repo</term></tig></langSet>
-                <langSet xml:lang="he"><tig><term/></tig></langSet>
+                <langSet xml:lang="he"><tig><term>מאגר</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>text direction</term></tig></langSet>
-                <langSet xml:lang="he"><tig><term>כיוון טקסט</term></tig></langSet>
+                <langSet xml:lang="he"><tig><term>כיוון מלל</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>screenshot</term></tig></langSet>
-                <langSet xml:lang="he"><tig><term>צילום מסך</term></tig></langSet>
+                <langSet xml:lang="he"><tig><term>תצלום מצג</term></tig></langSet>
+                <note from="translator">טכנולוגיית המידע (תשע"ו, 2016)&#13;
+תצלום מצג&#13;
+screenshot&#13;
+מילון טכניקות (השלמות; 2014) [טכנולוגיית המידע] (תשע"ד, 2014)</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Screenshots</term></tig></langSet>
                 <langSet xml:lang="he"><tig><term>צילומי מסך</term></tig></langSet>
+                <note from="translator">תצלומי מצג</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>authorship</term></tig></langSet>
@@ -445,20 +473,23 @@ authorship&#13;
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
-                <langSet xml:lang="he"><tig><term/></tig></langSet>
+                <langSet xml:lang="he"><tig><term>Sentry</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
-                <langSet xml:lang="he"><tig><term/></tig></langSet>
+                <langSet xml:lang="he"><tig><term>Weblate</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
-                <langSet xml:lang="he"><tig><term/></tig></langSet>
-                <note from="translator">תשקיל</note>
+                <langSet xml:lang="he"><tig><term>תשקיל</term></tig></langSet>
+                <note from="translator">בלשנות (תשע"ה, 2014)&#13;
+תשקיל&#13;
+metrics&#13;
+מילון תורת ההגה [בלשנות]</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
-                <langSet xml:lang="he"><tig><term>לא לתרגום</term></tig></langSet>
+                <langSet xml:lang="he"><tig><term>לא ניתן לתרגום</term></tig></langSet>
                 <descrip>Glossary terms that should not be changed from the source language</descrip>
             </termEntry>
             <termEntry>
@@ -467,7 +498,11 @@ authorship&#13;
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tab character</term></tig></langSet>
-                <langSet xml:lang="he"><tig><term/></tig></langSet>
+                <langSet xml:lang="he"><tig><term>תו טבלר</term></tig></langSet>
+                <note from="translator">טכנולוגיית המידע (תשס"ז, 2007)&#13;
+טבלר&#13;
+tab&#13;
+מילון גרפיקה מחשבית [טכנולוגיית המידע] (תשנ"ז, 1997)</note>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Fluent</term></tig></langSet>
@@ -505,6 +540,32 @@ persona&#13;
             <termEntry>
                 <langSet xml:lang="en"><tig><term>terminology</term></tig></langSet>
                 <langSet xml:lang="he"><tig><term>מינוח</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Invalid</term></tig></langSet>
+                <langSet xml:lang="he"><tig><term>לא תקין</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Invalid</term></tig></langSet>
+                <langSet xml:lang="he"><tig><term>לא תקין</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Localization</term></tig></langSet>
+                <langSet xml:lang="he"><tig><term>המקמה</term></tig></langSet>
+                <note from="translator">טכנולוגיית המידע (תשע"ד, 2014) המקמה תהליך ההכנה של תכנה לשימוש במַקָּם מוגדר localization מילון מושגים בסיסיים בטכנולוגיית המידע (השלמות; 2014) &gt; מונחי ייצוג וארגון נתונים</note>
+                <descrip>טכנולוגיית המידע (תשע"ד, 2014) המקמה תהליך ההכנה של תכנה לשימוש במַקָּם מוגדר localization מילון מושגים בסיסיים בטכנולוגיית המידע (השלמות; 2014) &gt; מונחי ייצוג וארגון נתונים</descrip>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>resolution</term></tig></langSet>
+                <langSet xml:lang="he"><tig><term>הפרדה</term></tig></langSet>
+                <note from="translator">טכנולוגיית המידע (תשע"א, 2010) הפרדה resolution מילון ראיית מחשב [טכנולוגיית המידע]</note>
+                <descrip>טכנולוגיית המידע (תשע"א, 2010) הפרדה resolution מילון ראיית מחשב [טכנולוגיית המידע]</descrip>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Localization</term></tig></langSet>
+                <langSet xml:lang="he"><tig><term>המקמה</term></tig></langSet>
+                <note from="translator">טכנולוגיית המידע (תשע"ד, 2014) המקמה תהליך ההכנה של תכנה לשימוש במַקָּם מוגדר localization מילון מושגים בסיסיים בטכנולוגיית המידע (השלמות; 2014) &gt; מונחי ייצוג וארגון נתונים</note>
+                <descrip>טכנולוגיית המידע (תשע"ד, 2014) המקמה תהליך ההכנה של תכנה לשימוש במַקָּם מוגדר localization מילון מושגים בסיסיים בטכנולוגיית המידע (השלמות; 2014) &gt; מונחי ייצוג וארגון נתונים</descrip>
             </termEntry>
         </body>
     </text>
