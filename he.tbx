@@ -178,7 +178,7 @@ bug&#13;
             </termEntry>
             <termEntry id="XML Tag">
                 <langSet xml:lang="en"><tig><term>XML Tag</term></tig></langSet>
-                <langSet xml:lang="he"><tig><term>תג XML</term></tig></langSet>
+                <langSet xml:lang="he"><tig><term>תגית XML</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>variants</term></tig></langSet>
@@ -296,7 +296,7 @@ parse v&#13;
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>URL scheme</term></tig></langSet>
-                <langSet xml:lang="he"><tig><term>סכמת URL</term></tig></langSet>
+                <langSet xml:lang="he"><tig><term>מבנה כתובת</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
@@ -452,16 +452,17 @@ glossary&#13;
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>screenshot</term></tig></langSet>
-                <langSet xml:lang="he"><tig><term>תצלום מצג</term></tig></langSet>
+                <langSet xml:lang="he"><tig><term>צילום מסך</term></tig></langSet>
                 <note from="translator">טכנולוגיית המידע (תשע"ו, 2016)&#13;
 תצלום מצג&#13;
 screenshot&#13;
-מילון טכניקות (השלמות; 2014) [טכנולוגיית המידע] (תשע"ד, 2014)</note>
+מילון טכניקות (השלמות; 2014) [טכנולוגיית המידע] (תשע"ד, 2014)&#13;
+&#13;
+תודה על ההצעה, לא במיזם הזה.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Screenshots</term></tig></langSet>
                 <langSet xml:lang="he"><tig><term>צילומי מסך</term></tig></langSet>
-                <note from="translator">תצלומי מצג</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>authorship</term></tig></langSet>
@@ -481,11 +482,13 @@ authorship&#13;
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
-                <langSet xml:lang="he"><tig><term>תשקיל</term></tig></langSet>
+                <langSet xml:lang="he"><tig><term>מדדים</term></tig></langSet>
                 <note from="translator">בלשנות (תשע"ה, 2014)&#13;
 תשקיל&#13;
 metrics&#13;
-מילון תורת ההגה [בלשנות]</note>
+מילון תורת ההגה [בלשנות]&#13;
+&#13;
+זה לא במשמעות הזאת, לא להשתמש במילה תשקיל.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
@@ -519,7 +522,7 @@ persona&#13;
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
-                <langSet xml:lang="he"><tig><term>תשקיל</term></tig></langSet>
+                <langSet xml:lang="he"><tig><term>מדדים</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
@@ -543,7 +546,8 @@ persona&#13;
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Invalid</term></tig></langSet>
-                <langSet xml:lang="he"><tig><term>לא תקין</term></tig></langSet>
+                <langSet xml:lang="he"><tig><term>שגוי</term></tig></langSet>
+                <note from="translator">לפעמים לא תקין</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Invalid</term></tig></langSet>
@@ -563,8 +567,10 @@ persona&#13;
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Localization</term></tig></langSet>
-                <langSet xml:lang="he"><tig><term>המקמה</term></tig></langSet>
-                <note from="translator">טכנולוגיית המידע (תשע"ד, 2014) המקמה תהליך ההכנה של תכנה לשימוש במַקָּם מוגדר localization מילון מושגים בסיסיים בטכנולוגיית המידע (השלמות; 2014) &gt; מונחי ייצוג וארגון נתונים</note>
+                <langSet xml:lang="he"><tig><term>תרגום</term></tig></langSet>
+                <note from="translator">טכנולוגיית המידע (תשע"ד, 2014) המקמה תהליך ההכנה של תכנה לשימוש במַקָּם מוגדר localization מילון מושגים בסיסיים בטכנולוגיית המידע (השלמות; 2014) &gt; מונחי ייצוג וארגון נתונים&#13;
+&#13;
+לא להשתמש פה במונח המקמה, זה סתם מעורר אנטגוניזם.</note>
                 <descrip>טכנולוגיית המידע (תשע"ד, 2014) המקמה תהליך ההכנה של תכנה לשימוש במַקָּם מוגדר localization מילון מושגים בסיסיים בטכנולוגיית המידע (השלמות; 2014) &gt; מונחי ייצוג וארגון נתונים</descrip>
             </termEntry>
         </body>
