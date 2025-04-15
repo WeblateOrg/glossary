@@ -510,6 +510,14 @@
                 <langSet xml:lang="en"><tig><term>terminology</term></tig></langSet>
                 <langSet xml:lang="hu"><tig><term>terminológia</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Flags</term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>Jelzők</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Flag</term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>Jelző</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
