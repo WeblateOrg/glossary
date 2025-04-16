@@ -5489,10 +5489,21 @@ Bi-directional Cyrillic transliteration. Transliterate Cyrillic script to Latin 
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Automattic</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>Automattic</term></tig></langSet>
+                <note from="translator">«Automattic» a empresa detrás de WordPress</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>secret</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>secreto</term></tig></langSet>
+                <note from="translator">substantivo «segredo» adxectivo «secreto»</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Automattic components</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>«components» de Automattic</term></tig></langSet>
+                <note from="translator">Nome da biblioteca https://www.npmjs.com/package/@automattic/components</note>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>secret</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>segredo</term></tig></langSet>
                 <note from="translator">substantivo «segredo» adxectivo «secreto»</note>
             </termEntry>
         </body>
