@@ -526,6 +526,10 @@
                 <langSet xml:lang="en"><tig><term>widget</term></tig></langSet>
                 <langSet xml:lang="hu"><tig><term>felületi elem</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Access control</term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>Hozzáférés-vezérlés</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
