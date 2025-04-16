@@ -45,7 +45,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>version control system</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term>verziókövető rendszer</term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>verziókezelő rendszer</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>branch</term></tig></langSet>
@@ -533,6 +533,10 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>VCS repository</term></tig></langSet>
                 <langSet xml:lang="hu"><tig><term>VCS (verziókezelő) tároló</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Component discovery</term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>Összetevő felfedezése</term></tig></langSet>
             </termEntry>
         </body>
     </text>
