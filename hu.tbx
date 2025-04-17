@@ -542,6 +542,10 @@
                 <langSet xml:lang="en"><tig><term>`Administration`</term></tig></langSet>
                 <langSet xml:lang="hu"><tig><term>`Adminisztráció`</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Viewers</term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>Megtekintők</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
