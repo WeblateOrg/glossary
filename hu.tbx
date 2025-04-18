@@ -535,10 +535,6 @@
                 <langSet xml:lang="hu"><tig><term>VCS (verziókezelő) tároló</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Component discovery</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term>Összetevő felfedezése</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>`Administration`</term></tig></langSet>
                 <langSet xml:lang="hu"><tig><term>`Adminisztráció`</term></tig></langSet>
             </termEntry>
