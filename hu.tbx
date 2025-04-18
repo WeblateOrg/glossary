@@ -574,6 +574,10 @@
                 <langSet xml:lang="en"><tig><term>CSS selector</term></tig></langSet>
                 <langSet xml:lang="hu"><tig><term>CSS-szelektor</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Change events</term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>Eseményváltozások</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
