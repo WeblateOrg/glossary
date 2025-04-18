@@ -562,6 +562,14 @@
                 <langSet xml:lang="en"><tig><term>Comment</term></tig></langSet>
                 <langSet xml:lang="hu"><tig><term>Megjegyzés</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Power user</term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>Képzett felhasználó</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Reviewers</term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>Felülvizsgálók</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
