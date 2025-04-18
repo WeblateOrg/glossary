@@ -290,7 +290,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term>slug</term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>URL-azonosítóját (slug)</term></tig></langSet>
                 <note from="translator">ékezetmentes, szóköz nélküli azonosító</note>
             </termEntry>
             <termEntry>
@@ -569,6 +569,14 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Reviewers</term></tig></langSet>
                 <langSet xml:lang="hu"><tig><term>Felülvizsgálók</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>upstream repository</term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>forrás tároló</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>CSS selector</term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>CSS-szelektor</term></tig></langSet>
             </termEntry>
         </body>
     </text>
