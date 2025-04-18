@@ -554,6 +554,14 @@
                 <langSet xml:lang="en"><tig><term>superuser</term></tig></langSet>
                 <langSet xml:lang="hu"><tig><term>rendszergazda</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Comments</term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>Megjegyzések</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Comment</term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>Megjegyzés</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
