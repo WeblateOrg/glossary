@@ -122,7 +122,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>hook</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term>horog</term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>hook</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>form</term></tig></langSet>
@@ -577,6 +577,10 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Change events</term></tig></langSet>
                 <langSet xml:lang="hu"><tig><term>Eseményváltozások</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Recovery codes</term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>Visszaállító kódok</term></tig></langSet>
             </termEntry>
         </body>
     </text>
