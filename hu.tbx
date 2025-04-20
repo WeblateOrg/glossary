@@ -81,7 +81,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pull</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term>lekérés</term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>módosítások lekérése (pull)</term></tig></langSet>
+                <note from="translator">- **Pull → módosítások lekérése (pull)**  &#13;
+  *(Te kéred le mások által már elfogadott módosításait.)*&#13;
+- **Pull request → (beküldött) módosítási kérelem (pull request)**&#13;
+  *(Te küldöd be a módosításokat, amit szeretnél beolvasztani.)*</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>browse</term></tig></langSet>
@@ -262,7 +266,9 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pull request</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term>beolvasztási kérés</term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>módosítási kérelem (pull request)</term></tig></langSet>
+                <note from="translator">- **Pull request → (beküldött) módosítási kérelem (pull request)**&#13;
+  *(Te küldöd be a módosításokat, amit szeretnél beolvasztani.)*</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>issue</term></tig></langSet>
@@ -577,6 +583,12 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Recovery codes</term></tig></langSet>
                 <langSet xml:lang="hu"><tig><term>Visszaállító kódok</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>string</term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>szöveg</term></tig></langSet>
+                <note from="translator">*esetleg:* **sztring**, *ha a szöveg nem használható*</note>
+                <descrip>esetleg: **sztring*, *ha a szöveg nem használható*</descrip>
             </termEntry>
         </body>
     </text>
