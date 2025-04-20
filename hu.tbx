@@ -503,10 +503,6 @@
                 <langSet xml:lang="hu"><tig><term>Elfogadás</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Please select target plural by clicking.</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term>Kattintással válassza ki a megfelelő többes számú célnyelvi alakot.</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>terminology</term></tig></langSet>
                 <langSet xml:lang="hu"><tig><term>terminológia</term></tig></langSet>
             </termEntry>
