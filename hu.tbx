@@ -584,12 +584,6 @@
                 <langSet xml:lang="en"><tig><term>Recovery codes</term></tig></langSet>
                 <langSet xml:lang="hu"><tig><term>Visszaállító kódok</term></tig></langSet>
             </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>string</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term>szöveg</term></tig></langSet>
-                <note from="translator">*esetleg:* **sztring**, *ha a szöveg nem használható*</note>
-                <descrip>esetleg: **sztring*, *ha a szöveg nem használható*</descrip>
-            </termEntry>
         </body>
     </text>
 </martif>
