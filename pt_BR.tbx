@@ -824,10 +824,6 @@
                 <langSet xml:lang="pt_BR"><tig><term>equipes</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>This is not used when a component list is selected.</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term>Isso não é usado quando uma lista de componentes é selecionada.</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Gerrit</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term/></tig></langSet>
             </termEntry>
