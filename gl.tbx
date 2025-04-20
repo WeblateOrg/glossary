@@ -5510,6 +5510,18 @@ Bi-directional Cyrillic transliteration. Transliterate Cyrillic script to Latin 
                 <langSet xml:lang="en"><tig><term>Ticket</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>Billete</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>id</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>id</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Upload</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>Subir</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Uploaded</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>Subido</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
