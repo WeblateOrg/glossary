@@ -283,10 +283,6 @@
                 <langSet xml:lang="ja"><tig><term>未翻訳</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>This is not used when a component list is selected.</term></tig></langSet>
-                <langSet xml:lang="ja"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Gerrit</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>Gerrit</term></tig></langSet>
             </termEntry>
