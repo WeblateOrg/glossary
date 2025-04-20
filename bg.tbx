@@ -241,10 +241,6 @@
                 <langSet xml:lang="bg"><tig><term>анализ</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>This is not used when a component list is selected.</term></tig></langSet>
-                <langSet xml:lang="bg"><tig><term>Това не се използва, когато има избран списък от компоненти.</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Gerrit</term></tig></langSet>
                 <langSet xml:lang="bg"><tig><term/></tig></langSet>
             </termEntry>
