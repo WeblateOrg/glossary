@@ -504,10 +504,6 @@
                 <langSet xml:lang="ko"><tig><term>분석</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>This is not used when a component list is selected.</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>구성요소 목록을 선택한 경우에는 사용되지 않습니다.</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Gerrit</term></tig></langSet>
                 <langSet xml:lang="ko"><tig><term/></tig></langSet>
             </termEntry>
