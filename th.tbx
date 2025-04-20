@@ -109,10 +109,6 @@
                 <langSet xml:lang="th"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>This is not used when a component list is selected.</term></tig></langSet>
-                <langSet xml:lang="th"><tig><term>ซึ่งจะไม่ใช้เมื่อเลือกรายการส่วนประกอบ</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Add-on installed, please review integration instructions.</term></tig></langSet>
                 <langSet xml:lang="th"><tig><term>ติดตั้งส่วนเสริมแล้ว โปรดตรวจสอบคำแนะนำในการผสานรวม</term></tig></langSet>
             </termEntry>
