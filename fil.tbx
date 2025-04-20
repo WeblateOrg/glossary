@@ -109,10 +109,6 @@
                 <langSet xml:lang="fil"><tig><term>i-parse</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>This is not used when a component list is selected.</term></tig></langSet>
-                <langSet xml:lang="fil"><tig><term>Hindi ito ginagamit kapag pinili ang isang listahan ng component.</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Gerrit</term></tig></langSet>
                 <langSet xml:lang="fil"><tig><term/></tig></langSet>
             </termEntry>
