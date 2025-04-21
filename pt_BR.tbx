@@ -197,7 +197,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>addon</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term>extensão</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>complemento</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>User Agreement</term></tig></langSet>
@@ -700,7 +700,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term>extensão</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>complemento</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
@@ -1116,7 +1116,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term>extensão</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>complemento</term></tig></langSet>
             </termEntry>
         </body>
     </text>
