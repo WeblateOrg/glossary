@@ -1120,7 +1120,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Automattic</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term></term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>Automattic</term></tig></langSet>
+                <note from="translator">É um nome (veja https://github.com/WeblateOrg/weblate/issues/13634), então deve ser mantido como está.</note>
                 <descrip>It's a name (see https://github.com/WeblateOrg/weblate/issues/13634), so it should be kept as is.</descrip>
             </termEntry>
         </body>
