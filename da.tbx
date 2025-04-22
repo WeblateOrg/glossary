@@ -314,6 +314,14 @@
                 <langSet xml:lang="en"><tig><term>review</term></tig></langSet>
                 <langSet xml:lang="da"><tig><term>gennemgang</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>notification</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>notifikation</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>site</term></tig></langSet>
+                <langSet xml:lang="da"><tig><term>websted</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
