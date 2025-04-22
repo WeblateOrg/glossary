@@ -569,6 +569,11 @@ persona&#13;
 לא להשתמש פה במונח המקמה, זה סתם מעורר אנטגוניזם.</note>
                 <descrip>טכנולוגיית המידע (תשע"ד, 2014) המקמה תהליך ההכנה של תכנה לשימוש במַקָּם מוגדר localization מילון מושגים בסיסיים בטכנולוגיית המידע (השלמות; 2014) &gt; מונחי ייצוג וארגון נתונים</descrip>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Automattic</term></tig></langSet>
+                <langSet xml:lang="he"><tig><term></term></tig></langSet>
+                <descrip>It's a name (see https://github.com/WeblateOrg/weblate/issues/13634), so it should be kept as is.</descrip>
+            </termEntry>
         </body>
     </text>
 </martif>
