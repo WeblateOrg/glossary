@@ -141,7 +141,12 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation-finder</term></tig></langSet>
+                <langSet xml:lang="mn"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Automattic</term></tig></langSet>
                 <langSet xml:lang="mn"><tig><term></term></tig></langSet>
+                <descrip>It's a name (see https://github.com/WeblateOrg/weblate/issues/13634), so it should be kept as is.</descrip>
             </termEntry>
         </body>
     </text>
