@@ -590,6 +590,11 @@
                 <langSet xml:lang="hu"><tig><term>szöveg</term></tig></langSet>
                 <note from="translator">*esetleg:* **sztring**, *ha a szöveg nem használható*</note>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Automattic</term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term></term></tig></langSet>
+                <descrip>It's a name (see https://github.com/WeblateOrg/weblate/issues/13634), so it should be kept as is.</descrip>
+            </termEntry>
         </body>
     </text>
 </martif>
