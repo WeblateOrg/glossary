@@ -1413,10 +1413,6 @@
                 <langSet xml:lang="de"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>translation-finder</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>ModernMT</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term/></tig></langSet>
                 <descrip>modernmt.com</descrip>
