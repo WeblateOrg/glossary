@@ -413,6 +413,11 @@
                 <langSet xml:lang="en"><tig><term>contributor license agreement</term></tig></langSet>
                 <langSet xml:lang="it"><tig><term>contratto di licenza per collaboratori</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Automattic</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term></term></tig></langSet>
+                <descrip>It's a name (see https://github.com/WeblateOrg/weblate/issues/13634), so it should be kept as is.</descrip>
+            </termEntry>
         </body>
     </text>
 </martif>
