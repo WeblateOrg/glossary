@@ -592,8 +592,13 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Automattic</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term></term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term/></tig></langSet>
                 <descrip>It's a name (see https://github.com/WeblateOrg/weblate/issues/13634), so it should be kept as is.</descrip>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>production</term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>éles</term></tig></langSet>
+                <note from="translator">pl.: environment esetében</note>
             </termEntry>
         </body>
     </text>
