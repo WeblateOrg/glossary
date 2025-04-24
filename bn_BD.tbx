@@ -16,7 +16,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>edit</term></tig></langSet>
-                <langSet xml:lang="bn_BD"><tig><term/></tig></langSet>
+                <langSet xml:lang="bn_BD"><tig><term>হালনাগাদকরণ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SSO</term></tig></langSet>
@@ -24,23 +24,23 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
-                <langSet xml:lang="bn_BD"><tig><term/></tig></langSet>
+                <langSet xml:lang="bn_BD"><tig><term>গোপনীয়/নিজস্ব</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>search</term></tig></langSet>
-                <langSet xml:lang="bn_BD"><tig><term/></tig></langSet>
+                <langSet xml:lang="bn_BD"><tig><term>খুঁজুন</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
-                <langSet xml:lang="bn_BD"><tig><term/></tig></langSet>
+                <langSet xml:lang="bn_BD"><tig><term>সংযুক্তকরণ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
-                <langSet xml:lang="bn_BD"><tig><term/></tig></langSet>
+                <langSet xml:lang="bn_BD"><tig><term>এনবিডি</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bug</term></tig></langSet>
-                <langSet xml:lang="bn_BD"><tig><term/></tig></langSet>
+                <langSet xml:lang="bn_BD"><tig><term>ত্রুটি</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
@@ -52,7 +52,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Keyboard shortcuts</term></tig></langSet>
-                <langSet xml:lang="bn_BD"><tig><term/></tig></langSet>
+                <langSet xml:lang="bn_BD"><tig><term>কিবোর্ড শর্টকার্ট</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
@@ -60,7 +60,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Regular expressions</term></tig></langSet>
-                <langSet xml:lang="bn_BD"><tig><term/></tig></langSet>
+                <langSet xml:lang="bn_BD"><tig><term>নিয়মিত অভিব্যক্তি</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gitee</term></tig></langSet>
@@ -72,7 +72,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Personal Data</term></tig></langSet>
-                <langSet xml:lang="bn_BD"><tig><term/></tig></langSet>
+                <langSet xml:lang="bn_BD"><tig><term>ব্যক্তিগত তথ্য</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Cookies</term></tig></langSet>
@@ -92,11 +92,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>current</term></tig></langSet>
-                <langSet xml:lang="bn_BD"><tig><term/></tig></langSet>
+                <langSet xml:lang="bn_BD"><tig><term>চলমান</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>identity</term></tig></langSet>
-                <langSet xml:lang="bn_BD"><tig><term/></tig></langSet>
+                <langSet xml:lang="bn_BD"><tig><term>পরিচয়</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>session</term></tig></langSet>
@@ -108,7 +108,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
-                <langSet xml:lang="bn_BD"><tig><term/></tig></langSet>
+                <langSet xml:lang="bn_BD"><tig><term>বিশ্লেষণ করা</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gerrit</term></tig></langSet>
@@ -120,31 +120,31 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pseudolocale</term></tig></langSet>
-                <langSet xml:lang="bn_BD"><tig><term/></tig></langSet>
+                <langSet xml:lang="bn_BD"><tig><term>ছদ্ম অনুবাদ সংরক্ষণ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>component list</term></tig></langSet>
-                <langSet xml:lang="bn_BD"><tig><term/></tig></langSet>
+                <langSet xml:lang="bn_BD"><tig><term>উপাদান তালিকা</term></tig></langSet>
             </termEntry>
             <termEntry id="components">
                 <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
-                <langSet xml:lang="bn_BD"><tig><term/></tig></langSet>
+                <langSet xml:lang="bn_BD"><tig><term>উপাদানসমূহ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
-                <langSet xml:lang="bn_BD"><tig><term/></tig></langSet>
+                <langSet xml:lang="bn_BD"><tig><term>হালনাগাদের বিবরণ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pull request</term></tig></langSet>
-                <langSet xml:lang="bn_BD"><tig><term/></tig></langSet>
+                <langSet xml:lang="bn_BD"><tig><term>পরিবর্তনের অনুরোধ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>issue</term></tig></langSet>
-                <langSet xml:lang="bn_BD"><tig><term/></tig></langSet>
+                <langSet xml:lang="bn_BD"><tig><term>সমস্যা</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>access restriction</term></tig></langSet>
-                <langSet xml:lang="bn_BD"><tig><term/></tig></langSet>
+                <langSet xml:lang="bn_BD"><tig><term>প্রবেশ নিষিদ্ধরকণ</term></tig></langSet>
             </termEntry>
             <termEntry id="access restrictions (plural)">
                 <langSet xml:lang="en"><tig><term>access restrictions</term></tig></langSet>
@@ -152,15 +152,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regex</term></tig></langSet>
-                <langSet xml:lang="bn_BD"><tig><term/></tig></langSet>
+                <langSet xml:lang="bn_BD"><tig><term>নিয়মিত অভিব্যক্তি</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regular expression</term></tig></langSet>
-                <langSet xml:lang="bn_BD"><tig><term/></tig></langSet>
+                <langSet xml:lang="bn_BD"><tig><term>নিয়মিত অভিব্যক্তি</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>class</term></tig></langSet>
-                <langSet xml:lang="bn_BD"><tig><term/></tig></langSet>
+                <langSet xml:lang="bn_BD"><tig><term>শ্রেণী</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
@@ -168,7 +168,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fixup</term></tig></langSet>
-                <langSet xml:lang="bn_BD"><tig><term/></tig></langSet>
+                <langSet xml:lang="bn_BD"><tig><term>সংস্কার করা</term></tig></langSet>
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>translations</term></tig></langSet>
@@ -184,7 +184,7 @@
             </termEntry>
             <termEntry id="opposite">
                 <langSet xml:lang="en"><tig><term>resolved comment</term></tig></langSet>
-                <langSet xml:lang="bn_BD"><tig><term/></tig></langSet>
+                <langSet xml:lang="bn_BD"><tig><term>মীমাংসিত মন্তব্য</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>URL scheme</term></tig></langSet>
@@ -196,7 +196,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
-                <langSet xml:lang="bn_BD"><tig><term/></tig></langSet>
+                <langSet xml:lang="bn_BD"><tig><term>সংরক্ষণ করা</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translator</term></tig></langSet>
@@ -208,7 +208,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Privacy Policy</term></tig></langSet>
-                <langSet xml:lang="bn_BD"><tig><term/></tig></langSet>
+                <langSet xml:lang="bn_BD"><tig><term>গোপনীয়তা নীতি</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Terms of Service</term></tig></langSet>
@@ -216,15 +216,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>profile</term></tig></langSet>
-                <langSet xml:lang="bn_BD"><tig><term/></tig></langSet>
+                <langSet xml:lang="bn_BD"><tig><term>ব্যক্তিগত বিবরণ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>project</term></tig></langSet>
-                <langSet xml:lang="bn_BD"><tig><term/></tig></langSet>
+                <langSet xml:lang="bn_BD"><tig><term>প্রকল্প</term></tig></langSet>
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>projects</term></tig></langSet>
-                <langSet xml:lang="bn_BD"><tig><term/></tig></langSet>
+                <langSet xml:lang="bn_BD"><tig><term>প্রকল্পসমূহ</term></tig></langSet>
             </termEntry>
             <termEntry id="alias &quot;source text&quot;">
                 <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
@@ -236,12 +236,12 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
-                <langSet xml:lang="bn_BD"><tig><term/></tig></langSet>
+                <langSet xml:lang="bn_BD"><tig><term>ইমেইলটি সংরক্ষণ করুন</term></tig></langSet>
                 <descrip>e-mail address that will be used as committer</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>history</term></tig></langSet>
-                <langSet xml:lang="bn_BD"><tig><term/></tig></langSet>
+                <langSet xml:lang="bn_BD"><tig><term>ইতিহাস</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Django</term></tig></langSet>
@@ -319,15 +319,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>glossary</term></tig></langSet>
-                <langSet xml:lang="bn_BD"><tig><term/></tig></langSet>
+                <langSet xml:lang="bn_BD"><tig><term>শব্দার্থ তালিকা</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
-                <langSet xml:lang="bn_BD"><tig><term/></tig></langSet>
+                <langSet xml:lang="bn_BD"><tig><term>সংরক্ষণাগার</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repo</term></tig></langSet>
-                <langSet xml:lang="bn_BD"><tig><term/></tig></langSet>
+                <langSet xml:lang="bn_BD"><tig><term>সংরক্ষণাগার</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>text direction</term></tig></langSet>
@@ -335,19 +335,19 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>screenshot</term></tig></langSet>
-                <langSet xml:lang="bn_BD"><tig><term/></tig></langSet>
+                <langSet xml:lang="bn_BD"><tig><term>স্ক্রিনশট</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Screenshots</term></tig></langSet>
-                <langSet xml:lang="bn_BD"><tig><term/></tig></langSet>
+                <langSet xml:lang="bn_BD"><tig><term>স্ক্রিনশটসমহু</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>authorship</term></tig></langSet>
-                <langSet xml:lang="bn_BD"><tig><term/></tig></langSet>
+                <langSet xml:lang="bn_BD"><tig><term>গ্রন্থকারের কাজ</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
-                <langSet xml:lang="bn_BD"><tig><term/></tig></langSet>
+                <langSet xml:lang="bn_BD"><tig><term>প্রহরী / গেটকিপার</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
@@ -355,7 +355,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
-                <langSet xml:lang="bn_BD"><tig><term/></tig></langSet>
+                <langSet xml:lang="bn_BD"><tig><term>মেট্রিক্স</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
@@ -377,7 +377,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>persona</term></tig></langSet>
-                <langSet xml:lang="bn_BD"><tig><term/></tig></langSet>
+                <langSet xml:lang="bn_BD"><tig><term>চরিত্র / আবরণ/ ব্যক্তিত্ব</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
@@ -385,7 +385,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
-                <langSet xml:lang="bn_BD"><tig><term/></tig></langSet>
+                <langSet xml:lang="bn_BD"><tig><term>তথ্য উপস্থাপনার বোর্ড</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Zadnu</term></tig></langSet>
@@ -393,7 +393,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Accept</term></tig></langSet>
-                <langSet xml:lang="bn_BD"><tig><term/></tig></langSet>
+                <langSet xml:lang="bn_BD"><tig><term>গ্রহণ করুন</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>terminology</term></tig></langSet>
@@ -401,7 +401,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Automattic</term></tig></langSet>
-                <langSet xml:lang="bn_BD"><tig><term></term></tig></langSet>
+                <langSet xml:lang="bn_BD"><tig><term/></tig></langSet>
                 <descrip>It's a name (see https://github.com/WeblateOrg/weblate/issues/13634), so it should be kept as is.</descrip>
             </termEntry>
         </body>
