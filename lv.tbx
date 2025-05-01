@@ -48,7 +48,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
-                <langSet xml:lang="lv"><tig><term/></tig></langSet>
+                <langSet xml:lang="lv"><tig><term>beigu daļas rinda</term></tig></langSet>
+                <note from="translator">https://wikipedia.org/wiki/Slug_(publishing)</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regular expression</term></tig></langSet>
@@ -88,7 +89,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
-                <langSet xml:lang="lv"><tig><term>atslēga</term></tig></langSet>
+                <langSet xml:lang="lv"><tig><term>atslēga, pilnvara</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Keyboard shortcuts</term></tig></langSet>
@@ -192,7 +193,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>setting</term></tig></langSet>
-                <langSet xml:lang="lv"><tig><term>parametrs</term></tig></langSet>
+                <langSet xml:lang="lv"><tig><term>parametrs, iestatījums, iestatījuma mainīgais, iestatījuma parametrs</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
@@ -218,7 +219,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>branch</term></tig></langSet>
-                <langSet xml:lang="lv"><tig><term>zars, nozarojums</term></tig></langSet>
+                <langSet xml:lang="lv"><tig><term>zars, atzars, nozarojums</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
@@ -230,7 +231,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>term</term></tig></langSet>
-                <langSet xml:lang="lv"><tig><term/></tig></langSet>
+                <langSet xml:lang="lv"><tig><term>termins, noteikums</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Privacy Policy</term></tig></langSet>
@@ -254,7 +255,7 @@
             </termEntry>
             <termEntry id="alias &quot;source text&quot;">
                 <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
-                <langSet xml:lang="lv"><tig><term/></tig></langSet>
+                <langSet xml:lang="lv"><tig><term>avots</term></tig></langSet>
             </termEntry>
             <termEntry id="alias &quot;Zen mode&quot;">
                 <langSet xml:lang="en"><tig><term>Zen</term></tig></langSet>
@@ -275,7 +276,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation-finder</term></tig></langSet>
-                <langSet xml:lang="lv"><tig><term/></tig></langSet>
+                <langSet xml:lang="lv"><tig><term>tulkojumu meklētājs</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
@@ -349,11 +350,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
-                <langSet xml:lang="lv"><tig><term>repozitorijs</term></tig></langSet>
+                <langSet xml:lang="lv"><tig><term>repozitorijs, glabātuve</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repo</term></tig></langSet>
-                <langSet xml:lang="lv"><tig><term>repozitorijs</term></tig></langSet>
+                <langSet xml:lang="lv"><tig><term>repozitorijs, glabātuve</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>text direction</term></tig></langSet>
@@ -373,7 +374,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
-                <langSet xml:lang="lv"><tig><term/></tig></langSet>
+                <langSet xml:lang="lv"><tig><term>Sentry</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
@@ -382,6 +383,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
                 <langSet xml:lang="lv"><tig><term>netulkojams</term></tig></langSet>
+                <note from="translator">Glosārija, skaidrojuma vārdnīcas termini, kurus nevajadzētu tulkot, izejvalodas tekstu nemainīt</note>
                 <descrip>Glossary terms that should not be changed from the source language</descrip>
             </termEntry>
             <termEntry>
@@ -390,7 +392,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tab character</term></tig></langSet>
-                <langSet xml:lang="lv"><tig><term/></tig></langSet>
+                <langSet xml:lang="lv"><tig><term>tabulēšanas rakstzīme, tab rakstzīme</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Fluent</term></tig></langSet>
@@ -399,7 +401,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>persona</term></tig></langSet>
-                <langSet xml:lang="lv"><tig><term/></tig></langSet>
+                <langSet xml:lang="lv"><tig><term>personība</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
@@ -419,11 +421,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>terminology</term></tig></langSet>
-                <langSet xml:lang="lv"><tig><term/></tig></langSet>
+                <langSet xml:lang="lv"><tig><term>terminoloģija</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Automattic</term></tig></langSet>
-                <langSet xml:lang="lv"><tig><term></term></tig></langSet>
+                <langSet xml:lang="lv"><tig><term/></tig></langSet>
                 <descrip>It's a name (see https://github.com/WeblateOrg/weblate/issues/13634), so it should be kept as is.</descrip>
             </termEntry>
         </body>
