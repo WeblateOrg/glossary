@@ -250,7 +250,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pseudolocale</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term>pszeudo területi beállítás</term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>szimulált nyelv</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>component list</term></tig></langSet>
