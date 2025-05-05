@@ -89,11 +89,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>watch</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term>observar</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>monitorar</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>watched events</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term>eventos observados</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>eventos monitorados</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>newsletter</term></tig></langSet>
@@ -225,7 +225,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Unwatch</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term>Deixar de observar</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>Deixar de monitorar</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>continuous localization system</term></tig></langSet>
@@ -375,7 +375,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>state</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term>estado</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>status</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>label</term></tig></langSet>
