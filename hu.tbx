@@ -600,6 +600,10 @@
                 <langSet xml:lang="hu"><tig><term>éles</term></tig></langSet>
                 <note from="translator">pl.: environment esetében</note>
             </termEntry>
+            <termEntry id="Insite">
+                <langSet xml:lang="en"><tig><term>Insights</term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>Áttekintés</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
