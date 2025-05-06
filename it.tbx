@@ -138,7 +138,7 @@
             </termEntry>
             <termEntry id="access restrictions (plural)">
                 <langSet xml:lang="en"><tig><term>access restrictions</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term>restrizioni accesso</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>restrizioni di accesso</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regular expression</term></tig></langSet>
@@ -407,7 +407,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add-ons</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term>add-on</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>Estensioni</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>contributor license agreement</term></tig></langSet>
@@ -415,7 +415,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Automattic</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term></term></tig></langSet>
+                <langSet xml:lang="it"><tig><term/></tig></langSet>
                 <descrip>It's a name (see https://github.com/WeblateOrg/weblate/issues/13634), so it should be kept as is.</descrip>
             </termEntry>
         </body>
