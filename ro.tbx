@@ -341,6 +341,26 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
+                <langSet xml:lang="ro"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Google OAuth 2</term></tig></langSet>
+                <langSet xml:lang="ro"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>foo/bar</term></tig></langSet>
+                <langSet xml:lang="ro"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
+                <langSet xml:lang="ro"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>reStructuredText</term></tig></langSet>
+                <langSet xml:lang="ro"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
                 <langSet xml:lang="ro"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
