@@ -27448,6 +27448,14 @@ Does dim gair yn y Gymraeg am 'slug'.</note>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
+                <langSet xml:lang="cy"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>reStructuredText</term></tig></langSet>
+                <langSet xml:lang="cy"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
                 <langSet xml:lang="cy"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
