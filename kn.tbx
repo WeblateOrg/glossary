@@ -324,8 +324,12 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Automattic</term></tig></langSet>
-                <langSet xml:lang="kn"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kn"><tig><term/></tig></langSet>
                 <descrip>It's a name (see https://github.com/WeblateOrg/weblate/issues/13634), so it should be kept as is.</descrip>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
+                <langSet xml:lang="kn"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
     </text>
