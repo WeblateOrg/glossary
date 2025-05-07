@@ -5542,6 +5542,14 @@ Bi-directional Cyrillic transliteration. Transliterate Cyrillic script to Latin 
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>reStructuredText</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
