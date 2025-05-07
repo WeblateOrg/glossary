@@ -557,7 +557,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>built-in</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term>embutido</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>integrado</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>billing</term></tig></langSet>
@@ -690,6 +690,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SSO</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>SSO</term></tig></langSet>
+                <note from="translator">Single Sign-On = "Login Único" ou "Autenticação Única"</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>search</term></tig></langSet>
@@ -751,6 +752,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>Weblate</term></tig></langSet>
+                <note from="translator">Weblate = O nome do projeto é uma amálgama de palavras web e translate.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Regular expressions</term></tig></langSet>
@@ -838,7 +840,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term>Histórico de alterações</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>histórico de alterações</term></tig></langSet>
+                <note from="translator">mas também pode ser "histórico de atualização", vai depender do contexto…</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>issue</term></tig></langSet>
@@ -965,21 +968,25 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Rollbar</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>Rollbar</term></tig></langSet>
+                <note from="translator">https://rollbar.com</note>
                 <descrip>rollbar.com</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ModernMT</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>ModernMT</term></tig></langSet>
+                <note from="translator">https://modernmt.com</note>
                 <descrip>modernmt.com</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>MyMemory</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>MyMemory</term></tig></langSet>
+                <note from="translator">https://mymemory.translated.net</note>
                 <descrip>mymemory.translated.net</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tmserver</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>tmserver</term></tig></langSet>
+                <note from="translator">Translate Toolkit</note>
                 <descrip>Translate Toolkit</descrip>
             </termEntry>
             <termEntry>
@@ -1045,7 +1052,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>authorship</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term>Autoria</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>autoria</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
@@ -1055,6 +1062,7 @@
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>Weblate</term></tig></langSet>
+                <note from="translator">Weblate = O nome do projeto é uma amálgama de palavras web e translate.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
