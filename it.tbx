@@ -402,10 +402,6 @@
                 <langSet xml:lang="it"><tig><term>lingua di origine</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>add-ons</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term>Estensioni</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>contributor license agreement</term></tig></langSet>
                 <langSet xml:lang="it"><tig><term>contratto di licenza per collaboratori</term></tig></langSet>
             </termEntry>
