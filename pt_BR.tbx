@@ -109,7 +109,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>concluded</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term>celebrado</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>finalizado</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>license agreement</term></tig></langSet>
@@ -213,7 +213,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>language code</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term>código de idioma</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>código do idioma</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>template</term></tig></langSet>
@@ -229,7 +229,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>continuous localization system</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term>sistema de localização contínua</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>sistema de tradução contínua</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>subscriber</term></tig></langSet>
@@ -278,7 +278,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>GitHub issues</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term>issues do GitHub</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>Relatórios do GitHub</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>web browser</term></tig></langSet>
@@ -443,7 +443,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>feature</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term>recurso</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>funcionalidade</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>change</term></tig></langSet>
@@ -479,7 +479,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>keyboard shortcut</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term>atalho de teclado</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>tecla de atalho</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>placeable</term></tig></langSet>
@@ -512,6 +512,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>Sentry</term></tig></langSet>
+                <note from="translator">https://sentry.io</note>
                 <descrip>sentry.io</descrip>
             </termEntry>
             <termEntry>
@@ -684,7 +685,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>milestone</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term>marco</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>objetivo</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SSO</term></tig></langSet>
@@ -709,7 +710,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bug</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term>bug</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>erro</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>trigger</term></tig></langSet>
@@ -777,11 +778,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>format string</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term>texto de formato</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>formato do texto</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>format strings</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term>textos de formato</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>formato de textos</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>read-only</term></tig></langSet>
@@ -837,7 +838,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term>Changelog</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>Histórico de alterações</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>issue</term></tig></langSet>
@@ -857,8 +858,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regex</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term>exreg</term></tig></langSet>
-                <note from="translator">EXpressão REGular</note>
+                <langSet xml:lang="pt_BR"><tig><term>regex</term></tig></langSet>
+                <note from="translator">regex (Expressão Regular)</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>class</term></tig></langSet>
@@ -870,7 +871,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fixup</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term>arrumar</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>correção</term></tig></langSet>
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>translations</term></tig></langSet>
@@ -1048,7 +1049,8 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term>Sentinela</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>Sentry</term></tig></langSet>
+                <note from="translator">https://sentry.io</note>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
@@ -1121,7 +1123,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Automattic</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>Automattic</term></tig></langSet>
-                <note from="translator">É um nome (veja https://github.com/WeblateOrg/weblate/issues/13634), então deve ser mantido como está.</note>
+                <note from="translator">É um nome (consulte https://github.com/WeblateOrg/weblate/issues/13634), então deve ser mantido como está.</note>
                 <descrip>It's a name (see https://github.com/WeblateOrg/weblate/issues/13634), so it should be kept as is.</descrip>
             </termEntry>
         </body>
