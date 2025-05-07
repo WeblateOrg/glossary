@@ -397,8 +397,12 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Automattic</term></tig></langSet>
-                <langSet xml:lang="kmr"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kmr"><tig><term/></tig></langSet>
                 <descrip>It's a name (see https://github.com/WeblateOrg/weblate/issues/13634), so it should be kept as is.</descrip>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>reStructuredText</term></tig></langSet>
+                <langSet xml:lang="kmr"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
     </text>
