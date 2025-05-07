@@ -136,10 +136,6 @@
                 <langSet xml:lang="en"><tig><term>issue</term></tig></langSet>
                 <langSet xml:lang="it"><tig><term>problema</term></tig></langSet>
             </termEntry>
-            <termEntry id="access restrictions (plural)">
-                <langSet xml:lang="en"><tig><term>access restrictions</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term>restrizioni di accesso</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regular expression</term></tig></langSet>
                 <langSet xml:lang="it"><tig><term>espressione regolare</term></tig></langSet>
@@ -420,7 +416,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term></term></tig></langSet>
+                <langSet xml:lang="it"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
