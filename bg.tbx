@@ -173,7 +173,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
-                <langSet xml:lang="bg"><tig><term/></tig></langSet>
+                <langSet xml:lang="bg"><tig><term>Celery</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CI</term></tig></langSet>
@@ -525,7 +525,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>reStructuredText</term></tig></langSet>
-                <langSet xml:lang="bg"><tig><term></term></tig></langSet>
+                <langSet xml:lang="bg"><tig><term>reStructuredText</term></tig></langSet>
             </termEntry>
         </body>
     </text>
