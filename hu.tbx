@@ -186,10 +186,6 @@
                 <langSet xml:lang="hu"><tig><term>Gyorsbillentyűk</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term>Weblate</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Regular expressions</term></tig></langSet>
                 <langSet xml:lang="hu"><tig><term>Reguláris kifejezések</term></tig></langSet>
             </termEntry>
