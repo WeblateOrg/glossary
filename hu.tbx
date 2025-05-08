@@ -174,7 +174,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>Celery</term></tig></langSet>
+                <note from="translator">ez egy szoftverkomponens neve</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CI</term></tig></langSet>
@@ -284,7 +285,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regex</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term>reguláris kifejezés</term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>regex</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regular expression</term></tig></langSet>
