@@ -339,7 +339,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>EU Regulation No.</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term>Regulamento (UE) nº</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>Regulamento (União Europeia) nº</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Backup</term></tig></langSet>
