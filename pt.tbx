@@ -255,7 +255,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ID</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>ID</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Id.</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>UI</term></tig></langSet>
@@ -375,7 +375,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Celery</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CI</term></tig></langSet>
@@ -472,7 +472,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>Historial</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>registo de alterações</term></tig></langSet>
                 <note from="translator">registo de alterações</note>
             </termEntry>
             <termEntry>
@@ -579,7 +579,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation-finder</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>translation-finder</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
@@ -824,7 +824,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>font family</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>família de tipo de letra</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>família do tipo de letra</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Cookies</term></tig></langSet>
@@ -935,7 +935,15 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term></term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>registo de alterações</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Font</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Tipo de Letra</term></tig></langSet>
             </termEntry>
         </body>
     </text>
