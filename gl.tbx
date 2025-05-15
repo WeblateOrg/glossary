@@ -5096,7 +5096,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>webhooks</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>ganchos web</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>ancoraxes web</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>contribute</term></tig></langSet>
@@ -5508,7 +5508,8 @@ Bi-directional Cyrillic transliteration. Transliterate Cyrillic script to Latin 
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Ticket</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>Billete</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>tícket</term></tig></langSet>
+                <note from="translator">https://portaldaspalabras.gal/dicionario/procura/t%C3%ADcket/</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>id</term></tig></langSet>
@@ -5546,11 +5547,24 @@ Bi-directional Cyrillic transliteration. Transliterate Cyrillic script to Latin 
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>reStructuredText</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term></term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term></term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>webhook</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>ancoraxe web</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>webhooks</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>puntos de ancoraxe web</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>ticket</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>tícket</term></tig></langSet>
+                <note from="translator">https://portaldaspalabras.gal/dicionario/procura/t%C3%ADcket/</note>
             </termEntry>
         </body>
     </text>
