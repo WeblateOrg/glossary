@@ -5507,11 +5507,6 @@ Bi-directional Cyrillic transliteration. Transliterate Cyrillic script to Latin 
                 <note from="translator">substantivo «segredo» adxectivo «secreto»</note>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Ticket</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>tícket</term></tig></langSet>
-                <note from="translator">https://portaldaspalabras.gal/dicionario/procura/t%C3%ADcket/</note>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>id</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>id</term></tig></langSet>
                 <note from="translator">identificador</note>
