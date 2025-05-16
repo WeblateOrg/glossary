@@ -183,7 +183,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Keyboard shortcuts</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term>Gyorsbillentyűk</term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>Billentyűparancsok</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Regular expressions</term></tig></langSet>
@@ -496,7 +496,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term>irányítópult</term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>vezérlőpult</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Zadnu</term></tig></langSet>
@@ -611,7 +611,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>properties</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term></term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term/></tig></langSet>
                 <descrip>Ha formátum, fájlnév, GWT-hez vagy Java-hoz kapcsolódó fogalom, akkor nem fordítjuk.</descrip>
             </termEntry>
         </body>
