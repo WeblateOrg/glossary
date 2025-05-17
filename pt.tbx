@@ -85,7 +85,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>link</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>link</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>hiperligação</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Project</term></tig></langSet>
@@ -101,7 +101,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Link</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>Link</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Hiperligação</term></tig></langSet>
                 <descrip>យោងតាម ក្រុមប្រឹក្សាជាតិភាសាខ្មែរ (គ.ជ.ភ.ខ.)</descrip>
             </termEntry>
             <termEntry>
@@ -952,6 +952,26 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>watching it</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>vigiá-lo.</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hosting</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>hospedagem</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Biannual</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Semianual</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Monthly</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Mensalmente</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>e-mail address</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>endereço de correio eletrónico</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Quarterly</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Trimestralmente</term></tig></langSet>
             </termEntry>
         </body>
     </text>
