@@ -356,8 +356,8 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>string</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>cadeia</term></tig></langSet>
-                <note from="translator">cadeia de caracteres</note>
+                <langSet xml:lang="pt"><tig><term>string</term></tig></langSet>
+                <note from="translator">cadeia de carateres</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>text</term></tig></langSet>
@@ -366,7 +366,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>strings</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>cadeias</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>strings</term></tig></langSet>
                 <note from="translator">cadeias de caracteres</note>
             </termEntry>
             <termEntry>
@@ -762,7 +762,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>nearby</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>vizinha</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>próxima</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>flag</term></tig></langSet>
@@ -912,7 +912,7 @@
             </termEntry>
             <termEntry id="2">
                 <langSet xml:lang="en"><tig><term>string</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>cadeia</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>string</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>reStructuredText</term></tig></langSet>
@@ -944,6 +944,14 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Font</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>Tipo de Letra</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>badge</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>crachá</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>watching it</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>vigiá-lo.</term></tig></langSet>
             </termEntry>
         </body>
     </text>
