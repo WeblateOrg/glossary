@@ -787,10 +787,6 @@
                 <langSet xml:lang="pt"><tig><term>endereço de e-mail</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>resolved comment</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>comentário resolvido</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Share</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>Partilhar</term></tig></langSet>
             </termEntry>
