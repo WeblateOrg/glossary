@@ -708,10 +708,6 @@
                 <langSet xml:lang="en"><tig><term>Zen</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>禅模式</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>translator</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>翻译器</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>代码提交邮箱</term></tig></langSet>
