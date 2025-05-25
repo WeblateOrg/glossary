@@ -4657,7 +4657,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Placeholders</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>Marcadores de posición</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>marcadores de substitución</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>placeables</term></tig></langSet>
