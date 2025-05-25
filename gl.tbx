@@ -4168,10 +4168,6 @@
                 <langSet xml:lang="en"><tig><term>projects</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>proxectos</term></tig></langSet>
             </termEntry>
-            <termEntry id="alias &quot;source text&quot;">
-                <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>fonte</term></tig></langSet>
-            </termEntry>
             <termEntry id="alias &quot;Zen mode&quot;">
                 <langSet xml:lang="en"><tig><term>Zen</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>Zen</term></tig></langSet>
