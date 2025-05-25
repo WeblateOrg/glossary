@@ -1496,7 +1496,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>extra</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>extra</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>adicional</term></tig></langSet>
+                <note from="translator">preferíbel a «extra»</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>extract</term></tig></langSet>
@@ -5556,6 +5557,10 @@ Bi-directional Cyrillic transliteration. Transliterate Cyrillic script to Latin 
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>webhook</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>punto de ancoraxe web</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>payload</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>carga útil</term></tig></langSet>
             </termEntry>
         </body>
     </text>
