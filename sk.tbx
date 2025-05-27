@@ -56,7 +56,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
-                <langSet xml:lang="sk"><tig><term/></tig></langSet>
+                <langSet xml:lang="sk"><tig><term>Celery</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CI</term></tig></langSet>
@@ -116,7 +116,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslated</term></tig></langSet>
-                <langSet xml:lang="sk"><tig><term/></tig></langSet>
+                <langSet xml:lang="sk"><tig><term>nepreložené</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
@@ -140,7 +140,7 @@
             </termEntry>
             <termEntry id="components">
                 <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
-                <langSet xml:lang="sk"><tig><term/></tig></langSet>
+                <langSet xml:lang="sk"><tig><term>časti</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
@@ -208,7 +208,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
-                <langSet xml:lang="sk"><tig><term/></tig></langSet>
+                <langSet xml:lang="sk"><tig><term>commit</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translator</term></tig></langSet>
@@ -261,7 +261,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation-finder</term></tig></langSet>
-                <langSet xml:lang="sk"><tig><term/></tig></langSet>
+                <langSet xml:lang="sk"><tig><term>translation-finder</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
@@ -410,7 +410,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>reStructuredText</term></tig></langSet>
-                <langSet xml:lang="sk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="sk"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
