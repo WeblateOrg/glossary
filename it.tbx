@@ -424,7 +424,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>subscription</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term>Abbonamento</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>abbonamento</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>payload</term></tig></langSet>
