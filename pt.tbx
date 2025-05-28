@@ -292,7 +292,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>download</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>descarregar</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>transferir</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Commiter</term></tig></langSet>
@@ -304,7 +304,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bug</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>anomalia</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>erro</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>instance</term></tig></langSet>
@@ -366,7 +366,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>strings</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>strings</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>cadeias de carateres</term></tig></langSet>
                 <note from="translator">cadeias de caracteres</note>
             </termEntry>
             <termEntry>
@@ -840,7 +840,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>copylefted libre software</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>Software livre por Copyleft</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>programa livre por Copyleft</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Docs</term></tig></langSet>
@@ -968,6 +968,66 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Quarterly</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>Trimestralmente</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>detail</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>detalhes</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>backup</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>cópia de segurança</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>suggestion</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>sugestão</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Reject</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Rejeitar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Site</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Site</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Delete</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Eliminar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Upload</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Enviar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>monolingual</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>monolingue</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Community</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Comunidade</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>passphrase</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>frase passe</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>amount</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>valor</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>next</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>seguinte</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pro forma</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>pró-forma</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Sign out</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Terminar sessão</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>add-ons</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>extras</term></tig></langSet>
             </termEntry>
         </body>
     </text>
