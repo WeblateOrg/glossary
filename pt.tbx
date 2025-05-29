@@ -287,8 +287,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>string</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>cadeia</term></tig></langSet>
-                <note from="translator">cadeia de caracteres</note>
+                <langSet xml:lang="pt"><tig><term>cadeia de carateres</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>download</term></tig></langSet>
@@ -1028,6 +1027,18 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add-ons</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>extras</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>support</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>apoio</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>activation key</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>código de ativação</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>robot</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>robô</term></tig></langSet>
             </termEntry>
         </body>
     </text>
