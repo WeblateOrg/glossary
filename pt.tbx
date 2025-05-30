@@ -353,11 +353,6 @@
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>extensão</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>string</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>string</term></tig></langSet>
-                <note from="translator">cadeia de carateres</note>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>text</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>texto</term></tig></langSet>
