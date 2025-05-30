@@ -1039,6 +1039,38 @@
                 <langSet xml:lang="en"><tig><term>Download</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>Transferir</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>keys</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>códigos</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>host</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>hospedeiro</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Passphrase</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>feature</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>funcionalidade</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>crash</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>crache</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>e-mails</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>mensagens</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>bot</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>robô</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>search</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>procurar</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
