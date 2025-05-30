@@ -920,10 +920,6 @@
                 <descrip>It's a name (see https://github.com/WeblateOrg/weblate/issues/13634), so it should be kept as is.</descrip>
             </termEntry>
             <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>registo de alterações</term></tig></langSet>
             </termEntry>
