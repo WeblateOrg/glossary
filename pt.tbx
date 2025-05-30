@@ -900,10 +900,6 @@
                 <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>fonte</term></tig></langSet>
             </termEntry>
-            <termEntry id="2">
-                <langSet xml:lang="en"><tig><term>string</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>string</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>reStructuredText</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>reStructuredText</term></tig></langSet>
