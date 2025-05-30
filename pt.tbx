@@ -523,7 +523,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>Weblate alojado</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Weblate Hospedado</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Subversion</term></tig></langSet>
@@ -1030,6 +1030,18 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>robot</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>robô</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Characters</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Carateres</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>link</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>hiperligação</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Download</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Transferir</term></tig></langSet>
             </termEntry>
         </body>
     </text>
