@@ -639,6 +639,10 @@
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term/></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>reviewer</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>denetçi</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
