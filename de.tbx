@@ -1452,10 +1452,6 @@
                 <langSet xml:lang="en"><tig><term>Sphinx</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term/></tig></langSet>
             </termEntry>
-            <termEntry id="readthedocs.org">
-                <langSet xml:lang="en"><tig><term>Read the Docs</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term/></tig></langSet>
-            </termEntry>
             <termEntry id="2">
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>committen</term></tig></langSet>
