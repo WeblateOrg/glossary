@@ -631,7 +631,7 @@
             </termEntry>
             <termEntry id="readthedocs.org">
                 <langSet xml:lang="en"><tig><term>Read the Docs</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Ler a Documentação</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>flag</term></tig></langSet>
@@ -911,7 +911,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>download</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>descarregar</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>transferir</term></tig></langSet>
                 <note from="translator">Descarregar ficheiros. Não confundir com área de transferência (clipboard) e não confundir com o transferir de "transferir propriedade".</note>
             </termEntry>
             <termEntry>
