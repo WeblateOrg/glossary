@@ -397,7 +397,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Personal Data</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>Dados pessoais</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Dados Pessoais</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Cookies</term></tig></langSet>
@@ -426,7 +426,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>extra</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>adicional</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>extra</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>identity</term></tig></langSet>
@@ -544,7 +544,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Terms of Service</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>Termos do serviço</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Termos do Serviço</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>profile</term></tig></langSet>
@@ -764,7 +764,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>label</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>rótulo</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>etiqueta</term></tig></langSet>
                 <note from="translator">manter etiqueta para TAG</note>
                 <descrip>manter etiqueta para TAG</descrip>
             </termEntry>
@@ -933,7 +933,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>watching it</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>vigiá-lo.</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>a monitorizar</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>hosting</term></tig></langSet>
@@ -1049,7 +1049,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Passphrase</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term></term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>feature</term></tig></langSet>
