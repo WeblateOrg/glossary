@@ -460,7 +460,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>release</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>قايتۇرۇش</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>نەشرى، تارقىتىش</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Files On-Demand</term></tig></langSet>
@@ -1136,7 +1136,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>image picker</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>رەسىم تاللىغۇچ</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>سۈرەت تاللىغۇچ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>conference bridge</term></tig></langSet>
@@ -1252,7 +1252,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>additional optional connected experience</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>قوشۇمچە تاللانما باغلانما ئىقتىدار</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>قوشۇمچە تاللاشچان باغلانما تەسىرات</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>connected experience</term></tig></langSet>
@@ -1936,7 +1936,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Add Space</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>بوشلۇق قوشۇش</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>بوشلۇق قوش</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Styles</term></tig></langSet>
@@ -1972,7 +1972,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Activity</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>مەشغۇلات</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>پائالىيەت</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Modern Attachments</term></tig></langSet>
@@ -2156,7 +2156,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>scrollable button group</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>سىيرىلما كۇنۇپكا گۇرۇپپىسى</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>سىيرىلما توپچە گۇرۇپپىسى</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>secondary action menu</term></tig></langSet>
@@ -2164,7 +2164,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>secondary action button</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>ئىككىلەمچى مەشغۇلات كۇنۇپكىسى</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>ئىككىنچى مەشغۇلات توپچە</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pencil</term></tig></langSet>
@@ -2444,7 +2444,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>split</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>پارچىلاش</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>پارچىلا، بۆل</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>lap</term></tig></langSet>
@@ -3136,7 +3136,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Project management</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>تۈر باشقۇرۇش</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>قۇرۇلۇش باشقۇرۇش</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Inventory &amp; logistics</term></tig></langSet>
@@ -3164,7 +3164,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Accounting &amp; finance</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>مالىيە-بوغالتىرلىق</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>مالىيە ۋە بوغالتىرلىق</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Reference</term></tig></langSet>
@@ -3344,7 +3344,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Add to my OneDrive</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>OneDrive بوشلۇقۇمغا قوشۇش</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>OneDrive بوشلۇقۇمغا قوش</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>selection handle</term></tig></langSet>
@@ -3748,7 +3748,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Add Cite</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>نەقىل قوشۇش</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>نەقىل قوش</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Timesheet</term></tig></langSet>
@@ -4152,7 +4152,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>community champion</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>مەھەللە سەركىسى</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>جامائەت سەركىسى</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Most played apps</term></tig></langSet>
@@ -4380,7 +4380,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>album info</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>پىلاستىنكا ئۇچۇرى</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>ناخشا توپلىمى ئۇچۇرى</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ad-free</term></tig></langSet>
@@ -4800,7 +4800,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>action node</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>ھەرىكەت تۈگۈنى</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>مەشغۇلات تۈگۈنى</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>relationship node</term></tig></langSet>
@@ -5060,7 +5060,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Link</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>ئۇلىنىش</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>ئۇلانما</term></tig></langSet>
                 <descrip>យោងតាម ក្រុមប្រឹក្សាជាតិភាសាខ្មែរ (គ.ជ.ភ.ខ.)</descrip>
             </termEntry>
             <termEntry>
@@ -5077,7 +5077,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Bulleted list</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>ئوقلۇق تىزىملىك</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>تۈر بەلگە تىزىمى</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Detail view</term></tig></langSet>
@@ -5089,7 +5089,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Vertical</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>تىك</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>بويىغا، تىك</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Font choices</term></tig></langSet>
@@ -5365,7 +5365,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>split time</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>بۆلەت ۋاقىت</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>بۆلگەن ۋاقىت</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>PO number</term></tig></langSet>
@@ -5405,7 +5405,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Image Annotator</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>رەسىم ئىزاھاتلىغۇچ</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>سۈرەت ئىزاھاتلىغۇچ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Windows Reading List</term></tig></langSet>
@@ -5781,7 +5781,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>installer</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>قاچىلىغۇچ</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>ئورناتقۇچ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>soft edge</term></tig></langSet>
@@ -5797,7 +5797,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>project team</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>تۈر گۇرۇپپىسى</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>قۇرۇلۇش گۇرۇپپىسى</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Premium account</term></tig></langSet>
@@ -6057,7 +6057,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Community</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>توپ</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>جامائەت</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CSOM</term></tig></langSet>
@@ -6265,11 +6265,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Refresh button</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>يېڭىلاش كۇنۇپكىسى</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>يېڭىلاش توپچە</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Back button</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>زاپاسلاش كۇنۇپكىسى</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>قايت توپچە</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>TS session</term></tig></langSet>
@@ -6417,7 +6417,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Action &amp; adventure</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>ھەرىكەتلىك ۋە خەتەرلىك</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>مەشغۇلات ۋە تەۋەككۈلچىلىك</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Books &amp; Reference</term></tig></langSet>
@@ -6641,7 +6641,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Add to OneNote</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>OneNote قا قوشۇش</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>OneNote قا قوش</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Windows 8.1 Pro with Media Center</term></tig></langSet>
@@ -6813,7 +6813,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>project</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>كۆرسىتىش</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>قۇرۇلۇش</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>graph index</term></tig></langSet>
@@ -6837,7 +6837,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>3D Maps</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>3D خەرىتىلەر</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>ئۈچ ئۆلچەملىك خەرىتە</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>divider</term></tig></langSet>
@@ -6893,7 +6893,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>TRY</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>TRY</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>سىنا</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SEK</term></tig></langSet>
@@ -6909,7 +6909,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Project Site Sync</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>Project Site Sync</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>قۇرۇلۇش تور بېكەت قەدەمداش</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>definitions callout</term></tig></langSet>
@@ -6949,7 +6949,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Project Site</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>Project Site</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>قۇرۇلۇش تور بېكىتى</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>picture content</term></tig></langSet>
@@ -6969,7 +6969,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Academic Library</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>ئىلمىي كۇتۇبخانا</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>ئىلمىي كۇتۇپخانا</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>verification</term></tig></langSet>
@@ -7185,7 +7185,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>alignment guide</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>يۆنىلىش يېتەكچىسى</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>توغرىلاش يېتەكچىسى</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Snap</term></tig></langSet>
@@ -7345,7 +7345,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Action Items</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>ھەرىكەت ئوبيېكتلىرى</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>مەشغۇلات تۈرى</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>snap</term></tig></langSet>
@@ -7409,7 +7409,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>promotional image</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>تەشۋىقات رەسىمى</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>تەشۋىقات سۈرىتى</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>purchase after trial</term></tig></langSet>
@@ -7830,7 +7830,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Affiliate Program</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>تارماق پروگرامما</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>تارماق پىروگرامما</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>affiliate</term></tig></langSet>
@@ -7958,7 +7958,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>volume control button</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>ئاۋاز مىقدارى كونترول كۇنۇپكىسى</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>ئاۋاز مىقدارى تىزگىن توپچە</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Tap and Hold</term></tig></langSet>
@@ -7982,7 +7982,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Windows button</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>Windows كۇنۇپكىسى</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>Windows توپچە</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>PC settings</term></tig></langSet>
@@ -8110,7 +8110,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>rotation lock button</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>ئايلاندۇرۇشنى قۇلۇپلاش كۇنۇپكىسى</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>ئايلاندۇرۇشنى قۇلۇپلاش توپچىسى</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Windows 8 Media Center Pack</term></tig></langSet>
@@ -8211,7 +8211,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Accessibility Advocate</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>راۋانلىق يولباشچىسى</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>قولايلىق ئادۋوكات</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Office Telemetry Processor</term></tig></langSet>
@@ -8319,7 +8319,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>image stabilization</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>رەسىم مۇقىملاشتۇرۇش</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>سۈرەت مۇقىملاشتۇرۇش</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>stabilization</term></tig></langSet>
@@ -8527,7 +8527,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>named item view</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>نام قويۇلغانلىرىنى كۆرۈش</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>ئاتالغان تۈر كۆرۈنۈش</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>first-stage Recycle Bin</term></tig></langSet>
@@ -8551,7 +8551,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>reinstallation</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>قايتا قاچىلاش</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>قايتا ئورنىتىش</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Microsoft Points</term></tig></langSet>
@@ -8639,7 +8639,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Address Bar Top Result</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>ئەڭ ئەلا نەتىجە</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>ئادرېس بالداق ئاۋات نەتىجە</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>synced folder</term></tig></langSet>
@@ -8771,7 +8771,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Translation ScreenTip</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>تەرجىمە كۆرسەتكۈچى</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>تەرجىمە ئېكران ئەسكەرتىشى</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>sheet tab</term></tig></langSet>
@@ -9003,7 +9003,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Groups</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>گۇرۇپپىلار</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>گۇرۇپپا</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Events</term></tig></langSet>
@@ -9059,7 +9059,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>aerial view</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>بوشلۇق كۆرۈنمىسى</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>بوشلۇق كۆرۈنۈش</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Record Slide Show</term></tig></langSet>
@@ -9115,7 +9115,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Back</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>ئارقىغا</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>قايت</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>PowerPC</term></tig></langSet>
@@ -9359,7 +9359,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pinch</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>تارايتماق</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>تارايت</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Microsoft Photos</term></tig></langSet>
@@ -9431,7 +9431,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>accent color</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>خاس رەڭ</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>ئۇرغۇ رەڭگى</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Content Query</term></tig></langSet>
@@ -9515,7 +9515,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>push-button reset</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>بىر كۇنۇپكىدىن قايتا تەڭشەش</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>يەتكۈزۈش توپچىنى ئەسلىگە قايتۇر</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Windows HCK</term></tig></langSet>
@@ -9579,7 +9579,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>BitLocker encrypted installation</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>BitLocker مەخپىيلەشتۈرۈپ قاچىلاش</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>BitLocker شىفىرلاپ ئورنىتىش</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Automatic Maintenance</term></tig></langSet>
@@ -9703,19 +9703,19 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Vertical Box List</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>ۋېرتىكال رامكا تىزىملىكى</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>بويىغا قۇتا تىزىمى</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Vertical Block List</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>ۋېرتىكال توسۇق تىزىملىكى</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>بويىغا توسۇش تىزىمى</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Vertical Bending Process</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>ۋېرتىكال ئەگمە جەريانى</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>بويىغا ئەگمە جەريانى</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Vertical Arrow List</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>ۋېرتىكال ئستىرېلكا تىزىملىكى</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>بويىغا يا ئوق تىزىمى</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Upward Arrow</term></tig></langSet>
@@ -10003,7 +10003,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Accent Process</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>تەرتىپلىك سىخېما</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>ئۇرغۇ جەريانى</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>disconnect</term></tig></langSet>
@@ -10063,7 +10063,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Accessibility Checker</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>راۋانلىق تەكشۈرگۈچ</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>قولايلىق تەكشۈرگۈچ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Base64</term></tig></langSet>
@@ -10103,7 +10103,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pair</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>جۈپلىمەك</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>جۈپلە</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>MailTips</term></tig></langSet>
@@ -10139,7 +10139,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>picture button</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>رەسىم كۇنۇپكىسى</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>رەسىم توپچە</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>vault</term></tig></langSet>
@@ -10279,7 +10279,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>field button</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>ئورۇن كونۇپكىسى</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>بۆلەك توپچە</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Favorite Folders</term></tig></langSet>
@@ -10467,7 +10467,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>version history</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>نەشىر تارىخى</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>نەشر تارىخى</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>box and whisker chart</term></tig></langSet>
@@ -10507,7 +10507,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>AI</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>AI</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>سۈنئىي ئەقىل</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>artificial intelligence</term></tig></langSet>
@@ -10643,7 +10643,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Access Services</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>Access مۇلازىمەتلىرى</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>زىيارەت مۇلازىمىتى</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Ink Art</term></tig></langSet>
@@ -10831,7 +10831,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Search button</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>ئىزدەش كۇنۇپكىسى</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>ئىزدەش توپچە</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Windows Live Home</term></tig></langSet>
@@ -10903,7 +10903,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>قوشماق</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>قوش</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>family</term></tig></langSet>
@@ -10935,7 +10935,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>list</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>تىزىملىك</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>تىزىم</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SharePoint list</term></tig></langSet>
@@ -10987,7 +10987,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Picture Styles</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>رەسىم ئۇسلۇبلىرى</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>رەسىم ئۇسلۇبى</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Calendar Preview</term></tig></langSet>
@@ -11079,7 +11079,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Start button</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>باشلىغۇچ</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>باشلا توپچە</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>encryption provider</term></tig></langSet>
@@ -11091,7 +11091,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>version</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>نەشىر نومۇرى</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>نەشرى</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>closed captioning</term></tig></langSet>
@@ -11279,7 +11279,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>align</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>توغرىلىماق</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>توغرىلا</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>selection rectangle</term></tig></langSet>
@@ -11339,7 +11339,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>control character</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>تەڭشىگۈچ بەلگە</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>تىزگىن ھەرپ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>blindness</term></tig></langSet>
@@ -11455,7 +11455,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>active field</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>ئاكتىپ ئورۇن</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>ئاكتىپ بۆلەك</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>grave accent</term></tig></langSet>
@@ -11575,7 +11575,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Windows Installation Compatibility Advisor</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>Windows قاچىلاش ماسلىشىشچانلىقى مەسلىھەتچىسى</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>Windows ئورنىتىش ماسلىشىشچانلىقى مەسلىھەتچىسى</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>query</term></tig></langSet>
@@ -11599,7 +11599,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pie chart</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>يۇملاق گرافىك</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>يۇمىلاق گىرافىك</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>shutdown</term></tig></langSet>
@@ -11667,7 +11667,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>PivotTable subtotal</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>PivotTable ېېرېم ژېغېن</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>PivotTable تارماق يىغىندا</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ASP</term></tig></langSet>
@@ -11675,7 +11675,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Active Server Pages</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>Active Server Pages</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>ئاكتىپ مۇلازىمەت بېتى</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>restart</term></tig></langSet>
@@ -11683,7 +11683,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>active document window</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>ئاكتىپ ھۆججەت كۆزنىكى</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>ئاكتىپ پۈتۈك كۆزنىكى</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>backslash</term></tig></langSet>
@@ -12071,7 +12071,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pin</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>مىخلىماق</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>مىخلا</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Format Painter</term></tig></langSet>
@@ -12123,15 +12123,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Microsoft Office Button</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>Microsoft Office Button</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>Microsoft Office توپچە</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Office Button</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>Office كونۇپكىسى</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>Office توپچە</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Pictures</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>رەسىملەر</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>رەسىم</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CA certificate</term></tig></langSet>
@@ -12171,7 +12171,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>split button</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>بۆلگۈچ</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>بۆلگۈچ توپچە</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Solution Explorer</term></tig></langSet>
@@ -12295,7 +12295,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>3D model</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>3D model</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>ئۈچ ئۆلچەملىك مودېل</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>seed</term></tig></langSet>
@@ -12612,7 +12612,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>URL</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>URL</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>تور ئادرېسى</term></tig></langSet>
                 <descrip>យោងតាម ក្រុមប្រឹក្សាជាតិភាសាខ្មែរ (គ.ជ.ភ.ខ.)</descrip>
             </termEntry>
             <termEntry>
@@ -12637,7 +12637,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Active Directory Federation Services</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>Active Directory بىرلەشمىسى</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>Active Directory فېدىراتسىيە مۇلازىمىتى</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>disk space</term></tig></langSet>
@@ -12773,11 +12773,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>right mouse button</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>مائۇس ئوڭ كۇنۇپكىسى</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>چاشقىنەك ئوڭ توپچە</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>PivotTable list</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>PivotTable سپېسكېسې</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>PivotTable تىزىمى</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>PivotTable</term></tig></langSet>
@@ -12929,7 +12929,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>PivotChart report</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>PivotChart ھېساباتې</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>PivotChart ھېساباتى</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>System Protection</term></tig></langSet>
@@ -12997,7 +12997,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>action argument</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>ھەرىكەت پارامېتىرى</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>مەشغۇلات پارامېتىرى</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Criteria pane</term></tig></langSet>
@@ -13077,7 +13077,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>taskbar button</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>ۋەزىپە بالداق كۇنۇپكىسى</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>ۋەزىپە بالداق توپچە</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>emoticon</term></tig></langSet>
@@ -13146,7 +13146,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>server</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>مۇلازىمىتېر</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>مۇلازىمېتىر</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>passcode</term></tig></langSet>
@@ -13170,7 +13170,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>AD DS</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>ئا م د م</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>AD DS</term></tig></langSet>
+                <note from="translator">Active Directory Domain Services</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Active Directory Domain Services</term></tig></langSet>
@@ -13302,7 +13303,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>server name</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>مۇلازىمىتېرى نامى</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>مۇلازىمېتىر ئىسمى</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>style</term></tig></langSet>
@@ -13454,7 +13455,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>PivotTable grand totals</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>PivotTable ئومومېې ژېغېندې</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term></term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>DES</term></tig></langSet>
@@ -13562,7 +13563,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>thumbnail image</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>كىچىكلەتمە رەسىم</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>كىچىك كۆرۈنۈش سۈرەت</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>moving average</term></tig></langSet>
@@ -13590,7 +13591,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>PivotChart series field</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>PivotChart سېرېالار سەترې</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>PivotChart يۈرۈشلۈك بۆلىكى</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Daily Task List</term></tig></langSet>
@@ -13650,11 +13651,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>server farm</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>مۇلازىمىتېر مەيدانى</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>مۇلازىمېتىر مەيدانى</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>server cluster</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>مۇلازىمىتېر توپى</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>مۇلازىمېتىر توپى</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>server pool</term></tig></langSet>
@@ -13682,7 +13683,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>vertical alignment</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>تىك تەڭشەش</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>بويىغا تەڭشەش</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Address Book</term></tig></langSet>
@@ -13738,7 +13739,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>privacy</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>مەخپىيەتلىك</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>شەخسىيەت</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ESC key</term></tig></langSet>
@@ -13942,7 +13943,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>action statement</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>ھەرىكەت ئىبارىسى</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>مەشغۇلات باياناتى</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Document Panel</term></tig></langSet>
@@ -14010,7 +14011,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>access control list</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>زىيارەت تىزگىنى تىزىملىكى</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>زىيارەت تىزگىنى تىزىمى</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Query window</term></tig></langSet>
@@ -14066,7 +14067,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>toggle button</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>ئالماشتۇرۇش كۇنۇپكىسى</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>ئالماشتۇرۇش توپچە</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>background color</term></tig></langSet>
@@ -14134,7 +14135,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>button</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>كۇنۇپكا</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>توپچە</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>hyperlink display text</term></tig></langSet>
@@ -14231,7 +14232,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>action</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>ھەرىكەت</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>مەشغۇلات</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>support</term></tig></langSet>
@@ -14351,7 +14352,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>privacy settings</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>مەخپىيەتلىك تەڭشەكلىرى</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>شەخسىيەت تەڭشىكى</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Suite B algorithm</term></tig></langSet>
@@ -14487,11 +14488,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>permissions</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>ھوقۇق</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>ئىجازەت</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>access permissions</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>زىيارەت ھوقۇقى</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>زىيارەت ئىجازىتى</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>PAN</term></tig></langSet>
@@ -14695,7 +14696,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>view type</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>كۆرۈنۈش تىپى</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>كۆرۈنۈش تۈرى</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Open Sync Center</term></tig></langSet>
@@ -14807,7 +14808,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>uninstall</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>يۇيۇۋاتماق</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>ئۆچۈر</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>note</term></tig></langSet>
@@ -14839,7 +14840,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>toolbar button</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>قورالبالداق كۇنۇپكىسى</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>قورال بالداق توپچە</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>separator</term></tig></langSet>
@@ -15184,7 +15185,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>upload</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>يۈكلىمەك</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>يۈكلە</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>integer</term></tig></langSet>
@@ -15284,7 +15285,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Privacy Policy</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>مەخپىيەتلىك بەلگىلىمىسى</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>شەخسىيەت تۈزۈمى</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>verify</term></tig></langSet>
@@ -15481,11 +15482,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>PivotTable report</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>PivotTable ھېساباتې</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>PivotTable دوكلاتى</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>PivotTable data</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>PivotTable مەلوماتې</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>PivotTable ئۇچۇرى</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>table pane</term></tig></langSet>
@@ -15649,7 +15650,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bullet</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>كۆرسەتكۈچ بەلگە</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>تۈر بەلگە</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>RSS Subscriptions</term></tig></langSet>
@@ -15933,11 +15934,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>affiliate marketing</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>بازار ھەمكارلىقى</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>بازارچىلىق ھەمكارلىقى</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>action button</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>ھەرىكەت كۇنۇپكىسى</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>مەشغۇلات توپچە</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>experience</term></tig></langSet>
@@ -16053,7 +16054,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Project Web App</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>Project تور ئەپى</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>قۇرۇلۇش تور ئەپى</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>compare</term></tig></langSet>
@@ -16101,7 +16102,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>album</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>ئالبوم</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>سۈرەتدان، ناخشا توپلىمى، نەغمە توپلىمى</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Presenter View</term></tig></langSet>
@@ -16709,7 +16710,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bulleted list</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>ئوقلۇق تىزىملىك</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>تۈر بەلگە تىزىمى</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>block</term></tig></langSet>
@@ -16721,11 +16722,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>push button</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>كۇنۇپكا</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>يەتكۈزۈش توپچە</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>command button</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>بۇيرۇق كۇنۇپكىسى</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>بۇيرۇق توپچە</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>animation scheme</term></tig></langSet>
@@ -16825,7 +16826,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>alias</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>باشقا نام</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>لەقەم، باشقا نام</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>GUI</term></tig></langSet>
@@ -16845,7 +16846,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>object</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>ئوبيېكت</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>جىسىم، ئوبيېكت</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>cell spacing</term></tig></langSet>
@@ -16945,11 +16946,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>قوشۇمچە ئۈسكۈنە</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>قوشۇلما</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>select</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>تاللىماق</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>تاللا</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>QuickTime</term></tig></langSet>
@@ -17097,7 +17098,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>session</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>پاراڭ</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>سۆزلىشىش</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>disabled</term></tig></langSet>
@@ -17577,7 +17578,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>vertical axis</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>ۋېرتىكال ئوق</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>بويىغا ئوق</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>3D</term></tig></langSet>
@@ -17593,7 +17594,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>installation</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>قاچىلاش</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>ئورنىتىش</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>artist</term></tig></langSet>
@@ -17605,7 +17606,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>user profile</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>ئىشلەتكۈچى ئارخىپى</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>ئىشلەتكۈچى تەرجىمىھالى</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>spreadsheet program</term></tig></langSet>
@@ -17681,7 +17682,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>name</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>نامى</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>ئىسمى</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>import</term></tig></langSet>
@@ -17757,7 +17758,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>install</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>ئورناتماق</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>‏ئورنات</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>off-axis</term></tig></langSet>
@@ -17777,7 +17778,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>activation</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>ئاكتىپ</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>ئاكتىپلاش</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Word publication</term></tig></langSet>
@@ -17989,7 +17990,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>action row</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>ھەرىكەت قۇرى</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>مەشغۇلات قۇرى</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>AutoRecover</term></tig></langSet>
@@ -18113,7 +18114,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>view</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>كۆرۈنمە</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>كۆرۈنۈش</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>abandon</term></tig></langSet>
@@ -18201,7 +18202,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>PivotChart category field</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>PivotChart كەتېگۈرېېا سەترې</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term></term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>border</term></tig></langSet>
@@ -18261,7 +18262,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Network Printer Installation Wizard</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>تور پىرىنتېرى قاچىلاش يېتەكچىسى</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>تور پىرىنتېرى ئورنىتىش يېتەكچىسى</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>distribution group</term></tig></langSet>
@@ -18309,7 +18310,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>string</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>ھەرپ تىزمىسى</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>ھەرپ تىزىقى</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>gallery</term></tig></langSet>
@@ -18337,7 +18338,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>inline image</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>ئىچكى رەسىم</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>ئىچكى سۈرەت</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>collapse</term></tig></langSet>
@@ -18405,11 +18406,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>radio button</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>يۇمىلاق كۇنۇپكا</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>چىغ توپچە</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>option button</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>تاللانما تۈگمىسى</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>تاللانما توپچە</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>unwanted software</term></tig></langSet>
@@ -18689,7 +18690,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>activate</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>ئاكتىپلاشتۇرماق</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>ئاكتىپلا</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>publish</term></tig></langSet>
@@ -18845,7 +18846,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>action query</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>ھەرىكەت سۈرۈشتۈرمىسى</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>مەشغۇلات سۈرۈشتۈرمىسى</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>banner</term></tig></langSet>
@@ -18921,7 +18922,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>PivotTable view</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>PivotTable كورونېشې</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>PivotTable كۆرۈنۈش</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>license</term></tig></langSet>
@@ -18957,7 +18958,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>digital image</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>رەقەملىك رەسىم</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>رەقەملىك سۈرەت</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>picture</term></tig></langSet>
@@ -18965,7 +18966,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>image</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>رەسىم</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>سۈرەت</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>digit</term></tig></langSet>
@@ -18993,11 +18994,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>set</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>توپلاش</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>تەڭشەك، توپلام</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>named set</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>ناملىق توپلام</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>ئاتالغان توپلام</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>busy signal</term></tig></langSet>
@@ -19221,7 +19222,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>control</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>كونترول</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>تىزگىن، كونترول</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>un-sign</term></tig></langSet>
@@ -19345,7 +19346,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>document</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>ھۆججەت</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>پۈتۈك</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>doc</term></tig></langSet>
@@ -19525,7 +19526,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>username</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>ئىشلەتكۈچى نام</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>ئىشلەتكۈچى ئاتى</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>autoformat</term></tig></langSet>
@@ -19641,7 +19642,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>accessibility aid</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>راۋانلىق ياردىمى</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>قولايلىق ياردىمى</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>opt in</term></tig></langSet>
@@ -19665,11 +19666,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>primary mouse button</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>باش مائۇس كۇنۇپكىسى</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>چاشقىنەك ئاساسىي توپچە</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>left mouse button</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>مائۇس سول كۇنۇپكىسى</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>چاشقىنەك سول توپچە</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>memory leak</term></tig></langSet>
@@ -19721,7 +19722,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>requery</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>قايتا ئىزدەش</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>قايتا سۈرۈشتۈر</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>combo box control</term></tig></langSet>
@@ -20090,10 +20091,11 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>a11y</term></tig></langSet>
                 <langSet xml:lang="ug"><tig><term>a11y</term></tig></langSet>
+                <note from="translator">مىيىپلارغا قۇلايلىق يارىتىش ئىقتىدارىغا قارىتىلغان قىسقارتىلغان سۆز</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>accessibility</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>ياردەمچە ئىقتىدار</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>قولايلىق ئىقتىدار</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>form control</term></tig></langSet>
@@ -20309,7 +20311,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>VAT ID</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>باج تىزىملاش نومۇرى</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>قوشۇلما قىممەت بېجى كىملىكى</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>To-Do Bar</term></tig></langSet>
@@ -20473,7 +20475,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>access</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>زىيارەت قىلماق</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>زىيارەت قىل</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>data bar</term></tig></langSet>
@@ -20505,7 +20507,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>upgrade</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>يېڭىلىماق</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>يۈكسەلت</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>toggle key</term></tig></langSet>
@@ -20514,10 +20516,11 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ADO</term></tig></langSet>
                 <langSet xml:lang="ug"><tig><term>ADO</term></tig></langSet>
+                <note from="translator">ActiveX Data Objects</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ActiveX Data Objects</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>ActiveX Data Objects</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>ActiveX ئۇچۇر ئوبيېكتى</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>clip collection</term></tig></langSet>
@@ -20605,7 +20608,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term/></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>كېيىنكى خىزمەت كۈنى</term></tig></langSet>
+                <note from="translator">Next Business Day</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bug</term></tig></langSet>
@@ -20613,7 +20617,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term/></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>كەرەپشە</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CI</term></tig></langSet>
@@ -20629,7 +20633,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Regular expressions</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term/></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>مۇنتىزىم ئىپادە</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gitee</term></tig></langSet>
@@ -20637,23 +20641,24 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Subject</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>تېما</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>ماۋزۇ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Personal Data</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>شەخسىي مەلۇمات</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>شەخسىي ئۇچۇر</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Cookies</term></tig></langSet>
                 <langSet xml:lang="ug"><tig><term/></tig></langSet>
+                <note from="translator">ساقلانما</note>
             </termEntry>
             <termEntry id="XML Tag">
                 <langSet xml:lang="en"><tig><term>XML Tag</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term/></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>XML بەلگە</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>variants</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term/></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>شالغۇت</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>current</term></tig></langSet>
@@ -20661,11 +20666,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslated</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term/></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>تەرجىمە قىلىنمىغان</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term/></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>يەش</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gerrit</term></tig></langSet>
@@ -20677,7 +20682,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pseudolocale</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term/></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>ئاتالمىش تىل مۇھىتى</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>component list</term></tig></langSet>
@@ -20685,11 +20690,11 @@
             </termEntry>
             <termEntry id="components">
                 <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term/></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>بۆلەك</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>ئۆزگىرىشلەر</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>ئۆزگىرىش خاتىرىسى</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pull request</term></tig></langSet>
@@ -20717,7 +20722,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term/></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>قىسقارتما</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fixup</term></tig></langSet>
@@ -20725,23 +20730,23 @@
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>translations</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>تەرجىمىلەر</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>تەرجىمە</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term/></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>تەرجىمە</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>unresolved comment</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term/></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>ھەل قىلىنمىغان ئىنكاس</term></tig></langSet>
             </termEntry>
             <termEntry id="opposite">
                 <langSet xml:lang="en"><tig><term>resolved comment</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term/></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>ھەل قىلىنغان ئىنكاس</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>URL scheme</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term/></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>تور ئادرېس لايىھەسى</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
@@ -20749,7 +20754,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term/></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>تاپشۇر</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translator</term></tig></langSet>
@@ -20765,7 +20770,7 @@
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>projects</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>تۈرلەر</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>قۇرۇلۇش</term></tig></langSet>
             </termEntry>
             <termEntry id="alias &quot;source text&quot;">
                 <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
@@ -20786,7 +20791,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation-finder</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term/></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>تەرجىمە ئىزدىگۈچ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
@@ -20844,7 +20849,7 @@
             </termEntry>
             <termEntry id="readthedocs.org">
                 <langSet xml:lang="en"><tig><term>Read the Docs</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term/></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>پۈتۈك ئوقۇيدۇ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Google OAuth 2</term></tig></langSet>
@@ -20852,7 +20857,7 @@
             </termEntry>
             <termEntry id="Past tense">
                 <langSet xml:lang="en"><tig><term>translated</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term/></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>تەرجىمە قىلىندى</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>glossary</term></tig></langSet>
@@ -20861,11 +20866,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>ئامبار</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>خەزىنە، ئامبار</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repo</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term/></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>خەزىنە</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>text direction</term></tig></langSet>
@@ -20893,11 +20898,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term/></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>ئۆلچەم</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term/></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>تەرجىمە قىلىنمايدىغان</term></tig></langSet>
                 <descrip>Glossary terms that should not be changed from the source language</descrip>
             </termEntry>
             <termEntry>
@@ -20911,11 +20916,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>persona</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term/></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>كىشىلىك</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term/></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>ئۆلچەم</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Zadnu</term></tig></langSet>
@@ -20923,11 +20928,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Accept</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>قوبۇل قىلىش</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>قوشۇل</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>terminology</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term/></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>ئاتالغۇ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Automattic</term></tig></langSet>
@@ -20936,7 +20941,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>reStructuredText</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry id="ئېلخەت">
+                <langSet xml:lang="en"><tig><term>e-mail</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>تورخەت</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Postcode</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>پوچتا نومۇرى</term></tig></langSet>
             </termEntry>
         </body>
     </text>
