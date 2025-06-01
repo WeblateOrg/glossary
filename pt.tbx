@@ -361,7 +361,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>strings</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>cadeias de carateres</term></tig></langSet>
-                <note from="translator">cadeias de caracteres</note>
+                <note from="translator">https://pt.wikipedia.org/wiki/Cadeia_de_caracteres</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
@@ -1066,6 +1066,11 @@
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>search</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>procurar</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>string</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>cadeia</term></tig></langSet>
+                <note from="translator">Curto para cadeia de caracteres; https://pt.wikipedia.org/wiki/Cadeia_de_caracteres</note>
             </termEntry>
         </body>
     </text>
