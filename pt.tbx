@@ -1072,6 +1072,18 @@
                 <langSet xml:lang="pt"><tig><term>cadeia</term></tig></langSet>
                 <note from="translator">Curto para cadeia de caracteres; https://pt.wikipedia.org/wiki/Cadeia_de_caracteres</note>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Prepended</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Prefixo</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Appended</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Sufixo</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>email address</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>endereço de correio eletrónico</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
