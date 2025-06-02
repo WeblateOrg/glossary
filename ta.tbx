@@ -44,7 +44,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
-                <langSet xml:lang="ta"><tig><term/></tig></langSet>
+                <langSet xml:lang="ta"><tig><term>செலரி</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CI</term></tig></langSet>
@@ -307,7 +307,7 @@
             </termEntry>
             <termEntry id="readthedocs.org">
                 <langSet xml:lang="en"><tig><term>Read the Docs</term></tig></langSet>
-                <langSet xml:lang="ta"><tig><term/></tig></langSet>
+                <langSet xml:lang="ta"><tig><term>ஆவணங்களைப் படி</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Google OAuth 2</term></tig></langSet>
@@ -406,7 +406,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>reStructuredText</term></tig></langSet>
-                <langSet xml:lang="ta"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ta"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
