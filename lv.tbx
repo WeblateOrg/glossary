@@ -334,7 +334,7 @@
             </termEntry>
             <termEntry id="readthedocs.org">
                 <langSet xml:lang="en"><tig><term>Read the Docs</term></tig></langSet>
-                <langSet xml:lang="lv"><tig><term/></tig></langSet>
+                <langSet xml:lang="lv"><tig><term>Lasīt dokumentāciju</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Google OAuth 2</term></tig></langSet>
@@ -430,7 +430,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>reStructuredText</term></tig></langSet>
-                <langSet xml:lang="lv"><tig><term></term></tig></langSet>
+                <langSet xml:lang="lv"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
