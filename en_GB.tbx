@@ -40,7 +40,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
-                <langSet xml:lang="en_GB"><tig><term/></tig></langSet>
+                <langSet xml:lang="en_GB"><tig><term>Celery</term></tig></langSet>
                 <note from="translator">Celer, vegetable</note>
             </termEntry>
             <termEntry>
@@ -403,7 +403,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>reStructuredText</term></tig></langSet>
-                <langSet xml:lang="en_GB"><tig><term></term></tig></langSet>
+                <langSet xml:lang="en_GB"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
