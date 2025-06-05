@@ -1800,6 +1800,10 @@
                 <langSet xml:lang="en"><tig><term>superuser</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Superuser</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>vulnerability</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Schwachstelle</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
