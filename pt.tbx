@@ -1067,11 +1067,6 @@
                 <langSet xml:lang="en"><tig><term>search</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>procurar</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>string</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>cadeia</term></tig></langSet>
-                <note from="translator">Curto para cadeia de caracteres; https://pt.wikipedia.org/wiki/Cadeia_de_caracteres</note>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Prepended</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>Prefixo</term></tig></langSet>
