@@ -500,6 +500,18 @@
                 <langSet xml:lang="es"><tig><term>Proveedor</term></tig></langSet>
                 <descrip>Proveedor del servicio en la Política de privacidad,etc</descrip>
             </termEntry>
+            <termEntry id="Weblate">
+                <langSet xml:lang="en"><tig><term>hook</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>gancho</term></tig></langSet>
+            </termEntry>
+            <termEntry id="Weblate">
+                <langSet xml:lang="en"><tig><term>push</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>envío</term></tig></langSet>
+            </termEntry>
+            <termEntry id="Weblate">
+                <langSet xml:lang="en"><tig><term>scripts</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>guiones</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
