@@ -37,7 +37,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>undo</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>desfazer</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>anular</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>integration</term></tig></langSet>
@@ -256,6 +256,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ID</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>Id.</term></tig></langSet>
+                <note from="translator">id. = identidade ou identificação</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>UI</term></tig></langSet>
@@ -327,7 +328,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>trial</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>avaliação</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>teste de avaliação</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>billing</term></tig></langSet>
@@ -1078,6 +1079,54 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>email address</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>endereço de correio eletrónico</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>delete</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>eliminar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>undone</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>anulada</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>subscription</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>subscrição</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Help</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Ajuda</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>General Terms and Conditions</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Termos Gerais e Condições</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Privacy Policy</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Política de Privacidade</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>site-wide</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>todo o &lt;i&gt;site&lt;/i&gt;</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Terms and Privacy</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Privacidade e Termos</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>libre</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>livre</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>website</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Site da Web</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Source code</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>código fonte</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Remove</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Remover</term></tig></langSet>
             </termEntry>
         </body>
     </text>
