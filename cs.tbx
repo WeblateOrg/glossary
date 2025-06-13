@@ -1086,7 +1086,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term>commit</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>zapsat</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translator</term></tig></langSet>
