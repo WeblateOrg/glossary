@@ -509,33 +509,41 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gitee</term></tig></langSet>
-                <langSet xml:lang="fi"><tig><term></term></tig></langSet>
+                <langSet xml:lang="fi"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>foo/bar</term></tig></langSet>
-                <langSet xml:lang="fi"><tig><term></term></tig></langSet>
+                <langSet xml:lang="fi"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
-                <langSet xml:lang="fi"><tig><term></term></tig></langSet>
+                <langSet xml:lang="fi"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>reStructuredText</term></tig></langSet>
-                <langSet xml:lang="fi"><tig><term></term></tig></langSet>
+                <langSet xml:lang="fi"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Rollbar</term></tig></langSet>
-                <langSet xml:lang="fi"><tig><term></term></tig></langSet>
+                <langSet xml:lang="fi"><tig><term/></tig></langSet>
                 <descrip>rollbar.com</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tmserver</term></tig></langSet>
-                <langSet xml:lang="fi"><tig><term></term></tig></langSet>
+                <langSet xml:lang="fi"><tig><term/></tig></langSet>
                 <descrip>Translate Toolkit</descrip>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
-                <langSet xml:lang="fi"><tig><term></term></tig></langSet>
+                <langSet xml:lang="fi"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>reviewer</term></tig></langSet>
+                <langSet xml:lang="fi"><tig><term>tarkastaja</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>watched</term></tig></langSet>
+                <langSet xml:lang="fi"><tig><term>seurattu, seuratut</term></tig></langSet>
             </termEntry>
         </body>
     </text>
