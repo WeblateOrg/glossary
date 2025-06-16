@@ -1038,7 +1038,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Passphrase</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Frase-passe</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>feature</term></tig></langSet>
@@ -1135,6 +1135,10 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>site</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>''site''</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>email</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>''e-mail''</term></tig></langSet>
             </termEntry>
         </body>
     </text>
