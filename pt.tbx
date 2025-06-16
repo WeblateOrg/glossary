@@ -59,10 +59,6 @@
                 <langSet xml:lang="en"><tig><term>save</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>guardar</term></tig></langSet>
             </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>e-mail</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>e-mail</term></tig></langSet>
-            </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>e-mail</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>''e-mail''</term></tig></langSet>
