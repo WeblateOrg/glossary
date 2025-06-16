@@ -1128,6 +1128,14 @@
                 <langSet xml:lang="en"><tig><term>Remove</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>Remover</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>link</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>hiperligação</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>links</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>hiperligações</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
