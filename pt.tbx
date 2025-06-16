@@ -406,7 +406,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>token</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>código</term></tig></langSet>
                 <note from="translator">código</note>
             </termEntry>
             <termEntry>
@@ -1139,6 +1139,22 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>e-mail addresses</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>endereços de correio eletrónico</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>cookies</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>''cookies''</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>deployments</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>implementações</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>directory</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>diretoria</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Web server</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Servidor da Web</term></tig></langSet>
             </termEntry>
         </body>
     </text>
