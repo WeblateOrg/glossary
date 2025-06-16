@@ -13207,7 +13207,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>e-mail address</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>ئېلېكتىرونلۇق خەت ئادرېسى</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>تورخەت ئادرېسى</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>question mark</term></tig></langSet>
@@ -13455,7 +13455,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>PivotTable grand totals</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>DES</term></tig></langSet>
@@ -16162,7 +16162,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>email</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>تورخەت ئەۋەتمەك</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>تورخەت</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>invitation</term></tig></langSet>
@@ -18202,7 +18202,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>PivotChart category field</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>border</term></tig></langSet>
@@ -20950,6 +20950,10 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Postcode</term></tig></langSet>
                 <langSet xml:lang="ug"><tig><term>پوچتا نومۇرى</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>copylefted libre software</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>نەشر ھوقۇقى ئەركىن يۇمشاق دېتال</term></tig></langSet>
             </termEntry>
         </body>
     </text>
