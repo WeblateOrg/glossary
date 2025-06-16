@@ -809,10 +809,6 @@
                 <langSet xml:lang="en"><tig><term>font family</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>família do tipo de letra</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>Cookies</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>Cookies</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Tabs</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>Separadores</term></tig></langSet>
