@@ -65,7 +65,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>e-mail</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>e-mail</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>''e-mail''</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>active</term></tig></langSet>
@@ -1135,6 +1135,14 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>links</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>hiperligações</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>upstream repository</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>repositório principal</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>site</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>''site''</term></tig></langSet>
             </termEntry>
         </body>
     </text>
