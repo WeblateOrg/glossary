@@ -1156,6 +1156,14 @@
                 <langSet xml:lang="en"><tig><term>Web server</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>Servidor da Web</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Cloud</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Nuvem</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>secret key</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>código secreto</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
