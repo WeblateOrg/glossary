@@ -706,7 +706,7 @@
             </termEntry>
             <termEntry id="alias &quot;Zen mode&quot;">
                 <langSet xml:lang="en"><tig><term>Zen</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>禅模式</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>极简</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
@@ -886,6 +886,11 @@
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>Weblate</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Zen</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>极简</term></tig></langSet>
+                <note from="translator">表示您可以简单，快速的模式。</note>
             </termEntry>
         </body>
     </text>
