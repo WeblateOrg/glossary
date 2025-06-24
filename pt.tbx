@@ -516,7 +516,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>Weblate Hospedado</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Weblate Alojado</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Subversion</term></tig></langSet>
@@ -922,7 +922,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>hosting</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>hospedagem</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>alojamento</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Biannual</term></tig></langSet>
@@ -1022,7 +1022,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>host</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>hospedeiro</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>anfitrião</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Passphrase</term></tig></langSet>
