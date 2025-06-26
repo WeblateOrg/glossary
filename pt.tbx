@@ -1152,6 +1152,26 @@
                 <langSet xml:lang="en"><tig><term>secret key</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>código secreto</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Labels</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Etiquetas</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Markdown</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Marcação</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>código</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Dismiss</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Rejeitar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>flags</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>sinalizadores</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
