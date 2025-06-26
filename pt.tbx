@@ -214,7 +214,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Addons</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>Extensões</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Extras</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>contributors</term></tig></langSet>
@@ -308,7 +308,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>addon</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>extensão</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>extra</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>contributor agreement</term></tig></langSet>
@@ -721,7 +721,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>support</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>suporte</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>apoio</term></tig></langSet>
                 <note from="translator">Suportar uma funcionalidade / assistência por uma equipa</note>
             </termEntry>
             <termEntry>
