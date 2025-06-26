@@ -992,10 +992,6 @@
                 <langSet xml:lang="en"><tig><term>add-ons</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>extras</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>support</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>apoio</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>activation key</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>código de ativação</term></tig></langSet>
