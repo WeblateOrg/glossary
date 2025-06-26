@@ -267,10 +267,6 @@
                 <langSet xml:lang="pt"><tig><term>repositório</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>addon</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>extensão</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>backup</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>cópia de segurança</term></tig></langSet>
             </termEntry>
