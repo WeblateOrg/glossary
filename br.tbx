@@ -406,7 +406,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>reStructuredText</term></tig></langSet>
-                <langSet xml:lang="br"><tig><term></term></tig></langSet>
+                <langSet xml:lang="br"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Try again later.</term></tig></langSet>
+                <langSet xml:lang="br"><tig><term>Klaskit en-dro diwezhatoc'h</term></tig></langSet>
             </termEntry>
         </body>
     </text>
