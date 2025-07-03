@@ -1172,6 +1172,26 @@
                 <langSet xml:lang="en"><tig><term>flags</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>sinalizadores</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>settings</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>definições</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>setting</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>definição</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Two-factor authentication</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Autenticação de dois fatores</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>security key</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>código de segurança</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>apps</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>aplicações</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
