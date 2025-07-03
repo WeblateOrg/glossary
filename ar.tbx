@@ -86,7 +86,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Regular expressions</term></tig></langSet>
-                <langSet xml:lang="ar"><tig><term/></tig></langSet>
+                <langSet xml:lang="ar"><tig><term>العبارات النمطية</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gitee</term></tig></langSet>
@@ -126,7 +126,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>session</term></tig></langSet>
-                <langSet xml:lang="ar"><tig><term/></tig></langSet>
+                <langSet xml:lang="ar"><tig><term>جلسة</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslated</term></tig></langSet>
@@ -146,7 +146,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pseudolocale</term></tig></langSet>
-                <langSet xml:lang="ar"><tig><term/></tig></langSet>
+                <langSet xml:lang="ar"><tig><term>معرف محلي وهمي</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>component list</term></tig></langSet>
@@ -432,7 +432,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>reStructuredText</term></tig></langSet>
-                <langSet xml:lang="ar"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ar"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
