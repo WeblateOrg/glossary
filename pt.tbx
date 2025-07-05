@@ -1194,7 +1194,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>upload</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>enviarCapturas de ecrã enviadas</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>enviar</term></tig></langSet>
             </termEntry>
         </body>
     </text>
