@@ -1192,6 +1192,10 @@
                 <langSet xml:lang="en"><tig><term>apps</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>aplicações</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>upload</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>enviarCapturas de ecrã enviadas</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
