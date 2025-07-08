@@ -80,10 +80,6 @@
                 <langSet xml:lang="pt"><tig><term>''site'' da Web</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>link</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>hiperligação</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Project</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>Projeto</term></tig></langSet>
             </termEntry>
