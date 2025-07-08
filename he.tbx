@@ -552,7 +552,8 @@ persona&#13;
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Localization</term></tig></langSet>
                 <langSet xml:lang="he"><tig><term>תרגום</term></tig></langSet>
-                <note from="translator">טכנולוגיית המידע (תשע"ד, 2014) המקמה תהליך ההכנה של תכנה לשימוש במַקָּם מוגדר localization מילון מושגים בסיסיים בטכנולוגיית המידע (השלמות; 2014) &gt; מונחי ייצוג וארגון נתונים</note>
+                <note from="translator">תרגום או התאמה מקומית, האקדמיה ממליצה:&#13;
+טכנולוגיית המידע (תשע"ד, 2014) המקמה תהליך ההכנה של תכנה לשימוש במַקָּם מוגדר localization מילון מושגים בסיסיים בטכנולוגיית המידע (השלמות; 2014) &gt; מונחי ייצוג וארגון נתונים</note>
                 <descrip>טכנולוגיית המידע (תשע"ד, 2014) המקמה תהליך ההכנה של תכנה לשימוש במַקָּם מוגדר localization מילון מושגים בסיסיים בטכנולוגיית המידע (השלמות; 2014) &gt; מונחי ייצוג וארגון נתונים</descrip>
             </termEntry>
             <termEntry>
@@ -580,7 +581,7 @@ persona&#13;
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Download</term></tig></langSet>
-                <langSet xml:lang="he"><tig><term/></tig></langSet>
+                <langSet xml:lang="he"><tig><term>הורדה</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Link</term></tig></langSet>
