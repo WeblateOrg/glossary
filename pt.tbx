@@ -45,7 +45,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>feedback</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>feedback</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>comentário</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>copy</term></tig></langSet>
@@ -508,7 +508,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>Weblate Alojado</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Hosted Weblate</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Subversion</term></tig></langSet>
@@ -1195,6 +1195,26 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>self-hosted</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>alojadas localmente</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>feedback</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>opinião</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>uploaded</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>enviado</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Location</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Localização</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Machine translation</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Tradução automática</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>spam</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>lixo eletrónico</term></tig></langSet>
             </termEntry>
         </body>
     </text>
