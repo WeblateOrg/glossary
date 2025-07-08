@@ -20955,6 +20955,10 @@
                 <langSet xml:lang="en"><tig><term>copylefted libre software</term></tig></langSet>
                 <langSet xml:lang="ug"><tig><term>نەشر ھوقۇقى ئەركىن يۇمشاق دېتال</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Download</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
