@@ -892,6 +892,15 @@
                 <langSet xml:lang="zh_Hans"><tig><term>极简</term></tig></langSet>
                 <note from="translator">表示您可以简单，快速的模式。</note>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Download</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Link</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term></term></tig></langSet>
+                <descrip>យោងតាម ក្រុមប្រឹក្សាជាតិភាសាខ្មែរ (គ.ជ.ភ.ខ.)</descrip>
+            </termEntry>
         </body>
     </text>
 </martif>
