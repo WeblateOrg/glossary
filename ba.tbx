@@ -174,6 +174,15 @@
                 <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
                 <langSet xml:lang="ba"><tig><term>слаг</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Download</term></tig></langSet>
+                <langSet xml:lang="ba"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Link</term></tig></langSet>
+                <langSet xml:lang="ba"><tig><term></term></tig></langSet>
+                <descrip>យោងតាម ក្រុមប្រឹក្សាជាតិភាសាខ្មែរ (គ.ជ.ភ.ខ.)</descrip>
+            </termEntry>
         </body>
     </text>
 </martif>
