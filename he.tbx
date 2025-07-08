@@ -551,7 +551,7 @@ persona&#13;
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Localization</term></tig></langSet>
-                <langSet xml:lang="he"><tig><term>המקמה</term></tig></langSet>
+                <langSet xml:lang="he"><tig><term>תרגום</term></tig></langSet>
                 <note from="translator">טכנולוגיית המידע (תשע"ד, 2014) המקמה תהליך ההכנה של תכנה לשימוש במַקָּם מוגדר localization מילון מושגים בסיסיים בטכנולוגיית המידע (השלמות; 2014) &gt; מונחי ייצוג וארגון נתונים</note>
                 <descrip>טכנולוגיית המידע (תשע"ד, 2014) המקמה תהליך ההכנה של תכנה לשימוש במַקָּם מוגדר localization מילון מושגים בסיסיים בטכנולוגיית המידע (השלמות; 2014) &gt; מונחי ייצוג וארגון נתונים</descrip>
             </termEntry>
@@ -584,12 +584,12 @@ persona&#13;
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Link</term></tig></langSet>
-                <langSet xml:lang="he"><tig><term/></tig></langSet>
+                <langSet xml:lang="he"><tig><term>קישור</term></tig></langSet>
                 <descrip>យោងតាម ក្រុមប្រឹក្សាជាតិភាសាខ្មែរ (គ.ជ.ភ.ខ.)</descrip>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>e-mail address</term></tig></langSet>
-                <langSet xml:lang="he"><tig><term></term></tig></langSet>
+                <langSet xml:lang="he"><tig><term>כתובת דוא״ל</term></tig></langSet>
             </termEntry>
         </body>
     </text>
