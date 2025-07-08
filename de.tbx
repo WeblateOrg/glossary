@@ -1809,10 +1809,6 @@
                 <langSet xml:lang="de"><tig><term/></tig></langSet>
                 <descrip>យោងតាម ក្រុមប្រឹក្សាជាតិភាសាខ្មែរ (គ.ជ.ភ.ខ.)</descrip>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>e-mail address</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term/></tig></langSet>
-            </termEntry>
         </body>
     </text>
 </martif>
