@@ -607,6 +607,10 @@ Photo=រូបថត</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>reStructuredText</term></tig></langSet>
+                <langSet xml:lang="km"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Download</term></tig></langSet>
                 <langSet xml:lang="km"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
