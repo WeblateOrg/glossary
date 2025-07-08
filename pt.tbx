@@ -893,7 +893,7 @@
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>download</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>transferir</term></tig></langSet>
-                <note from="translator">Descarregar ficheiros. Não confundir com área de transferência (clipboard) e não confundir com o transferir de "transferir propriedade".</note>
+                <note from="translator">Descarregar/Transferir  ficheiros. É uma opção do utilizador...</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Automattic</term></tig></langSet>
@@ -1195,6 +1195,10 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>upload</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>enviar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>self-hosted</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>alojadas localmente</term></tig></langSet>
             </termEntry>
         </body>
     </text>
