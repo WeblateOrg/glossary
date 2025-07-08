@@ -5562,6 +5562,15 @@ Bi-directional Cyrillic transliteration. Transliterate Cyrillic script to Latin 
                 <langSet xml:lang="en"><tig><term>payload</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>carga útil</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Download</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Link</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term></term></tig></langSet>
+                <descrip>យោងតាម ក្រុមប្រឹក្សាជាតិភាសាខ្មែរ (គ.ជ.ភ.ខ.)</descrip>
+            </termEntry>
         </body>
     </text>
 </martif>
