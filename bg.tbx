@@ -431,7 +431,7 @@
             <termEntry id="readthedocs.org">
                 <langSet xml:lang="en"><tig><term>Read the Docs</term></tig></langSet>
                 <langSet xml:lang="bg"><tig><term>Read the Docs</term></tig></langSet>
-                <note from="translator">Уеб сайт, който предоставя документация за множество проекти</note>
+                <note from="translator">Уеб сайт, който предоставя документация за множество проекти. Достъпен на адрес:  readthedocs.org</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Google OAuth 2</term></tig></langSet>
