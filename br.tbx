@@ -36,7 +36,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
-                <langSet xml:lang="br"><tig><term>Devezh labouret o tont</term></tig></langSet>
+                <langSet xml:lang="br"><tig><term>Devezh labour kentañ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bug</term></tig></langSet>
@@ -355,7 +355,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
-                <langSet xml:lang="br"><tig><term>Stadegoù</term></tig></langSet>
+                <langSet xml:lang="br"><tig><term>Muzulioù</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
@@ -414,16 +414,16 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Download</term></tig></langSet>
-                <langSet xml:lang="br"><tig><term/></tig></langSet>
+                <langSet xml:lang="br"><tig><term>Pellgargañ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Link</term></tig></langSet>
-                <langSet xml:lang="br"><tig><term/></tig></langSet>
+                <langSet xml:lang="br"><tig><term>Liamm</term></tig></langSet>
                 <descrip>យោងតាម ក្រុមប្រឹក្សាជាតិភាសាខ្មែរ (គ.ជ.ភ.ខ.)</descrip>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>e-mail address</term></tig></langSet>
-                <langSet xml:lang="br"><tig><term></term></tig></langSet>
+                <langSet xml:lang="br"><tig><term>chomlec'h postel</term></tig></langSet>
             </termEntry>
         </body>
     </text>
