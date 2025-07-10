@@ -5061,7 +5061,6 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Link</term></tig></langSet>
                 <langSet xml:lang="ug"><tig><term>ئۇلانما</term></tig></langSet>
-                <descrip>យោងតាម ក្រុមប្រឹក្សាជាតិភាសាខ្មែរ (គ.ជ.ភ.ខ.)</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Card gallery</term></tig></langSet>
@@ -20961,7 +20960,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>e-mail address</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
