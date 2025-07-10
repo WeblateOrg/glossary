@@ -36,11 +36,12 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>comment</term></tig></langSet>
-                <langSet xml:lang="be"><tig><term>каментар</term></tig></langSet>
+                <langSet xml:lang="be"><tig><term>каментарый</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
                 <langSet xml:lang="be"><tig><term>унёсак</term></tig></langSet>
+                <note from="translator">магчыма варта змяніць на каміт</note>
                 <descrip>git-commit</descrip>
             </termEntry>
             <termEntry>
@@ -73,7 +74,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>failed</term></tig></langSet>
-                <langSet xml:lang="be"><tig><term>не атрымалася</term></tig></langSet>
+                <langSet xml:lang="be"><tig><term>не ўдалося</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>feed</term></tig></langSet>
@@ -174,7 +175,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>space</term></tig></langSet>
-                <langSet xml:lang="be"><tig><term>прагал</term></tig></langSet>
+                <langSet xml:lang="be"><tig><term>прабел</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>string</term></tig></langSet>
@@ -263,7 +264,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Keyboard shortcuts</term></tig></langSet>
-                <langSet xml:lang="be"><tig><term/></tig></langSet>
+                <langSet xml:lang="be"><tig><term>Спалучэнні клавіш</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
@@ -283,7 +284,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Personal Data</term></tig></langSet>
-                <langSet xml:lang="be"><tig><term/></tig></langSet>
+                <langSet xml:lang="be"><tig><term>Асабістыя даныя</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Cookies</term></tig></langSet>
@@ -303,11 +304,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>session</term></tig></langSet>
-                <langSet xml:lang="be"><tig><term/></tig></langSet>
+                <langSet xml:lang="be"><tig><term>сеанс</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslated</term></tig></langSet>
-                <langSet xml:lang="be"><tig><term/></tig></langSet>
+                <langSet xml:lang="be"><tig><term>не перакладзена</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gerrit</term></tig></langSet>
@@ -375,7 +376,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation</term></tig></langSet>
-                <langSet xml:lang="be"><tig><term/></tig></langSet>
+                <langSet xml:lang="be"><tig><term>пераклад</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>unresolved comment</term></tig></langSet>
@@ -399,7 +400,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translator</term></tig></langSet>
-                <langSet xml:lang="be"><tig><term/></tig></langSet>
+                <langSet xml:lang="be"><tig><term>перакладчык</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>term</term></tig></langSet>
@@ -415,11 +416,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>project</term></tig></langSet>
-                <langSet xml:lang="be"><tig><term/></tig></langSet>
+                <langSet xml:lang="be"><tig><term>праект</term></tig></langSet>
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>projects</term></tig></langSet>
-                <langSet xml:lang="be"><tig><term/></tig></langSet>
+                <langSet xml:lang="be"><tig><term>праекты</term></tig></langSet>
             </termEntry>
             <termEntry id="alias &quot;source text&quot;">
                 <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
@@ -510,7 +511,7 @@
             </termEntry>
             <termEntry id="Past tense">
                 <langSet xml:lang="en"><tig><term>translated</term></tig></langSet>
-                <langSet xml:lang="be"><tig><term/></tig></langSet>
+                <langSet xml:lang="be"><tig><term>перакладзена</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>glossary</term></tig></langSet>
@@ -550,7 +551,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
-                <langSet xml:lang="be"><tig><term/></tig></langSet>
+                <langSet xml:lang="be"><tig><term>не перакладаецца</term></tig></langSet>
                 <descrip>Glossary terms that should not be changed from the source language</descrip>
             </termEntry>
             <termEntry>
@@ -613,11 +614,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Download</term></tig></langSet>
-                <langSet xml:lang="be"><tig><term/></tig></langSet>
+                <langSet xml:lang="be"><tig><term>Спампаваць</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Link</term></tig></langSet>
-                <langSet xml:lang="be"><tig><term/></tig></langSet>
+                <langSet xml:lang="be"><tig><term>Спасылка</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>e-mail address</term></tig></langSet>
