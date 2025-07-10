@@ -1136,11 +1136,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Download</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>Download</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Link</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>Link</term></tig></langSet>
                 <descrip>យោងតាម ក្រុមប្រឹក្សាជាតិភាសាខ្មែរ (គ.ជ.ភ.ខ.)</descrip>
             </termEntry>
             <termEntry id="1">
