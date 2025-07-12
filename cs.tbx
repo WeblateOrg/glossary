@@ -1030,7 +1030,7 @@
             </termEntry>
             <termEntry id="components">
                 <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term>části</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>součásti</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
@@ -1517,6 +1517,14 @@
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>e-mail address</term></tig></langSet>
                 <langSet xml:lang="cs"><tig><term>e-mailová adresa</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>RSS feed</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>kanál RSS</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>RSS feeds</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>kanály RSS</term></tig></langSet>
             </termEntry>
         </body>
     </text>
