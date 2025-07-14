@@ -833,15 +833,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Download</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term/></tig></langSet>
+                <langSet xml:lang="id"><tig><term>Unduh</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Link</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term/></tig></langSet>
+                <langSet xml:lang="id"><tig><term>Tautan</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>e-mail address</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term/></tig></langSet>
+                <langSet xml:lang="id"><tig><term>alamat surel</term></tig></langSet>
             </termEntry>
         </body>
     </text>
