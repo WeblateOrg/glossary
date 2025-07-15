@@ -10230,7 +10230,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>open</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>ئاچماق</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>ئاچ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>quad</term></tig></langSet>
@@ -14471,7 +14471,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>contributor</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>قاتناشقۇچى</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>تۆھپىكار</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>citation</term></tig></langSet>
@@ -19629,7 +19629,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>customize</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>ئىختىيارىي بەلگىلىمەك</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>ئىختىيارىي، خاسلاشتۇر</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>accessory</term></tig></langSet>
@@ -20881,7 +20881,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Screenshots</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>ئېكران كۆرۈنۈشلىرى</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>ئېكران كۆرۈنۈشى، ئېكران كەسمىسى</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>authorship</term></tig></langSet>
@@ -20961,6 +20961,10 @@
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>e-mail address</term></tig></langSet>
                 <langSet xml:lang="ug"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>قوشۇلما</term></tig></langSet>
             </termEntry>
         </body>
     </text>
