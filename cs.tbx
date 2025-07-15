@@ -753,7 +753,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>billing</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term>předplatné</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>fakturace</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>plan</term></tig></langSet>
