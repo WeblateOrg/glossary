@@ -349,15 +349,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Download</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>Íoslódáil</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Link</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>Nasc</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>e-mail address</term></tig></langSet>
-                <langSet xml:lang="ga"><tig><term/></tig></langSet>
+                <langSet xml:lang="ga"><tig><term>seoladh ríomhphoist</term></tig></langSet>
             </termEntry>
         </body>
     </text>
