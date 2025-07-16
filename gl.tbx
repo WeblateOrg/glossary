@@ -5577,6 +5577,11 @@ Bi-directional Cyrillic transliteration. Transliterate Cyrillic script to Latin 
             <termEntry>
                 <langSet xml:lang="en"><tig><term>LLM</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>LLM</term></tig></langSet>
+                <note from="translator">Os LLM (modelos de linguaxe a grande escala), considero preferíbel conservar as siglas ao ser referido así.</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>large language model</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>modelo de linguaxe a grande escala</term></tig></langSet>
             </termEntry>
         </body>
     </text>
