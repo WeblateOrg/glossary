@@ -1117,11 +1117,12 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Link</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Ссылка</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>e-mail address</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <note from="translator">адрес электронной почты</note>
             </termEntry>
         </body>
     </text>
