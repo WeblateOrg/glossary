@@ -5564,15 +5564,15 @@ Bi-directional Cyrillic transliteration. Transliterate Cyrillic script to Latin 
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Download</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term/></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>Descargar</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Link</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term/></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>Ligazón</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>e-mail address</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term/></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>enderezo de correo</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>LLM</term></tig></langSet>
@@ -5582,6 +5582,10 @@ Bi-directional Cyrillic transliteration. Transliterate Cyrillic script to Latin 
             <termEntry>
                 <langSet xml:lang="en"><tig><term>large language model</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>modelo de linguaxe a grande escala</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>e-mail address</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>enderezo de correo-e</term></tig></langSet>
             </termEntry>
         </body>
     </text>
