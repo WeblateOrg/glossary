@@ -732,6 +732,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>command</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>orde</term></tig></langSet>
+                <note from="translator">OLLO! se vai entre «:», así: «:command:» é unha instrución de reStructuredText e non debe traducirse.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>comment</term></tig></langSet>
@@ -5586,6 +5587,11 @@ Bi-directional Cyrillic transliteration. Transliterate Cyrillic script to Latin 
             <termEntry>
                 <langSet xml:lang="en"><tig><term>e-mail address</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>enderezo de correo-e</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>:command:</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>:command:</term></tig></langSet>
+                <note from="translator">OLLO! se vai entre «:», así: «:command:» é unha instrución de reStructuredText e non debe traducirse.</note>
             </termEntry>
         </body>
     </text>
