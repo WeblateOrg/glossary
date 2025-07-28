@@ -967,7 +967,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
+                <langSet xml:lang="et"><tig><term>NBD</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bug</term></tig></langSet>
@@ -975,7 +975,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
+                <langSet xml:lang="et"><tig><term>Seller</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CI</term></tig></langSet>
@@ -1015,7 +1015,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
+                <langSet xml:lang="et"><tig><term>tunnusluba</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>current</term></tig></langSet>
@@ -1031,7 +1031,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslated</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
+                <langSet xml:lang="et"><tig><term>tõlkimata</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
@@ -1055,7 +1055,7 @@
             </termEntry>
             <termEntry id="components">
                 <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
+                <langSet xml:lang="et"><tig><term>osised</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
@@ -1079,7 +1079,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>class</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
+                <langSet xml:lang="et"><tig><term>Reisiklass</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fixup</term></tig></langSet>
@@ -1099,7 +1099,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>URL scheme</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
+                <langSet xml:lang="et"><tig><term>Võrguaadressi mall</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
@@ -1107,7 +1107,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
+                <langSet xml:lang="et"><tig><term>sissekanne</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>term</term></tig></langSet>
@@ -1143,7 +1143,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
+                <langSet xml:lang="et"><tig><term>sissekande e-posti aadress</term></tig></langSet>
                 <descrip>e-mail address that will be used as committer</descrip>
             </termEntry>
             <termEntry>
@@ -1214,7 +1214,7 @@
             </termEntry>
             <termEntry id="readthedocs.org">
                 <langSet xml:lang="en"><tig><term>Read the Docs</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
+                <langSet xml:lang="et"><tig><term>Loe dokumentatsiooni</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Google OAuth 2</term></tig></langSet>
@@ -1288,11 +1288,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Accept</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
+                <langSet xml:lang="et"><tig><term>Nõustu</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>terminology</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
+                <langSet xml:lang="et"><tig><term>terminoloogia</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Automattic</term></tig></langSet>
@@ -1305,15 +1305,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Download</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
+                <langSet xml:lang="et"><tig><term>Laadi alla</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Link</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
+                <langSet xml:lang="et"><tig><term>Link</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>e-mail address</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term/></tig></langSet>
+                <langSet xml:lang="et"><tig><term>e-posti aadress</term></tig></langSet>
             </termEntry>
         </body>
     </text>
