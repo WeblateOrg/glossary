@@ -1146,6 +1146,10 @@
                 <langSet xml:lang="en"><tig><term>e-mail address</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>endereço de e-mail</term></tig></langSet>
             </termEntry>
+            <termEntry id="A localization file format used by the Haiku OS project">
+                <langSet xml:lang="en"><tig><term>catkey</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
