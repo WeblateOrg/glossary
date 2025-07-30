@@ -1150,6 +1150,12 @@
                 <langSet xml:lang="en"><tig><term>catkey</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term></term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Needs editing</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>Necessita de edição</term></tig></langSet>
+                <note from="translator">button that toggles the fuzzy flag of a string</note>
+                <descrip>button that toggles the fuzzy flag of a string</descrip>
+            </termEntry>
         </body>
     </text>
 </martif>
