@@ -675,7 +675,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>Não traduzível</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>intraduzível</term></tig></langSet>
                 <descrip>Glossary terms that should not be changed from the source language</descrip>
             </termEntry>
             <termEntry>
@@ -1214,6 +1214,10 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>spam</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>lixo eletrónico</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>delete</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>eliminar</term></tig></langSet>
             </termEntry>
         </body>
     </text>
