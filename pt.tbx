@@ -1219,6 +1219,14 @@
                 <langSet xml:lang="en"><tig><term>delete</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>eliminar</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Change</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Alterar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Plan</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Plano</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
