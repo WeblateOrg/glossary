@@ -1800,6 +1800,10 @@
                 <langSet xml:lang="en"><tig><term>Translation coordinator</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Übersetzungskoordinator</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>formatting strings</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Formatzeichenketten</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
