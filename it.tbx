@@ -434,6 +434,10 @@
                 <langSet xml:lang="en"><tig><term>worker</term></tig></langSet>
                 <langSet xml:lang="it"><tig><term>assistente</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Add-on</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>Add-on</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
