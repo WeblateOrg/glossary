@@ -1640,7 +1640,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Fluent</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Fluent</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term></term></tig></langSet>
                 <descrip>“Fluent” is a “localization system for natural-sounding translations” - https://projectfluent.org/</descrip>
             </termEntry>
             <termEntry>
