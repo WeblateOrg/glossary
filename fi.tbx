@@ -142,6 +142,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>upstream</term></tig></langSet>
                 <langSet xml:lang="fi"><tig><term>yläjuoksu</term></tig></langSet>
+                <note from="translator">https://en.wikipedia.org/wiki/Upstream_(software_development)</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation memory</term></tig></langSet>
