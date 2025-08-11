@@ -185,7 +185,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
-                <langSet xml:lang="fi"><tig><term/></tig></langSet>
+                <langSet xml:lang="fi"><tig><term>Celery</term></tig></langSet>
+                <note from="translator">https://en.wikipedia.org/wiki/Celery_(software)</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>format strings</term></tig></langSet>
