@@ -1227,6 +1227,10 @@
                 <langSet xml:lang="en"><tig><term>Plan</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>Plano</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>transfer</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>transferir</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
