@@ -455,7 +455,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tab character</term></tig></langSet>
-                <langSet xml:lang="fi"><tig><term>välilehtimerkki</term></tig></langSet>
+                <langSet xml:lang="fi"><tig><term>sarkainmerkki</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Fluent</term></tig></langSet>
