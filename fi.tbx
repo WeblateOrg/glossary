@@ -478,10 +478,6 @@
                 <langSet xml:lang="fi"><tig><term>kojelauta</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Accept</term></tig></langSet>
-                <langSet xml:lang="fi"><tig><term>Hyväksy</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>terminology</term></tig></langSet>
                 <langSet xml:lang="fi"><tig><term>terminologia</term></tig></langSet>
             </termEntry>
