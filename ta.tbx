@@ -349,10 +349,6 @@
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
                 <langSet xml:lang="ta"><tig><term>சென்ட்ரி</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
-                <langSet xml:lang="ta"><tig><term>வலைபெயர்ப்பு</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
                 <langSet xml:lang="ta"><tig><term>அளவீடுகள்</term></tig></langSet>
