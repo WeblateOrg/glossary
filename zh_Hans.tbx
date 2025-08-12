@@ -883,10 +883,6 @@
                 <langSet xml:lang="en"><tig><term>reStructuredText</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>reStructuredText</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>Weblate</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Zen</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>极简</term></tig></langSet>
