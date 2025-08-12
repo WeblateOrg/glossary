@@ -1059,11 +1059,6 @@
                 <langSet xml:lang="pt_BR"><tig><term>Sentry</term></tig></langSet>
                 <note from="translator">https://sentry.io</note>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term>Weblate</term></tig></langSet>
-                <note from="translator">Weblate = O nome do projeto é uma amálgama de palavras web e translate.</note>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>Métricas</term></tig></langSet>
@@ -1148,7 +1143,7 @@
             </termEntry>
             <termEntry id="A localization file format used by the Haiku OS project">
                 <langSet xml:lang="en"><tig><term>catkey</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term></term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Needs editing</term></tig></langSet>
