@@ -843,6 +843,10 @@
                 <langSet xml:lang="en"><tig><term>e-mail address</term></tig></langSet>
                 <langSet xml:lang="id"><tig><term>alamat surel</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Translate Toolkit</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>Translate Toolkit</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
