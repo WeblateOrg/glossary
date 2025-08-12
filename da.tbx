@@ -344,10 +344,6 @@
                 <langSet xml:lang="da"><tig><term/></tig></langSet>
                 <descrip>Translate Toolkit</descrip>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
-                <langSet xml:lang="da"><tig><term/></tig></langSet>
-            </termEntry>
             <termEntry id="alias &quot;Zen mode&quot;">
                 <langSet xml:lang="en"><tig><term>Zen</term></tig></langSet>
                 <langSet xml:lang="da"><tig><term>Zen</term></tig></langSet>
