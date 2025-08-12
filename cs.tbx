@@ -1498,10 +1498,6 @@
                 <langSet xml:lang="en"><tig><term>reStructuredText</term></tig></langSet>
                 <langSet xml:lang="cs"><tig><term>reStructuredText</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term/></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation memory</term></tig></langSet>
                 <langSet xml:lang="cs"><tig><term>překladová paměť</term></tig></langSet>
