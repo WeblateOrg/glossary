@@ -184,10 +184,6 @@
                 <langSet xml:lang="lv"><tig><term>virknes</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
-                <langSet xml:lang="lv"><tig><term>Weblate</term></tig></langSet>
-            </termEntry>
-            <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
                 <langSet xml:lang="lv"><tig><term>papildinājums</term></tig></langSet>
             </termEntry>
