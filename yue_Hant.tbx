@@ -368,10 +368,6 @@
                 <langSet xml:lang="en"><tig><term>reStructuredText</term></tig></langSet>
                 <langSet xml:lang="yue_Hant"><tig><term/></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
-                <langSet xml:lang="yue_Hant"><tig><term/></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Download</term></tig></langSet>
                 <langSet xml:lang="yue_Hant"><tig><term/></tig></langSet>
