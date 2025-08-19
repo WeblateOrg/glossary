@@ -587,10 +587,6 @@
                 <langSet xml:lang="ko"><tig><term>파일</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>plural</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>복수형</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>speaker</term></tig></langSet>
                 <langSet xml:lang="ko"><tig><term>언어 사용자</term></tig></langSet>
             </termEntry>
