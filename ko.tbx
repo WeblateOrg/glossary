@@ -341,8 +341,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>웹레이트</term></tig></langSet>
-                <note from="translator">웹레이트</note>
+                <langSet xml:lang="ko"><tig><term></term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>screenshot</term></tig></langSet>
@@ -449,7 +448,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>저장소</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>리포지터리</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>number</term></tig></langSet>
@@ -796,7 +795,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repo</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>저장소</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>리포지터리</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>text direction</term></tig></langSet>
