@@ -1638,6 +1638,22 @@
                 <langSet xml:lang="en"><tig><term>e-mail address</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>電子郵件位址</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>document</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>文件</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>documentation</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>說明文件</term></tig></langSet>
+            </termEntry>
+            <termEntry id="document">
+                <langSet xml:lang="en"><tig><term>doc</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>文件</term></tig></langSet>
+            </termEntry>
+            <termEntry id="documentation">
+                <langSet xml:lang="en"><tig><term>doc</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>說明文件</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
