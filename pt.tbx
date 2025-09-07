@@ -145,7 +145,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>API key</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>Chave API</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Chave da API</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repositories</term></tig></langSet>
@@ -1226,6 +1226,26 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>transfer</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>transferir</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>sign in</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>iniciar a sessão</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>security keys</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>códigos de segurança</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>merge</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>unir; misturar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Overview</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Sinopse</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>framework</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>estrutura</term></tig></langSet>
             </termEntry>
         </body>
     </text>
