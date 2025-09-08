@@ -23407,14 +23407,17 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>security level</term></tig></langSet>
                 <langSet xml:lang="eo"><tig><term>sekureca nivelo</term></tig></langSet>
+                <descrip>säkerhetsnivå</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>security log</term></tig></langSet>
                 <langSet xml:lang="eo"><tig><term>beveiligingslogboek</term></tig></langSet>
+                <descrip>säkerhetslogg</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>security package</term></tig></langSet>
                 <langSet xml:lang="eo"><tig><term>beveiligingspakket</term></tig></langSet>
+                <descrip>säkerhetspaket</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>security password</term></tig></langSet>
@@ -23431,6 +23434,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>security protocol</term></tig></langSet>
                 <langSet xml:lang="eo"><tig><term>beveiligingsprotocol</term></tig></langSet>
+                <descrip>säkerhetsprotokoll</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>security push</term></tig></langSet>
