@@ -293,6 +293,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>security report</term></tig></langSet>
                 <langSet xml:lang="ug"><tig><term>بىخەتەرلىك دوكلاتى</term></tig></langSet>
+                <descrip>säkerhetsrapport</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>cyber threat</term></tig></langSet>
@@ -11287,6 +11288,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>security label</term></tig></langSet>
                 <langSet xml:lang="ug"><tig><term>بىخەتەرلىك خەتكۈچى</term></tig></langSet>
+                <descrip>säkerhetsetikett</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Quick Styles</term></tig></langSet>
@@ -13923,6 +13925,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>security protocol</term></tig></langSet>
                 <langSet xml:lang="ug"><tig><term>بىخەتەرلىك كېلىشىمى</term></tig></langSet>
+                <descrip>säkerhetsprotokoll</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>job</term></tig></langSet>
