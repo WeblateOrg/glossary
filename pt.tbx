@@ -248,6 +248,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>UI</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>IU</term></tig></langSet>
+                <note from="translator">IU = Interface do Utilizador</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Character</term></tig></langSet>
@@ -1247,6 +1248,24 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>framework</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>estrutura</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>code</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>código</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>guidelines</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>linhas diretrizes</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>AI</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>IA</term></tig></langSet>
+                <note from="translator">IA = Inteligência Artifical</note>
+                <descrip>IA = Inteligência Artifical</descrip>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>machine translation</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>tradução automática</term></tig></langSet>
             </termEntry>
         </body>
     </text>
