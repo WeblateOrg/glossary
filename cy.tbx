@@ -11977,6 +11977,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>security label</term></tig></langSet>
                 <langSet xml:lang="cy"><tig><term>label diogelwch</term></tig></langSet>
+                <descrip>säkerhetsetikett</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>selection rectangle</term></tig></langSet>
