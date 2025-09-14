@@ -1287,10 +1287,6 @@
                 <langSet xml:lang="en"><tig><term>Filters</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>Filtros</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>Filters</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>Filtros</term></tig></langSet>
-            </termEntry>
         </body>
     </text>
 </martif>
