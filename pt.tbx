@@ -1267,6 +1267,30 @@
                 <langSet xml:lang="en"><tig><term>machine translation</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>tradução automática</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>use</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>utilizar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Strings</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Cadeias de carateres</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>language</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>idioma</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Query</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Consulta</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Filters</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Filtros</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Filters</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Filtros</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
