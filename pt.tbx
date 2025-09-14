@@ -906,7 +906,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>badge</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>crachá</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>emblema</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>watching it</term></tig></langSet>
@@ -1286,6 +1286,22 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Filters</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>Filtros</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>repo</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>repositório</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>issue</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>problema</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Keyboard shortcuts</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Atalhos de teclado</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>crash</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>crache</term></tig></langSet>
             </termEntry>
         </body>
     </text>
