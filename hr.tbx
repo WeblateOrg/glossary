@@ -739,6 +739,22 @@
                 <langSet xml:lang="en"><tig><term>brand</term></tig></langSet>
                 <langSet xml:lang="hr"><tig><term>marka</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>labels</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>etikete</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>keyboard shortcut</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>tipkovni prečac</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>concordance</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>podudarnost</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>bulk edit</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>skupno uređivanje</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
