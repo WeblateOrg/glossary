@@ -608,11 +608,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Link</term></tig></langSet>
-                <langSet xml:lang="ja"><tig><term/></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>リンク</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>e-mail address</term></tig></langSet>
-                <langSet xml:lang="ja"><tig><term/></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>メールアドレス</term></tig></langSet>
             </termEntry>
         </body>
     </text>
