@@ -755,6 +755,14 @@
                 <langSet xml:lang="en"><tig><term>bulk edit</term></tig></langSet>
                 <langSet xml:lang="hr"><tig><term>skupno uređivanje</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>gateway</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>sustav za provjeru</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>workflows</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>radni tokovi</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
