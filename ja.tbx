@@ -614,6 +614,11 @@
                 <langSet xml:lang="en"><tig><term>e-mail address</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>メールアドレス</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>formality</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>語調</term></tig></langSet>
+                <descrip>Formal and informal tone of text</descrip>
+            </termEntry>
         </body>
     </text>
 </martif>
