@@ -924,11 +924,6 @@
                 <langSet xml:lang="kk"><tig><term>şektık män</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>timestamp</term></tig></langSet>
-                <langSet xml:lang="kk"><tig><term>uaqyt belgısı</term></tig></langSet>
-                <descrip>時間標記</descrip>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>trigger</term></tig></langSet>
                 <langSet xml:lang="kk"><tig><term>triger</term></tig></langSet>
             </termEntry>
