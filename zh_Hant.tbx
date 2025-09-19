@@ -859,11 +859,6 @@
                 <descrip>gravatar.com</descrip>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>timestamp</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>時間戳記</term></tig></langSet>
-                <descrip>時間標記</descrip>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Qt Linguist</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>Qt Linguist</term></tig></langSet>
             </termEntry>
