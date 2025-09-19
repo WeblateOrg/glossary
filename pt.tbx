@@ -92,10 +92,6 @@
                 <langSet xml:lang="pt"><tig><term>Fechar</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Link</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>Hiperligação</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Browse</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>Explorar</term></tig></langSet>
             </termEntry>
