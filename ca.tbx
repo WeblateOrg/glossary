@@ -711,10 +711,6 @@
                 <langSet xml:lang="ca"><tig><term>Baixar</term></tig></langSet>
                 <note from="translator">O Baixada, o paraules derivades.</note>
             </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Link</term></tig></langSet>
-                <langSet xml:lang="ca"><tig><term>Enllaç</term></tig></langSet>
-            </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>e-mail address</term></tig></langSet>
                 <langSet xml:lang="ca"><tig><term>adreça electrònica</term></tig></langSet>
