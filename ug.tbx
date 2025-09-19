@@ -5060,10 +5060,6 @@
                 <langSet xml:lang="ug"><tig><term>ئارخىپ</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Link</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>ئۇلانما</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Card gallery</term></tig></langSet>
                 <langSet xml:lang="ug"><tig><term>كارتا ئامبىرى</term></tig></langSet>
             </termEntry>
