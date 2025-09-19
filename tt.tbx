@@ -12,7 +12,7 @@
         <body>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>өстәмә</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SSO</term></tig></langSet>
@@ -20,7 +20,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>шәхси</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Keyboard shortcuts</term></tig></langSet>
@@ -32,11 +32,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>search</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>эзләү</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Personal Data</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>Шәхси мәглүматлар</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>edit</term></tig></langSet>
@@ -44,7 +44,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>Celery</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CI</term></tig></langSet>
@@ -52,7 +52,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bug</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>деффект</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
@@ -60,7 +60,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Regular expressions</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>Regex телендә аңлатмалар</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Cookies</term></tig></langSet>
@@ -88,7 +88,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>session</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>сеанс</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslated</term></tig></langSet>
@@ -96,7 +96,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>parse башкар</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gerrit</term></tig></langSet>
@@ -108,11 +108,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pseudolocale</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>pseudolocale локальләштерүе</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>component list</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>компонентлар исемлеге</term></tig></langSet>
             </termEntry>
             <termEntry id="components">
                 <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
@@ -120,11 +120,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>үзгәртүләр исемлеге</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pull request</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>чыгаруны сорау</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>issue</term></tig></langSet>
@@ -132,23 +132,23 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>access restriction</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>керү мөмкинлеген чикләү</term></tig></langSet>
             </termEntry>
             <termEntry id="access restrictions (plural)">
                 <langSet xml:lang="en"><tig><term>access restrictions</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>керү мөмкинлеген чикләүләр</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regular expression</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>regex телендә аңлатма</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regex</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>regex теле</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>class</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>класс</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
@@ -172,7 +172,7 @@
             </termEntry>
             <termEntry id="opposite">
                 <langSet xml:lang="en"><tig><term>resolved comment</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>чишелгән фикер</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>URL scheme</term></tig></langSet>
@@ -184,7 +184,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>commit</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translator</term></tig></langSet>
@@ -196,7 +196,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Privacy Policy</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>Конфиденциальлек сәясәте</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Terms of Service</term></tig></langSet>
@@ -204,15 +204,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>profile</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>профиль</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>project</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>проект</term></tig></langSet>
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>projects</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>проектлар</term></tig></langSet>
             </termEntry>
             <termEntry id="alias &quot;source text&quot;">
                 <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
@@ -224,7 +224,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>commit e-mail</term></tig></langSet>
+                <note from="translator">commit ясаучы итеп кулланыла торган электрон почта адресы</note>
                 <descrip>e-mail address that will be used as committer</descrip>
             </termEntry>
             <termEntry>
@@ -295,7 +296,7 @@
             </termEntry>
             <termEntry id="readthedocs.org">
                 <langSet xml:lang="en"><tig><term>Read the Docs</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>Документацияне уку</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Google OAuth 2</term></tig></langSet>
@@ -311,11 +312,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>репозиторий</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repo</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>repo</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>text direction</term></tig></langSet>
@@ -323,15 +324,15 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>screenshot</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>скриншот</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Screenshots</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>Скриншотлар</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>authorship</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>авторлык</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
@@ -361,7 +362,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>persona</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>шәхес</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
@@ -377,7 +378,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Accept</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>Кабул ит</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>terminology</term></tig></langSet>
@@ -399,6 +400,10 @@
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>e-mail address</term></tig></langSet>
                 <langSet xml:lang="tt"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Accept</term></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>Кабул ит</term></tig></langSet>
             </termEntry>
         </body>
     </text>
