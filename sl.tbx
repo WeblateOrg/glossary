@@ -4013,11 +4013,6 @@
                 <langSet xml:lang="sl"><tig><term>časomer</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>timestamp</term></tig></langSet>
-                <langSet xml:lang="sl"><tig><term>časovni žig</term></tig></langSet>
-                <descrip>時間標記</descrip>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>timing</term></tig></langSet>
                 <langSet xml:lang="sl"><tig><term>časovna uskladitev</term></tig></langSet>
             </termEntry>
