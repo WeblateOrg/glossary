@@ -579,10 +579,6 @@ persona&#13;
                 <langSet xml:lang="en"><tig><term>Download</term></tig></langSet>
                 <langSet xml:lang="he"><tig><term>הורדה</term></tig></langSet>
             </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Link</term></tig></langSet>
-                <langSet xml:lang="he"><tig><term>קישור</term></tig></langSet>
-            </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>e-mail address</term></tig></langSet>
                 <langSet xml:lang="he"><tig><term>כתובת דוא״ל</term></tig></langSet>
