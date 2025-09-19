@@ -32,7 +32,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SSO</term></tig></langSet>
-                <langSet xml:lang="kab"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kab"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
@@ -48,7 +48,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
-                <langSet xml:lang="kab"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kab"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bug</term></tig></langSet>
@@ -60,7 +60,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CI</term></tig></langSet>
-                <langSet xml:lang="kab"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kab"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Keyboard shortcuts</term></tig></langSet>
@@ -68,19 +68,19 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
-                <langSet xml:lang="kab"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kab"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Regular expressions</term></tig></langSet>
-                <langSet xml:lang="kab"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kab"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gitee</term></tig></langSet>
-                <langSet xml:lang="kab"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kab"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Subject</term></tig></langSet>
-                <langSet xml:lang="kab"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kab"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Personal Data</term></tig></langSet>
@@ -92,15 +92,15 @@
             </termEntry>
             <termEntry id="XML Tag">
                 <langSet xml:lang="en"><tig><term>XML Tag</term></tig></langSet>
-                <langSet xml:lang="kab"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kab"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>variants</term></tig></langSet>
-                <langSet xml:lang="kab"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kab"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
-                <langSet xml:lang="kab"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kab"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>current</term></tig></langSet>
@@ -124,23 +124,23 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gerrit</term></tig></langSet>
-                <langSet xml:lang="kab"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kab"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Subversion</term></tig></langSet>
-                <langSet xml:lang="kab"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kab"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pseudolocale</term></tig></langSet>
-                <langSet xml:lang="kab"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kab"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>component list</term></tig></langSet>
-                <langSet xml:lang="kab"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kab"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry id="components">
                 <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
-                <langSet xml:lang="kab"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kab"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
@@ -148,7 +148,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pull request</term></tig></langSet>
-                <langSet xml:lang="kab"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kab"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>issue</term></tig></langSet>
@@ -156,31 +156,31 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>access restriction</term></tig></langSet>
-                <langSet xml:lang="kab"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kab"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry id="access restrictions (plural)">
                 <langSet xml:lang="en"><tig><term>access restrictions</term></tig></langSet>
-                <langSet xml:lang="kab"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kab"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regex</term></tig></langSet>
-                <langSet xml:lang="kab"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kab"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regular expression</term></tig></langSet>
-                <langSet xml:lang="kab"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kab"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>class</term></tig></langSet>
-                <langSet xml:lang="kab"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kab"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
-                <langSet xml:lang="kab"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kab"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fixup</term></tig></langSet>
-                <langSet xml:lang="kab"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kab"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>translations</term></tig></langSet>
@@ -192,23 +192,23 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>unresolved comment</term></tig></langSet>
-                <langSet xml:lang="kab"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kab"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry id="opposite">
                 <langSet xml:lang="en"><tig><term>resolved comment</term></tig></langSet>
-                <langSet xml:lang="kab"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kab"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>URL scheme</term></tig></langSet>
-                <langSet xml:lang="kab"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kab"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
-                <langSet xml:lang="kab"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kab"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
-                <langSet xml:lang="kab"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kab"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translator</term></tig></langSet>
@@ -244,11 +244,11 @@
             </termEntry>
             <termEntry id="alias &quot;Zen mode&quot;">
                 <langSet xml:lang="en"><tig><term>Zen</term></tig></langSet>
-                <langSet xml:lang="kab"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kab"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
-                <langSet xml:lang="kab"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kab"><tig><term/></tig></langSet>
                 <descrip>e-mail address that will be used as committer</descrip>
             </termEntry>
             <termEntry>
@@ -257,7 +257,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Django</term></tig></langSet>
-                <langSet xml:lang="kab"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kab"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation-finder</term></tig></langSet>
@@ -265,65 +265,65 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
-                <langSet xml:lang="kab"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kab"><tig><term/></tig></langSet>
                 <descrip>sentry.io</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Rollbar</term></tig></langSet>
-                <langSet xml:lang="kab"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kab"><tig><term/></tig></langSet>
                 <descrip>rollbar.com</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ModernMT</term></tig></langSet>
-                <langSet xml:lang="kab"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kab"><tig><term/></tig></langSet>
                 <descrip>modernmt.com</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>MyMemory</term></tig></langSet>
-                <langSet xml:lang="kab"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kab"><tig><term/></tig></langSet>
                 <descrip>mymemory.translated.net</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tmserver</term></tig></langSet>
-                <langSet xml:lang="kab"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kab"><tig><term/></tig></langSet>
                 <descrip>Translate Toolkit</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gravatar</term></tig></langSet>
-                <langSet xml:lang="kab"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kab"><tig><term/></tig></langSet>
                 <descrip>gravatar.com</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Qt Linguist</term></tig></langSet>
-                <langSet xml:lang="kab"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kab"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>foo/bar</term></tig></langSet>
-                <langSet xml:lang="kab"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kab"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry id="hackerone.com">
                 <langSet xml:lang="en"><tig><term>HackerOne</term></tig></langSet>
-                <langSet xml:lang="kab"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kab"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry id="deepl.com">
                 <langSet xml:lang="en"><tig><term>DeepL</term></tig></langSet>
-                <langSet xml:lang="kab"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kab"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry id="https://www.gnu.org/software/gettext">
                 <langSet xml:lang="en"><tig><term>gettext</term></tig></langSet>
-                <langSet xml:lang="kab"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kab"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry id="sphinx-doc.org">
                 <langSet xml:lang="en"><tig><term>Sphinx</term></tig></langSet>
-                <langSet xml:lang="kab"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kab"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry id="readthedocs.org">
                 <langSet xml:lang="en"><tig><term>Read the Docs</term></tig></langSet>
-                <langSet xml:lang="kab"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kab"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Google OAuth 2</term></tig></langSet>
-                <langSet xml:lang="kab"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kab"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry id="Past tense">
                 <langSet xml:lang="en"><tig><term>translated</term></tig></langSet>
@@ -331,7 +331,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>glossary</term></tig></langSet>
-                <langSet xml:lang="kab"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kab"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
@@ -355,28 +355,28 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>authorship</term></tig></langSet>
-                <langSet xml:lang="kab"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kab"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
-                <langSet xml:lang="kab"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kab"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
-                <langSet xml:lang="kab"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kab"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
-                <langSet xml:lang="kab"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kab"><tig><term/></tig></langSet>
                 <descrip>Glossary terms that should not be changed from the source language</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>VCS</term></tig></langSet>
-                <langSet xml:lang="kab"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kab"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tab character</term></tig></langSet>
-                <langSet xml:lang="kab"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kab"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Fluent</term></tig></langSet>
@@ -385,11 +385,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>persona</term></tig></langSet>
-                <langSet xml:lang="kab"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kab"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
-                <langSet xml:lang="kab"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kab"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
@@ -405,28 +405,24 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>terminology</term></tig></langSet>
-                <langSet xml:lang="kab"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kab"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Automattic</term></tig></langSet>
-                <langSet xml:lang="kab"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kab"><tig><term/></tig></langSet>
                 <descrip>It's a name (see https://github.com/WeblateOrg/weblate/issues/13634), so it should be kept as is.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>reStructuredText</term></tig></langSet>
-                <langSet xml:lang="kab"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kab"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Download</term></tig></langSet>
-                <langSet xml:lang="kab"><tig><term></term></tig></langSet>
-            </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Link</term></tig></langSet>
-                <langSet xml:lang="kab"><tig><term>Aseɣwen</term></tig></langSet>
+                <langSet xml:lang="kab"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>e-mail address</term></tig></langSet>
-                <langSet xml:lang="kab"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kab"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
