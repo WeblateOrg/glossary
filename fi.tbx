@@ -481,10 +481,6 @@
                 <descrip>https://en.wikipedia.org/wiki/Version_control</descrip>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>timestamp</term></tig></langSet>
-                <langSet xml:lang="fi"><tig><term>aikaleima</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>translation-finder</term></tig></langSet>
                 <langSet xml:lang="fi"><tig><term/></tig></langSet>
             </termEntry>
