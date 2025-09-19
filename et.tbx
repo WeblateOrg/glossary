@@ -1303,10 +1303,6 @@
                 <langSet xml:lang="en"><tig><term>Download</term></tig></langSet>
                 <langSet xml:lang="et"><tig><term>Laadi alla</term></tig></langSet>
             </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Link</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term>Link</term></tig></langSet>
-            </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>e-mail address</term></tig></langSet>
                 <langSet xml:lang="et"><tig><term>e-posti aadress</term></tig></langSet>
