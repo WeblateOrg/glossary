@@ -4551,10 +4551,6 @@
                 <langSet xml:lang="gl"><tig><term>gancho</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>timestamp</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>marca de tempo</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>plural formula</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>fórmula de plural</term></tig></langSet>
             </termEntry>
