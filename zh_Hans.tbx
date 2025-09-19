@@ -892,10 +892,6 @@
                 <langSet xml:lang="en"><tig><term>Download</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>下载</term></tig></langSet>
             </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Link</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>链接</term></tig></langSet>
-            </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>e-mail address</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>电子邮件地址</term></tig></langSet>
