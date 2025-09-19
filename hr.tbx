@@ -659,10 +659,6 @@
                 <langSet xml:lang="hr"><tig><term>Ukinuto</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>timestamp</term></tig></langSet>
-                <langSet xml:lang="hr"><tig><term>vremenska oznaka</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>event</term></tig></langSet>
                 <langSet xml:lang="hr"><tig><term>događaj</term></tig></langSet>
             </termEntry>
