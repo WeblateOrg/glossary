@@ -226,11 +226,6 @@
                 <langSet xml:lang="pl"><tig><term>ciąg docelowy</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>timestamp</term></tig></langSet>
-                <langSet xml:lang="pl"><tig><term>znacznik czasu</term></tig></langSet>
-                <descrip>時間標記</descrip>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Performance improvements.</term></tig></langSet>
                 <langSet xml:lang="pl"><tig><term>Poprawa wydajności.</term></tig></langSet>
             </termEntry>
