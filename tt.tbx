@@ -24,7 +24,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Keyboard shortcuts</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>Тизтөймәләр</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gitee</term></tig></langSet>
@@ -40,7 +40,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>edit</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>үзгәрт</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
@@ -68,11 +68,11 @@
             </termEntry>
             <termEntry id="XML Tag">
                 <langSet xml:lang="en"><tig><term>XML Tag</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>XML тэгы</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>variants</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>вариантлар</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
@@ -92,7 +92,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslated</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>тәрҗемә ителмәгән</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
@@ -168,7 +168,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>unresolved comment</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>чишелмәгән фикер</term></tig></langSet>
             </termEntry>
             <termEntry id="opposite">
                 <langSet xml:lang="en"><tig><term>resolved comment</term></tig></langSet>
@@ -176,7 +176,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>URL scheme</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>URL схемасы</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
@@ -188,7 +188,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translator</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>тәрҗемәче</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>term</term></tig></langSet>
@@ -224,7 +224,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term>commit e-mail</term></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>commit өчен e-mail</term></tig></langSet>
                 <note from="translator">commit ясаучы итеп кулланыла торган электрон почта адресы</note>
                 <descrip>e-mail address that will be used as committer</descrip>
             </termEntry>
@@ -340,11 +340,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>Метрикалар</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>тәрҗемә ителмәслек</term></tig></langSet>
                 <descrip>Glossary terms that should not be changed from the source language</descrip>
             </termEntry>
             <termEntry>
@@ -366,7 +366,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>Метрикалар</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
@@ -399,7 +399,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>e-mail address</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term/></tig></langSet>
+                <langSet xml:lang="tt"><tig><term>электрон почта адресы</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Accept</term></tig></langSet>
