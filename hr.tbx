@@ -755,6 +755,10 @@
                 <langSet xml:lang="en"><tig><term>workflows</term></tig></langSet>
                 <langSet xml:lang="hr"><tig><term>radni tokovi</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Plan</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>tarifa</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
