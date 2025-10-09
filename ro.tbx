@@ -185,7 +185,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Privacy Policy</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term/></tig></langSet>
+                <langSet xml:lang="ro"><tig><term>Politica de confidențialitate</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Cookies</term></tig></langSet>
@@ -226,7 +226,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>term</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term/></tig></langSet>
+                <langSet xml:lang="ro"><tig><term>termen</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>MyMemory</term></tig></langSet>
@@ -235,7 +235,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>issue</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term/></tig></langSet>
+                <langSet xml:lang="ro"><tig><term>problemă</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tmserver</term></tig></langSet>
@@ -316,7 +316,7 @@
             </termEntry>
             <termEntry id="readthedocs.org">
                 <langSet xml:lang="en"><tig><term>Read the Docs</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term/></tig></langSet>
+                <langSet xml:lang="ro"><tig><term>Citiți documentația</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation-finder</term></tig></langSet>
@@ -365,7 +365,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>e-mail address</term></tig></langSet>
-                <langSet xml:lang="ro"><tig><term/></tig></langSet>
+                <langSet xml:lang="ro"><tig><term>adresă de e-mail</term></tig></langSet>
             </termEntry>
         </body>
     </text>
