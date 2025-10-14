@@ -697,6 +697,11 @@
                 <langSet xml:lang="en"><tig><term>e-mail address</term></tig></langSet>
                 <langSet xml:lang="nl"><tig><term>e-mailadres</term></tig></langSet>
             </termEntry>
+            <termEntry id="software programma">
+                <langSet xml:lang="en"><tig><term>`Anubis`_</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term></term></tig></langSet>
+                <note from="translator">eigennaam</note>
+            </termEntry>
         </body>
     </text>
 </martif>
