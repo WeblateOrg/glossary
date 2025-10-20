@@ -699,8 +699,12 @@
             </termEntry>
             <termEntry id="software programma">
                 <langSet xml:lang="en"><tig><term>`Anubis`_</term></tig></langSet>
-                <langSet xml:lang="nl"><tig><term></term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term/></tig></langSet>
                 <note from="translator">eigennaam</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>`Anubis`_</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>`Anubis`_</term></tig></langSet>
             </termEntry>
         </body>
     </text>
