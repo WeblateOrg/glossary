@@ -40,7 +40,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>e-mail address</term></tig></langSet>
-                <langSet xml:lang="sr"><tig><term>адреса е-пошзе</term></tig></langSet>
+                <langSet xml:lang="sr"><tig><term>адреса е-поште</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>e-mail</term></tig></langSet>
@@ -148,7 +148,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslated</term></tig></langSet>
-                <langSet xml:lang="sr"><tig><term/></tig></langSet>
+                <langSet xml:lang="sr"><tig><term>непреведено</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
@@ -172,7 +172,7 @@
             </termEntry>
             <termEntry id="components">
                 <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
-                <langSet xml:lang="sr"><tig><term/></tig></langSet>
+                <langSet xml:lang="sr"><tig><term>делови</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
@@ -240,7 +240,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
-                <langSet xml:lang="sr"><tig><term/></tig></langSet>
+                <langSet xml:lang="sr"><tig><term>предај</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translator</term></tig></langSet>
@@ -351,7 +351,7 @@
             </termEntry>
             <termEntry id="readthedocs.org">
                 <langSet xml:lang="en"><tig><term>Read the Docs</term></tig></langSet>
-                <langSet xml:lang="sr"><tig><term/></tig></langSet>
+                <langSet xml:lang="sr"><tig><term>Читај документацију</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Google OAuth 2</term></tig></langSet>
@@ -471,11 +471,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Download</term></tig></langSet>
-                <langSet xml:lang="sr"><tig><term/></tig></langSet>
+                <langSet xml:lang="sr"><tig><term>Преузимање</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>e-mail address</term></tig></langSet>
-                <langSet xml:lang="sr"><tig><term/></tig></langSet>
+                <langSet xml:lang="sr"><tig><term>адреса е-поште</term></tig></langSet>
             </termEntry>
         </body>
     </text>
