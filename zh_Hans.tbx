@@ -222,11 +222,13 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>email</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>电子邮箱</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>电子邮件</term></tig></langSet>
+                <note from="translator">有时指电子邮件地址，有时指收发的邮件，也可以翻译为邮箱，根据需要翻译</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>e-mail</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>电子邮箱</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>电子邮件</term></tig></langSet>
+                <note from="translator">有时指电子邮件地址，有时指收发的邮件，也可以翻译为邮箱，根据需要翻译</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translate</term></tig></langSet>
@@ -710,7 +712,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>代码提交邮箱</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>提交邮箱</term></tig></langSet>
                 <descrip>e-mail address that will be used as committer</descrip>
             </termEntry>
             <termEntry>
