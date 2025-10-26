@@ -400,7 +400,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>name</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term>název (souboru, počítače...) </term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>název (souboru, počítače...)</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>new</term></tig></langSet>
