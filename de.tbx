@@ -1808,10 +1808,6 @@
                 <langSet xml:lang="en"><tig><term>datastore</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Datenspeicher</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>placeable</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Platzhalter</term></tig></langSet>
-            </termEntry>
         </body>
     </text>
 </martif>
