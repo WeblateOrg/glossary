@@ -1640,7 +1640,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Fluent</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term></term></tig></langSet>
+                <langSet xml:lang="de"><tig><term/></tig></langSet>
                 <descrip>“Fluent” is a “localization system for natural-sounding translations” - https://projectfluent.org/</descrip>
             </termEntry>
             <termEntry>
@@ -1803,6 +1803,14 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>formatting strings</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Formatzeichenketten</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>datastore</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Datenspeicher</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>placeable</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Platzhalter</term></tig></langSet>
             </termEntry>
         </body>
     </text>
