@@ -510,11 +510,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Download</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term/></tig></langSet>
+                <langSet xml:lang="es"><tig><term>Descargar</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>e-mail address</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term/></tig></langSet>
+                <langSet xml:lang="es"><tig><term>dirección de correo-e</term></tig></langSet>
             </termEntry>
         </body>
     </text>
