@@ -220,7 +220,7 @@
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>projects</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>dự án</term></tig></langSet>
             </termEntry>
             <termEntry id="alias &quot;source text&quot;">
                 <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
