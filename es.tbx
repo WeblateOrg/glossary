@@ -516,6 +516,10 @@
                 <langSet xml:lang="en"><tig><term>e-mail address</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>dirección de correo-e</term></tig></langSet>
             </termEntry>
+            <termEntry id="Difuso">
+                <langSet xml:lang="en"><tig><term>`Managers`</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>`Supervisores`</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
