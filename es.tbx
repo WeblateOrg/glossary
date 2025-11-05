@@ -49,7 +49,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>rebase</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>rebasar</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>cambiar base [rebasar]</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>watched</term></tig></langSet>
@@ -519,6 +519,10 @@
             <termEntry id="Difuso">
                 <langSet xml:lang="en"><tig><term>`Managers`</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>`Supervisores`</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>upstream</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>en desarrollo</term></tig></langSet>
             </termEntry>
         </body>
     </text>
