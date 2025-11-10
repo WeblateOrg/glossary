@@ -4370,7 +4370,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>upstream repository</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>repositorio de orixe</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>repositorio en desenvolvemento</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>branch</term></tig></langSet>
@@ -5584,6 +5584,10 @@ Bi-directional Cyrillic transliteration. Transliterate Cyrillic script to Latin 
                 <langSet xml:lang="en"><tig><term>:command:</term></tig></langSet>
                 <langSet xml:lang="gl"><tig><term>:command:</term></tig></langSet>
                 <note from="translator">OLLO! se vai entre «:», así: «:command:» é unha instrución de reStructuredText e non debe traducirse.</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>upstream</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>en desenvolvemento</term></tig></langSet>
             </termEntry>
         </body>
     </text>
