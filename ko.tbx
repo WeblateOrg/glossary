@@ -329,7 +329,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>구성요소</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>구성요소들</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Update</term></tig></langSet>
@@ -684,7 +684,7 @@
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>projects</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>프로젝트</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>프로젝트들</term></tig></langSet>
             </termEntry>
             <termEntry id="alias &quot;source text&quot;">
                 <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
