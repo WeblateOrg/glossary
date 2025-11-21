@@ -1573,10 +1573,6 @@
                 <langSet xml:lang="de"><tig><term>erstellen</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>created</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>erstellt</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>automatic translation</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>automatische Übersetzung</term></tig></langSet>
             </termEntry>
