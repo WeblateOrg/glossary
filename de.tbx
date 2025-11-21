@@ -1566,7 +1566,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>generate</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>erzeugen/generieren</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>erzeugen</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>create</term></tig></langSet>
@@ -1578,7 +1578,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>generated</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>erzeugt/generiert</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>erzeugt</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>automatic translation</term></tig></langSet>
@@ -1807,6 +1807,14 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>datastore</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Datenspeicher</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>e-mail</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>E-Mail-Adresse</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>e-mail</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>E-Mail</term></tig></langSet>
             </termEntry>
         </body>
     </text>
