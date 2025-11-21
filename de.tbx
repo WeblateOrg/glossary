@@ -546,7 +546,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>account</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Benutzerkonto</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Konto</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>privilege</term></tig></langSet>
@@ -1811,6 +1811,10 @@
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>generate</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>generieren</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>account</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Benutzerkonto</term></tig></langSet>
             </termEntry>
         </body>
     </text>
