@@ -1429,7 +1429,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>portal</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>شىركەت</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>دەرۋازا</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Do Not Forward</term></tig></langSet>
@@ -19156,7 +19156,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>build</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>قۇرماق</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>قۇر</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>service agreement</term></tig></langSet>
@@ -20611,7 +20611,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bug</term></tig></langSet>
-                <langSet xml:lang="ug"><tig><term>يوچۇق</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term>كەمتۈك، كەمتۈكلۈك، يوچۇق</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
