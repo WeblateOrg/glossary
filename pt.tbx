@@ -1319,6 +1319,10 @@
                 <langSet xml:lang="en"><tig><term>merge</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>mesclar</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>brace</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>chaveta</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
