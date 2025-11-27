@@ -524,6 +524,26 @@
                 <langSet xml:lang="en"><tig><term>upstream</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>en desarrollo</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>See</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>Consulte</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>tab</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>lengüeta</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>add-ons.</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>complementos</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>buildt-in</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>empotrado</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>built-in</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>empotrado</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
