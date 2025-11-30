@@ -759,6 +759,10 @@
                 <langSet xml:lang="en"><tig><term>Plan</term></tig></langSet>
                 <langSet xml:lang="hr"><tig><term>tarifa</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Terms</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>uvjeti</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
