@@ -1824,6 +1824,10 @@
                 <langSet xml:lang="en"><tig><term>guideline</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Richtlinie</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>guidelines</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Richtlinien</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
