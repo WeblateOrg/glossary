@@ -391,7 +391,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>추가 기능</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>애드온</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
@@ -444,7 +444,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Add-ons</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>추가 기능</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>애드온</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
@@ -456,7 +456,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Source strings</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>원본 문자열</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>원문 문자열</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>drop-down menu</term></tig></langSet>
