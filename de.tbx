@@ -778,10 +778,6 @@
                 <langSet xml:lang="de"><tig><term>Bericht</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Message</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Nachricht</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>link</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Link</term></tig></langSet>
             </termEntry>
