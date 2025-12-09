@@ -477,7 +477,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Audit log</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Audit-Protokoll</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Auditprotokoll</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>IP address</term></tig></langSet>
