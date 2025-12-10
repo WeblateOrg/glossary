@@ -4616,7 +4616,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
-                <langSet xml:lang="sl"><tig><term>Goščeni Weblate</term></tig></langSet>
+                <langSet xml:lang="sl"><tig><term>Gostovani Weblate</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
