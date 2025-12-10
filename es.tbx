@@ -20,7 +20,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parse error</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>error del análisis</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>error del intérprete</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>GDPR</term></tig></langSet>
@@ -543,6 +543,10 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>built-in</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>empotrado</term></tig></langSet>
+            </termEntry>
+            <termEntry id="Español - Informática">
+                <langSet xml:lang="en"><tig><term>middleware</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>intermediario</term></tig></langSet>
             </termEntry>
         </body>
     </text>
