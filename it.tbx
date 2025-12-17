@@ -430,6 +430,14 @@
                 <langSet xml:lang="en"><tig><term>Add-on</term></tig></langSet>
                 <langSet xml:lang="it"><tig><term>Add-on</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>agreement</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>contratto</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>branch</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>branch</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
