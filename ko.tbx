@@ -116,7 +116,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>style</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>스타일</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>유형</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Option</term></tig></langSet>
