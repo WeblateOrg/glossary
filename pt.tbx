@@ -1323,6 +1323,10 @@
                 <langSet xml:lang="en"><tig><term>brace</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>chaveta</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>bilingual</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>bilíngue</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
