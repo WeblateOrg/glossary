@@ -12,7 +12,8 @@
         <body>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Billing</term></tig></langSet>
-                <langSet xml:lang="km"><tig><term>វិក័យប័ត្រ</term></tig></langSet>
+                <langSet xml:lang="km"><tig><term>វិក្កយបត្រ</term></tig></langSet>
+                <note from="translator">វិក-កៈ-យ៉ៈ-ប័ត</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>optional</term></tig></langSet>
@@ -217,7 +218,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
-                <langSet xml:lang="km"><tig><term/></tig></langSet>
+                <langSet xml:lang="km"><tig><term>Celery</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CI</term></tig></langSet>
@@ -280,7 +281,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslated</term></tig></langSet>
-                <langSet xml:lang="km"><tig><term/></tig></langSet>
+                <langSet xml:lang="km"><tig><term>មិនបានបកប្រែ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
@@ -325,7 +326,7 @@ Photo=រូបថត</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
-                <langSet xml:lang="km"><tig><term>ប្រវត្តិផ្លាស់ប្តូរ</term></tig></langSet>
+                <langSet xml:lang="km"><tig><term>កំណត់ហេតុកែលម្អ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pull request</term></tig></langSet>
