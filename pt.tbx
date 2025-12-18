@@ -1327,6 +1327,22 @@
                 <langSet xml:lang="en"><tig><term>bilingual</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>bilíngue</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>agreement</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>acordo</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Organization</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Organização</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>agreements</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>acordos</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>device</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>dispositivo</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
