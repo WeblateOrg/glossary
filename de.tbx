@@ -1848,6 +1848,14 @@
                 <langSet xml:lang="en"><tig><term>traditional Han script</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>traditionelle Han-Schrift</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>data processing agreement</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Auftragsverarbeitungsvertrag</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>General Terms and Conditions</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Allgemeine Geschäftsbedingungen</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
