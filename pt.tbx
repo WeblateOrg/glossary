@@ -28,7 +28,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>archive</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>ficheiro</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>arquivo</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>view</term></tig></langSet>
@@ -1127,6 +1127,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>directory</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>diretoria</term></tig></langSet>
+                <note from="translator">pasta/caminho do computador</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Web server</term></tig></langSet>
