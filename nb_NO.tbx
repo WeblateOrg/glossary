@@ -429,6 +429,12 @@
                 <langSet xml:lang="en"><tig><term>e-mail address</term></tig></langSet>
                 <langSet xml:lang="nb_NO"><tig><term/></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>digest</term></tig></langSet>
+                <langSet xml:lang="nb_NO"><tig><term>sammendrag</term></tig></langSet>
+                <note from="translator">Tidligere er 'føljetong' blitt brukt, men definisjonen av det ordet passer dårlig med hensikten.</note>
+                <descrip>Tidligere er 'føljetong' blitt brukt, men definisjonen av det ordet passer dårlig med hensikten.</descrip>
+            </termEntry>
         </body>
     </text>
 </martif>
