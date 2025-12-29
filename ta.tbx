@@ -406,11 +406,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Download</term></tig></langSet>
-                <langSet xml:lang="ta"><tig><term/></tig></langSet>
+                <langSet xml:lang="ta"><tig><term>பதிவிறக்கம்</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>e-mail address</term></tig></langSet>
-                <langSet xml:lang="ta"><tig><term/></tig></langSet>
+                <langSet xml:lang="ta"><tig><term>மின்னஞ்சல் முகவரி</term></tig></langSet>
             </termEntry>
         </body>
     </text>
