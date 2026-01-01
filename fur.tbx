@@ -408,6 +408,38 @@
                 <langSet xml:lang="en"><tig><term>e-mail address</term></tig></langSet>
                 <langSet xml:lang="fur"><tig><term/></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Today</term></tig></langSet>
+                <langSet xml:lang="fur"><tig><term>Vuê</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Yesterday</term></tig></langSet>
+                <langSet xml:lang="fur"><tig><term>Îr</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>just now</term></tig></langSet>
+                <langSet xml:lang="fur"><tig><term>propite cumò</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>ago</term></tig></langSet>
+                <langSet xml:lang="fur"><tig><term>indâur</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Recent</term></tig></langSet>
+                <langSet xml:lang="fur"><tig><term>Resint</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Continue</term></tig></langSet>
+                <langSet xml:lang="fur"><tig><term>Va indevant</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>subscription</term></tig></langSet>
+                <langSet xml:lang="fur"><tig><term>abonament</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Link</term></tig></langSet>
+                <langSet xml:lang="fur"><tig><term>Colegament</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
