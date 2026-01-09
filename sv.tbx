@@ -60,7 +60,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>subscription</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term>prenumeration</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>abonnemang</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Propagated</term></tig></langSet>
@@ -426,7 +426,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>billing plan</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term>prenumeration</term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>abonnemang</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
