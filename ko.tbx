@@ -696,7 +696,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>전자우편 커밋</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>커밋 이메일</term></tig></langSet>
                 <descrip>e-mail address that will be used as committer</descrip>
             </termEntry>
             <termEntry>
