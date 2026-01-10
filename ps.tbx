@@ -56,7 +56,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Regular expressions</term></tig></langSet>
-                <langSet xml:lang="ps"><tig><term/></tig></langSet>
+                <langSet xml:lang="ps"><tig><term>منظمه اصطلاح</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gitee</term></tig></langSet>
@@ -132,7 +132,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pull request</term></tig></langSet>
-                <langSet xml:lang="ps"><tig><term/></tig></langSet>
+                <langSet xml:lang="ps"><tig><term>راايستلو غوښتنه</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>issue</term></tig></langSet>
@@ -152,7 +152,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regular expression</term></tig></langSet>
-                <langSet xml:lang="ps"><tig><term/></tig></langSet>
+                <langSet xml:lang="ps"><tig><term>منظمه اصطلاح</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>class</term></tig></langSet>
@@ -180,7 +180,7 @@
             </termEntry>
             <termEntry id="opposite">
                 <langSet xml:lang="en"><tig><term>resolved comment</term></tig></langSet>
-                <langSet xml:lang="ps"><tig><term/></tig></langSet>
+                <langSet xml:lang="ps"><tig><term>اواره شوې څرگندونه</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>URL scheme</term></tig></langSet>
@@ -220,7 +220,7 @@
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>projects</term></tig></langSet>
-                <langSet xml:lang="ps"><tig><term/></tig></langSet>
+                <langSet xml:lang="ps"><tig><term>پروژې</term></tig></langSet>
             </termEntry>
             <termEntry id="alias &quot;source text&quot;">
                 <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
@@ -303,7 +303,7 @@
             </termEntry>
             <termEntry id="readthedocs.org">
                 <langSet xml:lang="en"><tig><term>Read the Docs</term></tig></langSet>
-                <langSet xml:lang="ps"><tig><term/></tig></langSet>
+                <langSet xml:lang="ps"><tig><term>لاسوند ولولئ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Google OAuth 2</term></tig></langSet>
@@ -319,11 +319,13 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
-                <langSet xml:lang="ps"><tig><term/></tig></langSet>
+                <langSet xml:lang="ps"><tig><term>زېرمتون</term></tig></langSet>
+                <note from="translator">زېرمه‌ځی، تنځی، گودام، مخزن</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repo</term></tig></langSet>
-                <langSet xml:lang="ps"><tig><term/></tig></langSet>
+                <langSet xml:lang="ps"><tig><term>خونديځول</term></tig></langSet>
+                <note from="translator">ارشيف کول، ساتل</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>text direction</term></tig></langSet>
