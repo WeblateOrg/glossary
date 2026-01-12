@@ -12,150 +12,154 @@
         <body>
             <termEntry id="https://www.gnu.org/software/gettext">
                 <langSet xml:lang="en"><tig><term>gettext</term></tig></langSet>
-                <langSet xml:lang="tk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="tk"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>current</term></tig></langSet>
-                <langSet xml:lang="tk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="tk"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Privacy Policy</term></tig></langSet>
-                <langSet xml:lang="tk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="tk"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ModernMT</term></tig></langSet>
-                <langSet xml:lang="tk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="tk"><tig><term/></tig></langSet>
                 <descrip>modernmt.com</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>glossary</term></tig></langSet>
-                <langSet xml:lang="tk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="tk"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Django</term></tig></langSet>
-                <langSet xml:lang="tk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="tk"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
-                <langSet xml:lang="tk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="tk"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gerrit</term></tig></langSet>
-                <langSet xml:lang="tk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="tk"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
-                <langSet xml:lang="tk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="tk"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Qt Linguist</term></tig></langSet>
-                <langSet xml:lang="tk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="tk"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fixup</term></tig></langSet>
-                <langSet xml:lang="tk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="tk"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
-                <langSet xml:lang="tk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="tk"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regex</term></tig></langSet>
-                <langSet xml:lang="tk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="tk"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>term</term></tig></langSet>
-                <langSet xml:lang="tk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="tk"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pseudolocale</term></tig></langSet>
-                <langSet xml:lang="tk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="tk"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>MyMemory</term></tig></langSet>
-                <langSet xml:lang="tk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="tk"><tig><term/></tig></langSet>
                 <descrip>mymemory.translated.net</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>issue</term></tig></langSet>
-                <langSet xml:lang="tk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="tk"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tmserver</term></tig></langSet>
-                <langSet xml:lang="tk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="tk"><tig><term/></tig></langSet>
                 <descrip>Translate Toolkit</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
-                <langSet xml:lang="tk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="tk"><tig><term/></tig></langSet>
                 <descrip>sentry.io</descrip>
             </termEntry>
             <termEntry id="deepl.com">
                 <langSet xml:lang="en"><tig><term>DeepL</term></tig></langSet>
-                <langSet xml:lang="tk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="tk"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry id="sphinx-doc.org">
                 <langSet xml:lang="en"><tig><term>Sphinx</term></tig></langSet>
-                <langSet xml:lang="tk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="tk"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry id="alias &quot;Zen mode&quot;">
                 <langSet xml:lang="en"><tig><term>Zen</term></tig></langSet>
-                <langSet xml:lang="tk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="tk"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Fluent</term></tig></langSet>
-                <langSet xml:lang="tk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="tk"><tig><term/></tig></langSet>
                 <descrip>“Fluent” is a “localization system for natural-sounding translations” - https://projectfluent.org/</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gravatar</term></tig></langSet>
-                <langSet xml:lang="tk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="tk"><tig><term/></tig></langSet>
                 <descrip>gravatar.com</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Automattic</term></tig></langSet>
-                <langSet xml:lang="tk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="tk"><tig><term/></tig></langSet>
                 <descrip>It's a name (see https://github.com/WeblateOrg/weblate/issues/13634), so it should be kept as is.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regular expression</term></tig></langSet>
-                <langSet xml:lang="tk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="tk"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Subversion</term></tig></langSet>
-                <langSet xml:lang="tk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="tk"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>foo/bar</term></tig></langSet>
-                <langSet xml:lang="tk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="tk"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Rollbar</term></tig></langSet>
-                <langSet xml:lang="tk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="tk"><tig><term/></tig></langSet>
                 <descrip>rollbar.com</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
-                <langSet xml:lang="tk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="tk"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry id="hackerone.com">
                 <langSet xml:lang="en"><tig><term>HackerOne</term></tig></langSet>
-                <langSet xml:lang="tk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="tk"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CI</term></tig></langSet>
-                <langSet xml:lang="tk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="tk"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Terms of Service</term></tig></langSet>
-                <langSet xml:lang="tk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="tk"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gitee</term></tig></langSet>
-                <langSet xml:lang="tk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="tk"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
+                <langSet xml:lang="tk"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>secondary language</term></tig></langSet>
                 <langSet xml:lang="tk"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
