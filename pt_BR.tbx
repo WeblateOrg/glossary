@@ -1147,6 +1147,10 @@
                 <note from="translator">button that toggles the fuzzy flag of a string</note>
                 <descrip>button that toggles the fuzzy flag of a string</descrip>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>secondary language</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
