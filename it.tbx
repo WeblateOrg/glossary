@@ -446,6 +446,10 @@
                 <langSet xml:lang="en"><tig><term>Category Breakdown</term></tig></langSet>
                 <langSet xml:lang="it"><tig><term>Ripartizione per categoria</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>secondary language</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
