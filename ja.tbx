@@ -611,6 +611,10 @@
                 <langSet xml:lang="ja"><tig><term>語調</term></tig></langSet>
                 <descrip>Formal and informal tone of text</descrip>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>secondary language</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
