@@ -943,6 +943,10 @@
                 <langSet xml:lang="en"><tig><term>supporter</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>supporter</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>secondary language</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
