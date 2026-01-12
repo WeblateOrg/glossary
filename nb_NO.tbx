@@ -435,6 +435,10 @@
                 <note from="translator">Tidligere er 'føljetong' blitt brukt, men definisjonen av det ordet passer dårlig med hensikten.</note>
                 <descrip>Tidligere er 'føljetong' blitt brukt, men definisjonen av det ordet passer dårlig med hensikten.</descrip>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>secondary language</term></tig></langSet>
+                <langSet xml:lang="nb_NO"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
