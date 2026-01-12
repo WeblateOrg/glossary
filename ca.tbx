@@ -716,6 +716,10 @@
                 <langSet xml:lang="ca"><tig><term>adreça electrònica</term></tig></langSet>
                 <note from="translator">O "adreça de correu electrònic" si hi cap o si cal especificar-ho.</note>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>secondary language</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
