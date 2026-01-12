@@ -583,6 +583,10 @@ persona&#13;
                 <langSet xml:lang="en"><tig><term>e-mail address</term></tig></langSet>
                 <langSet xml:lang="he"><tig><term>כתובת דוא״ל</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>secondary language</term></tig></langSet>
+                <langSet xml:lang="he"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
