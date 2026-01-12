@@ -440,6 +440,10 @@
                 <langSet xml:lang="en"><tig><term>Link</term></tig></langSet>
                 <langSet xml:lang="fur"><tig><term>Colegament</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>secondary language</term></tig></langSet>
+                <langSet xml:lang="fur"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
