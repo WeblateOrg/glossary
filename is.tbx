@@ -801,6 +801,10 @@
                 <langSet xml:lang="en"><tig><term>e-mail address</term></tig></langSet>
                 <langSet xml:lang="is"><tig><term/></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>secondary language</term></tig></langSet>
+                <langSet xml:lang="is"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
