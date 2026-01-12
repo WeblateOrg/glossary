@@ -706,6 +706,10 @@
                 <langSet xml:lang="en"><tig><term>`Anubis`_</term></tig></langSet>
                 <langSet xml:lang="nl"><tig><term>`Anubis`_</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>secondary language</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
