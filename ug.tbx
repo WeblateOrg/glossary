@@ -20961,6 +20961,10 @@
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
                 <langSet xml:lang="ug"><tig><term>قوشۇلما</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>secondary language</term></tig></langSet>
+                <langSet xml:lang="ug"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
