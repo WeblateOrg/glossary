@@ -5591,13 +5591,17 @@ Bi-directional Cyrillic transliteration. Transliterate Cyrillic script to Latin 
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Haiku</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term></term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term/></tig></langSet>
                 <note from="translator">Sistema operativo «Haiku»</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>catkeys</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term></term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term/></tig></langSet>
                 <note from="translator">formato de ficheiro do S.O. «Haiku»</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>secondary language</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
     </text>
