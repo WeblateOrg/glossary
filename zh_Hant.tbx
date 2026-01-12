@@ -1645,6 +1645,10 @@
                 <langSet xml:lang="en"><tig><term>doc</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>說明文件</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>secondary language</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
