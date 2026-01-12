@@ -1345,6 +1345,10 @@
                 <langSet xml:lang="en"><tig><term>device</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>dispositivo</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>secondary language</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
