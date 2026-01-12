@@ -386,6 +386,10 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Garhwali</term></tig></langSet>
+                <langSet xml:lang="ab"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>secondary language</term></tig></langSet>
                 <langSet xml:lang="ab"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
