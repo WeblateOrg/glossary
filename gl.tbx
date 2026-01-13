@@ -5601,7 +5601,7 @@ Bi-directional Cyrillic transliteration. Transliterate Cyrillic script to Latin 
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>secondary language</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term></term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>segundo idioma</term></tig></langSet>
             </termEntry>
         </body>
     </text>
