@@ -1856,6 +1856,14 @@
                 <langSet xml:lang="en"><tig><term>General Terms and Conditions</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Allgemeine Geschäftsbedingungen</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>needs rewriting</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>muss umgeschrieben werden</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>needs checking</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>muss überprüft werden</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
