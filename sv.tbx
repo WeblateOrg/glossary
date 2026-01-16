@@ -493,7 +493,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>secondary language</term></tig></langSet>
-                <langSet xml:lang="sv"><tig><term></term></tig></langSet>
+                <langSet xml:lang="sv"><tig><term>sekundärt språk</term></tig></langSet>
             </termEntry>
         </body>
     </text>
