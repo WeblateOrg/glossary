@@ -5233,7 +5233,7 @@
             </termEntry>
             <termEntry id="na documentación">
                 <langSet xml:lang="en"><tig><term>&lt;language&gt;</term></tig></langSet>
-                <langSet xml:lang="gl"><tig><term>códigoIdioma</term></tig></langSet>
+                <langSet xml:lang="gl"><tig><term>&lt;códigoIdioma&gt;</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>it lives</term></tig></langSet>
