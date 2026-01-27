@@ -12,11 +12,13 @@
         <body>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
-                <langSet xml:lang="kk"><tig><term>basqaru taqtasy</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>дашборд</term></tig></langSet>
+                <note from="translator">in cyrillic alphabet</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>special characters</term></tig></langSet>
-                <langSet xml:lang="kk"><tig><term>arnaiy taŋbalar</term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term>арнайы таңбалар</term></tig></langSet>
+                <note from="translator">in cyrillic alphabet</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>editor</term></tig></langSet>
@@ -1311,7 +1313,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>secondary language</term></tig></langSet>
-                <langSet xml:lang="kk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kk"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
