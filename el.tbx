@@ -54,7 +54,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
-                <langSet xml:lang="el"><tig><term/></tig></langSet>
+                <langSet xml:lang="el"><tig><term>Celery</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CI</term></tig></langSet>
@@ -173,7 +173,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>class</term></tig></langSet>
-                <langSet xml:lang="el"><tig><term/></tig></langSet>
+                <langSet xml:lang="el"><tig><term>κλάση</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
@@ -402,7 +402,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Accept</term></tig></langSet>
-                <langSet xml:lang="el"><tig><term/></tig></langSet>
+                <langSet xml:lang="el"><tig><term>Αποδοχή</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>terminology</term></tig></langSet>
@@ -427,7 +427,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>secondary language</term></tig></langSet>
-                <langSet xml:lang="el"><tig><term></term></tig></langSet>
+                <langSet xml:lang="el"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
