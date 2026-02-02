@@ -68,7 +68,7 @@ whiteboard&#13;
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>default</term></tig></langSet>
-                <langSet xml:lang="he"><tig><term>בררת מחדל</term></tig></langSet>
+                <langSet xml:lang="he"><tig><term>ברירת מחדל</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Dashboard</term></tig></langSet>
@@ -585,7 +585,7 @@ persona&#13;
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>secondary language</term></tig></langSet>
-                <langSet xml:lang="he"><tig><term></term></tig></langSet>
+                <langSet xml:lang="he"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
