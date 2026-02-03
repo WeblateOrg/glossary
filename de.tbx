@@ -1860,6 +1860,10 @@
                 <langSet xml:lang="en"><tig><term>needs checking</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>muss überprüft werden</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>non-disclosure agreement</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Vertraulichkeitsvereinbarung</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
