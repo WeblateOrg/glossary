@@ -20,7 +20,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
-                <langSet xml:lang="uz"><tig><term/></tig></langSet>
+                <langSet xml:lang="uz"><tig><term>shaxsiy</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>search</term></tig></langSet>
@@ -69,7 +69,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Personal Data</term></tig></langSet>
-                <langSet xml:lang="uz"><tig><term/></tig></langSet>
+                <langSet xml:lang="uz"><tig><term>Shaxsiy ma'lumot</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Cookies</term></tig></langSet>
@@ -93,7 +93,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>identity</term></tig></langSet>
-                <langSet xml:lang="uz"><tig><term/></tig></langSet>
+                <langSet xml:lang="uz"><tig><term>shaxs</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>session</term></tig></langSet>
@@ -129,7 +129,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
-                <langSet xml:lang="uz"><tig><term/></tig></langSet>
+                <langSet xml:lang="uz"><tig><term>o'zgarishlar nazorat jurnali</term></tig></langSet>
                 <note from="translator">o'zgarishlar jurnali</note>
             </termEntry>
             <termEntry>
@@ -138,11 +138,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>issue</term></tig></langSet>
-                <langSet xml:lang="uz"><tig><term/></tig></langSet>
+                <langSet xml:lang="uz"><tig><term>muammo</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>access restriction</term></tig></langSet>
-                <langSet xml:lang="uz"><tig><term/></tig></langSet>
+                <langSet xml:lang="uz"><tig><term>hisobga kirish cheklovi</term></tig></langSet>
             </termEntry>
             <termEntry id="access restrictions (plural)">
                 <langSet xml:lang="en"><tig><term>access restrictions</term></tig></langSet>
@@ -218,11 +218,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>project</term></tig></langSet>
-                <langSet xml:lang="uz"><tig><term/></tig></langSet>
+                <langSet xml:lang="uz"><tig><term>loyiha</term></tig></langSet>
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>projects</term></tig></langSet>
-                <langSet xml:lang="uz"><tig><term/></tig></langSet>
+                <langSet xml:lang="uz"><tig><term>loyihalar</term></tig></langSet>
             </termEntry>
             <termEntry id="alias &quot;source text&quot;">
                 <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
@@ -348,7 +348,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>authorship</term></tig></langSet>
-                <langSet xml:lang="uz"><tig><term/></tig></langSet>
+                <langSet xml:lang="uz"><tig><term>mualliflik</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
@@ -419,7 +419,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>secondary language</term></tig></langSet>
-                <langSet xml:lang="uz"><tig><term></term></tig></langSet>
+                <langSet xml:lang="uz"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
