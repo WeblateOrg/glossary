@@ -52,11 +52,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>string</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term>string,</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>string</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>merge</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term>gabung, merege</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>gabung, merge</term></tig></langSet>
                 <descrip>Git merge</descrip>
             </termEntry>
             <termEntry>
@@ -69,7 +69,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pull</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term>pull</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>pull, tarik</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>update</term></tig></langSet>
@@ -89,11 +89,11 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>merge</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term>merge</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>gabung, merge</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>merged</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term>di merge</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>digabung, di-merge</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>email</term></tig></langSet>
@@ -110,7 +110,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>filtered</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term>disaring</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>difilter</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>performance</term></tig></langSet>
@@ -134,7 +134,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term>privat</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>privat, pribadi</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>search</term></tig></langSet>
@@ -162,7 +162,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Keyboard shortcuts</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term>Pintasan papan tik</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>Pintasan papan ketik</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
@@ -218,7 +218,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term>mengurai</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>urai</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>browser</term></tig></langSet>
@@ -226,7 +226,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Font</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term>Fon</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>Fon, Huruf</term></tig></langSet>
                 <descrip>https://kbbi.kemdikbud.go.id/entri/fon</descrip>
             </termEntry>
             <termEntry>
@@ -321,7 +321,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Reviewer</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term>Peninjau</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>Peninjau, Pengulas</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Celery worker</term></tig></langSet>
@@ -345,7 +345,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>localization</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term>pelokalan</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>lokalisasi</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>plan</term></tig></langSet>
@@ -354,7 +354,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Rate</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term>Akses, Tarif</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>Akses, Tarif, Batas</term></tig></langSet>
                 <descrip>Gunakan "akses" bila kalimat itu berkaitan dengan: https://docs.weblate.org/en/latest/admin/optionals.html#rate-limiting</descrip>
             </termEntry>
             <termEntry>
@@ -433,11 +433,12 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Path</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term>Lokasi, Alamat</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>Lokasi, Alamat, Jalur</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>digest</term></tig></langSet>
                 <langSet xml:lang="id"><tig><term>intisari</term></tig></langSet>
+                <descrip>Tidligere er 'føljetong' blitt brukt, men definisjonen av det ordet passer dårlig med hensikten.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>events</term></tig></langSet>
@@ -483,11 +484,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>confirming</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term>mengonfirmasi</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>mengonfirmasikan</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>authenticate</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term>mengautentikasi</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>autentikasikan</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Microsoft Azure Active Directory</term></tig></langSet>
@@ -537,7 +538,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>backup</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term>rekam cadang</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>rekam cadang, pencadangan, cadangan, cadang, sokong</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>container</term></tig></langSet>
@@ -660,7 +661,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>history</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term>riwayat</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>riwayat, sejarah</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Django</term></tig></langSet>
@@ -738,7 +739,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>glossary</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term>daftar istilah</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>daftar istilah, glosarium</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repo</term></tig></langSet>
@@ -770,7 +771,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term>tak dapat diterjemahkan</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>tidak dapat diterjemahkan</term></tig></langSet>
                 <descrip>Glossary terms that should not be changed from the source language</descrip>
             </termEntry>
             <termEntry>
@@ -846,6 +847,26 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>secondary language</term></tig></langSet>
                 <langSet xml:lang="id"><tig><term>bahasa kedua</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hosted</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>dihos</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>type</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>tipe, jenis</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>extended</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>ekstensif</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>instance</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>instansi</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Fedora Messaging</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
     </text>
