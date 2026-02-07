@@ -865,12 +865,8 @@
                 <langSet xml:lang="id"><tig><term>instansi</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Google Pay</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term></term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Apple Pay</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term></term></tig></langSet>
+                <langSet xml:lang="id"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
