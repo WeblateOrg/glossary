@@ -1120,6 +1120,14 @@
                 <langSet xml:lang="en"><tig><term>secondary language</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>второй язык</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>syntax error</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>ошибка синтаксиса</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>unfinished</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>незавершённый</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
