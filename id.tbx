@@ -864,10 +864,6 @@
                 <langSet xml:lang="en"><tig><term>instance</term></tig></langSet>
                 <langSet xml:lang="id"><tig><term>instansi</term></tig></langSet>
             </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Fedora Messaging</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term></term></tig></langSet>
-            </termEntry>
         </body>
     </text>
 </martif>
