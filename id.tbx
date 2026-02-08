@@ -892,10 +892,6 @@
                 <langSet xml:lang="en"><tig><term>placeholders</term></tig></langSet>
                 <langSet xml:lang="id"><tig><term>pengganti</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>glossary</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term>glosarium</term></tig></langSet>
-            </termEntry>
         </body>
     </text>
 </martif>
