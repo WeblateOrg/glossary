@@ -864,6 +864,38 @@
                 <langSet xml:lang="en"><tig><term>instance</term></tig></langSet>
                 <langSet xml:lang="id"><tig><term>instansi</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>subtitle</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>takarir, subjudul</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>bookmark</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>markah</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>placeholder</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>pengganti</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>editor</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>penyuntingan</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>stale</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>lawas</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>legacy</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>lawas</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>placeholders</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>pengganti</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>glossary</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>glosarium</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
