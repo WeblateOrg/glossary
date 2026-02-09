@@ -253,7 +253,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>current</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term>saat ini</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>saat ini, terkini</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bilingual</term></tig></langSet>
@@ -289,7 +289,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>properties</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term>atribut</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>properti</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>false positives</term></tig></langSet>
@@ -301,7 +301,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>case-insensitive</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term>tidak-peka huruf-kapital</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>tidak peka huruf kapital</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>failing checks</term></tig></langSet>
@@ -400,7 +400,7 @@
             </termEntry>
             <termEntry id="components">
                 <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term>komponen-komponen</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>komponen</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pseudo</term></tig></langSet>
@@ -559,7 +559,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>issue</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term>terbit, masalah</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>terbit, masalah, isu</term></tig></langSet>
                 <note from="translator">@id</note>
             </termEntry>
             <termEntry>
@@ -891,6 +891,266 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>placeholders</term></tig></langSet>
                 <langSet xml:lang="id"><tig><term>pengganti</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>glossaries</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>daftar istilah, glosarium</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>outdated</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>ketinggalan zaman</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>flagged</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>ditandai</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>squashing</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>pelumatan</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>squashed</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>terlumat, dilumatkan</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>squash</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>lumatkan, lumat</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>component</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>komponen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>customize</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>sesuaikan</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>monolingual</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>ekabahasa</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>confirm</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>konfirmasikan</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>case-sensitive</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>peka huruf kapital</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>case insensitive</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>tidak peka huruf kapital</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>case sensitive</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>peka huruf kapital</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>context</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>konteks</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>translator</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>penerjemah</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>translators</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>penerjemah</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>languages</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>bahasa</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>standard</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>standar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>host</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>hos</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>client</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>klien</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>encoded</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>dienkodekan, dienkode</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>detail</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>rinci, rincian</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>details</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>rincian</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>detailed</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>terperinci</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>read-only</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>hanya baca</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>installed</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>dipasang</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>installation</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>pemasangan</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>install</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>pasang</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>installing</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>memasang</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>installs</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>pemasangan, memasang</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>prefix</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>prefiks, awalan</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>scope</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>cakupan</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>duration</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>durasi</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>scopes</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>cakupan</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>scoped</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>dicakup, mencakup</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>timestamp</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>stempel waktu</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>rebase</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>basis ulang</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>push</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>dorong</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>language</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>bahasa</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>permissions</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>izin</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>post</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>posting</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>posted</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>diposting</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>permission</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>izin</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>role</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>peran</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>roles</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>peran</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>errors</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>eror, galat, kesalahan</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>superuser</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>pengguna super</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>containing</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>berisi</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>contain</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>berisi</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>operation</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>operasi</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>contains</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>berisi</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>custom</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>kustom</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>deployment</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>penyebaran</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>deployments</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>penyebaran</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>deploy</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>sebaran, sebarkan</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>deploying</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>menyebarkan</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>deployed</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>disebarkan</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>maintainers</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>pemelihara</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>issues</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>terbit, masalah, isu</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>issuing</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>menerbitkan, penerbit</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>issued</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>diterbitkan</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>idea</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>ide</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>ideas</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>ide</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>folder</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>map</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>visibility</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>keterlihatan</term></tig></langSet>
             </termEntry>
         </body>
     </text>
