@@ -28,7 +28,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>disable</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term>nonaktif</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>nonaktifkan</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>links</term></tig></langSet>
@@ -134,7 +134,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term>privat, pribadi</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>privat</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>search</term></tig></langSet>
@@ -1151,6 +1151,58 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>visibility</term></tig></langSet>
                 <langSet xml:lang="id"><tig><term>keterlihatan</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>recently</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>baru-baru ini, terbaru, baru saja</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>recent</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>terbaru, terkini</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>log</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>catatan, pencatatan</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>logs</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>catatan, pencatatan</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>compatible</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>kompatibel</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>team</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>tim</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>teams</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>tim</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>terminated</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>diakhiri</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>terminate</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>akhiri, mengakhiri</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>bookmarks</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>markah</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>enable</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>aktifkan</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>disk</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>cakram</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>passphrase</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>frasa sandi</term></tig></langSet>
             </termEntry>
         </body>
     </text>
