@@ -607,8 +607,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>properties</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term/></tig></langSet>
-                <descrip>Ha formátum, fájlnév, GWT-hez vagy Java-hoz kapcsolódó fogalom, akkor nem fordítjuk.</descrip>
+                <langSet xml:lang="hu"><tig><term>tulajdonságok</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Download</term></tig></langSet>
@@ -620,7 +619,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>secondary language</term></tig></langSet>
-                <langSet xml:lang="hu"><tig><term></term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>másodlagos nyelv</term></tig></langSet>
             </termEntry>
         </body>
     </text>
