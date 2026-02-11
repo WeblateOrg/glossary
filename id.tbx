@@ -12,11 +12,11 @@
         <body>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>privilege</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term>privilege, hak istimewa, hak</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>privilege, hak istimewa, hak akses</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>privileges</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term>privilege, hak istimewa, hak</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>privilege, hak istimewa, hak akses</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
@@ -285,7 +285,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>viewer</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term>pemirsa</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>pengamat</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>properties</term></tig></langSet>
@@ -392,7 +392,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pseudolocale</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term>pelokalan semu</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>lokalisasi semu</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>component list</term></tig></langSet>
@@ -480,7 +480,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pseudolocales</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term>pelokalan semu</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>lokalisasi semu</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>confirming</term></tig></langSet>
@@ -1203,6 +1203,42 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>passphrase</term></tig></langSet>
                 <langSet xml:lang="id"><tig><term>frasa sandi</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>upgrades</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>peningkatan</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>upgrade</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>tingkatkan, peningkatan</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>upgrading</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>meningkatkan</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>upgraded</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>ditingkatkan</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>configured</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>dikonfigurasikan</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>configure</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>konfigurasikan</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>configuring</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>mengkonfigurasikan</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>configures</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>mengkonfigurasikan</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>configuration</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>konfigurasi</term></tig></langSet>
             </termEntry>
         </body>
     </text>
