@@ -608,7 +608,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>URL scheme</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term>skema URL</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>Scheme URL</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
@@ -906,7 +906,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>squashing</term></tig></langSet>
-                <langSet xml:lang="id"><tig><term>pelumatan</term></tig></langSet>
+                <langSet xml:lang="id"><tig><term>pelumatan, melumatkan</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>squashed</term></tig></langSet>
