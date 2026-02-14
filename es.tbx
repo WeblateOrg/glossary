@@ -494,7 +494,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Provider</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>Proveedor</term></tig></langSet>
-                <descrip>Proveedor del servicio en la Política de privacidad,etc</descrip>
+                <descrip>Service provider in the Privacy Policy, etc.</descrip>
             </termEntry>
             <termEntry id="Weblate">
                 <langSet xml:lang="en"><tig><term>hook</term></tig></langSet>
