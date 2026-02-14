@@ -1864,6 +1864,10 @@
                 <langSet xml:lang="en"><tig><term>non-disclosure agreement</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Vertraulichkeitsvereinbarung</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>labels</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Labels</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
