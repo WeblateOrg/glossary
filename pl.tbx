@@ -634,6 +634,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Provider</term></tig></langSet>
                 <langSet xml:lang="pl"><tig><term>Usługodawca</term></tig></langSet>
+                <descrip>Service provider in the Privacy Policy, etc.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Support Services</term></tig></langSet>
