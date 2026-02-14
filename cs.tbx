@@ -738,6 +738,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Provider</term></tig></langSet>
                 <langSet xml:lang="cs"><tig><term>Provozovatel</term></tig></langSet>
+                <descrip>Service provider in the Privacy Policy, etc.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Privacy policy</term></tig></langSet>
