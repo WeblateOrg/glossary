@@ -69,7 +69,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fixup</term></tig></langSet>
-                <langSet xml:lang="lv"><tig><term>izlabot</term></tig></langSet>
+                <langSet xml:lang="lv"><tig><term>labojumi</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>session</term></tig></langSet>
@@ -438,7 +438,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>secondary language</term></tig></langSet>
-                <langSet xml:lang="lv"><tig><term></term></tig></langSet>
+                <langSet xml:lang="lv"><tig><term>otrā valoda</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>Accept</term></tig></langSet>
+                <langSet xml:lang="lv"><tig><term>Apstiprināt</term></tig></langSet>
             </termEntry>
         </body>
     </text>
