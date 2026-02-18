@@ -870,7 +870,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term>url amigável</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>slug</term></tig></langSet>
+                <note from="translator">`Slug` é a parte de uma URL que pode ser legível tanto para humanos quanto para mecanismos de busca. É, normalmente, parte da URL de páginas em sistemas que fazem uso de URL amigável. O nome `slug` vem do inglês, significando "projétil", sendo este o codinome interno dado às notícias em redações de jornais para rápida referência às mesmas.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fixup</term></tig></langSet>
