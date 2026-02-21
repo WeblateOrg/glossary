@@ -583,6 +583,15 @@
                 <langSet xml:lang="en"><tig><term>array</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>formación</term></tig></langSet>
             </termEntry>
+            <termEntry id="Vocabulario">
+                <langSet xml:lang="en"><tig><term>Uploaded file</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>Archivo subido</term></tig></langSet>
+                <note from="translator">No se tara como cargado, sino que es un archivo que se sube por ftp a un almacén de datos</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>fuzzy</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>difuso</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
