@@ -192,7 +192,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
-                <langSet xml:lang="ta"><tig><term>வலைபெயர்ப்பு புரவலன் செய்யப்பட்டது</term></tig></langSet>
+                <langSet xml:lang="ta"><tig><term>வலைபெயர்ப்பு புரவலன்</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
