@@ -36,12 +36,12 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>consignar</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>consolidar</term></tig></langSet>
                 <descrip>git-commit</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pull</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>tirar, extraer</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>tirar, extraer, incorporar</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>push</term></tig></langSet>
@@ -79,7 +79,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bug</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>error</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>defecto</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
@@ -141,7 +141,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>clave</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>vale</term></tig></langSet>
                 <note from="translator">https://www.fundeu.es/recomendacion/token-alternativas-en-espanol/</note>
             </termEntry>
             <termEntry>
@@ -204,7 +204,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>issue</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>tema</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>asunto</term></tig></langSet>
                 <note from="translator">asunto</note>
             </termEntry>
             <termEntry>
@@ -301,7 +301,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>confirmar correo electrónico</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>consolidar correo-e</term></tig></langSet>
                 <descrip>e-mail address that will be used as committer</descrip>
             </termEntry>
             <termEntry>
@@ -556,6 +556,32 @@
                 <langSet xml:lang="en"><tig><term>capitals</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>capitalinas</term></tig></langSet>
                 <note from="translator">capitalinas o primera letra en mayúsculas</note>
+            </termEntry>
+            <termEntry id="2">
+                <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>vale</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Clear</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>Vaciar, Purgar</term></tig></langSet>
+                <note from="translator">Clean es limpiar, no se equivoquen</note>
+                <descrip>Clean es limpiar, no se equivoquen</descrip>
+            </termEntry>
+            <termEntry id="Economía">
+                <langSet xml:lang="en"><tig><term>bill</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>cargo (bill), factura(invoice)</term></tig></langSet>
+            </termEntry>
+            <termEntry id="Vocabulario">
+                <langSet xml:lang="en"><tig><term>Anthropic</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>Antrópico</term></tig></langSet>
+            </termEntry>
+            <termEntry id="Vocabulario">
+                <langSet xml:lang="en"><tig><term>checkout</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>checkout</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>array</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>formación</term></tig></langSet>
             </termEntry>
         </body>
     </text>
