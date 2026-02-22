@@ -104,19 +104,19 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>workflow</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>작업흐름</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>워크플로</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Filename</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>파일이름</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>파일명</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Push</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>밀어넣기</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>푸시</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>style</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>유형</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>스타일</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Option</term></tig></langSet>
@@ -220,7 +220,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>turned off</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>해제되다</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>비활성화됨</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>authentication</term></tig></langSet>
@@ -244,7 +244,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>milestones</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>이정표</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>기록</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Michal</term></tig></langSet>
@@ -395,8 +395,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>별일아님</term></tig></langSet>
-                <note from="translator">No Big Deal 신조어 / 다른 용어라면 수정</note>
+                <langSet xml:lang="ko"><tig><term>Next Business Day</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
@@ -608,7 +607,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pull request</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>풀 요청(pull request)</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>풀 리퀘스트</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>access restriction</term></tig></langSet>
@@ -767,7 +766,7 @@
             </termEntry>
             <termEntry id="readthedocs.org">
                 <langSet xml:lang="en"><tig><term>Read the Docs</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>리드 더 독스(Read the Docs)</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>Read the Docs</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Google OAuth 2</term></tig></langSet>
@@ -881,7 +880,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>secondary language</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
