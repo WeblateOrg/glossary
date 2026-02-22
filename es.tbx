@@ -592,6 +592,22 @@
                 <langSet xml:lang="en"><tig><term>fuzzy</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>difuso</term></tig></langSet>
             </termEntry>
+            <termEntry id="Vocabulario">
+                <langSet xml:lang="en"><tig><term>upgrade</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>mejora, modernizar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>contributed</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>aportado</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>event</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>suceso</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>release</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>versión</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
