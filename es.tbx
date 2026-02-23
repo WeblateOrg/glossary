@@ -542,7 +542,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>built-in</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>empotrado</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>integrado</term></tig></langSet>
             </termEntry>
             <termEntry id="Español - Informática">
                 <langSet xml:lang="en"><tig><term>middleware</term></tig></langSet>
@@ -607,6 +607,14 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>release</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>versión</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>render</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>representar</term></tig></langSet>
+            </termEntry>
+            <termEntry id="Weblate">
+                <langSet xml:lang="en"><tig><term>support</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>compatibilidad,apoyo, asistencia</term></tig></langSet>
             </termEntry>
         </body>
     </text>
