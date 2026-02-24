@@ -594,7 +594,8 @@
             </termEntry>
             <termEntry id="Vocabulario">
                 <langSet xml:lang="en"><tig><term>upgrade</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>mejora, modernizar</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>migrar</term></tig></langSet>
+                <note from="translator">Pasar de una versión a la siguiente, no actualiza, sino que moderniza o migra</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>contributed</term></tig></langSet>
@@ -615,6 +616,14 @@
             <termEntry id="Weblate">
                 <langSet xml:lang="en"><tig><term>support</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>compatibilidad,apoyo, asistencia</term></tig></langSet>
+            </termEntry>
+            <termEntry id="Weblate">
+                <langSet xml:lang="en"><tig><term>rendered</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>representado</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>upgrade</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>migración</term></tig></langSet>
             </termEntry>
         </body>
     </text>
