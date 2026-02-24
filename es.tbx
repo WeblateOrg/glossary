@@ -557,10 +557,6 @@
                 <langSet xml:lang="es"><tig><term>capitalinas</term></tig></langSet>
                 <note from="translator">capitalinas o primera letra en mayúsculas</note>
             </termEntry>
-            <termEntry id="2">
-                <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>vale</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Clear</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>Vaciar, Purgar</term></tig></langSet>
