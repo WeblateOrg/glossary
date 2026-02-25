@@ -141,7 +141,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>vale</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>toquen</term></tig></langSet>
                 <note from="translator">https://www.fundeu.es/recomendacion/token-alternativas-en-espanol/</note>
             </termEntry>
             <termEntry>
@@ -620,6 +620,18 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>upgrade</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>migración</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>milestone</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>hito</term></tig></langSet>
+            </termEntry>
+            <termEntry id="Vocabulario">
+                <langSet xml:lang="en"><tig><term>deprecate</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>descontinuar</term></tig></langSet>
+            </termEntry>
+            <termEntry id="Weblate">
+                <langSet xml:lang="en"><tig><term>placeholder</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>sustitutivo</term></tig></langSet>
             </termEntry>
         </body>
     </text>
