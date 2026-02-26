@@ -611,7 +611,7 @@
             </termEntry>
             <termEntry id="Weblate">
                 <langSet xml:lang="en"><tig><term>support</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>compatibilidad,apoyo, asistencia</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>compatibilidad,apoyo, asistencia, mantener</term></tig></langSet>
             </termEntry>
             <termEntry id="Weblate">
                 <langSet xml:lang="en"><tig><term>rendered</term></tig></langSet>
@@ -632,6 +632,30 @@
             <termEntry id="Weblate">
                 <langSet xml:lang="en"><tig><term>placeholder</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>sustitutivo</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>placeholder</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>marcador de posición</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>placeholder</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term> sustitutivo</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>sanitizing</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>Reparada </term></tig></langSet>
+            </termEntry>
+            <termEntry id="Weblate">
+                <langSet xml:lang="en"><tig><term>feedback</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>retroalimentación</term></tig></langSet>
+            </termEntry>
+            <termEntry id="Weblate">
+                <langSet xml:lang="en"><tig><term>health</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>fortaleza</term></tig></langSet>
+            </termEntry>
+            <termEntry id="Weblate">
+                <langSet xml:lang="en"><tig><term>corner case</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>casos especiales</term></tig></langSet>
             </termEntry>
         </body>
     </text>
