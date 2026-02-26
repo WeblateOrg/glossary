@@ -172,7 +172,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>email</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>전자우편</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>이메일</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>username</term></tig></langSet>
