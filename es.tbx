@@ -32,7 +32,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>event</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>suceso</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>evento</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
@@ -599,7 +599,8 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>event</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>suceso</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>evento</term></tig></langSet>
+                <note from="translator">suceso es success</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>release</term></tig></langSet>
@@ -656,6 +657,10 @@
             <termEntry id="Weblate">
                 <langSet xml:lang="en"><tig><term>corner case</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>casos especiales</term></tig></langSet>
+            </termEntry>
+            <termEntry id="Weblate">
+                <langSet xml:lang="en"><tig><term>handler</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>actuador</term></tig></langSet>
             </termEntry>
         </body>
     </text>
