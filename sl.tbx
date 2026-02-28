@@ -16,7 +16,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>abort</term></tig></langSet>
-                <langSet xml:lang="sl"><tig><term>prekini [▲]</term></tig></langSet>
+                <langSet xml:lang="sl"><tig><term>prekini</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>about (menuitem)</term></tig></langSet>
@@ -4831,7 +4831,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>secondary language</term></tig></langSet>
-                <langSet xml:lang="sl"><tig><term></term></tig></langSet>
+                <langSet xml:lang="sl"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
