@@ -399,7 +399,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term/></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>Celery</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>User</term></tig></langSet>
@@ -872,15 +872,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Download</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term/></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>다운로드</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>e-mail address</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term/></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>이메일 주소</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>secondary language</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term/></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>제2언어</term></tig></langSet>
             </termEntry>
         </body>
     </text>
