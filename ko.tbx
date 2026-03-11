@@ -350,7 +350,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>upload</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>올리기</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>업로드</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>payment</term></tig></langSet>
@@ -820,7 +820,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>번역 제외</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>번역 불가</term></tig></langSet>
                 <descrip>Glossary terms that should not be changed from the source language</descrip>
             </termEntry>
             <termEntry>
