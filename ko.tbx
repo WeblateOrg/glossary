@@ -188,7 +188,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>watch</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>관리</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>관심 등록</term></tig></langSet>
+                <note from="translator">This refers to "subscribing" to projects and other items in Weblate.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
@@ -392,6 +393,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
                 <langSet xml:lang="ko"><tig><term>애드온</term></tig></langSet>
+                <note from="translator">a piece of software which enhances another software application</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
@@ -881,6 +883,25 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>secondary language</term></tig></langSet>
                 <langSet xml:lang="ko"><tig><term>제2언어</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>remove</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>제거</term></tig></langSet>
+                <note from="translator">'제거' is generally acceptable. Depending on the context, ‘삭제’ may be preferable at times.</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>removal</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>제거</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>configure</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>구성</term></tig></langSet>
+                <note from="translator">Use "설정" for the UI to stay user-friendly, although "구성" remains the standard for server/infra contexts.</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>configuration</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>구성</term></tig></langSet>
+                <note from="translator">While "구성" is more appropriate for servers and infrastructure, "설정" is preferred in user-facing UI contexts to ensure better familiarity.</note>
             </termEntry>
         </body>
     </text>
