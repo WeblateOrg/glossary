@@ -234,7 +234,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>代符</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>權杖</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>invoice</term></tig></langSet>
@@ -1145,7 +1145,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>configure</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>組態</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>配置</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Synopsis</term></tig></langSet>
@@ -1189,7 +1189,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>threshold</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>門檻值</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>閾值</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>configures</term></tig></langSet>
@@ -1229,7 +1229,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>configuring</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>組態</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>配置中</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>remote</term></tig></langSet>
