@@ -1347,7 +1347,40 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>secondary language</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>UTF-8</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>UTF-16</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>ISO-8859-1</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>e-mail</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>endereço de correio eletrónico</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>using</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>utilizar</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>localization</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>tradução</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>admin</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>administrador</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Deduplicate</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>De duplicar</term></tig></langSet>
+                <note from="translator">De acordo com informação da Priberam: de duplicar (norma europeia, na grafia pós-Acordo Ortográfico)</note>
             </termEntry>
         </body>
     </text>
