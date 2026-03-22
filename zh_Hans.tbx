@@ -902,6 +902,11 @@
                 <langSet xml:lang="en"><tig><term>secondary language</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>第二语言</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>other</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>其它</term></tig></langSet>
+                <descrip>现代汉语中已不再区分“其他”和“其它”，正式场合应该统一使用“其他”。</descrip>
+            </termEntry>
         </body>
     </text>
 </martif>
