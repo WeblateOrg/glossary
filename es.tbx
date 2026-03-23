@@ -141,7 +141,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>toquen</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>vale</term></tig></langSet>
                 <note from="translator">https://www.fundeu.es/recomendacion/token-alternativas-en-espanol/</note>
             </termEntry>
             <termEntry>
@@ -179,7 +179,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>toquen</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>vale</term></tig></langSet>
                 <note from="translator">https://www.fundeu.es/recomendacion/token-alternativas-en-espanol/</note>
             </termEntry>
             <termEntry>
