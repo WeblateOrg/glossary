@@ -674,7 +674,7 @@
             </termEntry>
             <termEntry id="Chodzi o politykę firmy">
                 <langSet xml:lang="en"><tig><term>Policy</term></tig></langSet>
-                <langSet xml:lang="pl"><tig><term>Zasady</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>Polityka</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Price List</term></tig></langSet>
@@ -710,7 +710,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Processors</term></tig></langSet>
-                <langSet xml:lang="pl"><tig><term>Moderatorzy</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>Podmioty przetwarzające</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>legitimate</term></tig></langSet>
