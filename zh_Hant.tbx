@@ -161,7 +161,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>list</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>列表</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>清單</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>context</term></tig></langSet>
@@ -210,7 +210,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regular expression</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>常規表達式</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>正規表達式</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>check</term></tig></langSet>
@@ -342,7 +342,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>checklist</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>查核列表</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>查核清單</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bar chart</term></tig></langSet>
@@ -390,7 +390,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>configuration</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>組態</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>配置</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Afrihili</term></tig></langSet>
@@ -559,7 +559,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Regular expressions</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>常規表達式</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>正規表達式</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gitee</term></tig></langSet>
@@ -627,11 +627,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>component list</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>組件列表</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>組件清單</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>變更日誌</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>變更紀錄</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pull request</term></tig></langSet>
@@ -651,7 +651,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regex</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>常規表達式</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>正規表達式</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>domain</term></tig></langSet>
@@ -1085,7 +1085,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>invoking</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>調用</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>呼叫</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>PostgreSQL</term></tig></langSet>
@@ -1193,7 +1193,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>configures</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>組態</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>配置</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>script</term></tig></langSet>
@@ -1305,7 +1305,7 @@
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>configurations</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>組態</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>配置</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>modules</term></tig></langSet>
@@ -1325,11 +1325,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>configuration file</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>組態檔</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>配置檔</term></tig></langSet>
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>configuration files</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>組態檔</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>配置檔</term></tig></langSet>
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>files</term></tig></langSet>
