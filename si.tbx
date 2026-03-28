@@ -64,7 +64,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Subject</term></tig></langSet>
-                <langSet xml:lang="si"><tig><term/></tig></langSet>
+                <langSet xml:lang="si"><tig><term>මාතෘකාව</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Personal Data</term></tig></langSet>
@@ -204,7 +204,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Privacy Policy</term></tig></langSet>
-                <langSet xml:lang="si"><tig><term/></tig></langSet>
+                <langSet xml:lang="si"><tig><term>රහස්‍යතා ප්‍රතිපත්තිය</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Terms of Service</term></tig></langSet>
@@ -410,7 +410,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>secondary language</term></tig></langSet>
-                <langSet xml:lang="si"><tig><term></term></tig></langSet>
+                <langSet xml:lang="si"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
