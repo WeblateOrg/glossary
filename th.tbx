@@ -66,7 +66,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Subject</term></tig></langSet>
-                <langSet xml:lang="th"><tig><term/></tig></langSet>
+                <langSet xml:lang="th"><tig><term>หัวข้อ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Personal Data</term></tig></langSet>
@@ -194,7 +194,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
-                <langSet xml:lang="th"><tig><term/></tig></langSet>
+                <langSet xml:lang="th"><tig><term>บริการ Weblate บนคลาวด์</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
@@ -210,7 +210,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Privacy Policy</term></tig></langSet>
-                <langSet xml:lang="th"><tig><term/></tig></langSet>
+                <langSet xml:lang="th"><tig><term>นโยบายความเป็นส่วนตัว</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Terms of Service</term></tig></langSet>
@@ -317,7 +317,7 @@
             </termEntry>
             <termEntry id="Past tense">
                 <langSet xml:lang="en"><tig><term>translated</term></tig></langSet>
-                <langSet xml:lang="th"><tig><term/></tig></langSet>
+                <langSet xml:lang="th"><tig><term>แปลแล้ว</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>glossary</term></tig></langSet>
@@ -341,7 +341,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Screenshots</term></tig></langSet>
-                <langSet xml:lang="th"><tig><term/></tig></langSet>
+                <langSet xml:lang="th"><tig><term>ภาพหน้าจอ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>authorship</term></tig></langSet>
@@ -416,7 +416,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>secondary language</term></tig></langSet>
-                <langSet xml:lang="th"><tig><term></term></tig></langSet>
+                <langSet xml:lang="th"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
