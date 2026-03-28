@@ -168,7 +168,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
-                <langSet xml:lang="peo"><tig><term/></tig></langSet>
+                <langSet xml:lang="peo"><tig><term>میزبان weblate</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
@@ -390,7 +390,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>secondary language</term></tig></langSet>
-                <langSet xml:lang="peo"><tig><term></term></tig></langSet>
+                <langSet xml:lang="peo"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
