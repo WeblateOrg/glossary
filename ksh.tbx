@@ -88,7 +88,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Subject</term></tig></langSet>
-                <langSet xml:lang="ksh"><tig><term/></tig></langSet>
+                <langSet xml:lang="ksh"><tig><term>Teema</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Personal Data</term></tig></langSet>
@@ -434,7 +434,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>secondary language</term></tig></langSet>
-                <langSet xml:lang="ksh"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ksh"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
