@@ -385,7 +385,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Accept</term></tig></langSet>
-                <langSet xml:lang="hi"><tig><term/></tig></langSet>
+                <langSet xml:lang="hi"><tig><term>स्वीकारें</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>terminology</term></tig></langSet>
