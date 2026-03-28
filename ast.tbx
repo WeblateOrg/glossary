@@ -64,7 +64,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Subject</term></tig></langSet>
-                <langSet xml:lang="ast"><tig><term/></tig></langSet>
+                <langSet xml:lang="ast"><tig><term>Asuntu</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Personal Data</term></tig></langSet>
@@ -204,7 +204,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Privacy Policy</term></tig></langSet>
-                <langSet xml:lang="ast"><tig><term/></tig></langSet>
+                <langSet xml:lang="ast"><tig><term>Política de privacidá</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Terms of Service</term></tig></langSet>
@@ -335,7 +335,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Screenshots</term></tig></langSet>
-                <langSet xml:lang="ast"><tig><term/></tig></langSet>
+                <langSet xml:lang="ast"><tig><term>Imaxes de pantalla</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>authorship</term></tig></langSet>
@@ -410,7 +410,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>secondary language</term></tig></langSet>
-                <langSet xml:lang="ast"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ast"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
