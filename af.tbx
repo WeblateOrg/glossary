@@ -293,7 +293,7 @@
             </termEntry>
             <termEntry id="Past tense">
                 <langSet xml:lang="en"><tig><term>translated</term></tig></langSet>
-                <langSet xml:lang="af"><tig><term/></tig></langSet>
+                <langSet xml:lang="af"><tig><term>vertaal</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translator</term></tig></langSet>
@@ -380,7 +380,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>secondary language</term></tig></langSet>
-                <langSet xml:lang="af"><tig><term></term></tig></langSet>
+                <langSet xml:lang="af"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
