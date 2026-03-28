@@ -204,7 +204,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
-                <langSet xml:lang="fa"><tig><term/></tig></langSet>
+                <langSet xml:lang="fa"><tig><term>وبلیت میزبانی شده</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
@@ -351,7 +351,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Screenshots</term></tig></langSet>
-                <langSet xml:lang="fa"><tig><term/></tig></langSet>
+                <langSet xml:lang="fa"><tig><term>نماگرفت‌ها</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>authorship</term></tig></langSet>
@@ -426,7 +426,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>secondary language</term></tig></langSet>
-                <langSet xml:lang="fa"><tig><term></term></tig></langSet>
+                <langSet xml:lang="fa"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
