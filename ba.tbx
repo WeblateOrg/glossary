@@ -176,7 +176,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Download</term></tig></langSet>
-                <langSet xml:lang="ba"><tig><term/></tig></langSet>
+                <langSet xml:lang="ba"><tig><term>Күсереп алырға</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>e-mail address</term></tig></langSet>
@@ -184,7 +184,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>secondary language</term></tig></langSet>
-                <langSet xml:lang="ba"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ba"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
