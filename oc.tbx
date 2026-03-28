@@ -1021,7 +1021,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Subject</term></tig></langSet>
-                <langSet xml:lang="oc"><tig><term/></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Tèma</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Personal Data</term></tig></langSet>
@@ -1145,7 +1145,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
-                <langSet xml:lang="oc"><tig><term/></tig></langSet>
+                <langSet xml:lang="oc"><tig><term>Hosted Weblate</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
@@ -1363,7 +1363,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>secondary language</term></tig></langSet>
-                <langSet xml:lang="oc"><tig><term></term></tig></langSet>
+                <langSet xml:lang="oc"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
