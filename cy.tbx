@@ -27165,7 +27165,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Subject</term></tig></langSet>
-                <langSet xml:lang="cy"><tig><term/></tig></langSet>
+                <langSet xml:lang="cy"><tig><term>Pwnc</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Personal Data</term></tig></langSet>
@@ -27267,7 +27267,7 @@ Does dim gair yn y Gymraeg am 'slug'.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
-                <langSet xml:lang="cy"><tig><term/></tig></langSet>
+                <langSet xml:lang="cy"><tig><term>Hosted Weblate</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
@@ -27378,7 +27378,7 @@ Does dim gair yn y Gymraeg am 'slug'.</note>
             </termEntry>
             <termEntry id="Past tense">
                 <langSet xml:lang="en"><tig><term>translated</term></tig></langSet>
-                <langSet xml:lang="cy"><tig><term/></tig></langSet>
+                <langSet xml:lang="cy"><tig><term>cyfieithwyd</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>glossary</term></tig></langSet>
@@ -27465,7 +27465,7 @@ Does dim gair yn y Gymraeg am 'slug'.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>secondary language</term></tig></langSet>
-                <langSet xml:lang="cy"><tig><term></term></tig></langSet>
+                <langSet xml:lang="cy"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
