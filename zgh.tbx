@@ -357,7 +357,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Accept</term></tig></langSet>
-                <langSet xml:lang="zgh"><tig><term/></tig></langSet>
+                <langSet xml:lang="zgh"><tig><term>ⵉⵔⵉ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>terminology</term></tig></langSet>
@@ -386,7 +386,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>secondary language</term></tig></langSet>
-                <langSet xml:lang="zgh"><tig><term></term></tig></langSet>
+                <langSet xml:lang="zgh"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
