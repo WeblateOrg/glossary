@@ -64,7 +64,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Subject</term></tig></langSet>
-                <langSet xml:lang="fur"><tig><term/></tig></langSet>
+                <langSet xml:lang="fur"><tig><term>Argoment</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Personal Data</term></tig></langSet>
@@ -335,7 +335,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Screenshots</term></tig></langSet>
-                <langSet xml:lang="fur"><tig><term/></tig></langSet>
+                <langSet xml:lang="fur"><tig><term>Videade</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>authorship</term></tig></langSet>
@@ -442,7 +442,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>secondary language</term></tig></langSet>
-                <langSet xml:lang="fur"><tig><term></term></tig></langSet>
+                <langSet xml:lang="fur"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
