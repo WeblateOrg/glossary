@@ -299,7 +299,7 @@
             </termEntry>
             <termEntry id="Past tense">
                 <langSet xml:lang="en"><tig><term>translated</term></tig></langSet>
-                <langSet xml:lang="lzh"><tig><term/></tig></langSet>
+                <langSet xml:lang="lzh"><tig><term>已译</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>glossary</term></tig></langSet>
@@ -398,7 +398,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>secondary language</term></tig></langSet>
-                <langSet xml:lang="lzh"><tig><term></term></tig></langSet>
+                <langSet xml:lang="lzh"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
