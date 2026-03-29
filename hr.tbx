@@ -772,6 +772,22 @@
                 <langSet xml:lang="en"><tig><term>rewriting</term></tig></langSet>
                 <langSet xml:lang="hr"><tig><term>preraditi</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>patterns</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>uzorci</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pattern</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>uzorak</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>extensions</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>proširenja</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>file extension</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>datotečni sufiks</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
