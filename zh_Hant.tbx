@@ -975,7 +975,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>IRC client</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>IRC 客戶端</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>IRC 用戶端</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>IRC network</term></tig></langSet>
