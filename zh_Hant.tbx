@@ -61,11 +61,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tab</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>頁籤</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>分頁</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>mailing list</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>郵遞清單</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>郵件清單</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>email</term></tig></langSet>
@@ -129,7 +129,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>instance</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>執行個體</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>實例</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Matrix</term></tig></langSet>
@@ -214,7 +214,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>check</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>查核</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>檢查</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
@@ -266,11 +266,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>failing check</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>未通過查核</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>未通過檢查</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dismissed check</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>略過的查核</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>略過的檢查</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation memory</term></tig></langSet>
@@ -342,7 +342,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>checklist</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>查核清單</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>檢查清單</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bar chart</term></tig></langSet>
@@ -817,7 +817,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>source code</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>來源碼</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>原始碼</term></tig></langSet>
                 <note from="translator">請參見: https://github.com/microsoft/vscode-loc/issues/1220</note>
             </termEntry>
             <termEntry>
@@ -1281,7 +1281,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>navigation bar</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>導航條</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>導覽條</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>networks</term></tig></langSet>
@@ -1542,7 +1542,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>tabs</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>頁籤</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>分頁</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>packages</term></tig></langSet>
