@@ -418,7 +418,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>secondary language</term></tig></langSet>
-                <langSet xml:lang="sk"><tig><term></term></tig></langSet>
+                <langSet xml:lang="sk"><tig><term>sekundárny jazyk</term></tig></langSet>
             </termEntry>
         </body>
     </text>
