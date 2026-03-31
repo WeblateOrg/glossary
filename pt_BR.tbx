@@ -1120,10 +1120,6 @@
                 <langSet xml:lang="pt_BR"><tig><term>reStructuredText</term></tig></langSet>
                 <note from="translator">Markup language name</note>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term>complemento</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Automattic</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>Automattic</term></tig></langSet>
