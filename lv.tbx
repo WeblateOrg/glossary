@@ -183,10 +183,6 @@
                 <langSet xml:lang="en"><tig><term>strings</term></tig></langSet>
                 <langSet xml:lang="lv"><tig><term>virknes</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
-                <langSet xml:lang="lv"><tig><term>papildinājums</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>setting</term></tig></langSet>
                 <langSet xml:lang="lv"><tig><term>parametrs, iestatījums, iestatījuma mainīgais, iestatījuma parametrs</term></tig></langSet>
