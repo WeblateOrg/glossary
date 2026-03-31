@@ -604,7 +604,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>надстройка</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>дополнение</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
@@ -693,11 +693,12 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>надстройка</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>дополнение</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add-ons</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>расширения, дополнения, надстройки</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>дополнения</term></tig></langSet>
+                <note from="translator">дополнения для автоматизации перевода проекта на Weblate</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>PR</term></tig></langSet>
