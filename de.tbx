@@ -1868,6 +1868,10 @@
                 <langSet xml:lang="en"><tig><term>labels</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Labels</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>machinery</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Maschinendienste</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
