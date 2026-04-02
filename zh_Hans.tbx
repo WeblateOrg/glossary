@@ -907,6 +907,14 @@
                 <langSet xml:lang="zh_Hans"><tig><term>其它</term></tig></langSet>
                 <descrip>现代汉语中已不再区分“其他”和“其它”，正式场合应该统一使用“其他”。</descrip>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>category</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>类别</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>categories</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>类别</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
