@@ -402,7 +402,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Download</term></tig></langSet>
-                <langSet xml:lang="hy"><tig><term/></tig></langSet>
+                <langSet xml:lang="hy"><tig><term>Ներբեռնել</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>e-mail address</term></tig></langSet>
