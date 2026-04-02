@@ -728,6 +728,11 @@
                 <langSet xml:lang="en"><tig><term>strings_encoding</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term/></tig></langSet>
             </termEntry>
+            <termEntry id="Weblate">
+                <langSet xml:lang="en"><tig><term>commits</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>efectuaciones? HELP</term></tig></langSet>
+                <note from="translator">asignar, cometer, confirmar, efectuar, enviar,</note>
+            </termEntry>
         </body>
     </text>
 </martif>
