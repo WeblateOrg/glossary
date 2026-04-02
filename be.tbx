@@ -280,7 +280,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Subject</term></tig></langSet>
-                <langSet xml:lang="be"><tig><term/></tig></langSet>
+                <langSet xml:lang="be"><tig><term>Тэма</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Personal Data</term></tig></langSet>
@@ -392,7 +392,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
-                <langSet xml:lang="be"><tig><term/></tig></langSet>
+                <langSet xml:lang="be"><tig><term>Хостынг Weblate</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
@@ -412,7 +412,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Privacy Policy</term></tig></langSet>
-                <langSet xml:lang="be"><tig><term/></tig></langSet>
+                <langSet xml:lang="be"><tig><term>Палітыка прыватнасці</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>project</term></tig></langSet>
@@ -531,7 +531,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Screenshots</term></tig></langSet>
-                <langSet xml:lang="be"><tig><term/></tig></langSet>
+                <langSet xml:lang="be"><tig><term>Здымкі экрана</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>authorship</term></tig></langSet>
@@ -618,7 +618,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>secondary language</term></tig></langSet>
-                <langSet xml:lang="be"><tig><term></term></tig></langSet>
+                <langSet xml:lang="be"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
