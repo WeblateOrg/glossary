@@ -393,10 +393,6 @@
                 <langSet xml:lang="zh_Hant"><tig><term>配置</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Afrihili</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>阿非利希利語</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Propagate</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>衍遞</term></tig></langSet>
             </termEntry>
