@@ -1433,11 +1433,6 @@
                 <langSet xml:lang="zh_Hant"><tig><term>檢閱</term></tig></langSet>
                 <note from="translator">For configuration</note>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>review</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>審閱</term></tig></langSet>
-                <descrip>For code review</descrip>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pending</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>未決</term></tig></langSet>
