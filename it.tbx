@@ -16,7 +16,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>failed</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term>non riuscito</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>fallito</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>underscore</term></tig></langSet>
@@ -28,7 +28,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>merge</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term>merge</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>unisci</term></tig></langSet>
                 <descrip>Git merge</descrip>
             </termEntry>
             <termEntry>
@@ -37,7 +37,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term>privata</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>privato</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>search</term></tig></langSet>
@@ -73,7 +73,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Personal Data</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term>Dati Personali</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>Dati personali</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Cookies</term></tig></langSet>
@@ -81,7 +81,7 @@
             </termEntry>
             <termEntry id="XML Tag">
                 <langSet xml:lang="en"><tig><term>XML Tag</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term>Tag XML</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>Bollino XML</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>variants</term></tig></langSet>
@@ -89,7 +89,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term>token</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>gettone</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>current</term></tig></langSet>
@@ -105,7 +105,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term>analizzare</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>analizza</term></tig></langSet>
                 <note from="translator">analizzare o interpretare un testo, una pagina</note>
             </termEntry>
             <termEntry>
@@ -122,7 +122,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term>changelog</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>resoconto modifiche</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pull request</term></tig></langSet>
@@ -170,7 +170,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term>commit</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>affida</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translator</term></tig></langSet>
@@ -206,7 +206,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term>e-mail di commit</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>e-mail affidamento</term></tig></langSet>
                 <descrip>e-mail address that will be used as committer</descrip>
             </termEntry>
             <termEntry>
@@ -293,7 +293,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term>repository</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>deposito</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>text direction</term></tig></langSet>
@@ -301,7 +301,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>authorship</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term>autore</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>paternità</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
@@ -309,7 +309,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term>intraducibile</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>non traducibile</term></tig></langSet>
                 <descrip>Glossary terms that should not be changed from the source language</descrip>
             </termEntry>
             <termEntry>
@@ -351,7 +351,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>soft hyphen</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term>trattino facoltativo</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>trattino separatore</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>persona of translator</term></tig></langSet>
@@ -363,7 +363,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>team</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term>team</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>squadra</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Passphrase</term></tig></langSet>
@@ -371,7 +371,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term>Hosted Weblate</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>Ospitato da Weblate</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Subversion</term></tig></langSet>
@@ -387,7 +387,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>This Policy</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term>La presente Informativa</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>Questa Informativa</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Support Services</term></tig></langSet>
@@ -395,11 +395,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>source language</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term>lingua di origine</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>lingua sorgente</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>contributor license agreement</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term>contratto di licenza per collaboratori</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>contratto di licenza collaboratori</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Automattic</term></tig></langSet>
@@ -420,7 +420,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>payload</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term>payload</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>carico utile</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>worker</term></tig></langSet>
@@ -428,7 +428,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Add-on</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term>Add-on</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>Complemento</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>agreement</term></tig></langSet>
@@ -436,7 +436,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>branch</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term>branch</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>ramo</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>company </term></tig></langSet>
@@ -444,11 +444,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Category Breakdown</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term>Ripartizione per categoria</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>Ripartizione categoria</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Download</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term>Download</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>Scarica</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>occurrences</term></tig></langSet>
