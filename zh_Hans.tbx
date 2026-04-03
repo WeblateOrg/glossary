@@ -915,12 +915,6 @@
                 <langSet xml:lang="en"><tig><term>categories</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>类别</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>review</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>审校</term></tig></langSet>
-                <note from="translator">语言优化、纠错、润色：修正语法、用词、拼写、术语、文风，让译文更规范通顺，聚焦于‌语言质量提升</note>
-                <descrip>语言优化、纠错、润色：修正语法、用词、拼写、术语、文风，让译文更规范通顺</descrip>
-            </termEntry>
             <termEntry id="2">
                 <langSet xml:lang="en"><tig><term>review</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>审核</term></tig></langSet>
