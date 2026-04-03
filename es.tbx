@@ -200,8 +200,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>issue</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>asunto</term></tig></langSet>
-                <note from="translator">asunto</note>
+                <langSet xml:lang="es"><tig><term>incidencia</term></tig></langSet>
+                <note from="translator">Se cambia asunto por incidencia. Es más apropiado para los software de seguimiento de problemas.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>access restriction</term></tig></langSet>
@@ -732,6 +732,18 @@
                 <langSet xml:lang="en"><tig><term>commits</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>efectuaciones? HELP</term></tig></langSet>
                 <note from="translator">asignar, cometer, confirmar, efectuar, enviar,</note>
+            </termEntry>
+            <termEntry id="Weblate">
+                <langSet xml:lang="en"><tig><term>issue</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>incidencia</term></tig></langSet>
+            </termEntry>
+            <termEntry id="Weblate1">
+                <langSet xml:lang="en"><tig><term>issue</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>emitir</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Issue</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>incidencia</term></tig></langSet>
             </termEntry>
         </body>
     </text>
