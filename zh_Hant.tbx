@@ -221,10 +221,6 @@
                 <langSet xml:lang="zh_Hant"><tig><term>組件</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>clone</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>拓製</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>儀表板</term></tig></langSet>
             </termEntry>
