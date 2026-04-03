@@ -920,6 +920,12 @@
                 <langSet xml:lang="zh_Hans"><tig><term>审核</term></tig></langSet>
                 <note from="translator">判断、批准、放行：决定译文是否合格、是否写入翻译文件，聚焦于‌流程性决策</note>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>review</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>审校</term></tig></langSet>
+                <note from="translator">语言优化、纠错、润色：修正语法、用词、拼写、术语、文风，让译文更规范通顺，聚焦于‌语言质量提升，单纯的语言校对、质量检查</note>
+                <descrip>语言优化、纠错、润色：修正语法、用词、拼写、术语、文风，让译文更规范通顺，聚焦于‌语言质量提升</descrip>
+            </termEntry>
         </body>
     </text>
 </martif>
