@@ -330,7 +330,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>구성요소들</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>구성요소</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Update</term></tig></langSet>
@@ -461,7 +461,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>drop-down menu</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>내려 펼침 차림표</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>드롭다운 메뉴</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>locale code</term></tig></langSet>
@@ -902,6 +902,10 @@
                 <langSet xml:lang="en"><tig><term>configuration</term></tig></langSet>
                 <langSet xml:lang="ko"><tig><term>구성</term></tig></langSet>
                 <note from="translator">While "구성" is more appropriate for servers and infrastructure, "설정" is preferred in user-facing UI contexts to ensure better familiarity.</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>E-mail</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>이메일</term></tig></langSet>
             </termEntry>
         </body>
     </text>
