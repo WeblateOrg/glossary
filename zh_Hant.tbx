@@ -309,10 +309,6 @@
                 <langSet xml:lang="zh_Hant"><tig><term>字串鍵</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>screenshot</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>螢幕擷圖</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>nearby</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>相鄰</term></tig></langSet>
             </termEntry>
