@@ -871,10 +871,6 @@
                 <langSet xml:lang="zh_Hant"><tig><term>無</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Review Strings</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>檢閱字串</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Manage repository</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>管理儲存庫</term></tig></langSet>
             </termEntry>
