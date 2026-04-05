@@ -264,7 +264,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>remove</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>删除</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>移除</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>role</term></tig></langSet>
