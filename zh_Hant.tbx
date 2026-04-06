@@ -750,7 +750,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>template</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>模版</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>範本</term></tig></langSet>
                 <note from="translator">翻譯檔的原文母本稱為模版，是給譯者翻模成各語言翻譯檔用的。</note>
             </termEntry>
             <termEntry>
