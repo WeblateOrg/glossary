@@ -745,6 +745,10 @@
                 <langSet xml:lang="en"><tig><term>Issue</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>incidencia</term></tig></langSet>
             </termEntry>
+            <termEntry id="Vocabulario">
+                <langSet xml:lang="en"><tig><term>snippet</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>retazo, fragmento</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
