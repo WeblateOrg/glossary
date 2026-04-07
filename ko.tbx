@@ -96,7 +96,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Merge</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>합치기</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>병합</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>message</term></tig></langSet>
@@ -458,6 +458,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Source strings</term></tig></langSet>
                 <langSet xml:lang="ko"><tig><term>원문 문자열</term></tig></langSet>
+                <note from="translator">Rendered as '원문 문자열', as 'source' functions as an alias for 'source text' ('원문') within the terminology.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>drop-down menu</term></tig></langSet>
@@ -522,6 +523,8 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
                 <langSet xml:lang="ko"><tig><term>원문</term></tig></langSet>
+                <note from="translator">Rendered as '원문' as a translation abbreviation, though it can also be interpreted as '원본' or '소스' in broader technical applications.</note>
+                <descrip>as translation abbr.</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>placeholders</term></tig></langSet>
@@ -690,6 +693,7 @@
             <termEntry id="alias &quot;source text&quot;">
                 <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
                 <langSet xml:lang="ko"><tig><term>원문</term></tig></langSet>
+                <note from="translator">Translated as '원문' as an alias for 'source text', though the term 'source' can also be interpreted as '원본' or '소스' in other technical applications.</note>
             </termEntry>
             <termEntry id="alias &quot;Zen mode&quot;">
                 <langSet xml:lang="en"><tig><term>Zen</term></tig></langSet>
