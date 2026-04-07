@@ -726,7 +726,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>e-mail</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>郵件信箱</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>電子郵件</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>teams</term></tig></langSet>
