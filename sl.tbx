@@ -52,11 +52,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>activity</term></tig></langSet>
-                <langSet xml:lang="sl"><tig><term>dejavnost [▲]</term></tig></langSet>
+                <langSet xml:lang="sl"><tig><term>dejavnost</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>adapter</term></tig></langSet>
-                <langSet xml:lang="sl"><tig><term>prilagodilnik</term></tig></langSet>
+                <langSet xml:lang="sl"><tig><term>vmesnik</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>adaptive</term></tig></langSet>
@@ -312,7 +312,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>backup</term></tig></langSet>
-                <langSet xml:lang="sl"><tig><term>varnostna kopija, ustvari varnostno kopijo [▲]</term></tig></langSet>
+                <langSet xml:lang="sl"><tig><term>varnostna kopija, ustvari varnostno kopijo</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>backward compatibility</term></tig></langSet>
@@ -4831,7 +4831,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>secondary language</term></tig></langSet>
-                <langSet xml:lang="sl"><tig><term/></tig></langSet>
+                <langSet xml:lang="sl"><tig><term>drugotni jezik</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>backup</term></tig></langSet>
+                <langSet xml:lang="sl"><tig><term>varnostna kopija</term></tig></langSet>
             </termEntry>
         </body>
     </text>
