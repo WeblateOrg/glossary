@@ -1101,7 +1101,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation file</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>翻譯檔</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>翻譯檔案</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>filesystem</term></tig></langSet>
@@ -1301,11 +1301,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>configuration file</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>配置檔</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>配置檔案</term></tig></langSet>
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>configuration files</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>配置檔</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>配置檔案</term></tig></langSet>
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>files</term></tig></langSet>
@@ -1582,7 +1582,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>託管的 Weblate</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>Hosted Weblate</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>reStructuredText</term></tig></langSet>
