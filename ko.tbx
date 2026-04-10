@@ -911,6 +911,10 @@
                 <langSet xml:lang="en"><tig><term>E-mail</term></tig></langSet>
                 <langSet xml:lang="ko"><tig><term>이메일</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>호스팅된 Weblate</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
