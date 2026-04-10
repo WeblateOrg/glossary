@@ -369,10 +369,6 @@
                 <langSet xml:lang="zh_Hant"><tig><term>個人檔案</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Contributor agreement</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>貢獻者協議</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>subscription</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>約期訂購</term></tig></langSet>
             </termEntry>
