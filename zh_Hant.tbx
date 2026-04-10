@@ -370,7 +370,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Contributor agreement</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>貢獻者協議書</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>貢獻者協議</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>subscription</term></tig></langSet>
@@ -519,7 +519,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bug</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>臭蟲</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>漏洞</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
