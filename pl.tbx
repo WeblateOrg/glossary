@@ -835,6 +835,11 @@
                 <langSet xml:lang="en"><tig><term>e-mail address</term></tig></langSet>
                 <langSet xml:lang="pl"><tig><term>adres e-mail</term></tig></langSet>
             </termEntry>
+            <termEntry id="Invitations sent out to many users at once, from a single action">
+                <langSet xml:lang="en"><tig><term>Bulk invitations</term></tig></langSet>
+                <langSet xml:lang="pl"><tig><term>zaproszenia grupowe</term></tig></langSet>
+                <note from="translator">An invitation that's sent out to many recipients at once.</note>
+            </termEntry>
         </body>
     </text>
 </martif>
