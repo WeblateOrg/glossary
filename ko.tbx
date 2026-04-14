@@ -915,6 +915,11 @@
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
                 <langSet xml:lang="ko"><tig><term>호스팅된 Weblate</term></tig></langSet>
             </termEntry>
+            <termEntry id="Propagate refers to the automated process where a translation made in one component is instantly applied to all other components sharing the same source string.">
+                <langSet xml:lang="en"><tig><term>Propagate</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>연동 / 전파</term></tig></langSet>
+                <note from="translator">Using '연동' for objects and '전파' for events to improve Korean UX clarity.</note>
+            </termEntry>
         </body>
     </text>
 </martif>
