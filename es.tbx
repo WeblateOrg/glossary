@@ -565,7 +565,7 @@
             </termEntry>
             <termEntry id="Vocabulario">
                 <langSet xml:lang="en"><tig><term>checkout</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>checkout</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>extracción</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>array</term></tig></langSet>
@@ -744,6 +744,26 @@
             <termEntry id="Vocabulario">
                 <langSet xml:lang="en"><tig><term>snippet</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>retazo, fragmento</term></tig></langSet>
+            </termEntry>
+            <termEntry id="Weblate">
+                <langSet xml:lang="en"><tig><term>snippet</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>retazo</term></tig></langSet>
+            </termEntry>
+            <termEntry id="Weblate">
+                <langSet xml:lang="en"><tig><term>committed</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>efectuadas</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>flags</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>indicadores</term></tig></langSet>
+            </termEntry>
+            <termEntry id="Weblate">
+                <langSet xml:lang="en"><tig><term>sanitized</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>suavizado</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>outbound</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>saliente</term></tig></langSet>
             </termEntry>
         </body>
     </text>
