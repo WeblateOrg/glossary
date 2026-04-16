@@ -680,7 +680,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Terms of Service</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>서비스 약관</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>서비스 이용약관</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>project</term></tig></langSet>
@@ -919,6 +919,14 @@
                 <langSet xml:lang="en"><tig><term>Propagate</term></tig></langSet>
                 <langSet xml:lang="ko"><tig><term>연동 / 전파</term></tig></langSet>
                 <note from="translator">Using '연동' for objects and '전파' for events to improve Korean UX clarity.</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Terms of Use</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>이용약관</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Terms and Conditions</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>이용약관</term></tig></langSet>
             </termEntry>
         </body>
     </text>
