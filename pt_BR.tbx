@@ -1148,6 +1148,10 @@
                 <langSet xml:lang="en"><tig><term>secondary language</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>idioma secundário</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>translation memory</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>memória de tradução</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
