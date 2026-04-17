@@ -137,7 +137,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>comment</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>評註</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>評論</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Authored</term></tig></langSet>
@@ -659,11 +659,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>unresolved comment</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>未解決的評註</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>未解決的評論</term></tig></langSet>
             </termEntry>
             <termEntry id="opposite">
                 <langSet xml:lang="en"><tig><term>resolved comment</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>已解決的評註</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>已解決的評論</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>URL scheme</term></tig></langSet>
