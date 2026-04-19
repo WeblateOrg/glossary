@@ -765,6 +765,10 @@
                 <langSet xml:lang="en"><tig><term>outbound</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>saliente</term></tig></langSet>
             </termEntry>
+            <termEntry id="Adj que refiere a los cambios que afectan a todo el sitio web">
+                <langSet xml:lang="en"><tig><term>site-wide </term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>general del sitio</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
