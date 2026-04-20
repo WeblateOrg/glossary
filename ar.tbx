@@ -102,7 +102,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Cookies</term></tig></langSet>
-                <langSet xml:lang="ar"><tig><term/></tig></langSet>
+                <langSet xml:lang="ar"><tig><term>ملفات تعريف الإرتباط</term></tig></langSet>
             </termEntry>
             <termEntry id="XML Tag">
                 <langSet xml:lang="en"><tig><term>XML Tag</term></tig></langSet>
@@ -444,7 +444,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>secondary language</term></tig></langSet>
-                <langSet xml:lang="ar"><tig><term></term></tig></langSet>
+                <langSet xml:lang="ar"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
