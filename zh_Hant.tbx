@@ -286,7 +286,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>email</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>電子信箱</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>電子郵件</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>squash</term></tig></langSet>
