@@ -84,7 +84,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Cookies</term></tig></langSet>
-                <langSet xml:lang="lt"><tig><term/></tig></langSet>
+                <langSet xml:lang="lt"><tig><term>Slapukai</term></tig></langSet>
             </termEntry>
             <termEntry id="XML Tag">
                 <langSet xml:lang="en"><tig><term>XML Tag</term></tig></langSet>
@@ -426,7 +426,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>secondary language</term></tig></langSet>
-                <langSet xml:lang="lt"><tig><term></term></tig></langSet>
+                <langSet xml:lang="lt"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
