@@ -72,7 +72,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Cookies</term></tig></langSet>
-                <langSet xml:lang="cv"><tig><term/></tig></langSet>
+                <langSet xml:lang="cv"><tig><term>Cookies файлсем</term></tig></langSet>
             </termEntry>
             <termEntry id="XML Tag">
                 <langSet xml:lang="en"><tig><term>XML Tag</term></tig></langSet>
