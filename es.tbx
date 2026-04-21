@@ -53,7 +53,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>watched</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>mirado</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>monitorizado</term></tig></langSet>
                 <note from="translator">Incluso visto</note>
             </termEntry>
             <termEntry>
