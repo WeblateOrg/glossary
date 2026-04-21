@@ -1620,6 +1620,14 @@
                 <langSet xml:lang="en"><tig><term>manifest</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>資訊清單</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>preset</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>預設集</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>revert</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>還原</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
