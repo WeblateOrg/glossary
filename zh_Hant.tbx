@@ -121,7 +121,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>base file</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>基底檔</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>基底檔案</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>filemask</term></tig></langSet>
@@ -149,7 +149,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>metadata</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>中介資料</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>詮釋資料</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>localize</term></tig></langSet>
