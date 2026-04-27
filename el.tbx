@@ -88,7 +88,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Cookies</term></tig></langSet>
-                <langSet xml:lang="el"><tig><term>Cookies</term></tig></langSet>
+                <langSet xml:lang="el"><tig><term>Cookie</term></tig></langSet>
                 <note from="translator">Τα cookies είναι μικρά αρχεία κειμένου τα οποία αποθηκεύονται στον φυλλομετρητή μας κατά την πλοήγησή μας στο διαδίκτυο. Σκοπός τους είναι να ειδοποιούν τον ιστότοπο που επισκέπτεται ο χρήστης, για την προηγούμενη δραστηριότητά του.[1] Συνήθως περιγράφουν στοιχεία μας όπως όνομα χρήστη (user name) και συνθηματικό πρόσβασης (password) με σκοπό κατά την επίσκεψή μας στον ίδιο ιστότοπο αργότερα, να μας "θυμάται" και να μην χρειάζεται να κάνουμε login.  https://el.wikipedia.org/wiki/HTTP_cookies</note>
             </termEntry>
             <termEntry id="XML Tag">
@@ -141,7 +141,7 @@
             </termEntry>
             <termEntry id="components">
                 <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
-                <langSet xml:lang="el"><tig><term/></tig></langSet>
+                <langSet xml:lang="el"><tig><term>στοιχεία</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
@@ -165,7 +165,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regex</term></tig></langSet>
-                <langSet xml:lang="el"><tig><term/></tig></langSet>
+                <langSet xml:lang="el"><tig><term>κανονική έκφραση</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regular expression</term></tig></langSet>
