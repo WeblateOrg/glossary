@@ -788,6 +788,10 @@
                 <langSet xml:lang="en"><tig><term>file extension</term></tig></langSet>
                 <langSet xml:lang="hr"><tig><term>datotečni sufiks</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>validate</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>validirati</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
