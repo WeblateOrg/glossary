@@ -1126,6 +1126,26 @@
                 <langSet xml:lang="en"><tig><term>unfinished</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>незавершённый</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>site-wide</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>общесайтовый</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>service</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>служба</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>location</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>расположение</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>services</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>службы</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>wrapper</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>обёртка</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
