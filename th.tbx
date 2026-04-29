@@ -38,7 +38,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>bug</term></tig></langSet>
-                <langSet xml:lang="th"><tig><term>แมลง</term></tig></langSet>
+                <langSet xml:lang="th"><tig><term>บั๊ก</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
@@ -50,7 +50,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Keyboard shortcuts</term></tig></langSet>
-                <langSet xml:lang="th"><tig><term/></tig></langSet>
+                <langSet xml:lang="th"><tig><term>แป้นพิมพ์ลัด</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
@@ -70,7 +70,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Personal Data</term></tig></langSet>
-                <langSet xml:lang="th"><tig><term/></tig></langSet>
+                <langSet xml:lang="th"><tig><term>ข้อมูลส่วนบุคคล</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Cookies</term></tig></langSet>
@@ -82,7 +82,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>variants</term></tig></langSet>
-                <langSet xml:lang="th"><tig><term/></tig></langSet>
+                <langSet xml:lang="th"><tig><term>ตัวแปร</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
@@ -90,7 +90,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>current</term></tig></langSet>
-                <langSet xml:lang="th"><tig><term/></tig></langSet>
+                <langSet xml:lang="th"><tig><term>ปัจจุบัน</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>identity</term></tig></langSet>
@@ -102,7 +102,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslated</term></tig></langSet>
-                <langSet xml:lang="th"><tig><term/></tig></langSet>
+                <langSet xml:lang="th"><tig><term>ยังไม่ได้แปล</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
@@ -130,11 +130,11 @@
             </termEntry>
             <termEntry id="components">
                 <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
-                <langSet xml:lang="th"><tig><term/></tig></langSet>
+                <langSet xml:lang="th"><tig><term>ส่วนประกอบ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
-                <langSet xml:lang="th"><tig><term/></tig></langSet>
+                <langSet xml:lang="th"><tig><term>บันทึกการเปลี่ยนแปลง</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pull request</term></tig></langSet>
@@ -170,7 +170,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fixup</term></tig></langSet>
-                <langSet xml:lang="th"><tig><term/></tig></langSet>
+                <langSet xml:lang="th"><tig><term>คำศัพท์เฉพาะ</term></tig></langSet>
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>translations</term></tig></langSet>
@@ -190,7 +190,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>URL scheme</term></tig></langSet>
-                <langSet xml:lang="th"><tig><term/></tig></langSet>
+                <langSet xml:lang="th"><tig><term>รูปแบบ URL</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
@@ -214,7 +214,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Terms of Service</term></tig></langSet>
-                <langSet xml:lang="th"><tig><term/></tig></langSet>
+                <langSet xml:lang="th"><tig><term>เงื่อนไขการให้บริการ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>profile</term></tig></langSet>
@@ -309,7 +309,7 @@
             </termEntry>
             <termEntry id="readthedocs.org">
                 <langSet xml:lang="en"><tig><term>Read the Docs</term></tig></langSet>
-                <langSet xml:lang="th"><tig><term/></tig></langSet>
+                <langSet xml:lang="th"><tig><term>อ่านเอกสารประกอบ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Google OAuth 2</term></tig></langSet>
@@ -321,7 +321,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>glossary</term></tig></langSet>
-                <langSet xml:lang="th"><tig><term/></tig></langSet>
+                <langSet xml:lang="th"><tig><term>คำศัพท์เฉพาะ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
@@ -333,11 +333,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>text direction</term></tig></langSet>
-                <langSet xml:lang="th"><tig><term/></tig></langSet>
+                <langSet xml:lang="th"><tig><term>ทิศทางข้อความ</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>screenshot</term></tig></langSet>
-                <langSet xml:lang="th"><tig><term/></tig></langSet>
+                <langSet xml:lang="th"><tig><term>ภาพหน้าจอ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Screenshots</term></tig></langSet>
@@ -345,7 +345,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>authorship</term></tig></langSet>
-                <langSet xml:lang="th"><tig><term/></tig></langSet>
+                <langSet xml:lang="th"><tig><term>ผู้เขียน</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
@@ -357,7 +357,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
-                <langSet xml:lang="th"><tig><term/></tig></langSet>
+                <langSet xml:lang="th"><tig><term>คำศัพท์เฉพาะ</term></tig></langSet>
                 <descrip>Glossary terms that should not be changed from the source language</descrip>
             </termEntry>
             <termEntry>
@@ -383,7 +383,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
-                <langSet xml:lang="th"><tig><term/></tig></langSet>
+                <langSet xml:lang="th"><tig><term>แดชบอร์ด</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Zadnu</term></tig></langSet>
@@ -412,11 +412,11 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>e-mail address</term></tig></langSet>
-                <langSet xml:lang="th"><tig><term/></tig></langSet>
+                <langSet xml:lang="th"><tig><term>ที่อยู่อีเมล</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>secondary language</term></tig></langSet>
-                <langSet xml:lang="th"><tig><term/></tig></langSet>
+                <langSet xml:lang="th"><tig><term>ภาษาที่สอง</term></tig></langSet>
             </termEntry>
         </body>
     </text>
