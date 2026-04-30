@@ -640,7 +640,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fixup</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>픽스업</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>자동 교정</term></tig></langSet>
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>translations</term></tig></langSet>
