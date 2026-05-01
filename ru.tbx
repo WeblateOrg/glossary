@@ -1166,6 +1166,14 @@
                 <langSet xml:lang="en"><tig><term>autofixes</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>автоисправления</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>legal</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>юридический</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>locales</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>локали</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
