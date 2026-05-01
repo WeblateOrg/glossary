@@ -1146,6 +1146,26 @@
                 <langSet xml:lang="en"><tig><term>wrapper</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>обёртка</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>discard</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>отклонить</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>repo</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>репозиторий</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>auto-fixes</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>автоисправления</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>log</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>журнал</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>autofixes</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>автоисправления</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
