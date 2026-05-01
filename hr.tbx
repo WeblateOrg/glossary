@@ -792,6 +792,14 @@
                 <langSet xml:lang="en"><tig><term>validate</term></tig></langSet>
                 <langSet xml:lang="hr"><tig><term>validirati</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pro forma invoices</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>predračuni</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pro forma invoice</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>predračun</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
