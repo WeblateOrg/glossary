@@ -456,7 +456,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>cookie</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>кука</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>куки</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CA bundle</term></tig></langSet>
@@ -1177,6 +1177,27 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>glossaries</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>словари</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Web Monetization</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>веб-монетизация</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Toki Pona.</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>токипона</term></tig></langSet>
+                <note from="translator">вымышленный искусственный язык</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>rendering</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>отрисовка</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>topic</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>раздел</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>version control systems</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>системы контроля версий</term></tig></langSet>
             </termEntry>
         </body>
     </text>
