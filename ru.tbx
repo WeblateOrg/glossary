@@ -301,10 +301,6 @@
                 <langSet xml:lang="en"><tig><term>option</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>параметр</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>announcement</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>объявление</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>unit</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>единица перевода</term></tig></langSet>
