@@ -1170,6 +1170,18 @@
                 <langSet xml:lang="en"><tig><term>locales</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>локали</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>markup</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>разметка</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>glossaries</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>словари</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Web Monetization.</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>веб-монетизация</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
