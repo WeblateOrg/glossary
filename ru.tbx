@@ -1199,6 +1199,11 @@
                 <langSet xml:lang="en"><tig><term>version control systems</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>системы контроля версий</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Java Properties</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Java Properties</term></tig></langSet>
+                <note from="translator">Перевод не требуется, это специальный текстовый формат https://ru.wikipedia.org/wiki/Properties</note>
+            </termEntry>
         </body>
     </text>
 </martif>
