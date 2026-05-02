@@ -320,10 +320,12 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>VCS</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>система контроля версий</term></tig></langSet>
+                <note from="translator">Лучше использовать для длинных предложений. Для коротких — СКВ</note>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>VCS</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>СКВ</term></tig></langSet>
+                <note from="translator">Для коротких фраз</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>summary</term></tig></langSet>
