@@ -1098,6 +1098,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>reStructuredText</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term/></tig></langSet>
+                <note from="translator">язык разметки, перевод не требуется</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Download</term></tig></langSet>
@@ -1201,6 +1202,19 @@
                 <langSet xml:lang="en"><tig><term>Java Properties</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Java Properties</term></tig></langSet>
                 <note from="translator">Перевод не требуется, это специальный текстовый формат https://ru.wikipedia.org/wiki/Properties</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>GPU</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>ГП</term></tig></langSet>
+                <note from="translator">графический процессор</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>AI</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>ИИ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Unicode</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Юникод</term></tig></langSet>
             </termEntry>
         </body>
     </text>
