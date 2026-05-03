@@ -253,10 +253,6 @@
                 <langSet xml:lang="ru"><tig><term>аватар</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>screenshot</term></tig></langSet>
-                <langSet xml:lang="ru"><tig><term>снимок экрана</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>approved</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>одобренный</term></tig></langSet>
             </termEntry>
