@@ -109,7 +109,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>donation</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>贊助</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>捐款</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>disable</term></tig></langSet>
