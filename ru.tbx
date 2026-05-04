@@ -1212,6 +1212,17 @@
                 <langSet xml:lang="en"><tig><term>Unicode</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Юникод</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Fediverse</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Федивёрс</term></tig></langSet>
+                <note from="translator">Распределённая социальная сеть</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>interrobang</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>интерробанг</term></tig></langSet>
+                <note from="translator">экспериментальный знак препинания, лигатура, представляющая собой наложение вопросительного и восклицательного знаков.</note>
+                <descrip>экспериментальный знак препинания, лигатура, представляющая собой наложение вопросительного и восклицательного знаков.</descrip>
+            </termEntry>
         </body>
     </text>
 </martif>
