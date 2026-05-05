@@ -651,6 +651,10 @@
                 <langSet xml:lang="en"><tig><term>secondary language</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>ikincil dil</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>operator</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>işler</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
