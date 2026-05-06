@@ -449,7 +449,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>리포지터리</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>저장소</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>number</term></tig></langSet>
@@ -796,7 +796,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repo</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>리포지터리</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>저장소</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>text direction</term></tig></langSet>
