@@ -1424,7 +1424,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>translation</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>譯文</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>翻譯</term></tig></langSet>
                 <descrip>as translation abbr.</descrip>
             </termEntry>
             <termEntry>
