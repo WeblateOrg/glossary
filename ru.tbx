@@ -1223,6 +1223,10 @@
                 <note from="translator">экспериментальный знак препинания, лигатура, представляющая собой наложение вопросительного и восклицательного знаков.</note>
                 <descrip>экспериментальный знак препинания, лигатура, представляющая собой наложение вопросительного и восклицательного знаков.</descrip>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>project-wide</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>общепроектный</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
