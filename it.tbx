@@ -293,7 +293,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repository</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term>deposito</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>repository</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>text direction</term></tig></langSet>
