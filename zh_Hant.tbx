@@ -591,7 +591,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>plural</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>複數形</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>複數</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gerrit</term></tig></langSet>
