@@ -1173,7 +1173,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Regular expressions</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Reguläre Ausdrücke</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>reguläre Ausdrücke</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>newlines</term></tig></langSet>
@@ -1293,11 +1293,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regular expression</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Regulärer Ausdruck</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>regulärer Ausdruck</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regex</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Regulärer Ausdruck</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>regulärer Ausdruck</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>class</term></tig></langSet>
@@ -1883,6 +1883,10 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>trigger</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Trigger</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>host key</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Hostschlüssel</term></tig></langSet>
             </termEntry>
         </body>
     </text>
