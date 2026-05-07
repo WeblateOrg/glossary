@@ -391,10 +391,6 @@
                 <langSet xml:lang="en"><tig><term>persona</term></tig></langSet>
                 <langSet xml:lang="lv"><tig><term>personība</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
-                <langSet xml:lang="lv"><tig><term>Mērījumi</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
                 <langSet xml:lang="lv"><tig><term>instrumentu panelis</term></tig></langSet>
