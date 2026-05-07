@@ -159,10 +159,6 @@
                 <langSet xml:lang="en"><tig><term>current</term></tig></langSet>
                 <langSet xml:lang="lv"><tig><term>pašreizējais</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>translation</term></tig></langSet>
-                <langSet xml:lang="lv"><tig><term>tulkojums</term></tig></langSet>
-            </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>translations</term></tig></langSet>
                 <langSet xml:lang="lv"><tig><term>tulkojumi</term></tig></langSet>
