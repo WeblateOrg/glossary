@@ -1227,6 +1227,27 @@
                 <langSet xml:lang="en"><tig><term>project-wide</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>общепроектный</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>line-based</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>построчный</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>ISO</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>ИСО</term></tig></langSet>
+                <note from="translator">международный стандарт</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>ransomware</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>программа-вымогатель</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>logging</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>журналирование</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>preset</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>предустановка</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
