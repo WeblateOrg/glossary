@@ -1386,6 +1386,18 @@
                 <langSet xml:lang="en"><tig><term>bilingual</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>bilingue</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>template</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>modelo</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>cookie</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>''cookie''</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>invitation</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>convite</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
