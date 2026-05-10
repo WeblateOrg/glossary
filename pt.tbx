@@ -1351,15 +1351,15 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>UTF-8</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term></term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>UTF-16</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term></term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ISO-8859-1</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term></term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>e-mail</term></tig></langSet>
@@ -1381,6 +1381,14 @@
                 <langSet xml:lang="en"><tig><term>Deduplicate</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>De duplicar</term></tig></langSet>
                 <note from="translator">De acordo com informação da Priberam: de duplicar (norma europeia, na grafia pós-Acordo Ortográfico)</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>presets</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>pré-ajustes</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>bilingual</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>bilingue</term></tig></langSet>
             </termEntry>
         </body>
     </text>
