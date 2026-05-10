@@ -1248,6 +1248,14 @@
                 <langSet xml:lang="en"><tig><term>preset</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>предустановка</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>FAQ</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>ЧАВО</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Facebook</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Фейсбук</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
