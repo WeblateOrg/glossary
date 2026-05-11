@@ -221,7 +221,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation-finder</term></tig></langSet>
-                <langSet xml:lang="nn"><tig><term>omsetjingsøkjar</term></tig></langSet>
+                <langSet xml:lang="nn"><tig><term>omsetjingssøkjar</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
@@ -353,7 +353,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
-                <langSet xml:lang="nn"><tig><term>dashbord</term></tig></langSet>
+                <langSet xml:lang="nn"><tig><term>panel</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Zadnu</term></tig></langSet>
