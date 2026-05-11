@@ -12,7 +12,7 @@
         <body>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pseudolocale</term></tig></langSet>
-                <langSet xml:lang="mrh"><tig><term/></tig></langSet>
+                <langSet xml:lang="mrh"><tig><term>reihpakheipa</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>MyMemory</term></tig></langSet>
@@ -184,7 +184,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>secondary language</term></tig></langSet>
-                <langSet xml:lang="mrh"><tig><term></term></tig></langSet>
+                <langSet xml:lang="mrh"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
