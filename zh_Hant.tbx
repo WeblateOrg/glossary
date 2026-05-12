@@ -348,10 +348,6 @@
                 <langSet xml:lang="en"><tig><term>permission</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>權限</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>permission</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>權限</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>element</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>元素</term></tig></langSet>
