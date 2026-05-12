@@ -1417,11 +1417,6 @@
                 <langSet xml:lang="zh_Hant"><tig><term>原文</term></tig></langSet>
                 <descrip>as translation abbr.</descrip>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>translation</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>翻譯</term></tig></langSet>
-                <descrip>as translation abbr.</descrip>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>VCS</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>版本控制系統</term></tig></langSet>
