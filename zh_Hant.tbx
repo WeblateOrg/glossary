@@ -342,7 +342,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>admin permission</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>管理權</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>管理</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>permission</term></tig></langSet>
@@ -730,7 +730,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>administration</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>管理權</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>管理</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>revoke</term></tig></langSet>
