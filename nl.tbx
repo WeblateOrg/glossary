@@ -710,6 +710,11 @@
                 <langSet xml:lang="en"><tig><term>secondary language</term></tig></langSet>
                 <langSet xml:lang="nl"><tig><term>tweede taal</term></tig></langSet>
             </termEntry>
+            <termEntry id="eigennaam">
+                <langSet xml:lang="en"><tig><term>Read the docs</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>Read the docs</term></tig></langSet>
+                <note from="translator">is een eigennaam (merknaam)</note>
+            </termEntry>
         </body>
     </text>
 </martif>
