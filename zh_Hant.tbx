@@ -427,7 +427,6 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>permissions</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>權限</term></tig></langSet>
-                <note from="translator">permission 是許可的權利，至於權限非 permission 本義，僅是在設定權利（白名單）時其作用上等同設定權限（黑名單），兩者原理相通。</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>groups</term></tig></langSet>
