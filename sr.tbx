@@ -479,7 +479,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>secondary language</term></tig></langSet>
-                <langSet xml:lang="sr"><tig><term/></tig></langSet>
+                <langSet xml:lang="sr"><tig><term>други језик</term></tig></langSet>
             </termEntry>
         </body>
     </text>
