@@ -1256,6 +1256,10 @@
                 <langSet xml:lang="en"><tig><term>Facebook</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>Фейсбук</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>dedicated</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>выделенный</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
