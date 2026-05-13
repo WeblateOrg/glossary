@@ -1087,7 +1087,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term>zapsat</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>revize (podst. jm.) / zapsat (sloveso)</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translator</term></tig></langSet>
@@ -1528,6 +1528,26 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>alerts</term></tig></langSet>
                 <langSet xml:lang="cs"><tig><term>upozornění</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>administrator</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>správce</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>administrators</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>správci</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>language team</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>překladatelský tým</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>placeholder</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>zástupný symbol</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>placeholders</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>zástupné symboly</term></tig></langSet>
             </termEntry>
         </body>
     </text>
