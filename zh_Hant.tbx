@@ -1049,11 +1049,6 @@
                 <langSet xml:lang="zh_Hant"><tig><term>作者資訊</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Zen</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>禪譯</term></tig></langSet>
-                <descrip>原作者採用佛教術語禪心表達進入連續作業的心流之中。</descrip>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>invoking</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>呼叫</term></tig></langSet>
             </termEntry>
