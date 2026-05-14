@@ -1408,7 +1408,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>原文</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>來源</term></tig></langSet>
                 <descrip>as translation abbr.</descrip>
             </termEntry>
             <termEntry>
@@ -1614,7 +1614,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Azure Repos</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term></term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
