@@ -1888,6 +1888,18 @@
                 <langSet xml:lang="en"><tig><term>host key</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Hostschlüssel</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>domains</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Domains</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>code hosting site</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Code-Hosting-Site</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>code hosting sites</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Code-Hosting-Sites</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
