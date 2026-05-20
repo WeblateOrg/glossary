@@ -715,6 +715,14 @@
                 <langSet xml:lang="nl"><tig><term>Read the docs</term></tig></langSet>
                 <note from="translator">is een eigennaam (merknaam)</note>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Attachment</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>Bijlage</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Error code</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>Foutcode</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
