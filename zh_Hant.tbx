@@ -526,7 +526,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CI</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>持續整合 (CI)</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>CI</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Keyboard shortcuts</term></tig></langSet>
