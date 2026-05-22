@@ -317,10 +317,6 @@
                 <langSet xml:lang="zh_Hant"><tig><term>相鄰字串</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>site wide</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>全平臺</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>announcement</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>公告</term></tig></langSet>
             </termEntry>
