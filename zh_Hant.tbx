@@ -284,10 +284,6 @@
                 <langSet xml:lang="en"><tig><term>country code</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>國家代碼</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>email</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>電子郵件</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>squash</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>壓縮</term></tig></langSet>
