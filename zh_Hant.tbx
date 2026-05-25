@@ -290,7 +290,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>terms</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>字詞</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>條款</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>entry</term></tig></langSet>
@@ -522,7 +522,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Keyboard shortcuts</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>鍵盤快捷鍵</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>鍵盤快速鍵</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Weblate</term></tig></langSet>
@@ -1089,7 +1089,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>layout</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>配置</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>佈局</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>entry point</term></tig></langSet>
