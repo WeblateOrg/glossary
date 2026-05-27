@@ -1603,6 +1603,10 @@
                 <langSet xml:lang="en"><tig><term>Azure Repos</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term/></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>front matter</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>前置資料</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
