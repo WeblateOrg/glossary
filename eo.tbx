@@ -832,10 +832,6 @@
                 <langSet xml:lang="eo"><tig><term>abstrakta sintakso</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>abstract syntax tree</term></tig></langSet>
-                <langSet xml:lang="eo"><tig><term>abstrakta sintaksarbo</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>abuse</term></tig></langSet>
                 <langSet xml:lang="eo"><tig><term>misuzo</term></tig></langSet>
             </termEntry>
