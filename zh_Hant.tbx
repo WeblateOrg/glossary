@@ -441,10 +441,6 @@
                 <langSet xml:lang="zh_Hant"><tig><term>啟用</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>given</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>指定</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>feauture</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>功能</term></tig></langSet>
             </termEntry>
