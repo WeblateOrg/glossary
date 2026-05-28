@@ -1896,6 +1896,10 @@
                 <langSet xml:lang="en"><tig><term>code hosting sites</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Code-Hosting-Sites</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>workspace</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Arbeitsbereich</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
