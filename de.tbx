@@ -264,10 +264,6 @@
                 <langSet xml:lang="de"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>hosting plans</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Hosting-Pakete</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Tour</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Rundgang</term></tig></langSet>
             </termEntry>
