@@ -48,8 +48,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
-                <langSet xml:lang="lv"><tig><term>beigu daļas rinda</term></tig></langSet>
-                <note from="translator">https://wikipedia.org/wiki/Slug_(publishing)</note>
+                <langSet xml:lang="lv"><tig><term>URL adreses daļa, URL adreses beigu daļa, URL adreses aste, URL adreses galotne, URL adreses identifikators, URL adreses daļas saīsinājums</term></tig></langSet>
+                <note from="translator">https://en-wp.org/wiki/Slug_(publishing)&#13;
+Parasti lietotājam draudzīga URL adreses beigu daļa (piemēram, raksta nosaukums adresē — slug-skaidrojums), bet ne vienmēr. Jo "slug" var arī būt jebkurā citā vietā.&#13;
+Izcelsme saistīta ar drukas un avīžu industriju. Vēsturiski ziņu redakcijās par "slug" sauca īsu, aprakstošu nosaukumu vai kodu, ko piešķīra rakstam, kamēr tas vēl bija izstrādes procesā. Tas palīdzēja redaktoriem un maketētājiem viegli atpazīt stāstu, neizmantojot garo virsrakstu. Piemērs, rakstam par vēlēšanām "slug" varēja būt vienkārši "velesanas-2024".&#13;
+Taču mūsdienās vārdu "slug" vairāk izmanto programmatūras izstrādē un satura vadības sistēmās (piemēram, WordPress) par "slug" sāka saukt URL adrešu daļu, kas ir "tīra", cilvēkam lasāma un satur tikai mazos burtus, skaitļus un domuzīmes. Ja tava uzņēmuma nosaukums ir "SIA Lielie Meži", sistēma izveidos darbvietas URL adreses beigu daļu (slug) — lielie-mezi. Rezultātā adrese būs — piemers.lv/darbvieta/lielie-mezi.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regular expression</term></tig></langSet>
@@ -431,6 +434,14 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
                 <langSet xml:lang="lv"><tig><term>komponenti</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Workspace</term></tig></langSet>
+                <langSet xml:lang="lv"><tig><term>Darbvieta</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Workspaces</term></tig></langSet>
+                <langSet xml:lang="lv"><tig><term>Darbvietas</term></tig></langSet>
             </termEntry>
         </body>
     </text>
