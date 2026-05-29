@@ -1603,6 +1603,14 @@
                 <langSet xml:lang="en"><tig><term>front matter</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>前置資料</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Workspace</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>工作空間</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Workspaces</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>工作空間</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
