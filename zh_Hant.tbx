@@ -761,11 +761,6 @@
                 <langSet xml:lang="zh_Hant"><tig><term>歷史紀錄</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Manage</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>管理</term></tig></langSet>
-                <descrip>選單選項</descrip>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>flag</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>旗標</term></tig></langSet>
             </termEntry>
