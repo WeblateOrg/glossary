@@ -1900,6 +1900,10 @@
                 <langSet xml:lang="en"><tig><term>hosting plan</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Hosting-Paket</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>inherit</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>vererben</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
