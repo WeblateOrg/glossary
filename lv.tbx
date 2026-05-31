@@ -443,6 +443,14 @@ Taču mūsdienās vārdu "slug" vairāk izmanto programmatūras izstrādē un sa
                 <langSet xml:lang="en"><tig><term>Workspaces</term></tig></langSet>
                 <langSet xml:lang="lv"><tig><term>Darbvietas</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hosting</term></tig></langSet>
+                <langSet xml:lang="lv"><tig><term>izmitināšana, mitināšana</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>hosted</term></tig></langSet>
+                <langSet xml:lang="lv"><tig><term>izmitināts, mitināts</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
