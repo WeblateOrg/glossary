@@ -1904,6 +1904,14 @@
                 <langSet xml:lang="en"><tig><term>inherit</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>vererben</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>linked</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>verlinkt</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>assign</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>zuweisen</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
