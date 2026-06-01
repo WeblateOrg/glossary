@@ -89,7 +89,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>agreement</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>契約</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>協議</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>conclusion</term></tig></langSet>
