@@ -970,11 +970,6 @@
                 <langSet xml:lang="zh_Hant"><tig><term>Android</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>volume</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>volume</term></tig></langSet>
-                <descrip>Docker volume</descrip>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>fuzzy</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>模糊</term></tig></langSet>
             </termEntry>
