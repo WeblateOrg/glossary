@@ -735,6 +735,10 @@
                 <langSet xml:lang="en"><tig><term>Attacker-controllable?</term></tig></langSet>
                 <langSet xml:lang="nl"><tig><term>Door aanvaller te beheren?</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Accessibility</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>Toegankelijkheid</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
