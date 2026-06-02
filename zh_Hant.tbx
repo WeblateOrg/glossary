@@ -175,10 +175,6 @@
                 <langSet xml:lang="en"><tig><term>component</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>組件</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>widget</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>小元件</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>addon</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>附加元件</term></tig></langSet>
