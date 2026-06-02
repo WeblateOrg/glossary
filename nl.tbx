@@ -739,6 +739,14 @@
                 <langSet xml:lang="en"><tig><term>Accessibility</term></tig></langSet>
                 <langSet xml:lang="nl"><tig><term>Toegankelijkheid</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Changes</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>Wijzigingen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Repetitions</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>Herhalingen</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
