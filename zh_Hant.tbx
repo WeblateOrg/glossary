@@ -1593,6 +1593,10 @@
                 <langSet xml:lang="en"><tig><term>Workspaces</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>工作空間</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Avatar</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>頭像</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
