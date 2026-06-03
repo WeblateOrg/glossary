@@ -393,10 +393,6 @@
                 <langSet xml:lang="zh_Hant"><tig><term>喀克其奎語</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>RSS feed</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>RSS 消息來源</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>pseudolocale</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>偽在地化</term></tig></langSet>
             </termEntry>
