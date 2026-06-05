@@ -1912,6 +1912,14 @@
                 <langSet xml:lang="en"><tig><term>assign</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>zuweisen</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>legal document</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Rechtsdokument</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>legal documents</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Rechtsdokumente</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
