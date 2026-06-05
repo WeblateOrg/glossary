@@ -804,6 +804,26 @@
                 <langSet xml:lang="en"><tig><term>merged</term></tig></langSet>
                 <langSet xml:lang="hr"><tig><term>spojen</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>contractors</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>ugovorni partneri</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>contractor</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>ugovorni partner</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>subcontractor</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>ugovorni podpartner</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>subcontractors</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>ugovorni podpartneri</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>backup</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>sigurnosna kopija</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
