@@ -1920,6 +1920,18 @@
                 <langSet xml:lang="en"><tig><term>legal documents</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Rechtsdokumente</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>payload</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Nutzdaten</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>identifier</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Kennung</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>font group</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Schriftartgruppe</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
