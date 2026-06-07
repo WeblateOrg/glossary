@@ -824,6 +824,10 @@
                 <langSet xml:lang="en"><tig><term>backup</term></tig></langSet>
                 <langSet xml:lang="hr"><tig><term>sigurnosna kopija</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>workspace</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>radni prostor</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
