@@ -9839,6 +9839,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>HTML</term></tig></langSet>
                 <langSet xml:lang="cy"><tig><term>HTML</term></tig></langSet>
+                <descrip>https://hosted.weblate.org/translate/weblate/glossary/en/?checksum=2b685d5272048860</descrip>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hypertext Markup Language</term></tig></langSet>
