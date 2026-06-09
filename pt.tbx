@@ -1402,6 +1402,10 @@
                 <langSet xml:lang="en"><tig><term>correct</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>corretas</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Receipt</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Destinatário</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
