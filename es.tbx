@@ -45,7 +45,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>push</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>introducir</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>introducir, inserción, envío, efecturar</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>rebase</term></tig></langSet>
@@ -768,6 +768,10 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>quote</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>cita, comilla,</term></tig></langSet>
+            </termEntry>
+            <termEntry id="Weblate">
+                <langSet xml:lang="en"><tig><term>workspace</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>espacio de trabajo</term></tig></langSet>
             </termEntry>
         </body>
     </text>
