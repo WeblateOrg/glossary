@@ -92,10 +92,6 @@
                 <langSet xml:lang="zh_Hant"><tig><term>協議</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>conclusion</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>簽訂</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>license</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>授權</term></tig></langSet>
             </termEntry>
