@@ -1009,7 +1009,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Billing owners</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Rechnungssteller</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Rechnungsempfänger</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Billing plan</term></tig></langSet>
@@ -1931,6 +1931,14 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>font group</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Schriftartgruppe</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>identity provider.</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Identitätsanbieter</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Contributor license agreement</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Mitwirkungsvereinbarung</term></tig></langSet>
             </termEntry>
         </body>
     </text>
