@@ -1406,6 +1406,18 @@
                 <langSet xml:lang="en"><tig><term>Receipt</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>Destinatário</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>workspace</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>espaço de trabalho</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>metadata</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>metadados</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Generic</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Genérico</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
