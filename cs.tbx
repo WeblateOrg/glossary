@@ -1549,6 +1549,10 @@
                 <langSet xml:lang="en"><tig><term>placeholders</term></tig></langSet>
                 <langSet xml:lang="cs"><tig><term>zástupné symboly</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>agreement</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>smlouva</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
