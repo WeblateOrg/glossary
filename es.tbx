@@ -722,7 +722,7 @@
             </termEntry>
             <termEntry id="Weblate">
                 <langSet xml:lang="en"><tig><term>commits</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>efectuaciones? HELP</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>encomiendas</term></tig></langSet>
                 <note from="translator">asignar, cometer, confirmar, efectuar, enviar,</note>
             </termEntry>
             <termEntry id="Weblate">
@@ -772,6 +772,10 @@
             <termEntry id="Weblate">
                 <langSet xml:lang="en"><tig><term>workspace</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>espacio de trabajo</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>parent</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>antecesor</term></tig></langSet>
             </termEntry>
         </body>
     </text>
