@@ -28,11 +28,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>project</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term>proje</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>tasarı</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>projects</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term>projeler</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>tasarılar</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repositories</term></tig></langSet>
@@ -422,7 +422,7 @@
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>projects</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term>projeler</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>tasarılar</term></tig></langSet>
             </termEntry>
             <termEntry id="alias &quot;source text&quot;">
                 <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
@@ -584,7 +584,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term>Metrikler</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>Ölçümler</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Zadnu</term></tig></langSet>
@@ -592,7 +592,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Accept</term></tig></langSet>
-                <langSet xml:lang="tr"><tig><term>Kabul et</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>Onayla</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>verify</term></tig></langSet>
@@ -654,6 +654,10 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>operator</term></tig></langSet>
                 <langSet xml:lang="tr"><tig><term>işler</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>projects</term></tig></langSet>
+                <langSet xml:lang="tr"><tig><term>tasarılar</term></tig></langSet>
             </termEntry>
         </body>
     </text>
