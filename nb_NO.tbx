@@ -36,7 +36,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>edit</term></tig></langSet>
-                <langSet xml:lang="nb_NO"><tig><term>rediger / redigering</term></tig></langSet>
+                <langSet xml:lang="nb_NO"><tig><term>rediger</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SSO</term></tig></langSet>
@@ -233,23 +233,23 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Terms of Service</term></tig></langSet>
-                <langSet xml:lang="nb_NO"><tig><term/></tig></langSet>
+                <langSet xml:lang="nb_NO"><tig><term>Tjenestevilkår</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>profile</term></tig></langSet>
-                <langSet xml:lang="nb_NO"><tig><term/></tig></langSet>
+                <langSet xml:lang="nb_NO"><tig><term>profil</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>project</term></tig></langSet>
-                <langSet xml:lang="nb_NO"><tig><term/></tig></langSet>
+                <langSet xml:lang="nb_NO"><tig><term>prosjekt</term></tig></langSet>
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>projects</term></tig></langSet>
-                <langSet xml:lang="nb_NO"><tig><term/></tig></langSet>
+                <langSet xml:lang="nb_NO"><tig><term>prosjekter</term></tig></langSet>
             </termEntry>
             <termEntry id="alias &quot;source text&quot;">
                 <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
-                <langSet xml:lang="nb_NO"><tig><term/></tig></langSet>
+                <langSet xml:lang="nb_NO"><tig><term>kilde</term></tig></langSet>
             </termEntry>
             <termEntry id="alias &quot;Zen mode&quot;">
                 <langSet xml:lang="en"><tig><term>Zen</term></tig></langSet>
@@ -328,7 +328,7 @@
             </termEntry>
             <termEntry id="readthedocs.org">
                 <langSet xml:lang="en"><tig><term>Read the Docs</term></tig></langSet>
-                <langSet xml:lang="nb_NO"><tig><term/></tig></langSet>
+                <langSet xml:lang="nb_NO"><tig><term>Les dokumentasjonen</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Google OAuth 2</term></tig></langSet>
@@ -348,7 +348,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>text direction</term></tig></langSet>
-                <langSet xml:lang="nb_NO"><tig><term/></tig></langSet>
+                <langSet xml:lang="nb_NO"><tig><term>tekstretning</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>screenshot</term></tig></langSet>
@@ -410,7 +410,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>terminology</term></tig></langSet>
-                <langSet xml:lang="nb_NO"><tig><term/></tig></langSet>
+                <langSet xml:lang="nb_NO"><tig><term>terminologi</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Automattic</term></tig></langSet>
@@ -427,7 +427,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>e-mail address</term></tig></langSet>
-                <langSet xml:lang="nb_NO"><tig><term/></tig></langSet>
+                <langSet xml:lang="nb_NO"><tig><term>e-postadresse</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>digest</term></tig></langSet>
