@@ -623,6 +623,26 @@
                 <langSet xml:lang="en"><tig><term>announcements</term></tig></langSet>
                 <langSet xml:lang="ja"><tig><term>お知らせ</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Workspace</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>ワークスペース</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>category</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>カテゴリー</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>comments</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>コメント</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>database </term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>データベース</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>service</term></tig></langSet>
+                <langSet xml:lang="ja"><tig><term>サービス</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
