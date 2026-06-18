@@ -1418,6 +1418,10 @@
                 <langSet xml:lang="en"><tig><term>Generic</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>Genérico</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Provider</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Fornecedor</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
