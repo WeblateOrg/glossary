@@ -1327,10 +1327,6 @@
                 <langSet xml:lang="pt"><tig><term>Organização</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>agreements</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>acordos</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>device</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>dispositivo</term></tig></langSet>
             </termEntry>
