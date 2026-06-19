@@ -104,10 +104,6 @@
                 <langSet xml:lang="pt"><tig><term>Página</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>not</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>não</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>found</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>encontrado</term></tig></langSet>
             </termEntry>
