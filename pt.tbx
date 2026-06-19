@@ -695,11 +695,6 @@
                 <langSet xml:lang="pt"><tig><term>personagem</term></tig></langSet>
                 <note from="translator">Uma persona é uma representação fictícia do cliente ideal de uma empresa, baseada em dados reais sobre características e comportamento dos clientes.</note>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>Métricas</term></tig></langSet>
-                <note from="translator">Feminino</note>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Zadnu</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>Zadnu</term></tig></langSet>
