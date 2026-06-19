@@ -1038,10 +1038,6 @@
                 <langSet xml:lang="pt"><tig><term>Política de Privacidade</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>site-wide</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>todo o &lt;i&gt;site&lt;/i&gt;</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Terms and Privacy</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>Privacidade e Termos</term></tig></langSet>
             </termEntry>
