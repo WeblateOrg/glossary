@@ -1035,10 +1035,6 @@
                 <langSet xml:lang="pt"><tig><term>endereço de correio eletrónico</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>delete</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>eliminar</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>undone</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>anulada</term></tig></langSet>
             </termEntry>
