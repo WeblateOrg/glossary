@@ -751,6 +751,16 @@
                 <langSet xml:lang="en"><tig><term>Automatic selection</term></tig></langSet>
                 <langSet xml:lang="nl"><tig><term>Automatische selectie</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Anchore_</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>Anchore_</term></tig></langSet>
+                <note from="translator">Eigennaam; merknaam</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Trivy_</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>Trivy_</term></tig></langSet>
+                <note from="translator">Eigennaam; merknaam</note>
+            </termEntry>
         </body>
     </text>
 </martif>
