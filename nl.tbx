@@ -747,6 +747,10 @@
                 <langSet xml:lang="en"><tig><term>Repetitions</term></tig></langSet>
                 <langSet xml:lang="nl"><tig><term>Herhalingen</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Automatic selection</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>Automatische selectie</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
