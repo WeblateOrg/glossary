@@ -775,10 +775,6 @@
                 <langSet xml:lang="pt"><tig><term>Descobrir</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>fonte</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>billing plan</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>plano de faturação</term></tig></langSet>
             </termEntry>
