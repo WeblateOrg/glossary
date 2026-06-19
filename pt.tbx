@@ -343,10 +343,6 @@
                 <note from="translator">https://pt.wikipedia.org/wiki/Cadeia_de_caracteres</note>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>Próximo dia útil (PDU)</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>Celery</term></tig></langSet>
             </termEntry>
