@@ -221,7 +221,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>aplicar</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>aplicar, commit</term></tig></langSet>
+                <note from="translator">atenção que commit pode ser relativo a um "commit" de um repositório git, pelo que nesse caso seria um nome próprio. Como não há uma tradução direta para o termo, nesse caso usa-se "commit".</note>
                 <descrip>git-commit</descrip>
             </termEntry>
             <termEntry>
