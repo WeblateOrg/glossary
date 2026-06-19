@@ -1309,7 +1309,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>secondary language</term></tig></langSet>
-                <langSet xml:lang="et"><tig><term></term></tig></langSet>
+                <langSet xml:lang="et"><tig><term>teisene keel</term></tig></langSet>
             </termEntry>
         </body>
     </text>
