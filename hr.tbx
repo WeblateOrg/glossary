@@ -828,6 +828,10 @@
                 <langSet xml:lang="en"><tig><term>workspace</term></tig></langSet>
                 <langSet xml:lang="hr"><tig><term>radni prostor</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>flag</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>oznaka</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
