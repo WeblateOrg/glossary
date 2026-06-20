@@ -164,7 +164,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
-                <langSet xml:lang="nn"><tig><term/></tig></langSet>
+                <langSet xml:lang="nn"><tig><term>Celery</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pseudolocale</term></tig></langSet>
@@ -279,7 +279,7 @@
             </termEntry>
             <termEntry id="readthedocs.org">
                 <langSet xml:lang="en"><tig><term>Read the Docs</term></tig></langSet>
-                <langSet xml:lang="nn"><tig><term/></tig></langSet>
+                <langSet xml:lang="nn"><tig><term>Les dokumentasjonen</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Google OAuth 2</term></tig></langSet>
@@ -365,7 +365,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>terminology</term></tig></langSet>
-                <langSet xml:lang="nn"><tig><term/></tig></langSet>
+                <langSet xml:lang="nn"><tig><term>terminologi</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Automattic</term></tig></langSet>
@@ -382,11 +382,11 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>e-mail address</term></tig></langSet>
-                <langSet xml:lang="nn"><tig><term/></tig></langSet>
+                <langSet xml:lang="nn"><tig><term>e-postadresse</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>secondary language</term></tig></langSet>
-                <langSet xml:lang="nn"><tig><term/></tig></langSet>
+                <langSet xml:lang="nn"><tig><term>sekundærspråk</term></tig></langSet>
             </termEntry>
         </body>
     </text>
