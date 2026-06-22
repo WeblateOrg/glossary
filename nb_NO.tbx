@@ -129,7 +129,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslated</term></tig></langSet>
-                <langSet xml:lang="nb_NO"><tig><term/></tig></langSet>
+                <langSet xml:lang="nb_NO"><tig><term>ikke oversatt</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
@@ -169,11 +169,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>access restriction</term></tig></langSet>
-                <langSet xml:lang="nb_NO"><tig><term/></tig></langSet>
+                <langSet xml:lang="nb_NO"><tig><term>tilgangsbegrensning</term></tig></langSet>
             </termEntry>
             <termEntry id="access restrictions (plural)">
                 <langSet xml:lang="en"><tig><term>access restrictions</term></tig></langSet>
-                <langSet xml:lang="nb_NO"><tig><term/></tig></langSet>
+                <langSet xml:lang="nb_NO"><tig><term>tilgangsbegrensninger</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regex</term></tig></langSet>
@@ -221,7 +221,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translator</term></tig></langSet>
-                <langSet xml:lang="nb_NO"><tig><term/></tig></langSet>
+                <langSet xml:lang="nb_NO"><tig><term>oversetter</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>term</term></tig></langSet>
@@ -262,7 +262,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>history</term></tig></langSet>
-                <langSet xml:lang="nb_NO"><tig><term/></tig></langSet>
+                <langSet xml:lang="nb_NO"><tig><term>historikk</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Django</term></tig></langSet>
@@ -340,11 +340,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>glossary</term></tig></langSet>
-                <langSet xml:lang="nb_NO"><tig><term/></tig></langSet>
+                <langSet xml:lang="nb_NO"><tig><term>ordliste</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repo</term></tig></langSet>
-                <langSet xml:lang="nb_NO"><tig><term/></tig></langSet>
+                <langSet xml:lang="nb_NO"><tig><term>kodebase</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>text direction</term></tig></langSet>
@@ -360,7 +360,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>authorship</term></tig></langSet>
-                <langSet xml:lang="nb_NO"><tig><term/></tig></langSet>
+                <langSet xml:lang="nb_NO"><tig><term>forfatterskap</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
@@ -372,7 +372,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
-                <langSet xml:lang="nb_NO"><tig><term/></tig></langSet>
+                <langSet xml:lang="nb_NO"><tig><term>uoversettelig</term></tig></langSet>
                 <descrip>Glossary terms that should not be changed from the source language</descrip>
             </termEntry>
             <termEntry>
@@ -390,7 +390,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>persona</term></tig></langSet>
-                <langSet xml:lang="nb_NO"><tig><term/></tig></langSet>
+                <langSet xml:lang="nb_NO"><tig><term>persona</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
