@@ -28,7 +28,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>font</term></tig></langSet>
-                <langSet xml:lang="fi"><tig><term>kirjaisin</term></tig></langSet>
+                <langSet xml:lang="fi"><tig><term>fontti</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>upload</term></tig></langSet>
@@ -270,7 +270,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pseudolocale</term></tig></langSet>
-                <langSet xml:lang="fi"><tig><term>pseudolocale</term></tig></langSet>
+                <langSet xml:lang="fi"><tig><term>pseudolokaali</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>component list</term></tig></langSet>
@@ -499,7 +499,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
-                <langSet xml:lang="fi"><tig><term>Isännöity Weblate</term></tig></langSet>
+                <langSet xml:lang="fi"><tig><term>Hosted Weblate</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>reStructuredText</term></tig></langSet>
