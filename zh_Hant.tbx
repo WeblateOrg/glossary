@@ -1589,6 +1589,18 @@
                 <langSet xml:lang="en"><tig><term>Avatar</term></tig></langSet>
                 <langSet xml:lang="zh_Hant"><tig><term>頭像</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>password</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>密碼</term></tig></langSet>
+            </termEntry>
+            <termEntry id="HTTP Cookie&amp;HTML">
+                <langSet xml:lang="en"><tig><term>Cookie</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>Cookie</term></tig></langSet>
+            </termEntry>
+            <termEntry id="eatables">
+                <langSet xml:lang="en"><tig><term>Cookie</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>餅乾</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
