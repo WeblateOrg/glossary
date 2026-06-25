@@ -761,6 +761,10 @@
                 <langSet xml:lang="nl"><tig><term>Trivy_</term></tig></langSet>
                 <note from="translator">Eigennaam; merknaam</note>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>glossary</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>woordenlijst</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
