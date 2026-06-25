@@ -1944,6 +1944,14 @@
                 <langSet xml:lang="en"><tig><term>trigger</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Auslösung</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Placeholder</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Platzhalter</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Placeholders</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Platzhalter</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
