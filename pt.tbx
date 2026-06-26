@@ -779,10 +779,6 @@
                 <langSet xml:lang="pt"><tig><term>Separadores</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>this</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>este</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>with us</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>connosco</term></tig></langSet>
             </termEntry>
