@@ -1205,7 +1205,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>merge</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>unir; misturar</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>unir; misturar; mesclar</term></tig></langSet>
+                <note from="translator">No caso de ser "merge request", deve-se deixar "pedido de merge" uma vez que merge é um termo técnico git que tem um significado técnico.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Overview</term></tig></langSet>
@@ -1381,6 +1382,11 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Provider</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>Fornecedor</term></tig></langSet>
+            </termEntry>
+            <termEntry id="pull request">
+                <langSet xml:lang="en"><tig><term>pull</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>pull</term></tig></langSet>
+                <note from="translator">Um "pull request" é um termo técnico onde pull é uma operação git, pelo que deve manter-se o termo mas podendo traduzir "request" como "pedido".</note>
             </termEntry>
         </body>
     </text>
