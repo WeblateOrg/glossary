@@ -724,10 +724,6 @@
                 <langSet xml:lang="cs"><tig><term>kontrola</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>reviewew</term></tig></langSet>
-                <langSet xml:lang="cs"><tig><term>kontrolor</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>approve</term></tig></langSet>
                 <langSet xml:lang="cs"><tig><term>schválit</term></tig></langSet>
             </termEntry>
