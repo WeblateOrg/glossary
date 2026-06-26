@@ -213,8 +213,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>aplicar, commit</term></tig></langSet>
-                <note from="translator">atenção que commit pode ser relativo a um "commit" de um repositório git, pelo que nesse caso seria um nome próprio. Como não há uma tradução direta para o termo, nesse caso usa-se "commit".</note>
+                <langSet xml:lang="pt"><tig><term>aplicar; submeter; commit</term></tig></langSet>
+                <note from="translator">Commit pode ser relativo a um "commit" de um repositório git, pelo que nesse caso seria um nome próprio. Como não há uma tradução direta para o termo, nesse caso usa-se "commit".</note>
                 <descrip>git-commit</descrip>
             </termEntry>
             <termEntry>
@@ -1039,7 +1039,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>website</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>Site da Web</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>website</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Source code</term></tig></langSet>
@@ -1296,7 +1296,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>secondary language</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>idioma secundário</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>UTF-8</term></tig></langSet>
