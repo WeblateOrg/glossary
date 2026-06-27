@@ -120,7 +120,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>component list</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term/></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>danh sách thành phần</term></tig></langSet>
             </termEntry>
             <termEntry id="components">
                 <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
