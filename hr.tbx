@@ -556,7 +556,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dismiss</term></tig></langSet>
-                <langSet xml:lang="hr"><tig><term>odbaciti</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>odbaci</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>end tag</term></tig></langSet>
@@ -831,6 +831,14 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>flag</term></tig></langSet>
                 <langSet xml:lang="hr"><tig><term>oznaka</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>diagnostics</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>dijagnoza</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>attachment</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>prilog</term></tig></langSet>
             </termEntry>
         </body>
     </text>
