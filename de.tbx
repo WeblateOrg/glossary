@@ -15,10 +15,6 @@
                 <langSet xml:lang="de"><tig><term>Unterzeichenkette</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>hostname</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Rechnername</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>login</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>anmelden</term></tig></langSet>
             </termEntry>
