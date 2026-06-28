@@ -1108,7 +1108,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Markdown</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>Marcação</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Marcação, Markdown</term></tig></langSet>
+                <note from="translator">Markdown também pode ser uma linguagem de marcação de texto, e nesse caso deve-se usar o nome próprio não traduzido.</note>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
@@ -1379,6 +1380,10 @@
                 <langSet xml:lang="en"><tig><term>pull</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>pull</term></tig></langSet>
                 <note from="translator">Um "pull request" é um termo técnico onde pull é uma operação git, pelo que deve manter-se o termo mas podendo traduzir "request" como "pedido".</note>
+            </termEntry>
+            <termEntry id="GitHub Enterprise Server">
+                <langSet xml:lang="en"><tig><term>GitHub Enterprise Server</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
     </text>
