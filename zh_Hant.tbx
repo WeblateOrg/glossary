@@ -73,7 +73,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>widget</term></tig></langSet>
-                <langSet xml:lang="zh_Hant"><tig><term>小元件</term></tig></langSet>
+                <langSet xml:lang="zh_Hant"><tig><term>小工具</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>privilege</term></tig></langSet>
