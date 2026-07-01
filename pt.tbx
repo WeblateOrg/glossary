@@ -1383,7 +1383,20 @@
             </termEntry>
             <termEntry id="GitHub Enterprise Server">
                 <langSet xml:lang="en"><tig><term>GitHub Enterprise Server</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term></term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry id="attestations">
+                <langSet xml:lang="en"><tig><term>attestations</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>certificados</term></tig></langSet>
+            </termEntry>
+            <termEntry id="attestation">
+                <langSet xml:lang="en"><tig><term>attestation</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>certificado</term></tig></langSet>
+            </termEntry>
+            <termEntry id="git checkout">
+                <langSet xml:lang="en"><tig><term>checkout</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>checkout</term></tig></langSet>
+                <note from="translator">Isto é o nome de um comando e funcionalidade git, pelo que deve manter-se não traduzido.</note>
             </termEntry>
         </body>
     </text>
