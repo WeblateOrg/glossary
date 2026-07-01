@@ -922,6 +922,10 @@
                 <note from="translator">语言优化、纠错、润色：修正语法、用词、拼写、术语、文风，让译文更规范通顺，聚焦于‌语言质量提升，单纯的语言校对、质量检查</note>
                 <descrip>语言优化、纠错、润色：修正语法、用词、拼写、术语、文风，让译文更规范通顺，聚焦于‌语言质量提升</descrip>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>scope</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>作用域</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
