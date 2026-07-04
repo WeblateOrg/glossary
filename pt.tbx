@@ -1398,6 +1398,20 @@
                 <langSet xml:lang="pt"><tig><term>checkout</term></tig></langSet>
                 <note from="translator">Isto é o nome de um comando e funcionalidade git, pelo que deve manter-se não traduzido.</note>
             </termEntry>
+            <termEntry id="allowlist">
+                <langSet xml:lang="en"><tig><term>allowlist</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>lista de permissões</term></tig></langSet>
+            </termEntry>
+            <termEntry id="wildcard">
+                <langSet xml:lang="en"><tig><term>wildcard</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>caratere curinga</term></tig></langSet>
+                <note from="translator">https://pt.wikipedia.org/wiki/Caractere_curinga</note>
+            </termEntry>
+            <termEntry id="fallback">
+                <langSet xml:lang="en"><tig><term>fallback</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>alternativa</term></tig></langSet>
+                <note from="translator">"fallback" é uma opção para a qual, no caso da opção principal não esteja disponível, recorre-se a esta opção.</note>
+            </termEntry>
         </body>
     </text>
 </martif>
