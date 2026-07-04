@@ -1948,6 +1948,10 @@
                 <langSet xml:lang="en"><tig><term>Placeholders</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Platzhalter</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>shared translation memory</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Gemeinsamer Übersetzungsspeicher</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
