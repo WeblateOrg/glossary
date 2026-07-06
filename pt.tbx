@@ -1412,6 +1412,11 @@
                 <langSet xml:lang="pt"><tig><term>alternativa</term></tig></langSet>
                 <note from="translator">"fallback" é uma opção para a qual, no caso da opção principal não esteja disponível, recorre-se a esta opção.</note>
             </termEntry>
+            <termEntry id="Breadcrumbs">
+                <langSet xml:lang="en"><tig><term>Breadcrumbs</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Trilha de navegação</term></tig></langSet>
+                <note from="translator">https://en.wikipedia.org/wiki/Breadcrumb_navigation</note>
+            </termEntry>
         </body>
     </text>
 </martif>
