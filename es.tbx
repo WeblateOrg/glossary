@@ -626,10 +626,6 @@
                 <langSet xml:lang="en"><tig><term>placeholder</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>marcador de posición</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>placeholder</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>sustitutivo</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>sanitizing</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>Reparada </term></tig></langSet>
