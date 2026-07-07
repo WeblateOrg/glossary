@@ -1417,6 +1417,11 @@
                 <langSet xml:lang="pt"><tig><term>Trilha de navegação</term></tig></langSet>
                 <note from="translator">https://en.wikipedia.org/wiki/Breadcrumb_navigation</note>
             </termEntry>
+            <termEntry id="front matter - YAML">
+                <langSet xml:lang="en"><tig><term>front matter</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>informações iniciais</term></tig></langSet>
+                <note from="translator">Parece ser uma espécie de cabeçalhos de informação.</note>
+            </termEntry>
         </body>
     </text>
 </martif>
