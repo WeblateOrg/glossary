@@ -489,10 +489,6 @@
                 <descrip>Service provider in the Privacy Policy, etc.</descrip>
             </termEntry>
             <termEntry id="Weblate">
-                <langSet xml:lang="en"><tig><term>hook</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>gancho</term></tig></langSet>
-            </termEntry>
-            <termEntry id="Weblate">
                 <langSet xml:lang="en"><tig><term>scripts</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>guiones</term></tig></langSet>
             </termEntry>
