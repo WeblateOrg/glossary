@@ -1422,6 +1422,11 @@
                 <langSet xml:lang="pt"><tig><term>informações iniciais</term></tig></langSet>
                 <note from="translator">Parece ser uma espécie de cabeçalhos de informação.</note>
             </termEntry>
+            <termEntry id="parsed">
+                <langSet xml:lang="en"><tig><term>parsed</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>analisado, processado</term></tig></langSet>
+                <note from="translator">Quando um ficheiro é "parsed", tanto pode ser a conversão da informação como pode ser a análise da informação.</note>
+            </termEntry>
         </body>
     </text>
 </martif>
