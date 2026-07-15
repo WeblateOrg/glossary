@@ -150,7 +150,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>service</term></tig></langSet>
-                <langSet xml:lang="nl"><tig><term>service</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>dienst</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>image(s)</term></tig></langSet>
@@ -764,6 +764,14 @@
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>glossary</term></tig></langSet>
                 <langSet xml:lang="nl"><tig><term>woordenlijst</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>service</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>service</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Breadcrumbs</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>Broodkruimels</term></tig></langSet>
             </termEntry>
         </body>
     </text>
