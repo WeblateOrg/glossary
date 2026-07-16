@@ -1553,6 +1553,14 @@
                 <langSet xml:lang="en"><tig><term>forks</term></tig></langSet>
                 <langSet xml:lang="cs"><tig><term>forky</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>quote</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>nabídka (finance) / citát</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>quotes</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>nabídky (finance) / citát</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
