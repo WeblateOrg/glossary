@@ -773,6 +773,14 @@
                 <langSet xml:lang="en"><tig><term>Breadcrumbs</term></tig></langSet>
                 <langSet xml:lang="nl"><tig><term>Broodkruimels</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>File</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>Bestand</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>glossaries</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>woordenlijsten</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
