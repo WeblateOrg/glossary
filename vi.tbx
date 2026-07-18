@@ -188,7 +188,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term>Weblate được tổ chức</term></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>Lưu Trữ Weblate</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
