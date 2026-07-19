@@ -769,6 +769,10 @@
                 <langSet xml:lang="en"><tig><term>parent</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>antecesor</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>report</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>parte, informe</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
