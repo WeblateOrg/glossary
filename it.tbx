@@ -454,6 +454,14 @@
                 <langSet xml:lang="en"><tig><term>occurrences</term></tig></langSet>
                 <langSet xml:lang="it"><tig><term>ricorrenze</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>billing plan</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>piano di abbonamento</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Dismissed</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>Ignorati</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
