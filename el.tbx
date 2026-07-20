@@ -429,6 +429,22 @@
                 <langSet xml:lang="en"><tig><term>secondary language</term></tig></langSet>
                 <langSet xml:lang="el"><tig><term>δευτερεύουσα γλώσσα</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Fedora Messaging</term></tig></langSet>
+                <langSet xml:lang="el"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>GLib</term></tig></langSet>
+                <langSet xml:lang="el"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Claude Haiku 4.5</term></tig></langSet>
+                <langSet xml:lang="el"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Anthropic API URL</term></tig></langSet>
+                <langSet xml:lang="el"><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
