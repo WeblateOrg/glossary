@@ -351,7 +351,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
-                <langSet xml:lang="vi"><tig><term>không thể phiên dịch được</term></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>Không thể dịch</term></tig></langSet>
                 <descrip>Glossary terms that should not be changed from the source language</descrip>
             </termEntry>
             <termEntry>
