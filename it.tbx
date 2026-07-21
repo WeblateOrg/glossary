@@ -428,7 +428,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Add-on</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term>Complemento</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>Componente aggiuntiva</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>agreement</term></tig></langSet>
@@ -461,6 +461,34 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Dismissed</term></tig></langSet>
                 <langSet xml:lang="it"><tig><term>Ignorati</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Cleanup</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>Pulizia</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Skipped</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>Saltato</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Eligible</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>Idoneo</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Target</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>Destinazione</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Commit</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Message</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>Messaggio</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Attempt</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>Tentativo</term></tig></langSet>
             </termEntry>
         </body>
     </text>
