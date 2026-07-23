@@ -41,7 +41,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pull</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>tirar, extraer, incorporar</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>subir, extraer, incorporar</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>push</term></tig></langSet>
@@ -772,6 +772,14 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>report</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>parte, informe</term></tig></langSet>
+            </termEntry>
+            <termEntry id="Weblate">
+                <langSet xml:lang="en"><tig><term>pool</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>reserva, consorcio</term></tig></langSet>
+            </termEntry>
+            <termEntry id="Weblate">
+                <langSet xml:lang="en"><tig><term>Code-hosting</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>alojamiento de código</term></tig></langSet>
             </termEntry>
         </body>
     </text>
