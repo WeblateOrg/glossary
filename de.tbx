@@ -1952,6 +1952,10 @@
                 <langSet xml:lang="en"><tig><term>punctuation</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Interpunktion</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>follow-up</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Nachverfolgung</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
