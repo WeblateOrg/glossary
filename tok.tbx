@@ -40,7 +40,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>current</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term>pi tenpo ni</term></tig></langSet>
+                <langSet xml:lang="tok"><tig><term>tenpo ni</term></tig></langSet>
+                <note from="translator">"this time", though note it can be "that time" based on context</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gerrit</term></tig></langSet>
@@ -108,7 +109,8 @@
             </termEntry>
             <termEntry id="components">
                 <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term/></tig></langSet>
+                <langSet xml:lang="tok"><tig><term>poki insa</term></tig></langSet>
+                <note from="translator">"inner container", as a component is inside a project, which itself is a container</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>changelog</term></tig></langSet>
@@ -176,7 +178,8 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term/></tig></langSet>
+                <langSet xml:lang="tok"><tig><term>awen</term></tig></langSet>
+                <note from="translator">"awen" means "remain". As a noun it means something that is unchanging. Once changes are committed, they are set in stone, so they are "awen".</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translator</term></tig></langSet>
@@ -216,7 +219,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term>linja E-Mail pi jan pali</term></tig></langSet>
+                <langSet xml:lang="tok"><tig><term>nimi E-Mail pi jan pali</term></tig></langSet>
                 <descrip>e-mail address that will be used as committer</descrip>
             </termEntry>
             <termEntry>
@@ -361,7 +364,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
-                <langSet xml:lang="tok"><tig><term/></tig></langSet>
+                <langSet xml:lang="tok"><tig><term>lipu open</term></tig></langSet>
+                <note from="translator">"home page"</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Zadnu</term></tig></langSet>
