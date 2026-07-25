@@ -416,6 +416,14 @@
                 <langSet xml:lang="en"><tig><term>clipboard</term></tig></langSet>
                 <langSet xml:lang="vi"><tig><term>bảng nhớ tạm</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>file mask</term></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>mẫu tên tệp</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>review</term></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>đánh giá</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
