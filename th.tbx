@@ -78,7 +78,7 @@
             </termEntry>
             <termEntry id="XML Tag">
                 <langSet xml:lang="en"><tig><term>XML Tag</term></tig></langSet>
-                <langSet xml:lang="th"><tig><term/></tig></langSet>
+                <langSet xml:lang="th"><tig><term>แท็ก XML</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>variants</term></tig></langSet>
@@ -174,15 +174,15 @@
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>translations</term></tig></langSet>
-                <langSet xml:lang="th"><tig><term/></tig></langSet>
+                <langSet xml:lang="th"><tig><term>การแปล</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation</term></tig></langSet>
-                <langSet xml:lang="th"><tig><term/></tig></langSet>
+                <langSet xml:lang="th"><tig><term>การแปล</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>unresolved comment</term></tig></langSet>
-                <langSet xml:lang="th"><tig><term/></tig></langSet>
+                <langSet xml:lang="th"><tig><term>ความคิดเห็นที่ยังไม่ได้รับการแก้ไข</term></tig></langSet>
             </termEntry>
             <termEntry id="opposite">
                 <langSet xml:lang="en"><tig><term>resolved comment</term></tig></langSet>
@@ -202,7 +202,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translator</term></tig></langSet>
-                <langSet xml:lang="th"><tig><term/></tig></langSet>
+                <langSet xml:lang="th"><tig><term>นักแปล</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>term</term></tig></langSet>
@@ -251,7 +251,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translation-finder</term></tig></langSet>
-                <langSet xml:lang="th"><tig><term/></tig></langSet>
+                <langSet xml:lang="th"><tig><term>ตัวค้นหาการแปล</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
@@ -395,7 +395,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>terminology</term></tig></langSet>
-                <langSet xml:lang="th"><tig><term/></tig></langSet>
+                <langSet xml:lang="th"><tig><term>ศัพท์เฉพาะ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Automattic</term></tig></langSet>
