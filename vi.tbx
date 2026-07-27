@@ -424,6 +424,10 @@
                 <langSet xml:lang="en"><tig><term>review</term></tig></langSet>
                 <langSet xml:lang="vi"><tig><term>đánh giá</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Fedora Messaging</term></tig></langSet>
+                <langSet xml:lang="vi"><tig><term>Dịch vụ Thông Báo Fedora</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
