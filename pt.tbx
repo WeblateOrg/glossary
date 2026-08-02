@@ -1427,6 +1427,29 @@
                 <langSet xml:lang="pt"><tig><term>analisado, processado</term></tig></langSet>
                 <note from="translator">Quando um ficheiro é "parsed", tanto pode ser a conversão da informação como pode ser a análise da informação.</note>
             </termEntry>
+            <termEntry id="webhook">
+                <langSet xml:lang="en"><tig><term>webhook</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry id="endpoint">
+                <langSet xml:lang="en"><tig><term>endpoint</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry id="Mercurial">
+                <langSet xml:lang="en"><tig><term>Mercurial</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term></term></tig></langSet>
+                <note from="translator">Nome de ferramenta de controlo de versão</note>
+            </termEntry>
+            <termEntry id="GitHub">
+                <langSet xml:lang="en"><tig><term>GitHub</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term></term></tig></langSet>
+                <note from="translator">Nome de plataforma de controlo de versão e distribuição de código aberto</note>
+            </termEntry>
+            <termEntry id="Git">
+                <langSet xml:lang="en"><tig><term>Git</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term></term></tig></langSet>
+                <note from="translator">Nome de ferramenta de controlo de versão</note>
+            </termEntry>
         </body>
     </text>
 </martif>
