@@ -1259,10 +1259,6 @@
                 <langSet xml:lang="en"><tig><term>Keyboard shortcuts</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>Atalhos de teclado</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>crash</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>crache</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Slack Webhooks</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term/></tig></langSet>
@@ -1429,25 +1425,25 @@
             </termEntry>
             <termEntry id="webhook">
                 <langSet xml:lang="en"><tig><term>webhook</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term></term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry id="endpoint">
                 <langSet xml:lang="en"><tig><term>endpoint</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term></term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry id="Mercurial">
                 <langSet xml:lang="en"><tig><term>Mercurial</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term></term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term/></tig></langSet>
                 <note from="translator">Nome de ferramenta de controlo de versão</note>
             </termEntry>
             <termEntry id="GitHub">
                 <langSet xml:lang="en"><tig><term>GitHub</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term></term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term/></tig></langSet>
                 <note from="translator">Nome de plataforma de controlo de versão e distribuição de código aberto</note>
             </termEntry>
             <termEntry id="Git">
                 <langSet xml:lang="en"><tig><term>Git</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term></term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term/></tig></langSet>
                 <note from="translator">Nome de ferramenta de controlo de versão</note>
             </termEntry>
         </body>
