@@ -840,6 +840,46 @@
                 <langSet xml:lang="en"><tig><term>attachment</term></tig></langSet>
                 <langSet xml:lang="hr"><tig><term>prilog</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>customer</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>kupac</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>customer relationship</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>odnosi s kupcima</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Customers</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>kupci</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>income</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>prihod</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Admin</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>administrator</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>quote</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>ponuda</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>quotes</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>ponude</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>services</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>usluge</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>subscriptions</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>pretplate</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>renewal</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>obnavljanje</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
