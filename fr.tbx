@@ -961,17 +961,6 @@
                 <langSet xml:lang="en"><tig><term>company</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>société</term></tig></langSet>
             </termEntry>
-            <termEntry id="terme technique / commande">
-                <langSet xml:lang="en"><tig><term>push</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term>push</term></tig></langSet>
-                <note from="translator">nom d'une commande, action d'une commande, terme technique IT.&#13;
-&#13;
-"push" est l'action d'une commande, c'est un terme technique, comme "commit", "add", etc. Le traduire littéralement par "poussé" n'est pas une bonne idée : cela voudrait dire que "git push …" deviendrait "git poussé", ce qui serait incompréhensible pour l'utilisateur et également le développeur.&#13;
-&#13;
-Dans un contexte technique ou de commande, "push" ne doit donc pas être traduit ; la traduction "poussé" ne devrait s'appliquer que lorsque "push" est employé comme verbe dans un contexte non technique.&#13;
-&#13;
-Steve</note>
-            </termEntry>
         </body>
     </text>
 </martif>
