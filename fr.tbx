@@ -191,7 +191,6 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regular expression</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>expression rationnelle</term></tig></langSet>
-                <note from="translator">aussi plus courant peut-être tout simplement : expression régulière, regex</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>base language file</term></tig></langSet>
@@ -292,8 +291,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pull request</term></tig></langSet>
-                <langSet xml:lang="fr"><tig><term>pull request</term></tig></langSet>
-                <note from="translator">nom d'une commande, action d'une commande, terme technique informatique, comme "commit", "add", "push" etc.</note>
+                <langSet xml:lang="fr"><tig><term>demande de tirage</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
@@ -327,7 +325,6 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>push</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>pousser</term></tig></langSet>
-                <note from="translator">ici il s'agit du verbe utiliser dans un contexte plus général : I push the door to enter.  ou dans un contexte informatique plus global : She pushed the button.</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>term</term></tig></langSet>
@@ -556,7 +553,6 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>quality checks</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>vérifications de qualité</term></tig></langSet>
-                <note from="translator">"contrôles qualité" également</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>enforced checks</term></tig></langSet>
@@ -565,7 +561,6 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>quality check</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>vérification de qualité</term></tig></langSet>
-                <note from="translator">"contrôle qualité" également</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>wrap line</term></tig></langSet>
@@ -633,7 +628,6 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Regular expressions</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>Expressions rationnelles</term></tig></langSet>
-                <note from="translator">« Expression rationnelle » et non « Expression régulière »</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gitee</term></tig></langSet>
@@ -712,7 +706,6 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regex</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>expression rationnelle</term></tig></langSet>
-                <note from="translator">aussi plus courant peut-être tout simplement : expression régulière, regex</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>class</term></tig></langSet>
