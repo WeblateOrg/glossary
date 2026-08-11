@@ -92,7 +92,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>e-mail</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>correo-e</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>correo electrónico</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Keyboard shortcuts</term></tig></langSet>
@@ -498,7 +498,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>e-mail address</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>dirección de correo-e</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>dirección de correo electrónico</term></tig></langSet>
             </termEntry>
             <termEntry id="Difuso">
                 <langSet xml:lang="en"><tig><term>`Managers`</term></tig></langSet>
@@ -714,8 +714,8 @@
             </termEntry>
             <termEntry id="Weblate">
                 <langSet xml:lang="en"><tig><term>commits</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>encomiendas</term></tig></langSet>
-                <note from="translator">asignar, cometer, confirmar, efectuar, enviar,</note>
+                <langSet xml:lang="es"><tig><term>confirmaciones</term></tig></langSet>
+                <note from="translator">confirmación de una lista de cambios hecha por un desarrollador, "confirmaciones de cambios"</note>
             </termEntry>
             <termEntry id="Weblate">
                 <langSet xml:lang="en"><tig><term>issue</term></tig></langSet>
@@ -780,6 +780,10 @@
             <termEntry id="Weblate">
                 <langSet xml:lang="en"><tig><term>Code-hosting</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>alojamiento de código</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>username</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>nombre de usuario</term></tig></langSet>
             </termEntry>
         </body>
     </text>
