@@ -781,6 +781,10 @@
                 <langSet xml:lang="en"><tig><term>glossaries</term></tig></langSet>
                 <langSet xml:lang="nl"><tig><term>woordenlijsten</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>application</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>toepassing</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
