@@ -954,6 +954,10 @@
                 <langSet xml:lang="en"><tig><term>company</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>société</term></tig></langSet>
             </termEntry>
+            <termEntry id="Éléments d'authentification et d'accès informatique (applications, services, API, dépôts...)">
+                <langSet xml:lang="en"><tig><term>credentials</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>informations de connexion</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
