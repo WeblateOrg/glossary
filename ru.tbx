@@ -1268,6 +1268,12 @@
                 <langSet xml:lang="en"><tig><term>rate</term></tig></langSet>
                 <langSet xml:lang="ru"><tig><term>ставка</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Tools</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>Сервис</term></tig></langSet>
+                <note from="translator">Название кнопки/меню</note>
+                <descrip>Название кнопки/меню</descrip>
+            </termEntry>
         </body>
     </text>
 </martif>
