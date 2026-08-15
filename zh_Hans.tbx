@@ -134,7 +134,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>remove</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>移除</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>删除</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>approve</term></tig></langSet>
@@ -264,7 +264,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>remove</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>移除</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>删除</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>role</term></tig></langSet>
@@ -292,7 +292,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>authenticate</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>身份验证</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>身份认证</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>account</term></tig></langSet>
@@ -811,7 +811,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>authorship</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>写作人</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>作者身份</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
