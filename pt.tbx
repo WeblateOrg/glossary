@@ -1442,6 +1442,10 @@
                 <langSet xml:lang="pt"><tig><term/></tig></langSet>
                 <note from="translator">Nome de ferramenta de controlo de versão</note>
             </termEntry>
+            <termEntry id="case-sensitive">
+                <langSet xml:lang="en"><tig><term>case-sensitive</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>sensível a maiúsculas e minúsculas</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
