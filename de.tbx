@@ -1968,6 +1968,10 @@
                 <langSet xml:lang="en"><tig><term>customer owner</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Kundeninhaber</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>VAT ID</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>USt-IdNr.</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
