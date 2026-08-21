@@ -593,10 +593,6 @@
                 <langSet xml:lang="de"><tig><term>API-Zugang</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>VAT</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Umsatzsteuer</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Commit</term></tig></langSet>
                 <descrip>git-commit</descrip>
