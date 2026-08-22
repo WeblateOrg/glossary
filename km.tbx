@@ -330,7 +330,7 @@ Photo=រូបថត</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>pull request</term></tig></langSet>
-                <langSet xml:lang="km"><tig><term>ដាក់សំណើ</term></tig></langSet>
+                <langSet xml:lang="km"><tig><term>ដាក់សំណើ (pull request)</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>issue</term></tig></langSet>
@@ -338,7 +338,7 @@ Photo=រូបថត</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>access restriction</term></tig></langSet>
-                <langSet xml:lang="km"><tig><term>ការកំហិតអាក់សេស</term></tig></langSet>
+                <langSet xml:lang="km"><tig><term>ការដាក់កំហិតការចូលប្រើ</term></tig></langSet>
             </termEntry>
             <termEntry id="access restrictions (plural)">
                 <langSet xml:lang="en"><tig><term>access restrictions</term></tig></langSet>
@@ -354,7 +354,7 @@ Photo=រូបថត</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>class</term></tig></langSet>
-                <langSet xml:lang="km"><tig><term>ថ្នាក់</term></tig></langSet>
+                <langSet xml:lang="km"><tig><term>ថ្នាក់ (class)</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
@@ -386,7 +386,7 @@ Photo=រូបថត</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
-                <langSet xml:lang="km"><tig><term>ម៉ាស៊ីនបង្ហោះ Weblate</term></tig></langSet>
+                <langSet xml:lang="km"><tig><term>Hosted Weblate</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
