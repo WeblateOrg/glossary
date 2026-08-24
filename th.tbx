@@ -29,7 +29,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
-                <langSet xml:lang="th"><tig><term>เพิ่มเข้าไป</term></tig></langSet>
+                <langSet xml:lang="th"><tig><term>ส่วนเสริม</term></tig></langSet>
+                <note from="translator">add-on If say without programming thing is mean เพิ่มเข้าไป (add = เพิ่ม on= บน,เข้าไป) But in this Weblate add-on mean like mod or extensions, And by the way If you're try check add-ons (Yes.. with "s") is mean ส่วนเสริม too!</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
@@ -86,7 +87,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
-                <langSet xml:lang="th"><tig><term/></tig></langSet>
+                <langSet xml:lang="th"><tig><term>โทเค็น</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>current</term></tig></langSet>
@@ -126,7 +127,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>component list</term></tig></langSet>
-                <langSet xml:lang="th"><tig><term/></tig></langSet>
+                <langSet xml:lang="th"><tig><term>รายการส่วนประกอบ</term></tig></langSet>
             </termEntry>
             <termEntry id="components">
                 <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
@@ -146,11 +147,12 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>access restriction</term></tig></langSet>
-                <langSet xml:lang="th"><tig><term/></tig></langSet>
+                <langSet xml:lang="th"><tig><term>จำกัดการเข้าถึง</term></tig></langSet>
             </termEntry>
             <termEntry id="access restrictions (plural)">
                 <langSet xml:lang="en"><tig><term>access restrictions</term></tig></langSet>
-                <langSet xml:lang="th"><tig><term/></tig></langSet>
+                <langSet xml:lang="th"><tig><term>จำกัดการเข้าถึงหลายรายการ</term></tig></langSet>
+                <note from="translator">It's access restriction but add "s" more than one, In Thai say "หลากหลาย,หลายรายการ"</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>regular expression</term></tig></langSet>
@@ -170,7 +172,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fixup</term></tig></langSet>
-                <langSet xml:lang="th"><tig><term>คำศัพท์เฉพาะ</term></tig></langSet>
+                <langSet xml:lang="th"><tig><term>fixup</term></tig></langSet>
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>translations</term></tig></langSet>
@@ -218,19 +220,20 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>profile</term></tig></langSet>
-                <langSet xml:lang="th"><tig><term/></tig></langSet>
+                <langSet xml:lang="th"><tig><term>โปรไฟล์</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>project</term></tig></langSet>
-                <langSet xml:lang="th"><tig><term/></tig></langSet>
+                <langSet xml:lang="th"><tig><term>โปรเจกต์</term></tig></langSet>
             </termEntry>
             <termEntry id="plural form">
                 <langSet xml:lang="en"><tig><term>projects</term></tig></langSet>
-                <langSet xml:lang="th"><tig><term/></tig></langSet>
+                <langSet xml:lang="th"><tig><term>โปรเจกต์</term></tig></langSet>
+                <note from="translator">I do transliteration, Because a lot of developer say that thing (But If translate it mean "โครงการ")</note>
             </termEntry>
             <termEntry id="alias &quot;source text&quot;">
                 <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
-                <langSet xml:lang="th"><tig><term/></tig></langSet>
+                <langSet xml:lang="th"><tig><term>แหล่ง</term></tig></langSet>
             </termEntry>
             <termEntry id="alias &quot;Zen mode&quot;">
                 <langSet xml:lang="en"><tig><term>Zen</term></tig></langSet>
@@ -243,7 +246,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>history</term></tig></langSet>
-                <langSet xml:lang="th"><tig><term/></tig></langSet>
+                <langSet xml:lang="th"><tig><term>ประวัติ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Django</term></tig></langSet>
@@ -329,7 +332,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>repo</term></tig></langSet>
-                <langSet xml:lang="th"><tig><term/></tig></langSet>
+                <langSet xml:lang="th"><tig><term>repo</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>text direction</term></tig></langSet>
@@ -416,7 +419,8 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>secondary language</term></tig></langSet>
-                <langSet xml:lang="th"><tig><term>ภาษาที่สอง</term></tig></langSet>
+                <langSet xml:lang="th"><tig><term>ภาษารอง</term></tig></langSet>
+                <note from="translator">If you're check in Translate It will be show "ภาษาที่สอง" But secondary this mean "รอง", And It make more sense.</note>
             </termEntry>
         </body>
     </text>
