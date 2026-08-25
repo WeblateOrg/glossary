@@ -638,7 +638,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Subversion</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term/></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Subversion</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>screenshot</term></tig></langSet>
