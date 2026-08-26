@@ -1086,7 +1086,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Membership</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Mitgliedschaft</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Zugehörigkeit</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Power user</term></tig></langSet>
@@ -1254,7 +1254,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Subversion</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term></term></tig></langSet>
+                <langSet xml:lang="de"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>component list</term></tig></langSet>
