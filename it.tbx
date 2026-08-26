@@ -486,6 +486,10 @@
                 <langSet xml:lang="en"><tig><term>Attempt</term></tig></langSet>
                 <langSet xml:lang="it"><tig><term>Tentativo</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>componente aggiuntivo</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
