@@ -427,10 +427,6 @@
                 <langSet xml:lang="it"><tig><term>assistente</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Add-on</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term>Componente aggiuntiva</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>agreement</term></tig></langSet>
                 <langSet xml:lang="it"><tig><term>contratto</term></tig></langSet>
             </termEntry>
