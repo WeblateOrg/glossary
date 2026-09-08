@@ -1569,6 +1569,14 @@
                 <langSet xml:lang="en"><tig><term>invoices</term></tig></langSet>
                 <langSet xml:lang="cs"><tig><term>faktury</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>workspace</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>pracovní prostor</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>workspaces</term></tig></langSet>
+                <langSet xml:lang="cs"><tig><term>pracovní prostory</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
