@@ -335,7 +335,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Screenshots</term></tig></langSet>
-                <langSet xml:lang="kmr"><tig><term/></tig></langSet>
+                <langSet xml:lang="kmr"><tig><term>Wêneyên dîmenderê</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>authorship</term></tig></langSet>
@@ -385,7 +385,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Accept</term></tig></langSet>
-                <langSet xml:lang="kmr"><tig><term/></tig></langSet>
+                <langSet xml:lang="kmr"><tig><term>Bipejirîne</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>terminology</term></tig></langSet>
