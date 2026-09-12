@@ -476,11 +476,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>widget</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>小挂件</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>小组件</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>widgets</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>小挂件</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>小组件</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>trailer</term></tig></langSet>
@@ -854,7 +854,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>terminology</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>专业术语</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>专有名词</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>component</term></tig></langSet>
