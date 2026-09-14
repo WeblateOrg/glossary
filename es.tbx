@@ -555,11 +555,6 @@
                 <langSet xml:lang="en"><tig><term>contributed</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>aportado</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>event</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>evento</term></tig></langSet>
-                <note from="translator">suceso es success</note>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>release</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>versión</term></tig></langSet>
