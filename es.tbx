@@ -493,10 +493,6 @@
                 <langSet xml:lang="en"><tig><term>checkout</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>extracción</term></tig></langSet>
             </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>array</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>formación</term></tig></langSet>
-            </termEntry>
             <termEntry id="Vocabulario">
                 <langSet xml:lang="en"><tig><term>upgrade</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>migrar</term></tig></langSet>
