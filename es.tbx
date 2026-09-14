@@ -119,10 +119,6 @@
                 <langSet xml:lang="en"><tig><term>Enable the :ref:`check-ruby-format` quality check.</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>Activa el control de calidad :ref:`check-ruby-format`.</term></tig></langSet>
             </termEntry>
-            <termEntry id="XML Tag">
-                <langSet xml:lang="en"><tig><term>XML Tag</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>Etiqueta XML</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>vale</term></tig></langSet>
