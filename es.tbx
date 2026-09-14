@@ -696,11 +696,6 @@
                 <langSet xml:lang="es"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry id="Weblate">
-                <langSet xml:lang="en"><tig><term>commits</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>confirmaciones</term></tig></langSet>
-                <note from="translator">confirmación de una lista de cambios hecha por un desarrollador, "confirmaciones de cambios"</note>
-            </termEntry>
-            <termEntry id="Weblate">
                 <langSet xml:lang="en"><tig><term>issue</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>incidencia</term></tig></langSet>
             </termEntry>
