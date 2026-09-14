@@ -58,10 +58,6 @@
                 <note from="translator">Modificación de un elemento</note>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>SSO</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>inicio de sesión único</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>private</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>privado</term></tig></langSet>
             </termEntry>
