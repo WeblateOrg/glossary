@@ -204,10 +204,6 @@
                 <langSet xml:lang="es"><tig><term>expresión regular</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>class</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>clase</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>indicación</term></tig></langSet>
             </termEntry>
