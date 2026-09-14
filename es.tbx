@@ -537,11 +537,6 @@
                 <langSet xml:lang="es"><tig><term>Idioma secundario</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>capitals</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>capitalinas</term></tig></langSet>
-                <note from="translator">capitalinas o primera letra en mayúsculas</note>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Clear</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>Vaciar, Purgar</term></tig></langSet>
                 <note from="translator">Clean es limpiar, no se equivoquen</note>
