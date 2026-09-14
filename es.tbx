@@ -367,11 +367,6 @@
                 <langSet xml:lang="en"><tig><term>Accept</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>Aceptar</term></tig></langSet>
             </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>Split</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>Dividir</term></tig></langSet>
-                <note from="translator">Comunmente referido a dividir en mitades o a partir por la mitad</note>
-            </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Split</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>Dividir</term></tig></langSet>
