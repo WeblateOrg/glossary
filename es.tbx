@@ -280,11 +280,6 @@
                 <langSet xml:lang="es"><tig><term>Zen</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>commit e-mail</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>consolidar correo-e</term></tig></langSet>
-                <descrip>e-mail address that will be used as committer</descrip>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>history</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>historia</term></tig></langSet>
             </termEntry>
