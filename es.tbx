@@ -403,11 +403,6 @@
                 <langSet xml:lang="es"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Provider</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>Proveedor</term></tig></langSet>
-                <descrip>Service provider in the Privacy Policy, etc.</descrip>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Download</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>Descargar</term></tig></langSet>
             </termEntry>
