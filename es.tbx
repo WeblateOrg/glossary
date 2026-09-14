@@ -460,10 +460,6 @@
                 <langSet xml:lang="es"><tig><term>complementos</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>buildt-in</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>empotrado</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>built-in</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>integrado</term></tig></langSet>
             </termEntry>
