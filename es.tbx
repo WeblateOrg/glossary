@@ -325,10 +325,6 @@
                 <langSet xml:lang="en"><tig><term>text direction</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>dirección del texto</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>screenshot</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>captura de pantalla</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Screenshots</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>Capturas de pantalla</term></tig></langSet>
