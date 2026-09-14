@@ -600,10 +600,6 @@
                 <langSet xml:lang="en"><tig><term>Issue</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>incidencia</term></tig></langSet>
             </termEntry>
-            <termEntry id="Weblate">
-                <langSet xml:lang="en"><tig><term>snippet</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>retazo</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>flags</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>indicadores</term></tig></langSet>
