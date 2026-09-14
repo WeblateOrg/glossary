@@ -484,10 +484,6 @@
                 <langSet xml:lang="es"><tig><term>`Supervisores`</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>upstream</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>en desarrollo</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>See</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>Consulte</term></tig></langSet>
             </termEntry>
