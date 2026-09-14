@@ -692,10 +692,6 @@
                 <langSet xml:lang="en"><tig><term>site-wide </term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>general del sitio</term></tig></langSet>
             </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>quote</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>cuota, cita, comilla,</term></tig></langSet>
-            </termEntry>
             <termEntry id="Weblate">
                 <langSet xml:lang="en"><tig><term>workspace</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>espacio de trabajo</term></tig></langSet>
