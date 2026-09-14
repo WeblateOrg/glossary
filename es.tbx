@@ -689,10 +689,6 @@
                 <langSet xml:lang="en"><tig><term>flags</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>indicadores</term></tig></langSet>
             </termEntry>
-            <termEntry id="Weblate">
-                <langSet xml:lang="en"><tig><term>sanitized</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>suavizado</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>outbound</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>saliente</term></tig></langSet>
