@@ -82,10 +82,6 @@
                 <langSet xml:lang="es"><tig><term>defecto</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Celery</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>Celery</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>CI</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>Integración continua</term></tig></langSet>
                 <note from="translator">https://es.wikipedia.org/wiki/Integraci%C3%B3n_continua</note>
