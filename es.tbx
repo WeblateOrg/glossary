@@ -464,10 +464,6 @@
                 <langSet xml:lang="es"><tig><term>Consulte</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>tab</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>lengüeta</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>add-ons.</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>complementos</term></tig></langSet>
             </termEntry>
