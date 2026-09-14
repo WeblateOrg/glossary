@@ -31,10 +31,6 @@
                 <langSet xml:lang="es"><tig><term>indicador</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>event</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>evento</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>consignar</term></tig></langSet>
                 <descrip>git-commit</descrip>
