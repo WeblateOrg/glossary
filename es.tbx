@@ -459,10 +459,6 @@
                 <langSet xml:lang="en"><tig><term>add-ons.</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>complementos</term></tig></langSet>
             </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>built-in</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>integrado</term></tig></langSet>
-            </termEntry>
             <termEntry id="Español - Informática">
                 <langSet xml:lang="en"><tig><term>middleware</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>intermediario</term></tig></langSet>
