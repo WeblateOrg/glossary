@@ -531,10 +531,6 @@
                 <langSet xml:lang="es"><tig><term>representar</term></tig></langSet>
             </termEntry>
             <termEntry id="Weblate">
-                <langSet xml:lang="en"><tig><term>support</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>compatibilidad,apoyo, asistencia, mantener</term></tig></langSet>
-            </termEntry>
-            <termEntry id="Weblate">
                 <langSet xml:lang="en"><tig><term>rendered</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>representado</term></tig></langSet>
             </termEntry>
