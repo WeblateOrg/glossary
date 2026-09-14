@@ -426,10 +426,6 @@
                 <langSet xml:lang="en"><tig><term>merge</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>fusión</term></tig></langSet>
             </termEntry>
-            <termEntry id="Español - Informática">
-                <langSet xml:lang="en"><tig><term>entry</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>apunte</term></tig></langSet>
-            </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term/></tig></langSet>
