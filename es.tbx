@@ -494,10 +494,6 @@
                 <langSet xml:lang="es"><tig><term>cargo (bill), factura(invoice)</term></tig></langSet>
             </termEntry>
             <termEntry id="Vocabulario">
-                <langSet xml:lang="en"><tig><term>Anthropic</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>Antrópico</term></tig></langSet>
-            </termEntry>
-            <termEntry id="Vocabulario">
                 <langSet xml:lang="en"><tig><term>checkout</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>extracción</term></tig></langSet>
             </termEntry>
