@@ -45,7 +45,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>rebase</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>cambiar base [rebasar]</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>reorganizar</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>watched</term></tig></langSet>
@@ -593,6 +593,10 @@
             <termEntry id="Weblate">
                 <langSet xml:lang="en"><tig><term>Code-hosting</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>alojamiento de código</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>consignación</term></tig></langSet>
             </termEntry>
         </body>
     </text>
