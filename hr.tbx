@@ -880,6 +880,26 @@
                 <langSet xml:lang="en"><tig><term>renewal</term></tig></langSet>
                 <langSet xml:lang="hr"><tig><term>obnavljanje</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>receipts</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>priznanice</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>invoices</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>računi</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>invoice</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>račun</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>receipt</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>priznanica</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>payments</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>plaćanja</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
