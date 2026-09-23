@@ -154,7 +154,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
-                <langSet xml:lang="hr"><tig><term>URL identifikator</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>identifikator</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
@@ -899,6 +899,10 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>payments</term></tig></langSet>
                 <langSet xml:lang="hr"><tig><term>plaćanja</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>source file</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>izvorna datoteka</term></tig></langSet>
             </termEntry>
         </body>
     </text>
