@@ -1965,6 +1965,14 @@
                 <langSet xml:lang="en"><tig><term>VAT ID</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>USt-IdNr.</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>evaluate</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>auswerten</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>evaluation</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Evaluierung</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
