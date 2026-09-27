@@ -904,6 +904,10 @@
                 <langSet xml:lang="en"><tig><term>source file</term></tig></langSet>
                 <langSet xml:lang="hr"><tig><term>izvorna datoteka</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>due date</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>datum dospijeća</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
