@@ -958,6 +958,14 @@
                 <langSet xml:lang="en"><tig><term>credentials</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>informations de connexion</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>warnings</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>avertissements (parfois alertes)</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>mask</term></tig></langSet>
+                <langSet xml:lang="fr"><tig><term>motif</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
