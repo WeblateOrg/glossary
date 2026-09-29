@@ -28,7 +28,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>flag</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>indicador</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>modificador</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
@@ -217,7 +217,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Privacy Policy</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>Política de privacidad</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>Normativa de privacidad</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Terms of Service</term></tig></langSet>
@@ -560,7 +560,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>flags</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>indicadores</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>modificadores</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>outbound</term></tig></langSet>
