@@ -363,7 +363,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
-                <langSet xml:lang="hr"><tig><term>promjena</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>spremi promjene</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translator</term></tig></langSet>
@@ -907,6 +907,22 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>due date</term></tig></langSet>
                 <langSet xml:lang="hr"><tig><term>datum dospijeća</term></tig></langSet>
+            </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>Define</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>odredi</term></tig></langSet>
+            </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>suggestions</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>prijedlozi</term></tig></langSet>
+            </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>suggestion</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>prijedlog</term></tig></langSet>
+            </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>review request</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>zahtjev za pregledom</term></tig></langSet>
             </termEntry>
         </body>
     </text>
