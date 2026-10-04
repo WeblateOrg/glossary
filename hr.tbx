@@ -920,6 +920,10 @@
                 <langSet xml:lang="en"><tig><term>suggestion</term></tig></langSet>
                 <langSet xml:lang="hr"><tig><term>prijedlog</term></tig></langSet>
             </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>review request</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>zahtjev za pregled</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
