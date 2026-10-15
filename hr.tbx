@@ -924,6 +924,22 @@
                 <langSet xml:lang="en"><tig><term>review request</term></tig></langSet>
                 <langSet xml:lang="hr"><tig><term>zahtjev za pregled</term></tig></langSet>
             </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>storage</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>spremište</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1" weblate-flags="">
+                <langSet xml:lang="en"><tig><term>issue</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>izdati</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>customer object</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>objekt kupca</term></tig></langSet>
+            </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>discount</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>popust</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
