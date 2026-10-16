@@ -367,7 +367,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>translator</term></tig></langSet>
-                <langSet xml:lang="hr"><tig><term>prevodilac</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>prevoditelj</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Privacy Policy</term></tig></langSet>
@@ -955,6 +955,30 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>notification diagnostics</term></tig></langSet>
                 <langSet xml:lang="hr"><tig><term>dijagnoze obavijesti</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>refund</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>povrat novca</term></tig></langSet>
+            </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>code-hosting</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>hosting koda</term></tig></langSet>
+            </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>search query</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>upit za pretraživanje</term></tig></langSet>
+            </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>translators</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>prevoditelji</term></tig></langSet>
+            </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>cursor</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>kursor</term></tig></langSet>
+            </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>verify</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>potvrdi</term></tig></langSet>
             </termEntry>
         </body>
     </text>
