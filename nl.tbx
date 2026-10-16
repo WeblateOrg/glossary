@@ -785,6 +785,26 @@
                 <langSet xml:lang="en"><tig><term>application</term></tig></langSet>
                 <langSet xml:lang="nl"><tig><term>toepassing</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>translation services</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>vertaalservices</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Translation service</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>Vertaalservice</term></tig></langSet>
+            </termEntry>
+            <termEntry id="merknaam, niet vertalen">
+                <langSet xml:lang="en"><tig><term>eTranslation</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>eTranslation</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>searches</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>zoekacties</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>actor</term></tig></langSet>
+                <langSet xml:lang="nl"><tig><term>actor</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
