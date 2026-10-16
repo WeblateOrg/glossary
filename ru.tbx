@@ -1274,6 +1274,14 @@
                 <note from="translator">Название кнопки/меню</note>
                 <descrip>Название кнопки/меню</descrip>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>uploading</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>отправка</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>downloading</term></tig></langSet>
+                <langSet xml:lang="ru"><tig><term>скачивание</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
