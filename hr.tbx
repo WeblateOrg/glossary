@@ -709,7 +709,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>audit log</term></tig></langSet>
-                <langSet xml:lang="hr"><tig><term>dnevnik aktivnosti</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>dnevnik revizije</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>privileges</term></tig></langSet>
@@ -939,6 +939,22 @@
             <termEntry weblate-flags="">
                 <langSet xml:lang="en"><tig><term>discount</term></tig></langSet>
                 <langSet xml:lang="hr"><tig><term>popust</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>limit</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>ograničenje</term></tig></langSet>
+            </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>customer owner</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>vlasnik kupca</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>cancelled</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>stornirano</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>notification diagnostics</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>dijagnoze obavijesti</term></tig></langSet>
             </termEntry>
         </body>
     </text>
