@@ -477,7 +477,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>user identities</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Benutzerkennungen</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Benutzeridentitäten</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>tab</term></tig></langSet>
