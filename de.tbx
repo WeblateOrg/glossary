@@ -47,10 +47,6 @@
                 <langSet xml:lang="de"><tig><term>Kennungen</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>identity</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Kennung</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>translation memory</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Übersetzungsspeicher</term></tig></langSet>
             </termEntry>
