@@ -920,7 +920,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>scope</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>作用域</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>作用域/范围</term></tig></langSet>
             </termEntry>
         </body>
     </text>
