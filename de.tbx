@@ -1497,7 +1497,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>data volume</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Daten-Volume</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Datenvolume</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Doker image</term></tig></langSet>
