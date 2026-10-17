@@ -1957,6 +1957,10 @@
                 <langSet xml:lang="en"><tig><term>evaluation</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Evaluierung</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>translation service</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Übersetzungsdienst</term></tig><tig><term></term></tig><tig><term></term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
