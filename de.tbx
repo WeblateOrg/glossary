@@ -340,10 +340,6 @@
                 <langSet xml:lang="de"><tig><term>Quellcode anzeigen</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>code hosting services</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Code-Hosting-Dienste</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>bzip2 compressed</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>bzip2-komprimiert</term></tig></langSet>
             </termEntry>
