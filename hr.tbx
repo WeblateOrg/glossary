@@ -980,6 +980,14 @@
                 <langSet xml:lang="en"><tig><term>verify</term></tig></langSet>
                 <langSet xml:lang="hr"><tig><term>potvrdi</term></tig></langSet>
             </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>hooks</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>prilagođene skripte ili programski kod</term></tig></langSet>
+            </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>instruction</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>uputa</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
