@@ -720,6 +720,10 @@
                 <langSet xml:lang="en"><tig><term>secondary language</term></tig></langSet>
                 <langSet xml:lang="ca"><tig><term>llengua secundària</term></tig></langSet>
             </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>trigger</term></tig></langSet>
+                <langSet xml:lang="ca"><tig><term>activador</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
