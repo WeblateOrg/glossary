@@ -239,7 +239,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Personal Data</term></tig></langSet>
-                <langSet xml:lang="hr"><tig><term>Osobni podatci</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>Osobni podaci</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Cookies</term></tig></langSet>
@@ -506,7 +506,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
-                <langSet xml:lang="hr"><tig><term>Metrični podatci</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>Metrični podaci</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
@@ -620,7 +620,7 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
-                <langSet xml:lang="hr"><tig><term>Metrični podatci</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>Metrični podaci</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>dashboard</term></tig></langSet>
@@ -987,6 +987,30 @@
             <termEntry weblate-flags="">
                 <langSet xml:lang="en"><tig><term>instruction</term></tig></langSet>
                 <langSet xml:lang="hr"><tig><term>uputa</term></tig></langSet>
+            </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>checksum</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>kontrolni zbroj</term></tig></langSet>
+            </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>role</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>uloga</term></tig></langSet>
+            </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>project team</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>projektni tim</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>project repository</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>repozitorij projekta</term></tig></langSet>
+            </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>Discover Weblate</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>Otkrij Weblate</term></tig></langSet>
+            </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>file format</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>datotečni format</term></tig></langSet>
             </termEntry>
         </body>
     </text>
