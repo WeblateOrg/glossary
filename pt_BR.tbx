@@ -1156,6 +1156,10 @@
                 <langSet xml:lang="en"><tig><term>workspace</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>espaço de trabalho</term></tig></langSet>
             </termEntry>
+            <termEntry id="location">
+                <langSet xml:lang="en"><tig><term>location</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><note from="translator">locais</note><tig><term>Não extrair locais</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
