@@ -410,7 +410,33 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>secondary language</term></tig></langSet>
+                <langSet xml:lang="ia"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>Billing</term></tig></langSet>
+                <langSet xml:lang="ia"><tig><term>Facturation</term></tig></langSet>
+            </termEntry>
+            <termEntry weblate-flags="read-only">
+                <descrip type="Translation needed">No</descrip>
+                <note from="translator">https://en.wikipedia.org/wiki/URL</note>
+                <langSet xml:lang="en"><tig><term>URL</term></tig></langSet>
                 <langSet xml:lang="ia"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>Password</term></tig></langSet>
+                <langSet xml:lang="ia"><tig><term>Contrasigno</term></tig></langSet>
+            </termEntry>
+            <termEntry weblate-flags="read-only">
+                <descrip type="Translation needed">No</descrip>
+                <langSet xml:lang="en"><tig><term>File</term></tig></langSet>
+                <langSet xml:lang="ia"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry weblate-flags="">
+                <note from="translator">Image=រូបភាព&#13;
+Picture=រូប&#13;
+Photo=រូបថត</note>
+                <langSet xml:lang="en"><tig><term>Image</term></tig></langSet>
+                <langSet xml:lang="ia"><tig><term>Imagine</term></tig></langSet>
             </termEntry>
         </body>
     </text>
