@@ -668,7 +668,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
-                <langSet xml:lang="sl"><tig><term>uveljavi [▲]</term></tig></langSet>
+                <langSet xml:lang="sl"><tig><term>potrditev</term></tig></langSet>
                 <descrip>git-commit</descrip>
             </termEntry>
             <termEntry>
@@ -4836,6 +4836,10 @@
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>backup</term></tig></langSet>
                 <langSet xml:lang="sl"><tig><term>varnostna kopija</term></tig></langSet>
+            </termEntry>
+            <termEntry id="git squash">
+                <langSet xml:lang="en"><tig><term>Squash</term></tig></langSet>
+                <langSet xml:lang="sl"><note from="translator">git squash</note><tig><term>Stiskanje</term></tig></langSet>
             </termEntry>
         </body>
     </text>
