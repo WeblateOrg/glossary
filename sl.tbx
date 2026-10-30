@@ -1811,7 +1811,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>identifier</term></tig></langSet>
-                <langSet xml:lang="sl"><tig><term>določilo, določilnik</term></tig></langSet>
+                <langSet xml:lang="sl"><tig><term>označevalec</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>identity</term></tig></langSet>
