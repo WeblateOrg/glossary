@@ -716,10 +716,6 @@
                 <langSet xml:lang="sl"><tig><term>je združljiv z</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>component</term></tig></langSet>
-                <langSet xml:lang="sl"><tig><term>enota, sestavni del, sestavina</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>compose</term></tig></langSet>
                 <langSet xml:lang="sl"><tig><term>sestavi</term></tig></langSet>
             </termEntry>
