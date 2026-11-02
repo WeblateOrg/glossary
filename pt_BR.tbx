@@ -1156,6 +1156,14 @@
                 <langSet xml:lang="en"><tig><term>workspace</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>espaço de trabalho</term></tig></langSet>
             </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>topic</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>tema</term></tig></langSet>
+            </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>broker</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>agente</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
