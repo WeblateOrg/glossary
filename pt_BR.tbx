@@ -40,10 +40,6 @@
                 <langSet xml:lang="pt_BR"><tig><term>gerenciar</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>billing</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term>cobrança</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>billing plan</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>plano de cobrança</term></tig></langSet>
             </termEntry>
