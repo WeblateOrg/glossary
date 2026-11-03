@@ -841,7 +841,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>issue</term></tig></langSet>
-                <langSet xml:lang="pt_BR"><tig><term>questão</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><note from="translator">[pt-BR] depends on the context</note><tig><term>questão/problema</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>access restriction</term></tig></langSet>
@@ -1163,6 +1163,14 @@
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>trigger</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>acionamento</term></tig></langSet>
+            </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>General Terms and Conditions</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>Termos e Condições Gerais</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>eTranslation</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
     </text>
