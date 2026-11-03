@@ -1164,6 +1164,10 @@
                 <langSet xml:lang="en"><tig><term>broker</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>agente</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>trigger</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>acionamento</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
