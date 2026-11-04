@@ -1012,6 +1012,18 @@
                 <langSet xml:lang="en"><tig><term>file format</term></tig></langSet>
                 <langSet xml:lang="hr"><tig><term>datotečni format</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>translation service</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>prevodilačka usluga</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>translation notifications</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>prevodilačke obavijesti</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>translation notification</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>prevodilačka obavijest</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
