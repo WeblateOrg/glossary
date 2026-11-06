@@ -594,6 +594,10 @@
                 <langSet xml:lang="en"><tig><term>endpoint</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>extremo</term></tig></langSet>
             </termEntry>
+            <termEntry id="Security">
+                <langSet xml:lang="en"><tig><term>leaked</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>filtrado</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
