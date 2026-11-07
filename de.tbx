@@ -1228,10 +1228,6 @@
                 <langSet xml:lang="de"><tig><term>Datenschutzerklärung</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>check interface</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Prüfschnittstelle</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>user interface</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Bedienoberfläche</term></tig></langSet>
             </termEntry>
