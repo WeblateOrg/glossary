@@ -1813,6 +1813,10 @@
                 <langSet xml:lang="en"><tig><term>legal document</term></tig><tig><term>legal documents</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Rechtsdokument</term></tig><tig><term>Rechtsdokumente</term></tig></langSet>
             </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>machine translation</term></tig><tig><term>machine translations</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>maschinelle Übersetzung</term></tig><tig><term>maschinelle Übersetzungen</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
