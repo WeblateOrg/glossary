@@ -1925,6 +1925,10 @@
                 <langSet xml:lang="en"><tig><term>assignment</term></tig><tig><term>assignments</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Zuweisung</term></tig><tig><term>Zuweisungen</term></tig></langSet>
             </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>backup</term></tig><tig><term>backups</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Sicherung</term></tig><tig><term>Sicherungen</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
