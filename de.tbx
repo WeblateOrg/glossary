@@ -558,10 +558,6 @@
                 <langSet xml:lang="de"><tig><term>Versionsverwaltung</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>language code</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Sprachcode</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>search and replace</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Suchen und Ersetzen</term></tig></langSet>
             </termEntry>
