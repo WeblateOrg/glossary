@@ -208,10 +208,6 @@
                 <langSet xml:lang="de"><tig><term>Administrator</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Bountysource</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Bountysource</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Translation components</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Übersetzungskomponenten</term></tig></langSet>
             </termEntry>
