@@ -1962,10 +1962,6 @@
                 <langSet xml:lang="de"><tig><term>Ratenbegrenzung</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>findings</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Befunde</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>finding_test</term></tig><tig><term>findings_test</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Befund</term></tig><tig><term>Befunde</term></tig></langSet>
             </termEntry>
