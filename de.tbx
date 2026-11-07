@@ -597,10 +597,6 @@
                 <langSet xml:lang="en"><tig><term>site</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Plattform</term></tig></langSet>
             </termEntry>
-            <termEntry>
-                <langSet xml:lang="en"><tig><term>branch</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Branch</term></tig></langSet>
-            </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Committer</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term/></tig></langSet>
