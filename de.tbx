@@ -1869,6 +1869,10 @@
                 <langSet xml:lang="en"><tig><term>domain</term></tig><tig><term>domains</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Domain</term></tig><tig><term>Domains</term></tig></langSet>
             </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>feature</term></tig><tig><term>features</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Funktion</term></tig><tig><term>Funktionen</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
