@@ -1394,10 +1394,6 @@
                 <langSet xml:lang="de"><tig><term>Teams</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>assignment</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Zuweisung</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>assignments</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Zuweisungen</term></tig></langSet>
             </termEntry>
