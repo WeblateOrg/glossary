@@ -750,11 +750,6 @@
                 <langSet xml:lang="de"><tig><term>Übersichtsseite</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Token</term></tig></langSet>
-                <note from="translator">das Token (Singular), die Token (Plural)</note>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>suggestion</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Übersetzungsvorschlag</term></tig></langSet>
             </termEntry>
