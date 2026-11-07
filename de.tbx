@@ -1825,6 +1825,14 @@
                 <langSet xml:lang="en"><tig><term>hook</term></tig><tig><term>hooks</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Hook</term></tig><tig><term>Hooks</term></tig></langSet>
             </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>label</term></tig><tig><term>labels</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Label</term></tig><tig><term>Labels</term></tig></langSet>
+            </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>keyboard shortcut</term></tig><tig><term>keyboard shortcuts</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Tastaturkürzel</term></tig><tig><term>Tastaturkürzel</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
