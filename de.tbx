@@ -1601,10 +1601,6 @@
                 <langSet xml:lang="de"><tig><term>Verhaltenskodex</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>guidelines</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Richtlinien</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>memory usage</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Speicherauslastung</term></tig></langSet>
             </termEntry>
