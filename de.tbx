@@ -23,10 +23,6 @@
                 <langSet xml:lang="de"><tig><term>Versionsverwaltung</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>features</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Funktionen</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>engage</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>beteiligen</term></tig></langSet>
             </termEntry>
