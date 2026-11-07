@@ -879,10 +879,6 @@
                 <langSet xml:lang="de"><tig><term>suchen</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Erweiterung</term></tig><tig><term></term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>NBD</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Nächster Arbeitstag</term></tig></langSet>
             </termEntry>
