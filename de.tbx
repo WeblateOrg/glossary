@@ -1713,10 +1713,6 @@
                 <langSet xml:lang="de"><tig><term>Hostschlüssel</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>domains</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Domains</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>workspace</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Arbeitsbereich</term></tig></langSet>
             </termEntry>
