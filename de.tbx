@@ -344,10 +344,6 @@
                 <langSet xml:lang="de"><tig><term>Webchat</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>access rights</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Zugriffsrechte</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>environment</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Einsatzumgebung</term></tig></langSet>
             </termEntry>
