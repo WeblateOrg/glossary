@@ -1841,6 +1841,10 @@
                 <langSet xml:lang="en"><tig><term>guideline</term></tig><tig><term>guidelines</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Richtlinie</term></tig><tig><term>Richtlinien</term></tig></langSet>
             </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>hook</term></tig><tig><term>hooks</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Hook</term></tig><tig><term>Hooks</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
