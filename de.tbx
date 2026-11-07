@@ -1817,6 +1817,14 @@
                 <langSet xml:lang="en"><tig><term>keyboard shortcut</term></tig><tig><term>keyboard shortcuts</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Tastaturkürzel</term></tig><tig><term>Tastaturkürzel</term></tig></langSet>
             </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>language code</term></tig><tig><term>language codes</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Sprachcode</term></tig><tig><term>Sprachcodes</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>legal document</term></tig><tig><term>legal documents</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Rechtsdokument</term></tig><tig><term>Rechtsdokumente</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
