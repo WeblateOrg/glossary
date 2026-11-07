@@ -1016,10 +1016,6 @@
                 <langSet xml:lang="de"><tig><term>Commits</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Keyboard shortcut</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Tastaturkürzel</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>machine translations</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>maschinelle Übersetzungen</term></tig></langSet>
             </termEntry>
