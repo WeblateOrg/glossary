@@ -1853,6 +1853,10 @@
                 <langSet xml:lang="en"><tig><term>group</term></tig><tig><term>groups</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Gruppe</term></tig><tig><term>Gruppen</term></tig></langSet>
             </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>guest</term></tig><tig><term>guests</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Gast</term></tig><tig><term>Gäste</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
