@@ -1701,10 +1701,6 @@
                 <langSet xml:lang="de"><tig><term>einsprachig</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>access token</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Zugangstoken</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>access tokens</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Zugangstoken</term></tig></langSet>
             </termEntry>
