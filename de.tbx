@@ -586,10 +586,6 @@
                 <langSet xml:lang="de"><tig><term>Abmelden</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>i18next</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>message</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Nachricht</term></tig></langSet>
             </termEntry>
