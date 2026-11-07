@@ -1917,6 +1917,10 @@
                 <langSet xml:lang="en"><tig><term>backup</term></tig><tig><term>backups</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Sicherung</term></tig><tig><term>Sicherungen</term></tig></langSet>
             </termEntry>
+            <termEntry weblate-flags="variant:branch">
+                <langSet xml:lang="en"><tig><term>branch</term></tig><tig><term>branches</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Branch</term></tig><tig><term>Branches</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
