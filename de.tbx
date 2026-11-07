@@ -1873,6 +1873,10 @@
                 <langSet xml:lang="en"><tig><term>contributor license agreement</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Mitwirkungsvereinbarung</term></tig></langSet>
             </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>domain</term></tig><tig><term>domains</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Domain</term></tig><tig><term>Domains</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
