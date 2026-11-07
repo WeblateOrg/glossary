@@ -115,10 +115,6 @@
                 <langSet xml:lang="de"><tig><term>Bild</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>appliances</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Appliances</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>you</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Sie</term></tig></langSet>
             </termEntry>
