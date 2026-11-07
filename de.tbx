@@ -400,10 +400,6 @@
                 <langSet xml:lang="de"><tig><term>Beratung</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Access control</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Zugriffssteuerung</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Codecov</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term/></tig></langSet>
             </termEntry>
