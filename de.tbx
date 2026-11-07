@@ -27,10 +27,6 @@
                 <langSet xml:lang="de"><tig><term>Funktionen</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>feature</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Funktion</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>engage</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>beteiligen</term></tig></langSet>
             </termEntry>
