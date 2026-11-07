@@ -521,10 +521,6 @@
                 <langSet xml:lang="de"><tig><term>Domain</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>branches</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Branches</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Trailing newline</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Zeilenumbruch am Ende</term></tig></langSet>
             </termEntry>
