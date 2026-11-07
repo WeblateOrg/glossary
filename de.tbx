@@ -1933,6 +1933,14 @@
                 <langSet xml:lang="en"><tig><term>token</term></tig><tig><term>tokens</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Token</term></tig><tig><term>Token</term></tig></langSet>
             </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>addon</term></tig><tig><term>addons</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Erweiterung</term></tig><tig><term>Erweiterungen</term></tig></langSet>
+            </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>add-on</term></tig><tig><term>add-ons</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Erweiterung</term></tig><tig><term>Erweiterungen</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
