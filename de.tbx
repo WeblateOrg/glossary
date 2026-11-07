@@ -1893,6 +1893,10 @@
                 <langSet xml:lang="en"><tig><term>alert</term></tig><tig><term>alerts</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Warnung</term></tig><tig><term>Warnungen</term></tig></langSet>
             </termEntry>
+            <termEntry weblate-flags="variant:access-control">
+                <langSet xml:lang="en"><tig><term>access control</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Zugriffssteuerung</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
