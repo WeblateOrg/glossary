@@ -229,7 +229,7 @@
             </termEntry>
             <termEntry id="alias &quot;source text&quot;">
                 <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>fuente</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>fuente, origen</term></tig></langSet>
             </termEntry>
             <termEntry id="alias &quot;Zen mode&quot;">
                 <langSet xml:lang="en"><tig><term>Zen</term></tig></langSet>
@@ -612,6 +612,15 @@
             <termEntry id="Weblate">
                 <langSet xml:lang="en"><tig><term>placeable</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>colocable</term></tig></langSet>
+            </termEntry>
+            <termEntry weblate-flags="">
+                <descrip type="definition">Voc. informático</descrip>
+                <langSet xml:lang="en"><tig><term>backend</term></tig></langSet>
+                <langSet xml:lang="es"><note from="translator">Voc. informático</note><tig><term>segundo plano</term></tig></langSet>
+            </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>bulk</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>masivo</term></tig></langSet>
             </termEntry>
         </body>
     </text>
