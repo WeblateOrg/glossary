@@ -75,10 +75,6 @@
                 <langSet xml:lang="de"><tig><term>API-Schlüssel</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>notification</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Benachrichtigung</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>watched</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>beobachtet</term></tig></langSet>
             </termEntry>
