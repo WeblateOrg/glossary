@@ -1789,6 +1789,10 @@
                 <langSet xml:lang="en"><tig><term>notification</term></tig><tig><term>notifications</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Benachrichtigung</term></tig><tig><term>Benachrichtigungen</term></tig></langSet>
             </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>permission</term></tig><tig><term>permissions</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Berechtigung</term></tig><tig><term>Berechtigungen</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
