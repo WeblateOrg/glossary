@@ -1797,6 +1797,10 @@
                 <langSet xml:lang="en"><tig><term>merge request</term></tig><tig><term>merge requests</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Merge Request</term></tig><tig><term>Merge Requests</term></tig></langSet>
             </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>newline</term></tig><tig><term>newlines</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Zeilenumbruch</term></tig><tig><term>Zeilenumbrüche</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
