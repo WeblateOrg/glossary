@@ -1233,10 +1233,6 @@
                 <langSet xml:lang="de"><tig><term>committen</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>merge request</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Merge Request</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>merge</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Merge</term></tig></langSet>
                 <descrip>Git merge</descrip>
