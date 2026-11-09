@@ -622,10 +622,6 @@
                 <langSet xml:lang="de"><tig><term>Python-Format</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>PHP format</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>PHP-Format</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>C format</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>C-Format</term></tig></langSet>
             </termEntry>
