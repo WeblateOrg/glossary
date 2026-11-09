@@ -1797,6 +1797,10 @@
                 <langSet xml:lang="en"><tig><term>newline</term></tig><tig><term>newlines</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Zeilenumbruch</term></tig><tig><term>Zeilenumbrüche</term></tig></langSet>
             </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>notification</term></tig><tig><term>notifications</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Benachrichtigung</term></tig><tig><term>Benachrichtigungen</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
