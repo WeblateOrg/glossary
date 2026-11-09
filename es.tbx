@@ -75,7 +75,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CI</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>Integración continua</term></tig></langSet>
+                <langSet xml:lang="es"><note from="translator">https://es.wikipedia.org/wiki/Integraci%C3%B3n_continua   (IC)</note><tig><term>Integración continua</term></tig></langSet>
                 <note from="translator">https://es.wikipedia.org/wiki/Integraci%C3%B3n_continua</note>
             </termEntry>
             <termEntry>
@@ -454,7 +454,7 @@
             </termEntry>
             <termEntry id="Weblate">
                 <langSet xml:lang="en"><tig><term>placeholder</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>sustitutivo</term></tig></langSet>
+                <langSet xml:lang="es"><note from="translator">marcador de posición</note><tig><term>sustitutivo</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>placeholder</term></tig></langSet>
@@ -610,8 +610,8 @@
                 <langSet xml:lang="es"><note from="translator">Tratamiento es mejor que manipulación.</note><tig><term>Tratamiento</term></tig></langSet>
             </termEntry>
             <termEntry id="Weblate">
-                <langSet xml:lang="en"><tig><term>Placeable</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>Reacondicionados</term></tig></langSet>
+                <langSet xml:lang="en"><tig><term>placeable</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>colocable</term></tig></langSet>
             </termEntry>
         </body>
     </text>
