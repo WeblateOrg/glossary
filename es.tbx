@@ -12,7 +12,7 @@
         <body>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>hook</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>actuador</term></tig></langSet>
+                <langSet xml:lang="es"><note from="translator">en informática es un tipo de conexión entre dos sistemas distintos. Se traduce como conexión, enganche o enlace.</note><tig><term>enganche</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>hosting</term></tig></langSet>
@@ -28,7 +28,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>flag</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>modificador</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>indicador, indicadores</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
@@ -80,7 +80,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>e-mail</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term></term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>correo-e</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Keyboard shortcuts</term></tig></langSet>
@@ -92,7 +92,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gitee</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term/></tig></langSet>
+                <langSet xml:lang="es"><note from="translator">Marca de un sistema relacionado con Git</note><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Personal Data</term></tig></langSet>
@@ -135,7 +135,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>analizar</term></tig></langSet>
+                <langSet xml:lang="es"><note from="translator">es analizar, pero es más específico. se refiere a análisis sintáctico, análisis de interpretación, análisis del idioma, aquí no se analizan los vocabularios, se interpretan.</note><tig><term>interpretar</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gerrit</term></tig></langSet>
@@ -197,7 +197,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fixup</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>arreglar</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>arreglar, reparar</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>unresolved comment</term></tig></langSet>
@@ -264,7 +264,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>MyMemory</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>MyMemory</term></tig></langSet>
+                <langSet xml:lang="es"><note from="translator">Mi memoria privada de traducción</note><tig><term>MyMemory</term></tig></langSet>
                 <descrip>mymemory.translated.net</descrip>
             </termEntry>
             <termEntry>
@@ -274,7 +274,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gravatar</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>Gravatar</term></tig></langSet>
+                <langSet xml:lang="es"><note from="translator">Conjunto de iconos, gráficos, etc.</note><tig><term>Gravatar</term></tig></langSet>
                 <descrip>gravatar.com</descrip>
             </termEntry>
             <termEntry>
@@ -283,7 +283,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>foo/bar</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term/></tig></langSet>
+                <langSet xml:lang="es"><note from="translator">ejemplo, o palabras que indican un ejemplo. En España "ésto o lo otro"</note><tig><term/></tig></langSet>
             </termEntry>
             <termEntry id="hackerone.com">
                 <langSet xml:lang="en"><tig><term>HackerOne</term></tig></langSet>
@@ -295,7 +295,7 @@
             </termEntry>
             <termEntry id="https://www.gnu.org/software/gettext">
                 <langSet xml:lang="en"><tig><term>gettext</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>gettext</term></tig></langSet>
+                <langSet xml:lang="es"><note from="translator">Parte del sistema de localización de GNU,</note><tig><term>gettext</term></tig></langSet>
             </termEntry>
             <termEntry id="sphinx-doc.org">
                 <langSet xml:lang="en"><tig><term>Sphinx</term></tig></langSet>
@@ -327,7 +327,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Metrics</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>Métrica</term></tig></langSet>
+                <langSet xml:lang="es"><note from="translator">plural aquí</note><tig><term>Métricas</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>untranslatable</term></tig></langSet>
@@ -375,7 +375,7 @@
             </termEntry>
             <termEntry id="Weblate">
                 <langSet xml:lang="en"><tig><term>merge</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>fusión</term></tig></langSet>
+                <langSet xml:lang="es"><note from="translator">Se ha traducido como unión, en vez de fusión. Tengo que verificarlo</note><tig><term>fusión</term></tig></langSet>
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>Sentry</term></tig></langSet>
@@ -391,11 +391,11 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>e-mail address</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>dirección de correo electrónico</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>dirección de correo-e</term></tig></langSet>
             </termEntry>
             <termEntry id="Difuso">
                 <langSet xml:lang="en"><tig><term>`Managers`</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>`Supervisores`</term></tig></langSet>
+                <langSet xml:lang="es"><note from="translator">Se ha traducido mucho como gerente. Lo pondré a supervisor</note><tig><term>`Supervisores`</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>See</term></tig></langSet>
@@ -446,7 +446,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>milestone</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>hito</term></tig></langSet>
+                <langSet xml:lang="es"><note from="translator">Suele ser el código de la versión del programa</note><tig><term>hito</term></tig></langSet>
             </termEntry>
             <termEntry id="Vocabulario">
                 <langSet xml:lang="en"><tig><term>deprecate</term></tig></langSet>
@@ -478,7 +478,7 @@
             </termEntry>
             <termEntry id="Weblate">
                 <langSet xml:lang="en"><tig><term>handler</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>actuador</term></tig></langSet>
+                <langSet xml:lang="es"><note from="translator">Se refiere a un operador informático. En España de traduce como operador del sistema, en programación de suele traducir como manipulador u operario del sistema</note><tig><term>operario</term></tig></langSet>
             </termEntry>
             <termEntry id="Weblate">
                 <langSet xml:lang="en"><tig><term>push (repo)</term></tig></langSet>
@@ -494,25 +494,24 @@
             </termEntry>
             <termEntry id="1">
                 <langSet xml:lang="en"><tig><term>flag</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>bandera</term></tig></langSet>
+                <langSet xml:lang="es"><note from="translator">utilizar "indicador", nunca bandera</note><tig><term>indicador</term></tig></langSet>
                 <note from="translator">utilizar "indicador"</note>
-                <descrip>utilizar "indicador"</descrip>
             </termEntry>
             <termEntry id="Weblate">
                 <langSet xml:lang="en"><tig><term>flatxml_root_name</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term/></tig></langSet>
+                <langSet xml:lang="es"><note from="translator">Nombre de la raíz de xml. No traducir, dejarlo tal cual.</note><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>json_indent</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term/></tig></langSet>
+                <langSet xml:lang="es"><note from="translator">sangrado de texto en json</note><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>json_indent_style</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term/></tig></langSet>
+                <langSet xml:lang="es"><note from="translator">estilo de sangrado en json</note><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>merge_duplicates</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term/></tig></langSet>
+                <langSet xml:lang="es"><note from="translator">fusionar duplicados, unión de duplicados. Es parte de programación y no se traduce.</note><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>po_keep_previous</term></tig></langSet>
@@ -528,7 +527,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>json_use_compact_separators</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term/></tig></langSet>
+                <langSet xml:lang="es"><note from="translator">separadores en json</note><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>helpful</term></tig></langSet>
@@ -540,7 +539,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>gwt_encoding</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term/></tig></langSet>
+                <langSet xml:lang="es"><note from="translator">Codificación de un tipo de datos</note><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>po_fuzzy_matching</term></tig></langSet>
@@ -560,11 +559,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>flags</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>modificadores</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>indicadores</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>outbound</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>saliente</term></tig></langSet>
+                <langSet xml:lang="es"><note from="translator">solo ida o salida de datos</note><tig><term>saliente</term></tig></langSet>
             </termEntry>
             <termEntry id="Adj que refiere a los cambios que afectan a todo el sitio web">
                 <langSet xml:lang="en"><tig><term>site-wide </term></tig></langSet>
@@ -596,11 +595,11 @@
             </termEntry>
             <termEntry id="Security">
                 <langSet xml:lang="en"><tig><term>leaked</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>filtrado</term></tig></langSet>
+                <langSet xml:lang="es"><note from="translator">en informática, filtración de datos privados</note><tig><term>filtrado</term></tig></langSet>
             </termEntry>
             <termEntry id="Weblate">
                 <langSet xml:lang="en"><tig><term>Outcome</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>Consecuencia</term></tig></langSet>
+                <langSet xml:lang="es"><note from="translator">resultado o consecuencia de una acción o función</note><tig><term>Consecuencia</term></tig></langSet>
             </termEntry>
             <termEntry id="Weblate">
                 <langSet xml:lang="en"><tig><term>newline</term></tig></langSet>
