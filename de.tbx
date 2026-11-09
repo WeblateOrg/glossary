@@ -924,10 +924,6 @@
                 <langSet xml:lang="de"><tig><term>Hauptbenutzer</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Permission</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Berechtigung</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Role</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Rolle</term></tig></langSet>
             </termEntry>
