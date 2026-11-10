@@ -622,6 +622,10 @@
                 <langSet xml:lang="en"><tig><term>bulk</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>masivo</term></tig></langSet>
             </termEntry>
+            <termEntry id="Weblate">
+                <langSet xml:lang="en"><tig><term>YTD (Year-to-Date)</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>Año hasta la fecha</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
