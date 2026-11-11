@@ -229,7 +229,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>verification</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>확인</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>검증</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>link</term></tig></langSet>
