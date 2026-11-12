@@ -1701,6 +1701,10 @@
                 <langSet xml:lang="en"><tig><term>secondary language</term></tig><tig><term>secondary languages</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Zweitsprache</term></tig><tig><term>Zweitsprachen</term></tig></langSet>
             </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>sequence</term></tig><tig><term>sequences</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Zeichenfolge</term></tig><tig><term>Zeichenfolgen</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
