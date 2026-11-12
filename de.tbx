@@ -1620,6 +1620,10 @@
                 <langSet xml:lang="en"><tig><term>suggestion</term></tig><tig><term>suggestions</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Übersetzungsvorschlag</term></tig><tig><term>Übersetzungsvorschläge</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>suggestion</term></tig><tig><term>suggestions</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Vorschlag</term></tig><tig><term>Vorschläge</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
