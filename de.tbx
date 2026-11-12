@@ -1656,6 +1656,10 @@
                 <langSet xml:lang="en"><tig><term>subscription</term></tig><tig><term>subscriptions</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Abonnement</term></tig><tig><term>Abonnements</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>trademark</term></tig><tig><term>trademarks</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Markenzeichen</term></tig><tig><term>Markenzeichen</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
