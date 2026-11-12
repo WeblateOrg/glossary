@@ -1652,6 +1652,10 @@
                 <langSet xml:lang="en"><tig><term>translation</term></tig><tig><term>translations</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Übersetzung</term></tig><tig><term>Übersetzungen</term></tig></langSet>
             </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>translation flag</term></tig><tig><term>translation flags</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Übersetzungsmarkierung</term></tig><tig><term>Übersetzungsmarkierungen</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
