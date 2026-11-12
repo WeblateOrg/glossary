@@ -482,10 +482,6 @@
                 <langSet xml:lang="de"><tig><term>Widgets</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>security weaknesses</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Sicherheitslücken</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Terms of Service</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Nutzungsbedingungen</term></tig></langSet>
             </termEntry>
