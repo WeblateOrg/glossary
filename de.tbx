@@ -1701,6 +1701,10 @@
                 <langSet xml:lang="en"><tig><term>sequence</term></tig><tig><term>sequences</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Zeichenfolge</term></tig><tig><term>Zeichenfolgen</term></tig></langSet>
             </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>session</term></tig><tig><term>sessions</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Sitzung</term></tig><tig><term>Sitzungen</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
