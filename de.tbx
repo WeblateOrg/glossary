@@ -1206,10 +1206,6 @@
                 <langSet xml:lang="de"><tig><term>Zuordnung</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Screenshots</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Bildschirmfotos</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>authorship</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Urheberschaft</term></tig></langSet>
             </termEntry>
