@@ -558,10 +558,6 @@
                 <langSet xml:lang="de"><tig><term>C-Format</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Translate Toolkit</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Report</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Bericht</term></tig></langSet>
             </termEntry>
