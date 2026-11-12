@@ -1741,6 +1741,10 @@
                 <langSet xml:lang="en"><tig><term>placeable</term></tig><tig><term>placeables</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Platzhalter</term></tig><tig><term>Platzhalter</term></tig></langSet>
             </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>power user</term></tig><tig><term>power users</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Hauptbenutzer</term></tig><tig><term>Hauptbenutzer</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
