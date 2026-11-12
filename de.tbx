@@ -1693,6 +1693,10 @@
                 <langSet xml:lang="en"><tig><term>source language</term></tig><tig><term>source languages</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Ausgangssprache</term></tig><tig><term>Ausgangssprachen</term></tig></langSet>
             </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>source string</term></tig><tig><term>source strings</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Ausgangszeichenkette</term></tig><tig><term>Ausgangszeichenketten</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
