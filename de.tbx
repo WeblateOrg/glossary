@@ -1709,6 +1709,10 @@
                 <langSet xml:lang="en"><tig><term>reviewer</term></tig><tig><term>reviewers</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Prüfer</term></tig><tig><term>Prüfer</term></tig></langSet>
             </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>screenshot</term></tig><tig><term>screenshots</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Bildschirmfoto</term></tig><tig><term>Bildschirmfotos</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
