@@ -1652,6 +1652,10 @@
                 <langSet xml:lang="en"><tig><term>trademark</term></tig><tig><term>trademarks</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Markenzeichen</term></tig><tig><term>Markenzeichen</term></tig></langSet>
             </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>translation component</term></tig><tig><term>translation components</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Übersetzungskomponente</term></tig><tig><term>Übersetzungskomponenten</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
