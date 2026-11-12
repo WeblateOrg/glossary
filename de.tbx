@@ -156,10 +156,6 @@
                 <langSet xml:lang="de"><tig><term>Root-Zugriff</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Translation components</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Übersetzungskomponenten</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>bugs</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Fehler</term></tig></langSet>
             </termEntry>
