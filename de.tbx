@@ -51,10 +51,6 @@
                 <langSet xml:lang="de"><tig><term>ungenau</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>string</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Zeichenkette</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>base file</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Basisdatei</term></tig></langSet>
             </termEntry>
