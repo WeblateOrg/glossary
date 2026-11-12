@@ -634,10 +634,6 @@
                 <langSet xml:lang="de"><tig><term>Repository-Branch</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>sequences</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Zeichenfolgen</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Quality checks</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Qualitätsprüfungen</term></tig></langSet>
             </termEntry>
