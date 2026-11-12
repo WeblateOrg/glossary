@@ -852,10 +852,6 @@
                 <langSet xml:lang="de"><tig><term>Einheiten</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>source words</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Ausgangswörter</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>unit</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Einheit</term></tig></langSet>
             </termEntry>
