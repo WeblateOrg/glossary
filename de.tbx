@@ -1677,6 +1677,14 @@
                 <langSet xml:lang="en"><tig><term>source word</term></tig><tig><term>source words</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Ausgangswort</term></tig><tig><term>Ausgangswörter</term></tig></langSet>
             </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>string</term></tig><tig><term>strings</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Zeichenkette</term></tig><tig><term>Zeichenketten</term></tig></langSet>
+            </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>subscription</term></tig><tig><term>subscriptions</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Abonnement</term></tig><tig><term>Abonnements</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
