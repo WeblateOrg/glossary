@@ -808,10 +808,6 @@
                 <langSet xml:lang="de"><tig><term>XML-Tag</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>variants</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Varianten</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>digest</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Zusammenfassung</term></tig></langSet>
             </termEntry>
