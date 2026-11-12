@@ -264,10 +264,6 @@
                 <langSet xml:lang="de"><tig><term>Docker-Container</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Stack Overflow</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>bank account</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Bankkonto</term></tig></langSet>
             </termEntry>
