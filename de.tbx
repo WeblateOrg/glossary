@@ -1769,6 +1769,10 @@
                 <langSet xml:lang="en"><tig><term>project</term></tig><tig><term>projects</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Projekt</term></tig><tig><term>Projekte</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>project maintainer</term></tig><tig><term>project maintainers</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Projektbetreuer</term></tig><tig><term>Projektbetreuer</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
