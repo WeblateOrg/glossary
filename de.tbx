@@ -1725,10 +1725,6 @@
                 <langSet xml:lang="en"><tig><term>placeholder</term></tig><tig><term>placeholders</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Platzhalter</term></tig><tig><term>Platzhalter</term></tig></langSet>
             </termEntry>
-            <termEntry id="1" weblate-flags="variant:placeholderplaceholders">
-                <langSet xml:lang="en"><tig><term>placeable</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Platzhalter</term></tig></langSet>
-            </termEntry>
             <termEntry weblate-flags="">
                 <langSet xml:lang="en"><tig><term>component</term></tig><tig><term>components</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Komponente</term></tig><tig><term>Komponenten</term></tig></langSet>
