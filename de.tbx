@@ -800,10 +800,6 @@
                 <langSet xml:lang="de"><tig><term>Einheiten</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>unit</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Einheit</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>commits</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Commits</term></tig></langSet>
             </termEntry>
