@@ -928,6 +928,10 @@
                 <langSet xml:lang="en"><tig><term>Terms and Conditions</term></tig></langSet>
                 <langSet xml:lang="ko"><tig><term>이용약관</term></tig></langSet>
             </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>workspace</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>작업공간</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
