@@ -356,10 +356,6 @@
                 <langSet xml:lang="de"><tig><term>Beratung</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Secondary languages</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Zweitsprachen</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>zen mode</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Zen-Modus</term></tig></langSet>
             </termEntry>
