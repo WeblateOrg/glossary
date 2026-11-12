@@ -1640,6 +1640,14 @@
                 <langSet xml:lang="en"><tig><term>translator</term></tig><tig><term>translators</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Übersetzer</term></tig><tig><term>Übersetzer</term></tig></langSet>
             </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>unit</term></tig><tig><term>units</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Einheit</term></tig><tig><term>Einheiten</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>UI</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Bedienoberfläche</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
