@@ -780,10 +780,6 @@
                 <langSet xml:lang="de"><tig><term>Unterstützung</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Superuser</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Superuser</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Default groups</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Standardgruppen</term></tig></langSet>
             </termEntry>
