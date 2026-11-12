@@ -1620,6 +1620,10 @@
                 <langSet xml:lang="en"><tig><term>translation unit</term></tig><tig><term>translation units</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Übersetzungseinheit</term></tig><tig><term>Übersetzungseinheiten</term></tig></langSet>
             </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>suggestion</term></tig><tig><term>suggestions</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Übersetzungsvorschlag</term></tig><tig><term>Übersetzungsvorschläge</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
