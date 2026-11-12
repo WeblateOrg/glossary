@@ -1769,6 +1769,10 @@
                 <langSet xml:lang="en"><tig><term>project maintainer</term></tig><tig><term>project maintainers</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Projektbetreuer</term></tig><tig><term>Projektbetreuer</term></tig></langSet>
             </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>category</term></tig><tig><term>categories</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Kategorie</term></tig><tig><term>Kategorien</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
