@@ -1644,6 +1644,10 @@
                 <langSet xml:lang="en"><tig><term>translation flag</term></tig><tig><term>translation flags</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Übersetzungsmarkierung</term></tig><tig><term>Übersetzungsmarkierungen</term></tig></langSet>
             </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>translator</term></tig><tig><term>translators</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Übersetzer</term></tig><tig><term>Übersetzer</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
