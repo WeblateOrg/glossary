@@ -1182,10 +1182,6 @@
                 <langSet xml:lang="de"><tig><term>Bereitstellung</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>team</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Team</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>teams</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Teams</term></tig></langSet>
             </termEntry>
