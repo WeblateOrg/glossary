@@ -1705,6 +1705,10 @@
                 <langSet xml:lang="en"><tig><term>screenshot</term></tig><tig><term>screenshots</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Bildschirmfoto</term></tig><tig><term>Bildschirmfotos</term></tig></langSet>
             </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>secondary language</term></tig><tig><term>secondary languages</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Zweitsprache</term></tig><tig><term>Zweitsprachen</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
