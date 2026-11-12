@@ -650,10 +650,6 @@
                 <langSet xml:lang="de"><tig><term>Abonnement</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>subscriptions</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Abonnements</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>subscription settings</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Abonnementeinstellungen</term></tig></langSet>
             </termEntry>
