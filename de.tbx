@@ -1757,6 +1757,10 @@
                 <langSet xml:lang="en"><tig><term>team</term></tig><tig><term>teams</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Team</term></tig><tig><term>Teams</term></tig></langSet>
             </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>manager</term></tig><tig><term>managers</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Manager</term></tig><tig><term>Manager</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
