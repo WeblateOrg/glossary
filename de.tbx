@@ -404,10 +404,6 @@
                 <langSet xml:lang="de"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>MySQL</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term/></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>database backend</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Datenbank-Backend</term></tig></langSet>
             </termEntry>
