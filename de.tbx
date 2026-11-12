@@ -1737,6 +1737,10 @@
                 <langSet xml:lang="en"><tig><term>power user</term></tig><tig><term>power users</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Hauptbenutzer</term></tig><tig><term>Hauptbenutzer</term></tig></langSet>
             </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>pull request</term></tig><tig><term>pull requests</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Pull Request</term></tig><tig><term>Pull Requests</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
