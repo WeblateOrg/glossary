@@ -598,10 +598,6 @@
                 <langSet xml:lang="de"><tig><term>Plural</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Plural</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Plural</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>plurals</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Pluralformen</term></tig></langSet>
             </termEntry>
