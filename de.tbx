@@ -880,10 +880,6 @@
                 <langSet xml:lang="de"><tig><term>Kommentar geklärt</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>URL scheme</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>URL-Schema</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Contributor</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Mitwirkender</term></tig></langSet>
             </termEntry>
