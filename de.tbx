@@ -59,10 +59,6 @@
                 <langSet xml:lang="de"><tig><term>Projekt</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>component</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Komponente</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>session</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Sitzung</term></tig></langSet>
             </termEntry>
