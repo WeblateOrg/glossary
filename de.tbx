@@ -904,10 +904,6 @@
                 <langSet xml:lang="de"><tig><term>Übersetzungen</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>translation</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Übersetzung</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>unresolved comment</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Kommentar ungeklärt</term></tig></langSet>
             </termEntry>
