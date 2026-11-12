@@ -1697,6 +1697,10 @@
                 <langSet xml:lang="en"><tig><term>session</term></tig><tig><term>sessions</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Sitzung</term></tig><tig><term>Sitzungen</term></tig></langSet>
             </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>source language</term></tig><tig><term>source languages</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Ausgangssprache</term></tig><tig><term>Ausgangssprachen</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
