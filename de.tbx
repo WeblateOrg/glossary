@@ -1300,10 +1300,6 @@
                 <langSet xml:lang="de"><tig><term>Massenbearbeitung</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>UI</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Bedienoberfläche</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>trigger</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Trigger</term></tig></langSet>
             </termEntry>
