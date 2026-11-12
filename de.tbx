@@ -646,10 +646,6 @@
                 <langSet xml:lang="de"><tig><term>Testphase</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>subscription</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Abonnement</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>subscription settings</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Abonnementeinstellungen</term></tig></langSet>
             </termEntry>
