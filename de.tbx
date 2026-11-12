@@ -1115,10 +1115,6 @@
                 <langSet xml:lang="en"><tig><term>profile</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Profil</term></tig></langSet>
             </termEntry>
-            <termEntry id="plural form">
-                <langSet xml:lang="en"><tig><term>projects</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Projekte</term></tig></langSet>
-            </termEntry>
             <termEntry id="alias &quot;source text&quot;">
                 <langSet xml:lang="en"><tig><term>source</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Quelle</term></tig></langSet>
