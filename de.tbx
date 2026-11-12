@@ -992,10 +992,6 @@
                 <langSet xml:lang="de"><tig><term>Varianten</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>Project maintainers</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Projektbetreuer</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>digest</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Zusammenfassung</term></tig></langSet>
             </termEntry>
