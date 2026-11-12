@@ -236,10 +236,6 @@
                 <langSet xml:lang="de"><tig><term>Projektseite</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>View sources</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Quellcode anzeigen</term></tig></langSet>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>Docker container</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Docker-Container</term></tig></langSet>
             </termEntry>
