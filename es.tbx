@@ -630,6 +630,18 @@
                 <langSet xml:lang="en"><tig><term>underlying</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>subyacente</term></tig></langSet>
             </termEntry>
+            <termEntry id="Weblate">
+                <langSet xml:lang="en"><tig><term>backup</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>copia de respaldo</term></tig></langSet>
+            </termEntry>
+            <termEntry id="Weblate">
+                <langSet xml:lang="en"><tig><term>built-in</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>embebido</term></tig></langSet>
+            </termEntry>
+            <termEntry id="Weblate">
+                <langSet xml:lang="en"><tig><term>back-end</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>trasfondos</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
