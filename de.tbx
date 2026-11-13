@@ -1373,10 +1373,6 @@
                 <langSet xml:lang="de"><tig><term>Erweiterung</term></tig><tig><term>Erweiterungen</term></tig></langSet>
             </termEntry>
             <termEntry weblate-flags="">
-                <langSet xml:lang="en"><tig><term>add-on</term></tig><tig><term>add-ons</term></tig></langSet>
-                <langSet xml:lang="de"><tig><term>Erweiterung</term></tig><tig><term>Erweiterungen</term></tig></langSet>
-            </termEntry>
-            <termEntry weblate-flags="">
                 <langSet xml:lang="en"><tig><term>assignment</term></tig><tig><term>assignments</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Zuweisung</term></tig><tig><term>Zuweisungen</term></tig></langSet>
             </termEntry>
