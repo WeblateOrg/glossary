@@ -1024,6 +1024,10 @@
                 <langSet xml:lang="en"><tig><term>translation notification</term></tig></langSet>
                 <langSet xml:lang="hr"><tig><term>prevodilačka obavijest</term></tig></langSet>
             </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>workspaces</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>radni prostori</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
