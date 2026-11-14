@@ -1446,6 +1446,18 @@
                 <langSet xml:lang="en"><tig><term>case-sensitive</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>sensível a maiúsculas e minúsculas</term></tig></langSet>
             </termEntry>
+            <termEntry id="1" weblate-flags="">
+                <langSet xml:lang="en"><tig><term>Provider</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Provedor</term></tig></langSet>
+            </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>Application</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Aplicação</term></tig></langSet>
+            </termEntry>
+            <termEntry id="2">
+                <langSet xml:lang="en"><tig><term>download</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>transferir</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
