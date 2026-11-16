@@ -609,7 +609,7 @@
                 <langSet xml:lang="en"><tig><term>Lua format</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Lua-Format</term></tig></langSet>
             </termEntry>
-            <termEntry>
+            <termEntry id="a word or phrase that has an exact meaning">
                 <langSet xml:lang="en"><tig><term>term</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Begriff</term></tig></langSet>
             </termEntry>
