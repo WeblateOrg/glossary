@@ -190,7 +190,7 @@
                 <langSet xml:lang="en"><tig><term>translator</term></tig></langSet>
                 <langSet xml:lang="tt"><tig><term>тәрҗемәче</term></tig></langSet>
             </termEntry>
-            <termEntry>
+            <termEntry id="a word or phrase that has an exact meaning">
                 <langSet xml:lang="en"><tig><term>term</term></tig></langSet>
                 <langSet xml:lang="tt"><tig><term/></tig></langSet>
             </termEntry>
@@ -407,7 +407,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>secondary language</term></tig></langSet>
-                <langSet xml:lang="tt"><tig><term></term></tig></langSet>
+                <langSet xml:lang="tt"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
