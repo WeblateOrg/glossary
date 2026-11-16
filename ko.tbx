@@ -802,11 +802,6 @@
                 <langSet xml:lang="en"><tig><term>text direction</term></tig></langSet>
                 <langSet xml:lang="ko"><tig><term>텍스트 방향</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>screenshot</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>스크린샷</term></tig></langSet>
-                <note from="translator">규범 표기는 ‘스크린숏’ 입니다</note>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Screenshots</term></tig></langSet>
                 <langSet xml:lang="ko"><tig><term>스크린숏</term></tig></langSet>
