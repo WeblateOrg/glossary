@@ -185,7 +185,7 @@
                 <langSet xml:lang="en"><tig><term>translator</term></tig></langSet>
                 <langSet xml:lang="tok"><tig><term>jan pi toki ante</term></tig></langSet>
             </termEntry>
-            <termEntry>
+            <termEntry id="a word or phrase that has an exact meaning">
                 <langSet xml:lang="en"><tig><term>term</term></tig></langSet>
                 <langSet xml:lang="tok"><tig><term>nimi</term></tig></langSet>
             </termEntry>
