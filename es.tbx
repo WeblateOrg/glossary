@@ -686,6 +686,19 @@
                 <langSet xml:lang="en"><tig><term>incident</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>incidente</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Tesseract OCR</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry id="Weblate">
+                <langSet xml:lang="en"><tig><term>commit</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>cometer</term></tig></langSet>
+            </termEntry>
+            <termEntry weblate-flags="">
+                <descrip type="definition">subir a un servidor</descrip>
+                <langSet xml:lang="en"><tig><term>commits</term></tig></langSet>
+                <langSet xml:lang="es"><note from="translator">subir a un servidor</note><tig><term>subidas</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
