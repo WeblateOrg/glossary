@@ -1458,6 +1458,10 @@
                 <langSet xml:lang="en"><tig><term>download</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>transferir</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Keywords</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Palavras-chave</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
