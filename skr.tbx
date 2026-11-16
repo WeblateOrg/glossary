@@ -27,7 +27,7 @@
                 <langSet xml:lang="en"><tig><term>project</term></tig></langSet>
                 <langSet xml:lang="skr"><tig><term>منصوبہ</term></tig></langSet>
             </termEntry>
-            <termEntry>
+            <termEntry id="a word or phrase that has an exact meaning">
                 <langSet xml:lang="en"><tig><term>term</term></tig></langSet>
                 <langSet xml:lang="skr"><tig><term>ٹرم</term></tig></langSet>
             </termEntry>
@@ -393,7 +393,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>secondary language</term></tig></langSet>
-                <langSet xml:lang="skr"><tig><term></term></tig></langSet>
+                <langSet xml:lang="skr"><tig><term/></tig></langSet>
             </termEntry>
         </body>
     </text>
