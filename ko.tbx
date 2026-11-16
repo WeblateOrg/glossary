@@ -670,9 +670,9 @@
                 <langSet xml:lang="en"><tig><term>translator</term></tig></langSet>
                 <langSet xml:lang="ko"><tig><term>번역자</term></tig></langSet>
             </termEntry>
-            <termEntry>
+            <termEntry id="a word or phrase that has an exact meaning">
                 <langSet xml:lang="en"><tig><term>term</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>약관</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>용어</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Privacy Policy</term></tig></langSet>
@@ -856,7 +856,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>terminology</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>용어</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>전문 용어</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Automattic</term></tig></langSet>
@@ -926,6 +926,10 @@
             <termEntry weblate-flags="">
                 <langSet xml:lang="en"><tig><term>workspace</term></tig></langSet>
                 <langSet xml:lang="ko"><tig><term>작업공간</term></tig></langSet>
+            </termEntry>
+            <termEntry id="the conditions or rules that limit something (such as an agreement or a contract)">
+                <langSet xml:lang="en"><tig><term>terms</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>약관</term></tig></langSet>
             </termEntry>
         </body>
     </text>
