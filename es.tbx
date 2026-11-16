@@ -570,7 +570,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>report</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>parte, informe</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>parte, informe, notificación</term></tig></langSet>
             </termEntry>
             <termEntry id="Weblate">
                 <langSet xml:lang="en"><tig><term>pool</term></tig></langSet>
@@ -655,24 +655,36 @@
             </termEntry>
             <termEntry id="Weblate">
                 <langSet xml:lang="en"><tig><term>JavaScript</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term></term></tig></langSet>
+                <langSet xml:lang="es"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry id="Weblate">
                 <langSet xml:lang="en"><tig><term>bot</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term></term></tig></langSet>
+                <langSet xml:lang="es"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry weblate-flags="read-only">
                 <descrip type="Translation needed">No</descrip>
                 <langSet xml:lang="en"><tig><term>widget</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term></term></tig></langSet>
+                <langSet xml:lang="es"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry id="Weblate">
                 <langSet xml:lang="en"><tig><term>User-Agent</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term></term></tig></langSet>
+                <langSet xml:lang="es"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry id="Weblate">
                 <langSet xml:lang="en"><tig><term>fetch</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>obtener</term></tig></langSet>
+            </termEntry>
+            <termEntry id="Weblate">
+                <langSet xml:lang="en"><tig><term>contributor</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>colaborador</term></tig></langSet>
+            </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>issues</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>incidencias</term></tig></langSet>
+            </termEntry>
+            <termEntry id="Weblate">
+                <langSet xml:lang="en"><tig><term>incident</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>incidente</term></tig></langSet>
             </termEntry>
         </body>
     </text>
