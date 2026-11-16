@@ -71,7 +71,7 @@
                 <langSet xml:lang="en"><tig><term>regex</term></tig></langSet>
                 <langSet xml:lang="lo"><tig><term>regex</term></tig></langSet>
             </termEntry>
-            <termEntry>
+            <termEntry id="a word or phrase that has an exact meaning">
                 <langSet xml:lang="en"><tig><term>term</term></tig></langSet>
                 <langSet xml:lang="lo"><tig><term>ສັບ</term></tig></langSet>
             </termEntry>
