@@ -637,6 +637,43 @@
                 <langSet xml:lang="en"><tig><term>back-end</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>trasfondos</term></tig></langSet>
             </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>trigger</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>desencadenante</term></tig></langSet>
+            </termEntry>
+            <termEntry id="Weblate">
+                <langSet xml:lang="en"><tig><term>action</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>operación</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>sucessful</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>exitosa</term></tig></langSet>
+            </termEntry>
+            <termEntry weblate-flags="forbidden">
+                <langSet xml:lang="en"><tig><term>success</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>exitoso</term></tig></langSet>
+            </termEntry>
+            <termEntry id="Weblate">
+                <langSet xml:lang="en"><tig><term>JavaScript</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry id="Weblate">
+                <langSet xml:lang="en"><tig><term>bot</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry weblate-flags="read-only">
+                <descrip type="Translation needed">No</descrip>
+                <langSet xml:lang="en"><tig><term>widget</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry id="Weblate">
+                <langSet xml:lang="en"><tig><term>User-Agent</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry id="Weblate">
+                <langSet xml:lang="en"><tig><term>fetch</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>obtener</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
