@@ -396,7 +396,7 @@ Photo=រូបថត</note>
                 <langSet xml:lang="en"><tig><term>translator</term></tig></langSet>
                 <langSet xml:lang="km"><tig><term>អ្នកបកប្រែ</term></tig></langSet>
             </termEntry>
-            <termEntry>
+            <termEntry id="a word or phrase that has an exact meaning">
                 <langSet xml:lang="en"><tig><term>term</term></tig></langSet>
                 <langSet xml:lang="km"><tig><term>លក្ខន្តិកៈ</term></tig></langSet>
             </termEntry>
