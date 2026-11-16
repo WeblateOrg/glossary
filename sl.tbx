@@ -4622,7 +4622,7 @@
                 <langSet xml:lang="en"><tig><term>translator</term></tig></langSet>
                 <langSet xml:lang="sl"><tig><term>prevajalec</term></tig></langSet>
             </termEntry>
-            <termEntry>
+            <termEntry id="a word or phrase that has an exact meaning">
                 <langSet xml:lang="en"><tig><term>term</term></tig></langSet>
                 <langSet xml:lang="sl"><tig><term>izraz</term></tig></langSet>
             </termEntry>
