@@ -326,7 +326,7 @@
                 <langSet xml:lang="en"><tig><term>push</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>pousser</term></tig></langSet>
             </termEntry>
-            <termEntry>
+            <termEntry id="a word or phrase that has an exact meaning">
                 <langSet xml:lang="en"><tig><term>term</term></tig></langSet>
                 <langSet xml:lang="fr"><tig><term>terme</term></tig></langSet>
             </termEntry>
