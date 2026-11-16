@@ -26717,7 +26717,7 @@
                 <langSet xml:lang="en"><tig><term>terabyte</term></tig></langSet>
                 <langSet xml:lang="eo"><tig><term>terabajto</term></tig></langSet>
             </termEntry>
-            <termEntry>
+            <termEntry id="a word or phrase that has an exact meaning">
                 <langSet xml:lang="en"><tig><term>term</term></tig></langSet>
                 <langSet xml:lang="eo"><tig><term>termino</term></tig></langSet>
             </termEntry>
