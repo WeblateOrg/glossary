@@ -1180,6 +1180,10 @@
                 <langSet xml:lang="en"><tig><term>sign-in</term></tig></langSet>
                 <langSet xml:lang="pt_BR"><tig><term>acesso</term></tig></langSet>
             </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>workbook</term></tig></langSet>
+                <langSet xml:lang="pt_BR"><tig><term>pasta de trabalho</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
