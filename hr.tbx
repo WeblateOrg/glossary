@@ -1028,6 +1028,22 @@
                 <langSet xml:lang="en"><tig><term>workspaces</term></tig></langSet>
                 <langSet xml:lang="hr"><tig><term>radni prostori</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Rolling trend</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>Pomični trend</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Rolling trends</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>pomični trendovi</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>charts</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>grafikoni</term></tig></langSet>
+            </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>chart</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>grafikon</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
