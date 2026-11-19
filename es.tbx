@@ -103,11 +103,6 @@
                 <langSet xml:lang="es"><tig><term>Activa el control de calidad :ref:`check-ruby-format`.</term></tig></langSet>
             </termEntry>
             <termEntry>
-                <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>vale</term></tig></langSet>
-                <note from="translator">https://www.fundeu.es/recomendacion/token-alternativas-en-espanol/</note>
-            </termEntry>
-            <termEntry>
                 <langSet xml:lang="en"><tig><term>current</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>actual</term></tig></langSet>
             </termEntry>
