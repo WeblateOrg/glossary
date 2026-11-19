@@ -1620,6 +1620,10 @@
                 <langSet xml:lang="en"><tig><term>add-on</term></tig><tig><term>add-ons</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Erweiterung</term></tig><tig><term>Erweiterungen</term></tig></langSet>
             </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>workspace</term></tig><tig><term>workspaces</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Arbeitsbereich</term></tig><tig><term>Arbeitsbereiche</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
