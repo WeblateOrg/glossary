@@ -1044,6 +1044,10 @@
                 <langSet xml:lang="en"><tig><term>chart</term></tig></langSet>
                 <langSet xml:lang="hr"><tig><term>grafikon</term></tig></langSet>
             </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>contributors</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>doprinositelji</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
