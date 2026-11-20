@@ -1624,6 +1624,10 @@
                 <langSet xml:lang="en"><tig><term>workspace</term></tig><tig><term>workspaces</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Arbeitsbereich</term></tig><tig><term>Arbeitsbereiche</term></tig></langSet>
             </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>template</term></tig><tig><term>templates</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Vorlage</term></tig><tig><term>Vorlagen</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
