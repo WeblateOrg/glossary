@@ -626,7 +626,7 @@
             </termEntry>
             <termEntry id="Weblate">
                 <langSet xml:lang="en"><tig><term>built-in</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>embebido</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>integrado</term></tig></langSet>
             </termEntry>
             <termEntry id="Weblate">
                 <langSet xml:lang="en"><tig><term>back-end</term></tig></langSet>
@@ -697,6 +697,22 @@
             <termEntry id="Weblate">
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>vale</term></tig></langSet>
+            </termEntry>
+            <termEntry id="Weblate">
+                <langSet xml:lang="en"><tig><term>middleware</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>intermediario</term></tig></langSet>
+            </termEntry>
+            <termEntry id="Weblate">
+                <langSet xml:lang="en"><tig><term>policy</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>directiva</term></tig></langSet>
+            </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>upgrading</term></tig></langSet>
+                <langSet xml:lang="es"><note from="translator">migración</note><tig><term>mejora</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>upgrading</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>migración</term></tig></langSet>
             </termEntry>
         </body>
     </text>
