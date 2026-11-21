@@ -1462,6 +1462,14 @@
                 <langSet xml:lang="en"><tig><term>Keywords</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>Palavras-chave</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>String</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>Frase</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>strings</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>frases</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
