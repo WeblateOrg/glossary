@@ -714,6 +714,10 @@
                 <langSet xml:lang="en"><tig><term>upgrading</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>migración</term></tig></langSet>
             </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>settings</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>ajustes, parámetros</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
