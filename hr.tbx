@@ -163,11 +163,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>generate</term></tig></langSet>
-                <langSet xml:lang="hr"><tig><term>stvori</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>generiraj</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>generated</term></tig></langSet>
-                <langSet xml:lang="hr"><tig><term>stvoreno</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>generirano</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>monolingual base file</term></tig></langSet>
@@ -1047,6 +1047,38 @@
             <termEntry weblate-flags="">
                 <langSet xml:lang="en"><tig><term>contributors</term></tig></langSet>
                 <langSet xml:lang="hr"><tig><term>doprinositelji</term></tig></langSet>
+            </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>trigger</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>pokretač</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>prefill</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>unaprijed popuni</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>fills</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>popunjava</term></tig></langSet>
+            </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>fill</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>popuni</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>generates</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>generira</term></tig></langSet>
+            </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>credentials</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>podaci za prijavu</term></tig></langSet>
+            </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>passkey</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>pristupni ključ</term></tig></langSet>
+            </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>security key</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>sigurnosni ključ</term></tig></langSet>
             </termEntry>
         </body>
     </text>
