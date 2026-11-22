@@ -754,6 +754,46 @@
                 <langSet xml:lang="en"><tig><term>journey</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>diario</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>successful</term></tig></langSet>
+                <langSet xml:lang="es"><note from="translator">traducirlo por "correcta/o"</note><tig><term>exitosa</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Dev Container</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry id="Weblate">
+                <langSet xml:lang="en"><tig><term>PGDG</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry id="Internet">
+                <langSet xml:lang="en"><tig><term>APT</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry id="Internet">
+                <langSet xml:lang="en"><tig><term>dpkg</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>refreshes</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>refrescos</term></tig></langSet>
+            </termEntry>
+            <termEntry id="Internet">
+                <langSet xml:lang="en"><tig><term>Dockerfile</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry id="Internet">
+                <langSet xml:lang="en"><tig><term>VS Code</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry id="Internet">
+                <langSet xml:lang="en"><tig><term>PostgreSQL</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry id="Weblate">
+                <langSet xml:lang="en"><tig><term>hook</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>actuador</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
