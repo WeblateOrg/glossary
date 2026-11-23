@@ -502,7 +502,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
-                <langSet xml:lang="ko"><tig><term>분석</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>구문 분석</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gerrit</term></tig></langSet>
