@@ -931,6 +931,14 @@
                 <langSet xml:lang="en"><tig><term>terms</term></tig></langSet>
                 <langSet xml:lang="ko"><tig><term>약관</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>parse</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>구문 분석</term></tig></langSet>
+            </termEntry>
+            <termEntry weblate-flags="variant:parse">
+                <langSet xml:lang="en"><tig><term>parsing</term></tig></langSet>
+                <langSet xml:lang="ko"><tig><term>구문 분석</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
