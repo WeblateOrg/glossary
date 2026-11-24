@@ -1037,10 +1037,6 @@
                 <langSet xml:lang="en"><tig><term>libre</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>livre</term></tig></langSet>
             </termEntry>
-            <termEntry id="1">
-                <langSet xml:lang="en"><tig><term>website</term></tig></langSet>
-                <langSet xml:lang="pt"><tig><term>website</term></tig></langSet>
-            </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Source code</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>código fonte</term></tig></langSet>
