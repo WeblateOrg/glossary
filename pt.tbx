@@ -1466,6 +1466,14 @@
                 <langSet xml:lang="en"><tig><term>strings</term></tig></langSet>
                 <langSet xml:lang="pt"><tig><term>frases</term></tig></langSet>
             </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>website</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>''site'' da Web</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>add-on</term></tig></langSet>
+                <langSet xml:lang="pt"><tig><term>complemento</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
