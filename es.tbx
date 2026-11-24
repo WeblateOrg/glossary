@@ -178,7 +178,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>slug</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>ruta amigable</term></tig></langSet>
+                <langSet xml:lang="es"><note from="translator">antes se supuso "ruta amigable, ruta fácil, sencillo"</note><tig><term>indicación</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>fixup</term></tig></langSet>
@@ -760,19 +760,19 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Dev Container</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term></term></tig></langSet>
+                <langSet xml:lang="es"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry id="Weblate">
                 <langSet xml:lang="en"><tig><term>PGDG</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term></term></tig></langSet>
+                <langSet xml:lang="es"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry id="Internet">
                 <langSet xml:lang="en"><tig><term>APT</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term></term></tig></langSet>
+                <langSet xml:lang="es"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry id="Internet">
                 <langSet xml:lang="en"><tig><term>dpkg</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term></term></tig></langSet>
+                <langSet xml:lang="es"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>refreshes</term></tig></langSet>
@@ -780,19 +780,41 @@
             </termEntry>
             <termEntry id="Internet">
                 <langSet xml:lang="en"><tig><term>Dockerfile</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term></term></tig></langSet>
+                <langSet xml:lang="es"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry id="Internet">
                 <langSet xml:lang="en"><tig><term>VS Code</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term></term></tig></langSet>
+                <langSet xml:lang="es"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry id="Internet">
                 <langSet xml:lang="en"><tig><term>PostgreSQL</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term></term></tig></langSet>
+                <langSet xml:lang="es"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry id="Weblate">
                 <langSet xml:lang="en"><tig><term>hook</term></tig></langSet>
                 <langSet xml:lang="es"><tig><term>actuador</term></tig></langSet>
+            </termEntry>
+            <termEntry id="Oficina">
+                <langSet xml:lang="en"><tig><term>plugin</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>complemento</term></tig></langSet>
+            </termEntry>
+            <termEntry weblate-flags="read-only">
+                <descrip type="Translation needed">No</descrip>
+                <descrip type="definition">Voc. informático</descrip>
+                <langSet xml:lang="en"><tig><term>SDK</term></tig></langSet>
+                <langSet xml:lang="es"><note from="translator">Voc. informático</note><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>CDN</term></tig></langSet>
+                <langSet xml:lang="es"><note from="translator">Voc. informático</note><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Gradle</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry id="Oficina">
+                <langSet xml:lang="en"><tig><term>slugs</term></tig></langSet>
+                <langSet xml:lang="es"><note from="translator">antes "rutas amiglables"</note><tig><term>indicaciones</term></tig></langSet>
             </termEntry>
         </body>
     </text>
