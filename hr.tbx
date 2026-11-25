@@ -299,7 +299,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>component list</term></tig></langSet>
-                <langSet xml:lang="hr"><tig><term>popis komponenti</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>popis komponenata</term></tig></langSet>
             </termEntry>
             <termEntry id="components">
                 <langSet xml:lang="en"><tig><term>components</term></tig></langSet>
@@ -1079,6 +1079,23 @@
             <termEntry weblate-flags="">
                 <langSet xml:lang="en"><tig><term>security key</term></tig></langSet>
                 <langSet xml:lang="hr"><tig><term>sigurnosni ključ</term></tig></langSet>
+            </termEntry>
+            <termEntry weblate-flags="">
+                <note from="translator">세무 및 부가가치세 식별 번호</note>
+                <langSet xml:lang="en"><tig><term>VAT ID</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>PDV ID broj</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>country</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>zemlja</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>VAT code</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>PDV kod</term></tig></langSet>
+            </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>country code</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>kod zemlje</term></tig></langSet>
             </termEntry>
         </body>
     </text>
