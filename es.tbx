@@ -687,7 +687,7 @@
             </termEntry>
             <termEntry id="Weblate">
                 <langSet xml:lang="en"><tig><term>token</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term>vale</term></tig></langSet>
+                <langSet xml:lang="es"><tig><term>[ficha], vale</term></tig></langSet>
             </termEntry>
             <termEntry id="Weblate">
                 <langSet xml:lang="en"><tig><term>middleware</term></tig></langSet>
@@ -802,15 +802,15 @@
                 <descrip type="Translation needed">No</descrip>
                 <descrip type="definition">Voc. informático</descrip>
                 <langSet xml:lang="en"><tig><term>SDK</term></tig></langSet>
-                <langSet xml:lang="es"><note from="translator">Voc. informático</note><tig><term></term></tig></langSet>
+                <langSet xml:lang="es"><note from="translator">Voc. informático</note><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>CDN</term></tig></langSet>
-                <langSet xml:lang="es"><note from="translator">Voc. informático</note><tig><term></term></tig></langSet>
+                <langSet xml:lang="es"><note from="translator">Voc. informático</note><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gradle</term></tig></langSet>
-                <langSet xml:lang="es"><tig><term></term></tig></langSet>
+                <langSet xml:lang="es"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry id="Oficina">
                 <langSet xml:lang="en"><tig><term>slugs</term></tig></langSet>
