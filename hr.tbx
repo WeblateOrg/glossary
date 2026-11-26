@@ -1097,6 +1097,14 @@
                 <langSet xml:lang="en"><tig><term>country code</term></tig></langSet>
                 <langSet xml:lang="hr"><tig><term>kod zemlje</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>accelerator key</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>tipka prečaca</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>accelerator keys</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>tipke prečaca</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
