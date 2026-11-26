@@ -1628,6 +1628,10 @@
                 <langSet xml:lang="en"><tig><term>template</term></tig><tig><term>templates</term></tig></langSet>
                 <langSet xml:lang="de"><tig><term>Vorlage</term></tig><tig><term>Vorlagen</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>site administrator</term></tig><tig><term>site administrators</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Website-Administrator</term></tig><tig><term>Website-Administratoren</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
