@@ -1105,6 +1105,10 @@
                 <langSet xml:lang="en"><tig><term>accelerator keys</term></tig></langSet>
                 <langSet xml:lang="hr"><tig><term>tipke prečaca</term></tig></langSet>
             </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>ambiguous</term></tig></langSet>
+                <langSet xml:lang="hr"><tig><term>višeznačno</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
