@@ -371,7 +371,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Hosted Weblate</term></tig></langSet>
-                <langSet xml:lang="it"><tig><term>Ospitato da Weblate</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>Hosted Weblate</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Subversion</term></tig></langSet>
@@ -493,6 +493,47 @@
             <termEntry weblate-flags="">
                 <langSet xml:lang="en"><tig><term>Subscription</term></tig></langSet>
                 <langSet xml:lang="it"><tig><term>Abbonamento</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Donation</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>Donazione</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Cancelled</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>Annullato</term></tig></langSet>
+            </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>issues</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>segnalazioni</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>needing editing</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>Richiede modifica</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Dedicated Weblate</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>Dedicated Weblate</term></tig></langSet>
+            </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>self-hosted</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>ospitato autonomamente</term></tig></langSet>
+            </termEntry>
+            <termEntry weblate-flags="">
+                <note from="translator">Suportar uma funcionalidade / assistência por uma equipa</note>
+                <langSet xml:lang="en"><tig><term>support</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>supporto</term></tig></langSet>
+            </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>listing</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>annuncio</term></tig></langSet>
+            </termEntry>
+            <termEntry weblate-flags="">
+                <langSet xml:lang="en"><tig><term>reward</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>ricompensa</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Uncollectible</term></tig></langSet>
+                <langSet xml:lang="it"><tig><term>Inesigibile</term></tig></langSet>
             </termEntry>
         </body>
     </text>
